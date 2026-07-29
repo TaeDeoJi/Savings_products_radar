@@ -2493,6 +2493,12 @@
  "news": [
   {
    "title": "‘최고 연 7%’ 독도 지키는 적금 출시 - 동아일보",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSSl9OX3BhWEU5WjhUbHRaUWU5YXN5M2V5RGNuVGxKRklnSkRKWk13N2c3aEEwc2N6dWpnUzVuQnpuaEdmU2J0SVZmcmRzVXhxaHA5b0JHcXg0UzdpdkhqZWVEb1FsUdIBZkFVX3lxTFBSSl9OX3BhWEU5WjhUbHRaUWU5YXN5M2V5RGNuVGxKRklnSkRKWk13N2c3aEEwc2N6dWpnUzVuQnpuaEdmU2J0SVZmcmRzVXhxaHA5b0JHcXg0UzdpdkhqZWVEb1FsUQ?oc=5",
+   "source": "동아일보",
+   "date": "2026-07-30"
+  },
+  {
+   "title": "‘최고 연 7%’ 독도 지키는 적금 출시 - 동아일보",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zZzVQWjh1dzhFZWswaVcxalBVOUZENHQ3dFdpMnZ5MFpzNkIzWExOY0lUY2wwOTg3Nms4SVhlQ0NwSGNRU2tVM0F1c3M4RHI3aklacEV3T21LYkpfMFl3U3JOY0w3QnRjT3Y2WVdrRzZhR2FXckHSAWZBVV95cUxQUkpfTl9wYVhFOVo4VGx0WlFlOWFzeTNleURjblRsSkZJZ0pESlpNdzdnN2hBMHNjenVqZ1M1bkJ6bmhHZlNidElWZnJkc1V4cWhwOW9CR3F4NFM3aXZIamVlRG9RbFE?oc=5",
    "source": "동아일보",
    "date": "2026-07-30"
@@ -2556,12 +2562,6 @@
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1OTFdZYU15NWxqUXV3X3I1RUYtTFJoM0xjajVUMmVNSFhTblFocmtwRG1JUUhtbUQxQzNJc3BHZUhfRGRyT1RhYlZ6MTlETU0xcnRPWkV1UmNpNExtSGJHQzctR2R3VnBfTEJFNW5SeUhCRkZXVFJNNQ?oc=5",
    "source": "네이트",
    "date": "2026-07-27"
-  },
-  {
-   "title": "신협, ‘독도愛사랑적금’ 출시 - 글로벌뉴스통신GNA",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1bllULThDX3pEMU5sdGNsMktaSWNtMGtVb1gwSmhkTlcyd2hCY0szdTlMRnZGcGgtcW9BREFfX3JuUmZwLVBVZE9vYWFlOXBLOGRtS3otaG5qVG1neWlMcGUweTFuWGI5U3lHdFpacmFCUFdm?oc=5",
-   "source": "글로벌뉴스통신GNA",
-   "date": "2026-07-28"
   }
  ],
  "news_seen": [
@@ -2845,7 +2845,8 @@
   "eafda8c1cfaff386",
   "c866ea917bbe1bb5",
   "ac5d4de0aed389e4",
-  "423bdaa653e28f76"
+  "423bdaa653e28f76",
+  "05725b125afa8a87"
  ],
  "news_seeded": true,
  "news_products": [
