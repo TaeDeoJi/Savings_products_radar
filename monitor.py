@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""국내 은행권(시중은행+인터넷전문은행) 적금 상품 모니터.
+"""국내 은행권(시중은행+인터넷전문은행) 적금·정기예금 상품 모니터.
 
-금융감독원 금융상품통합비교공시 API에서 적금 상품을 수집해
+금융감독원 금융상품통합비교공시 API에서 적금·예금 상품을 수집해
 docs/data.json 을 갱신하고, 신규 상품이 있으면 텔레그램 채널로 알린다.
 
 환경변수:
@@ -18,7 +18,8 @@ import urllib.request
 from datetime import datetime, timedelta, timezone
 
 KST = timezone(timedelta(hours=9))
-API_URL = "https://finlife.fss.or.kr/finlifeapi/savingProductsSearch.json"
+SAVING_API_URL = "https://finlife.fss.or.kr/finlifeapi/savingProductsSearch.json"
+DEPOSIT_API_URL = "https://finlife.fss.or.kr/finlifeapi/depositProductsSearch.json"
 DATA_PATH = os.path.join(os.path.dirname(__file__), "docs", "data.json")
 TOP_FIN_GRP = "020000"  # 은행권 (시중은행 + 인터넷전문은행 + 지방은행)
 NEW_BADGE_DAYS = 14     # 사이트에서 NEW 배지를 유지하는 기간
@@ -37,12 +38,12 @@ def http_get_json(url, retries=3, backoff=3):
     raise RuntimeError(f"GET 실패: {url} ({last_err})")
 
 
-def fetch_all_products(auth_key):
-    """모든 페이지를 수집해 상품 dict 목록을 돌려준다."""
+def fetch_all_products(auth_key, api_url, prdt_type):
+    """모든 페이지를 수집해 상품 dict 목록을 돌려준다. prdt_type: '적금' 또는 '예금'."""
     base_items, option_items = [], []
     page = 1
     while True:
-        url = f"{API_URL}?auth={auth_key}&topFinGrpNo={TOP_FIN_GRP}&pageNo={page}"
+        url = f"{api_url}?auth={auth_key}&topFinGrpNo={TOP_FIN_GRP}&pageNo={page}"
         data = http_get_json(url)
         result = data.get("result", {})
         err = result.get("err_cd")
@@ -76,6 +77,7 @@ def fetch_all_products(auth_key):
         name = (b.get("fin_prdt_nm") or "").strip()
         products.append({
             "key": key,
+            "prdt_type": prdt_type,
             "bank": bank,
             "name": name,
             "dcls_month": b.get("dcls_month") or "",
@@ -100,6 +102,13 @@ def fetch_all_products(auth_key):
             seen.add(p["key"])
             unique.append(p)
     return unique
+
+
+def fetch_all(auth_key):
+    """적금 + 정기예금 상품을 모두 수집해 하나의 목록으로 합친다."""
+    saving = fetch_all_products(auth_key, SAVING_API_URL, "적금")
+    deposit = fetch_all_products(auth_key, DEPOSIT_API_URL, "예금")
+    return saving + deposit
 
 
 class ApiError(Exception):
@@ -442,10 +451,12 @@ def rank_of(rate, products):
 
 
 def build_analysis(p, products):
-    n = len(products)
-    rank = rank_of(p["best_rate"], products)
+    same_type = [q for q in products if q.get("prdt_type") == p.get("prdt_type")] or products
+    n = len(same_type)
+    rank = rank_of(p["best_rate"], same_type)
     pct = max(1, round(rank / n * 100))
-    lines = [f"은행권 {n}개 적금 중 최고우대금리 {rank}위 (상위 {pct}%)."]
+    type_label = p.get("prdt_type") or "적금"
+    lines = [f"은행권 {n}개 {type_label} 중 최고우대금리 {rank}위 (상위 {pct}%)."]
     if p["spcl_cnd"] and p["spcl_cnd"] not in ("없음", "-"):
         gap = p["best_rate"] - p["best_base_rate"]
         difficulty = "우대폭이 커서 조건 확인이 중요" if gap >= 1.0 else "우대폭이 작아 기본금리 위주로 판단 가능"
@@ -456,13 +467,15 @@ def build_analysis(p, products):
 
 
 def telegram_message_for_new(new_products, products, site_url):
-    top5 = sorted(products, key=lambda x: -x["best_rate"])[:5]
-    parts = [f"🆕 <b>신규 적금 {len(new_products)}건 등록!</b>"]
+    savings = [p for p in products if p.get("prdt_type") != "예금"]
+    deposits = [p for p in products if p.get("prdt_type") == "예금"]
+    parts = [f"🆕 <b>신규 상품 {len(new_products)}건 등록!</b>"]
     for p in new_products[:10]:
         dm = p.get("dcls_month") or ""
         dm_txt = f" · {dm[:4]}년 {int(dm[4:6])}월 공시분" if len(dm) == 6 else ""
+        type_badge = "💰 예금" if p.get("prdt_type") == "예금" else "🐷 적금"
         parts.append(
-            f"\n🏦 <b>{esc(p['bank'])} — {esc(p['name'])}</b>{dm_txt}\n"
+            f"\n{type_badge} <b>{esc(p['bank'])} — {esc(p['name'])}</b>{dm_txt}\n"
             f"📈 최고 연 <b>{p['best_rate']:.2f}%</b>"
             f" ({p['best_term']}개월, 기본 {p['best_base_rate']:.2f}%)\n"
             f"🎯 우대: {esc(p['spcl_cnd'][:90]) or '없음'}\n"
@@ -470,9 +483,15 @@ def telegram_message_for_new(new_products, products, site_url):
             f"💡 {esc(build_analysis(p, products))}\n"
             f"🔗 <a href=\"{p['naver_url']}\">네이버 검색</a>"
         )
-    parts.append("\n📊 <b>현재 은행권 최고금리 TOP5</b>")
-    for i, t in enumerate(top5, 1):
+    top5_saving = sorted(savings, key=lambda x: -x["best_rate"])[:5]
+    top5_deposit = sorted(deposits, key=lambda x: -x["best_rate"])[:5]
+    parts.append("\n📊 <b>현재 은행권 적금 최고금리 TOP5</b>")
+    for i, t in enumerate(top5_saving, 1):
         parts.append(f"{i}. {esc(t['bank'])} {esc(t['name'])} — {t['best_rate']:.2f}% ({t['best_term']}개월)")
+    if top5_deposit:
+        parts.append("\n📊 <b>현재 은행권 예금 최고금리 TOP5</b>")
+        for i, t in enumerate(top5_deposit, 1):
+            parts.append(f"{i}. {esc(t['bank'])} {esc(t['name'])} — {t['best_rate']:.2f}% ({t['best_term']}개월)")
     parts.append(f"\n🌐 전체 비교표: {site_url}")
     return "\n".join(parts)
 
@@ -487,7 +506,7 @@ def main():
     now = datetime.now(KST)
     products = None
     try:
-        products = fetch_all_products(auth_key)
+        products = fetch_all(auth_key)
     except ApiError as e:
         if e.code == "010":
             print("인증키가 아직 승인되지 않았습니다(미등록 인증키). 다음 실행에서 재시도합니다.")
@@ -515,6 +534,8 @@ def main():
     prev = load_prev()
     prev_products = {p["key"]: p for p in prev.get("products", [])}
     baseline_done = bool(prev.get("baseline"))
+    # 예금 상품을 이번에 처음 도입하는 경우, 기존 적금 기준선 때처럼 조용히 기준선으로만 저장
+    deposit_seen_before = any(q.get("prdt_type") == "예금" for q in prev_products.values())
     # 기준선 날짜: 첫 수집일. 이 날짜에 확인된 상품은 '신규'로 취급하지 않는다.
     baseline_date = prev.get("baseline_date")
     if baseline_done and not baseline_date:
@@ -534,9 +555,10 @@ def main():
             p["is_baseline"] = bool(old.get("is_baseline",
                                             old.get("first_seen") == baseline_date))
         else:
+            first_time_deposit = p.get("prdt_type") == "예금" and not deposit_seen_before
             p["first_seen"] = now.strftime("%Y-%m-%d")
-            p["is_baseline"] = not baseline_done  # 첫 수집 때 있던 상품만 True
-            if baseline_done:
+            p["is_baseline"] = (not baseline_done) or first_time_deposit
+            if baseline_done and not first_time_deposit:
                 new_products.append(p)
 
     for p in new_products:
@@ -554,13 +576,25 @@ def main():
     with open(DATA_PATH, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=1)
 
+    n_saving = sum(1 for p in products if p.get("prdt_type") != "예금")
+    n_deposit = sum(1 for p in products if p.get("prdt_type") == "예금")
     if not baseline_done:
         print(f"기준선 저장 완료: 상품 {len(products)}개")
         send_telegram(
-            f"✅ <b>적금 모니터 가동 시작</b>\n"
-            f"현재 은행권 적금 <b>{len(products)}개</b>를 기준선으로 저장했습니다.\n"
+            f"✅ <b>적금·예금 모니터 가동 시작</b>\n"
+            f"현재 은행권 적금 <b>{n_saving}개</b> · 예금 <b>{n_deposit}개</b>를 기준선으로 저장했습니다.\n"
             f"이제 새 상품이 등록되면 바로 알려드릴게요!\n🌐 {site_url}"
         )
+    elif not deposit_seen_before and n_deposit:
+        print(f"예금 상품 신규 추가: {n_deposit}개를 기준선으로 저장")
+        send_telegram(
+            f"✅ <b>정기예금 상품 추적을 시작했습니다!</b>\n"
+            f"현재 은행권 예금 <b>{n_deposit}개</b>를 기준선으로 저장했습니다.\n"
+            f"이제 새 예금 상품도 함께 알려드릴게요!\n🌐 {site_url}"
+        )
+        if new_products:
+            print(f"신규 {len(new_products)}건: " + ", ".join(f"{p['bank']} {p['name']}" for p in new_products))
+            send_telegram(telegram_message_for_new(new_products, products, site_url))
     elif new_products:
         names = ", ".join(f"{p['bank']} {p['name']}" for p in new_products)
         print(f"신규 {len(new_products)}건: {names}")
