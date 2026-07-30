@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>예적금레이더 🛰️</title>
-<meta name="description" content="국내 시중은행·인터넷은행 적금 상품을 매시간 자동 수집해 비교합니다. 신규 상품 알림 제공.">
+<meta name="description" content="국내 시중은행·인터넷은행 적금·정기예금 상품을 매시간 자동 수집해 비교합니다. 신규 상품 알림 제공.">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
 <script>
 (function(){try{
@@ -216,9 +216,9 @@ html.dark .hero{background:linear-gradient(130deg,#0a1832 0%,#122f63 45%,#1b4fa8
 
 <div class="hero">
   <div class="hero-in">
-    <div class="hero-tag">국내 은행권 적금 실시간 레이더</div>
+    <div class="hero-tag">국내 은행권 적금·예금 실시간 레이더</div>
     <h1>예적금레이더 🛰️</h1>
-    <p class="sub">시중은행·인터넷은행 적금을 매시간 킁킁 — 신상품이 나오면 가장 먼저 물어다 드려요.</p>
+    <p class="sub">각 은행들의 적금·정기예금을 매 시간 불러와요.</p>
     <p class="meta" id="meta">데이터 불러오는 중…</p>
   </div>
 </div>
@@ -261,6 +261,11 @@ html.dark .hero{background:linear-gradient(130deg,#0a1832 0%,#122f63 45%,#1b4fa8
     공시 데이터는 월 단위 갱신이라 실제 판매 상품과 시차가 있을 수 있어요 — 최신 소식은 📰 뉴스 표시 상품을 참고!</p>
     <div class="filters">
       <input type="search" id="q" placeholder="은행·상품명 검색">
+      <select id="typeSel">
+        <option value="">적금+예금</option>
+        <option value="적금">적금만</option>
+        <option value="예금">예금만</option>
+      </select>
       <select id="bankSel"><option value="">모든 은행</option></select>
       <select id="termSel">
         <option value="" selected>모든 기간</option>
@@ -273,6 +278,7 @@ html.dark .hero{background:linear-gradient(130deg,#0a1832 0%,#122f63 45%,#1b4fa8
       <table>
         <thead><tr id="headRow">
           <th class="chk"></th>
+          <th data-k="prdt_type">구분</th>
           <th data-k="bank">은행</th>
           <th data-k="name">상품명</th>
           <th data-k="base" style="text-align:right">기본금리</th>
@@ -355,8 +361,11 @@ function renderTiles(ps){
   const avg=ps.reduce((s,p)=>s+p.best_rate,0)/ps.length;
   const banks=new Set(ps.map(p=>p.bank)).size;
   const newCnt=ps.filter(isNew).length;
+  const nSaving=ps.filter(p=>(p.prdt_type||"적금")!=="예금").length;
+  const nDeposit=ps.filter(p=>p.prdt_type==="예금").length;
   $("#tiles").innerHTML=`
-    <div class="tile"><div class="label">전체 상품</div><div class="value">${ps.length}<span class="unit">개</span></div></div>
+    <div class="tile"><div class="label">전체 상품</div><div class="value">${ps.length}<span class="unit">개</span></div>
+      <div class="label" style="margin-top:2px">🐷 적금 ${nSaving} · 💰 예금 ${nDeposit}</div></div>
     <div class="tile"><div class="label">참여 은행</div><div class="value">${banks}<span class="unit">곳</span></div></div>
     <div class="tile"><div class="label">최고 우대금리</div><div class="value">${fmt(best.best_rate)}<span class="unit">%</span></div>
       <div class="label" style="margin-top:2px">${esc(best.bank)}</div></div>
@@ -398,23 +407,26 @@ function renderChart(ps){
 function currentRows(){
   const q=$("#q").value.trim().toLowerCase();
   const bank=$("#bankSel").value, term=$("#termSel").value, newOnly=$("#newOnly").checked;
+  const type=$("#typeSel")?$("#typeSel").value:"";
   let rows=[];
   for(const p of DATA.products){
+    const pType=p.prdt_type||"적금";
+    if(type&&pType!==type) continue;
     if(bank&&p.bank!==bank) continue;
     if(newOnly&&!isNew(p)) continue;
     if(q&&!(p.bank+p.name).toLowerCase().includes(q)) continue;
     const r=rateFor(p,term);
     if(!r) continue;
     rows.push({p, base:r.base, best:r.best, term:r.term,
-      bank:p.bank, name:p.name, first_seen:p.first_seen||""});
+      bank:p.bank, name:p.name, prdt_type:pType, first_seen:p.first_seen||""});
   }
-  // 뉴스로 감지된 상품도 표에 합류 (공시 미반영분만, 기간 필터 미선택 시)
-  if(!term){
+  // 뉴스로 감지된 상품도 표에 합류 (공시 미반영분만, 기간 필터 미선택 시, 뉴스레이더는 적금만 대상)
+  if(!term&&type!=="예금"){
     for(const c of (DATA.news_products||[])){
       if(c.in_disclosure) continue;
       if(bank&&c.bank!==bank) continue;
       if(q&&!(c.bank+c.name).toLowerCase().includes(q)) continue;
-      rows.push({np:c, isNews:true, bank:c.bank, name:c.name,
+      rows.push({np:c, isNews:true, bank:c.bank, name:c.name, prdt_type:"적금",
         base:-1, best:c.rate||0, term:-1, first_seen:c.first_news||""});
     }
   }
@@ -433,10 +445,12 @@ function renderTable(){
     if(th.dataset.k===sortKey) th.innerHTML+=` <span class="arrow">${sortDir<0?"▼":"▲"}</span>`;
   });
   const maxBest=Math.max(...rows.map(r=>r.best),0.01);
-  if(!rows.length){$("#tbody").innerHTML=`<tr><td colspan="7" class="empty">조건에 맞는 상품이 없습니다.</td></tr>`}
+  const typeTag=t=>t==="예금"?'<span style="font-size:12.5px;font-weight:700;color:var(--news)">💰예금</span>':'<span style="font-size:12.5px;font-weight:700;color:var(--accent-ink)">🐷적금</span>';
+  if(!rows.length){$("#tbody").innerHTML=`<tr><td colspan="8" class="empty">조건에 맞는 상품이 없습니다.</td></tr>`}
   else $("#tbody").innerHTML=rows.map((r,i)=>r.isNews?`
     <tr class="row" data-i="${i}">
       <td class="chk"></td>
+      <td>${typeTag(r.prdt_type)}</td>
       <td class="bank-cell">${bankAvatar(r.bank)}${esc(r.bank.replace(/^주식회사\s*/,"").replace(/\s*주식회사$/,""))}</td>
       <td>${esc(r.name)}<span class="badge badge-news">📰 뉴스</span></td>
       <td class="num" style="color:var(--ink-3)">–</td>
@@ -446,6 +460,7 @@ function renderTable(){
     </tr>`:`
     <tr class="row" data-i="${i}">
       <td class="chk"><input type="checkbox" data-key="${r.p.key}" ${selected.has(r.p.key)?"checked":""} ${!selected.has(r.p.key)&&selected.size>=3?"disabled":""}></td>
+      <td>${typeTag(r.prdt_type)}</td>
       <td class="bank-cell">${bankAvatar(r.bank)}${esc(r.bank.replace(/^주식회사\s*/,"").replace(/\s*주식회사$/,""))}</td>
       <td>${esc(r.name)}${isNew(r.p)?'<span class="badge">NEW</span>':''}</td>
       <td class="num">${fmt(r.base)}%</td>
@@ -525,7 +540,7 @@ function toggleDetail(tr){
     const c=r.np;
     const d=document.createElement("tr");
     d.className="detail";
-    d.innerHTML=`<td colspan="7">
+    d.innerHTML=`<td colspan="8">
       <p style="margin:0 0 8px">📰 <b>뉴스 기사에서 감지된 상품</b>입니다. 금리(${c.rate?fmt(c.rate)+"%":"미확인"})와 조건은 기사 기준(비공식)이며, 금감원 공시에 등록되면 정식 데이터로 대체됩니다.</p>
       <dl>
         <dt>첫 보도</dt><dd>${c.first_news||"-"}</dd>
@@ -542,7 +557,7 @@ function toggleDetail(tr){
   const opts=p.options.map(o=>`${o.save_trm}개월 ${fmt(o.intr_rate)}→<b>${fmt(o.intr_rate2)}%</b>`).join(" · ");
   const d=document.createElement("tr");
   d.className="detail";
-  d.innerHTML=`<td colspan="7"><dl>
+  d.innerHTML=`<td colspan="8"><dl>
     <dt>기간별 금리</dt><dd>${opts||"-"}</dd>
     <dt>우대조건</dt><dd>${esc(p.spcl_cnd)||"없음"}</dd>
     <dt>가입대상</dt><dd>${esc(p.join_member)||"-"}</dd>
@@ -581,7 +596,7 @@ async function init(){
     ...(DATA.news_products||[]).filter(c=>!c.in_disclosure).map(c=>c.bank)])].sort((a,b)=>a.localeCompare(b,"ko"));
   $("#bankSel").innerHTML='<option value="">모든 은행</option>'+banks.map(b=>`<option>${esc(b)}</option>`).join("");
   renderTiles(ps); renderNew(ps); renderChart(ps); renderTable();
-  ["q","bankSel","termSel","newOnly"].forEach(id=>$("#"+id).addEventListener("input",renderTable));
+  ["q","typeSel","bankSel","termSel","newOnly"].forEach(id=>$("#"+id).addEventListener("input",renderTable));
   $("#headRow").addEventListener("click",e=>{
     const th=e.target.closest("th"); if(!th) return;
     const k=th.dataset.k;
