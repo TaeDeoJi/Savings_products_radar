@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-31 09:10",
+ "updated_at": "2026-07-31 13:29",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -4450,6 +4450,36 @@
  ],
  "news": [
   {
+   "title": "[게시판] 농협은행, 모두투어 제휴 'NH모두트래블리적금' 출시 - 연합뉴스 한민족센터",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqWDNwUGpidjF4RWs1LWNCLW54MGFqZXM4N084WEhEZ2tiUjl2dS1xUmpqc3UzTThreE55N19ESVd5ZVB3ejUxTkRkYmI5TXhzeGgwemlDVDhadjh3QllaWmt2SkRkX0FMSUlBbU5zODVlOTNE?oc=5",
+   "source": "연합뉴스 한민족센터",
+   "date": "2026-07-31"
+  },
+  {
+   "title": "농협은행 x 모두투어, 여행특화 적금 출시 - 스트레이트뉴스",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fZ2dMeEc4Xy1zZ1UzWUZYZmJ6M2xmNUpqa2c2MU9pSGVlYlB3enRxblJmYnhISWgzdTctS1V6bGs2VFdlWno0YnZOQUtiR3d0Ui0zMmdqbGR5Qmg2WENtaWJxYzB1T0ZIUTE0WGFETXR5RE5ZOWZr0gF3QVVfeXFMTV9nZ0x4RzhfLXNnVTNZRlhmYnozbGY1SmprZzYxT2lIZWViUHd6dHFuUmZieEhJaDN1Ny1LVXpsazZUV2VaejRidk5BS2JHd3RSLTMyZ2psZHlCaDZYQ21pYnFjMHVPRkhRMTRYYURNdHlETlk5Zms?oc=5",
+   "source": "스트레이트뉴스",
+   "date": "2026-07-31"
+  },
+  {
+   "title": "NH농협은행, 모두투어와 손잡고 'NH모두트래블리적금' 특판 출시 - 한국경제",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tWGc5bHBpbkw1andEOWdGNHBvcmphMXkxLVZNaU5wTUtJenNnaHB2V0k5S1BlV1cycnJ6dnRoQ09TMXhvamFLTnpzNkNyOGdJaGlZaUFHT0tFUQ?oc=5",
+   "source": "한국경제",
+   "date": "2026-07-31"
+  },
+  {
+   "title": "NH농협은행, 모두투어와 여행적금 특판 - 중앙이코노미뉴스",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE10aldmYmNKb3dWaV80dG5zWnp4RnhsNENGck5PWFNHYXVrZkVKaTIzeUNhRzVQRGRvQ1Jzd2VyelZ1RTNVbHkxWk1yMURyNlFlbk5hRU11YjBjd1NZNlM4WGZtdWhhMzN2eDhIalpLcWV6Zw?oc=5",
+   "source": "중앙이코노미뉴스",
+   "date": "2026-07-31"
+  },
+  {
+   "title": "NH농협은행, 모두투어와 ‘NH모두트래블리적금’ 특판 출시 - 이뉴스투데이",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSSXluY01ZRWpyczMyZDVhVkJmcTJQRHFEZ1hucFJYay01M29BVjRmaGJHc3c3ZjZkclV4YkJ6ZF9GX2hERlAwdE5nNC10SnA4UE1yNnlObndYYVhsSFNWcVRfWXRuRl91TjRSM29HNVd5OFRH0gF0QVVfeXFMUFJJeW5jTVlFanJzMzJkNWFWQmZxMlBEcURnWG5wUlhrLTUzb0FWNGZoYkdzdzdmNmRyVXhiQnpkX0ZfaERGUDB0Tmc0LXRKcDhQTXI2eU5ud1hhWGxIU1ZxVF9ZdG5GX3VONFIzb0c1V3k4VEc?oc=5",
+   "source": "이뉴스투데이",
+   "date": "2026-07-31"
+  },
+  {
    "title": "신협중앙회 '독도愛사랑적금' 출시 \"국회의원·지자체장 등 1~4호 가입 동참\" - 마일드경제",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxUkEyMDRUVVBibTMtWTl6aUNQdFI3WVljc1dNdTdxN2FvTFBkVGEwMmk3TXlyVmdTSzdkVEQ1NEVHeDZZd2xlQVMydUZLbHEtSGRwVHdwcFBlejJOSVVkNkpiRkNPYm1lRzFV?oc=5",
    "source": "마일드경제",
@@ -4490,36 +4520,6 @@
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Ra3FiOEhRY0l4WVN0YW9SMUE1ZHBnLXJJS0JYZFkxOUphN3hycno4V1pnRDNkS0ZCcFd6cTBMa25wTndPVGJ2NDFTdUQ1TTBkR3JTNVNXbWFmY0FXemt1MzYxMlpTaHoxcGVPWA?oc=5",
    "source": "뉴스브라이트",
    "date": "2026-07-28"
-  },
-  {
-   "title": "신협, 최고 연 7% 금리 ‘독도愛사랑적금’ 출시 - 한국보험신문",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZbDQyVUF5NW1oeWlJWGFFSmNhMjBrODRHSjBrR0FRRFhXc0t5eGJDWGdTLVhhWFVHOF84bUlvYlpwWWU4c3BJNDI5R1ZDQjEzM3dZSzBJazJtbl9VcUx5dG1wZURYZk4ta19QUzBBONIBb0FVX3lxTE1ZbDQyVUF5NW1oeWlJWGFFSmNhMjBrODRHSjBrR0FRRFhXc0t5eGJDWGdTLVhhWFVHOF84bUlvYlpwWWU4c3BJNDI5R1ZDQjEzM3dZSzBJazJtbl9VcUx5dG1wZURYZk4ta19QUzBBOA?oc=5",
-   "source": "한국보험신문",
-   "date": "2026-07-27"
-  },
-  {
-   "title": "신협, '독도愛사랑적금' 출시…국회의원·지자체장 등 가입",
-   "link": "http://www.bizwnews.com/news/articleView.html?idxno=141766",
-   "source": "네이버뉴스",
-   "date": "2026-07-29"
-  },
-  {
-   "title": "신협, '독도愛사랑적금' 출시",
-   "link": "http://www.newsbrite.net/news/articleView.html?idxno=199475",
-   "source": "네이버뉴스",
-   "date": "2026-07-28"
-  },
-  {
-   "title": "\"연 10% 특판 나왔다\" 주식 폭락장에 기회 잡은 은행들 줄줄이 '고금리 적금' 출시 | - nanamcom.co.kr",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5NGdVM3U4N29IaEZvSzcta1RtcnVpODZjYjVDVllzQzZIQ01kVDk0M050NGxfYkVqUUluYkp0blhOZTd2aVFCZTJ5dVdJTFhicGJrMlBIcVFxWFZQNGNwaktfeWlibG5BMlBQMDNOdmY?oc=5",
-   "source": "nanamcom.co.kr",
-   "date": "2026-07-26"
-  },
-  {
-   "title": "신협, 최고 7% '독도愛사랑적금' 출시 - 뉴시스",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KeGNuU1p3aDRVMzRwRHNjQkFSazJUYWI3bVIyd1hmd3NwVXItWnJod29iQmczckItYXJkRlh1UktBYW14Tjd2LW1QQ2VhQjhEYnBwdlc4QUpsanFGNG5GLdIBeEFVX3lxTE9KZGl6M1hiRmJtbmk0RHFDMHhNQnNaTXJCaEdnQ3BNQVYxTjk4QTdTa0pTS3NwMTcxTlY0R1h4VGRxNzJ6d29jVGJIeDhSWDd2RlB5dGw3R0pMSWhWTzRJc2dtX2E3NW1Nb01TTldFREs0U0NEczZXcg?oc=5",
-   "source": "뉴시스",
-   "date": "2026-07-27"
   }
  ],
  "news_seen": [
@@ -4805,10 +4805,61 @@
   "ac5d4de0aed389e4",
   "423bdaa653e28f76",
   "05725b125afa8a87",
-  "0cdfe4b23258d6a9"
+  "0cdfe4b23258d6a9",
+  "e79b611f504f5af4",
+  "ebf746ea5720b48a",
+  "32468cc1eb198c8a",
+  "35883d8848a66b0a",
+  "eb5bedf87570e69b"
  ],
  "news_seeded": true,
  "news_products": [
+  {
+   "bank": "NH농협은행",
+   "name": "NH모두트래블리적금",
+   "norm": "NH모두트래블리적금",
+   "rate": null,
+   "first_news": "2026-07-31",
+   "count": 3,
+   "articles": [
+    {
+     "title": "[게시판] 농협은행, 모두투어 제휴 'NH모두트래블리적금' 출시 - 연합뉴스 한민족센터",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqWDNwUGpidjF4RWs1LWNCLW54MGFqZXM4N084WEhEZ2tiUjl2dS1xUmpqc3UzTThreE55N19ESVd5ZVB3ejUxTkRkYmI5TXhzeGgwemlDVDhadjh3QllaWmt2SkRkX0FMSUlBbU5zODVlOTNE?oc=5",
+     "source": "연합뉴스 한민족센터",
+     "date": "2026-07-31"
+    },
+    {
+     "title": "NH농협은행, 모두투어와 손잡고 'NH모두트래블리적금' 특판 출시 - 한국경제",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tWGc5bHBpbkw1andEOWdGNHBvcmphMXkxLVZNaU5wTUtJenNnaHB2V0k5S1BlV1cycnJ6dnRoQ09TMXhvamFLTnpzNkNyOGdJaGlZaUFHT0tFUQ?oc=5",
+     "source": "한국경제",
+     "date": "2026-07-31"
+    },
+    {
+     "title": "NH농협은행, 모두투어와 ‘NH모두트래블리적금’ 특판 출시 - 이뉴스투데이",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSSXluY01ZRWpyczMyZDVhVkJmcTJQRHFEZ1hucFJYay01M29BVjRmaGJHc3c3ZjZkclV4YkJ6ZF9GX2hERlAwdE5nNC10SnA4UE1yNnlObndYYVhsSFNWcVRfWXRuRl91TjRSM29HNVd5OFRH0gF0QVVfeXFMUFJJeW5jTVlFanJzMzJkNWFWQmZxMlBEcURnWG5wUlhrLTUzb0FWNGZoYkdzdzdmNmRyVXhiQnpkX0ZfaERGUDB0Tmc0LXRKcDhQTXI2eU5ud1hhWGxIU1ZxVF9ZdG5GX3VONFIzb0c1V3k4VEc?oc=5",
+     "source": "이뉴스투데이",
+     "date": "2026-07-31"
+    }
+   ],
+   "in_disclosure": false
+  },
+  {
+   "bank": "NH농협은행",
+   "name": "여행적금",
+   "norm": "여행적금",
+   "rate": null,
+   "first_news": "2026-07-31",
+   "count": 1,
+   "articles": [
+    {
+     "title": "NH농협은행, 모두투어와 여행적금 특판 - 중앙이코노미뉴스",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE10aldmYmNKb3dWaV80dG5zWnp4RnhsNENGck5PWFNHYXVrZkVKaTIzeUNhRzVQRGRvQ1Jzd2VyelZ1RTNVbHkxWk1yMURyNlFlbk5hRU11YjBjd1NZNlM4WGZtdWhhMzN2eDhIalpLcWV6Zw?oc=5",
+     "source": "중앙이코노미뉴스",
+     "date": "2026-07-31"
+    }
+   ],
+   "in_disclosure": false
+  },
   {
    "bank": "국민은행",
    "name": "운동 적금",
