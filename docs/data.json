@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-31 22:02",
+ "updated_at": "2026-08-01 00:24",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -4450,6 +4450,12 @@
  ],
  "news": [
   {
+   "title": "NH농협은행, 모두투어 제휴 여행 특화 적금 출시 - todayeconomic.com",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oUnhBTHljQUxfVUZiTE9CT1p1NUpRUjE3OTMxbWpFaGFuQXZLY2ZtbFI1dE5CeTQ3cWlQTG1LdklveGw0WWl5Nmp1bTA0OVB6X3RzRTJiaEVWazdtZmI4YWp3?oc=5",
+   "source": "todayeconomic.com",
+   "date": "2026-07-31"
+  },
+  {
    "title": "농협은행, 모두투어와 손잡고 ‘NH모두트래블리적금’ 특판 출시 - 농민신문",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iRHFUVWxlVS1KX1RpTWdtNFNCT2pxclVpSV96a3BpX0dMZnl4TndubEVsdDRWZVo4ajFmb0tIekMxREVNMDNXR1RWNkptWFdoblRQenlNX0tjQQ?oc=5",
    "source": "농민신문",
@@ -4513,12 +4519,6 @@
    "title": "NH농협은행, 모두투어와 'NH모두트래블리적금' 특판 출시 - 넥스트데일리",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPcVFiLW5OLWNLZ0kzTUVZd3ZFYUZTd0NKSHI2N1JaQ0NSUzRXTHJ0WUVfNEpRelVXVE54a1F6NjJ0X2JtbENiNk1UejFyc2ZVNHFrekN6Y0p1UjFiMGxiRklkN1VCME9jaHAxVlQ1UdIBc0FVX3lxTE9uT2NnODh4SmF5SG83Sk0wTnNpYWYtNjlIeTY5b0dzUzNpNnpnT08weEJWbTctV3gyR21QRy1vUTY2d1RBRFlGQVlKVXA1YTRQZ2VESmMyaHFWVWVjc3pydl9JYkJ4dEpIV2I2ODZiQjdDbk0?oc=5",
    "source": "넥스트데일리",
-   "date": "2026-07-31"
-  },
-  {
-   "title": "NH농협은행, 모두투어와 '트래블리적금' 특판…5.05%p 우대금리 - 뉴시스",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pUk5UU254ekJNQ0tXU0JhWVY4QVl1bDFCRVk4WkpFN09YYW9yQlZmYTdlaTVLVWV3YU9YdVpxVXJBaEtNTV9rdTN3WWVvZzA5VTdBNG5RYUozdHRaZk9LajR3NUNrbGpBNk9RVnViMzg1d3dOYXprRtIBeEFVX3lxTE1pUk5UU254ekJNQ0tXU0JhWVY4QVl1bDFCRVk4WkpFN09YYW9yQlZmYTdlaTVLVWV3YU9YdVpxVXJBaEtNTV9rdTN3WWVvZzA5VTdBNG5RYUozdHRaZk9LajR3NUNrbGpBNk9RVnViMzg1d3dOYXprRg?oc=5",
-   "source": "뉴시스",
    "date": "2026-07-31"
   }
  ],
@@ -4829,7 +4829,8 @@
   "78ffdb40342c229d",
   "c0bb9427bcb31af4",
   "23fb360f99d86f95",
-  "d6beed88e568a399"
+  "d6beed88e568a399",
+  "17bdfe6c260793ce"
  ],
  "news_seeded": true,
  "news_products": [
