@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-02 00:07",
+ "updated_at": "2026-08-02 02:08",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -4450,6 +4450,12 @@
  ],
  "news": [
   {
+   "title": "[게시판] 농협은행, 모두투어 제휴 'NH모두트래블리적금' 출시 - 매일경제 마켓",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YRE1tSEl4bVFhWDFuY183QTZvcHFZUjJnbDZpdnhhdUh1R0xGZENPUjNoTEpHN3FyTzc3OUlNRUVuaUI3QTlCYk9sRmNCeUpmWXc?oc=5",
+   "source": "매일경제 마켓",
+   "date": "2026-07-31"
+  },
+  {
    "title": "NH농협은행, 모두투어 제휴 ‘NH모두트래블리적금’ 출시…최고 연 5.05% 금리 - 퍼블릭타임스",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQNU01M2FuTDhVVnVMVUgyWXNwQzhnc05OY3U4SWNlZFlFZldZczN1Z1NxbWJOWURVSkJFU050cVZhMGRRclVOcVR0cU1OWG9Da2ZaS01jdTVLcjNuSS1pbWhxRktzMV9mWHfSAW5BVV95cUxNT2N0OG5yeV9xc3VWUnh5NWtQQTU0WkUzd1g3b3FwS3U3M1lOYWZqQjdFeWVtOHpka0N5eXVoQlBmQTZ4OXlvV21ZVGhXM2pUUEQ5dE0yZ0pvamJmOWFxUWQ4WXF5UnhGaDEwU2lSUQ?oc=5",
    "source": "퍼블릭타임스",
@@ -4513,12 +4519,6 @@
    "title": "[게시판] 농협은행, 모두투어 제휴 'NH모두트래블리적금' 출시 - 연합뉴스",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yNEl3R2EtM1Q5R3drTDc2TDhiS2xveVlEYkl6dEVZUmxTenNxWnV1NjdYLXc3SnRuSGQzbG9kQ0JNQ3Y5Z0xNZ2pFakdNLU5YN1ZaR29hS2Q3THRIOGJFZdIBYEFVX3lxTE0yNEl3R2EtM1Q5R3drTDc2TDhiS2xveVlEYkl6dEVZUmxTenNxWnV1NjdYLXc3SnRuSGQzbG9kQ0JNQ3Y5Z0xNZ2pFakdNLU5YN1ZaR29hS2Q3THRIOGJFZQ?oc=5",
    "source": "연합뉴스",
-   "date": "2026-07-31"
-  },
-  {
-   "title": "NH농협은행, 여행 특화 적금 출시... 판매 한도 1만 좌 - 디스커버리뉴스(DISCOVERYNEWS)",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE15T3NmTjJENUN1VmxwWUJlYVU5ZmVFUVE1elo4dVhRc1BtNVFuMjh5emxJOC1SNU9RbjdiS3BJM3dSVUJwaFE1bWs5dEtUVWIwc2hNU3pBWDY4MVl1dGhtcXFYYlNsTXJBZG9KbDVsSGJ1Zw?oc=5",
-   "source": "디스커버리뉴스(DISCOVERYNEWS)",
    "date": "2026-07-31"
   }
  ],
@@ -4834,7 +4834,8 @@
   "a120323106317947",
   "0ed5dbff267910d1",
   "c25b629b59b79784",
-  "e670e4a7467e837f"
+  "e670e4a7467e837f",
+  "bd2ccb4cbd6cfffb"
  ],
  "news_seeded": true,
  "news_products": [
@@ -4844,7 +4845,7 @@
    "norm": "NH모두트래블리적금",
    "rate": 5.05,
    "first_news": "2026-07-31",
-   "count": 17,
+   "count": 18,
    "articles": [
     {
      "title": "[게시판] 농협은행, 모두투어 제휴 'NH모두트래블리적금' 출시 - 연합뉴스 한민족센터",
