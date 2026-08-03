@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-03 23:57",
+ "updated_at": "2026-08-04 02:14",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -4450,6 +4450,12 @@
  ],
  "news": [
   {
+   "title": "우리은행, 예금 최고 연 3.60%·적금 8.29% '우리의 소원 예·적금' 출시 - v.daum.net",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80djVzLWtUeEt6SnFnMjJKbDBMNXVVV2k2Y0JlTzQ2UDlLT25yTDNRYVFsZ1ppU3RJZjJjajk5aTdrLTNSZ21nTG9SRE9VVWc?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-08-03"
+  },
+  {
    "title": "우리은행, 백범 김구 탄생 150주년 기념 예·적금 출시 - 뉴스드림",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqNWRaNGM2bzExc0ZUNEliZXhkc1RLZEE1WmFIRlRvRzFWaGhzaEJlOG5oTVZMdjRQYnlwNDltbGVFYlk1aHc0WWhjOFFPMlFvdC10eF9nU2FBOGVBVURKT0RJeno5eEFNWldsVDFR0gFuQVVfeXFMUGo1ZFo0YzZvMTFzRlQ0SWJleGRzVEtkQTVaYUhGVG9HMVZoaHNoQmU4bmhNVkx2NFBieXA0OW1sZUViWTVodzRZaGM4UU8yUW90LXR4X2dTYUE4ZUFVREpPREl6ejl4QU1aV2xUMVE?oc=5",
    "source": "뉴스드림",
@@ -4513,12 +4519,6 @@
    "title": "우리은행, 김구 정신 계승한 '우리의 소원 예·적금' 출시 - 뉴스핌",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVWk02SnpycWVWOTZaYXhmLWtHTE1CeFRYWXRCRjFGMWZzdWhFenY0RWxqNjhzMklsOHdFd19QaXNSZWIxWlNqQ0ZBLUpMUmxweXhJUjJrbEpVSl9H?oc=5",
    "source": "뉴스핌",
-   "date": "2026-08-03"
-  },
-  {
-   "title": "“김구의 꿈 금융으로 잇는다…‘우리의 소원 예·적금’ 출시” - bikorea.net",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lVHhtaGR2aC1jU21oS3RSNU9kZDJQaUxvRllGSWhxQkF2aG5KTVhlSVpXYXVta1lDNm1uWFpFaE1YdE5MaUNBTDZ0a20tYkNhVE5tcDYxVXRHV0VQa1Z6bG9EeTN4dw?oc=5",
-   "source": "bikorea.net",
    "date": "2026-08-03"
   }
  ],
@@ -4902,7 +4902,8 @@
   "7a8696ce042405c7",
   "f730541a35463d7f",
   "5887e2ca47bb3343",
-  "9115424c3d698727"
+  "9115424c3d698727",
+  "ecbfb5c1a57f8077"
  ],
  "news_seeded": true,
  "news_products": [
@@ -4912,7 +4913,7 @@
    "norm": "우리의소원예·적금",
    "rate": 8.29,
    "first_news": "2026-08-03",
-   "count": 30,
+   "count": 31,
    "articles": [
     {
      "title": "우리은행, '우리의 소원 예·적금' 출시 - 전자신문",
