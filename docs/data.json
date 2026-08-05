@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-06 00:20",
+ "updated_at": "2026-08-06 02:48",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -4450,6 +4450,12 @@
  ],
  "news": [
   {
+   "title": "우리은행, 광복절 맞아 '우리의 소원 정기예금·적금' 출시 - 뉴스케이프",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aQ3g4bkxkQkdlaExEaWxGTngzQmlLQ3F4bG5Mcm1LMk1OS0tpRkZMTFp6bk8wU1NaNGxSeTRxS0M0ZWVUUnhGVDUzTkF5ZEEyQU5kV2xqbUNPWGF5bTdHNnhnemhVSm5yRzNQSdIBcEFVX3lxTE1sMnEzb2ZJOU5ITGU3aHBuRl92RlE3Z1M5X05VUjVWZC1rQzZWbGZiZHUxb0hTMTc0YkJnMXJEcVZGa1JMSDBZRzVGaGtMbUFPOC1NMlFoZkRpMEtQYUowSklCUExhVWJPUktWLXhhdlg?oc=5",
+   "source": "뉴스케이프",
+   "date": "2026-08-03"
+  },
+  {
    "title": "모두투어, NH농협은행과 여행 적금 출시…최고 연 7.3% - 인사이트코리아",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FcFhRNG1BUWdtU09xdDlZQlJXaTRYU0czSHJtTUVuejY1OE52LW1BTHFqQVVEcVNVTmJrSENUdlgxMm9hM1ZyNU93US1KQzZQcXFmQkh5UTVqNUNjeVM5VFNRSnVFTXJKTEdEM3d1SXBGdEFsWVg40gF3QVVfeXFMT0VwWFE0bUFRZ21TT3F0OVlCUldpNFhTRzNIcm1NRW56NjU4TnYtbUFMcWpBVURxU1VOYmtIQ1R2WDEyb2EzVnI1T3dRLUpDNlBxcWZCSHlRNWo1Q2N5UzlUU1FKdUVNckpMR0Qzd3VJcEZ0QWxZWDg?oc=5",
    "source": "인사이트코리아",
@@ -4514,12 +4520,6 @@
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBXcVJWaHlReV9RZVhRanhGcWZSQ2tiVGktblJSZ0s2Q3FtRGJvQVFhUUNWM19TNjFuaVMyd2tkUjNrU0JYbGtFSEMxa2NRcUhOT2Mtbk9nYW9SQUxGejE4emtoTDdKMWJUa2FJVTBsWTZWejlneDEyS9IBeEFVX3lxTFBXcVJWaHlReV9RZVhRanhGcWZSQ2tiVGktblJSZ0s2Q3FtRGJvQVFhUUNWM19TNjFuaVMyd2tkUjNrU0JYbGtFSEMxa2NRcUhOT2Mtbk9nYW9SQUxGejE4emtoTDdKMWJUa2FJVTBsWTZWejlneDEySw?oc=5",
    "source": "뉴시스",
    "date": "2026-08-05"
-  },
-  {
-   "title": "우리은행, 김구 탄생 150주년 기념 ‘우리의 소원 예·적금’ 출시 - 뉴스프리존",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zOUhmSXpVVE50UlJQYzRpdU9fYkw2WjJoYkJXMy1sZVlxWmlVQmU1ekxxOF9jbHBGd1pMeXVUM01RdlBnZ3h2Sm56dE9ZbWdDaHNrY0s4X1RBY1VnZk0zMUJMcUNUSEp1c1lZaGhrNFFDQlHSAXdBVV95cUxOLTFsUWxvTzY0Z0k0RkpYZkYtNEtmc3RjYUpHdHQwZUdITmFLOHhVaURzcnZ1WXVvSUJhM3BrcnBSVEFLWlRrU2VpUUl4WF9WckNFYzlPTnlxeWRhWVVxVE1SRUVSWGh5RTBSOTV6VFI1Y3dTMVBRcw?oc=5",
-   "source": "뉴스프리존",
-   "date": "2026-08-03"
   }
  ],
  "news_seen": [
@@ -4955,7 +4955,8 @@
   "e35a93371778a199",
   "24618679225279bc",
   "0fc019a7aed86db6",
-  "1cf94cd737a5b1fb"
+  "1cf94cd737a5b1fb",
+  "506b7367175178fb"
  ],
  "news_seeded": true,
  "news_products": [
@@ -5069,7 +5070,7 @@
    "norm": "우리의소원정기예금·적금",
    "rate": 8.29,
    "first_news": "2026-08-03",
-   "count": 12,
+   "count": 13,
    "articles": [
     {
      "title": "우리은행, '우리의 소원 정기예금·적금' 출시…최고 연 8.29% - 디지털투데이",
