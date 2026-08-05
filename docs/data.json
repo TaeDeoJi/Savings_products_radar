@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-05 16:45",
+ "updated_at": "2026-08-05 19:44",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2936,26 +2936,26 @@
      "save_trm": 12,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.45,
-     "intr_rate2": 3.65
+     "intr_rate": 3.33,
+     "intr_rate2": 3.53
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.23,
-     "intr_rate2": 3.43
+     "intr_rate": 3.21,
+     "intr_rate2": 3.41
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.2,
-     "intr_rate2": 3.4
+     "intr_rate": 3.17,
+     "intr_rate2": 3.37
     }
    ],
-   "best_rate": 3.65,
-   "best_base_rate": 3.45,
+   "best_rate": 3.53,
+   "best_base_rate": 3.33,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%EC%9D%80%ED%96%89%20%EB%AF%B8%EC%A6%88%EC%9B%94%EB%B3%B5%EB%A6%AC%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88",
    "first_seen": "2026-07-31",
@@ -2993,33 +2993,33 @@
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.83,
-     "intr_rate2": 2.93
+     "intr_rate": 2.82,
+     "intr_rate2": 2.92
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.35,
-     "intr_rate2": 3.55
+     "intr_rate": 3.23,
+     "intr_rate2": 3.43
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.13,
-     "intr_rate2": 3.33
+     "intr_rate": 3.11,
+     "intr_rate2": 3.31
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.1,
-     "intr_rate2": 3.3
+     "intr_rate": 3.07,
+     "intr_rate2": 3.27
     }
    ],
-   "best_rate": 3.55,
-   "best_base_rate": 3.35,
+   "best_rate": 3.43,
+   "best_base_rate": 3.23,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%EC%9D%80%ED%96%89%20%EC%8A%A4%EB%A7%88%ED%8A%B8%EB%AA%A8%EC%95%84Dream%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88",
    "first_seen": "2026-07-31",
@@ -3043,12 +3043,12 @@
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.25,
-     "intr_rate2": 3.75
+     "intr_rate": 3.13,
+     "intr_rate2": 3.63
     }
    ],
-   "best_rate": 3.75,
-   "best_base_rate": 3.25,
+   "best_rate": 3.63,
+   "best_base_rate": 3.13,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%EC%9D%80%ED%96%89%20%EA%B5%BF%EC%8A%A4%ED%83%80%ED%8A%B8%EC%98%88%EA%B8%88",
    "first_seen": "2026-07-31",
@@ -4450,6 +4450,30 @@
  ],
  "news": [
   {
+   "title": "모두투어, NH농협은행과 ‘NH모두트래블리적금’ 출시 - 뷰티트래블뉴스",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYnlaZjZhNzg1cUh4OGwzNDhKR0FqWlZsYTFmQ0NIYWFkVVgxQm5SQUgtSDF3M094akFXbjBjakZkQ2h5LU9JMlVDeHpXaEptSHJmRjZRc1pHTl84OUhWMW1tUTBSQTZYU0Q2Wm9uai1DR3hzTF9PN3hiZ2lETTJ6d1AycVZXRHF6bU1QTA?oc=5",
+   "source": "뷰티트래블뉴스",
+   "date": "2026-08-05"
+  },
+  {
+   "title": "모두투어 여행 적금 '출시' 최고 연 7.3% 금리에 마일리지 '증정' - 세이프머니",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5LS10dUhVdVVyNE5TdFNfcU1xNFY3cEJfWF9vczVzSWVLOTRlSnVwSVl4ZVpDMTdFRUo1Q3I2TG5saWtqRmVNeThfTXk5cFhPbEFVdnB0dERJTGRkQU84NElDRFpuZ2JxajJ4UFVB?oc=5",
+   "source": "세이프머니",
+   "date": "2026-08-05"
+  },
+  {
+   "title": "우리銀, 김구의 꿈 금융으로 잇는다...‘우리의 소원 예·적금’출시 - 내외뉴스통신",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QOHg5NDhqSnRQYURqUE1VRkxXRk1iX29vWHdfZDFqZkhLSUdkSldIbERnRkNqS3gzaG14SlozT2pKbVlRdmFmUW5wdGVDOWt6RUpEbG1ET0stME1oYzdnRGpRV1hreTU0TXcyedIBcEFVX3lxTE5zbHk3eFNGQUFuZFZEMWRwUzNVdmQ4RC1nWFFTMFZXMTNidjBJWElzMTh3Z3hyTTVET1lNRlZoUU1uM2lTQkJkZHBnTFhrZGpvdHZXeTJ5Y01ZdzM1WXRCZWkzWEYtY0k2aUVPTmtoMmQ?oc=5",
+   "source": "내외뉴스통신",
+   "date": "2026-08-04"
+  },
+  {
+   "title": "[카드] 우리銀, 김구의 꿈 잇는다...'우리의 소원 예·적금' 출시 - newsprime.co.kr",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50dzFLNm5CYnotbnNFTWItdi00Q2NEZk43c3NHYzloMWZtSEh2TlpSZENZNW15OEhIeVZ5aHljdmVkV0hjRWZXV0gtNjhYLUlHbFQyTGlYaTJTdnZiSG41S0xRNE9Odw?oc=5",
+   "source": "newsprime.co.kr",
+   "date": "2026-08-03"
+  },
+  {
    "title": "모두투어-NH농협은행 '여행 적금' 출시…최고 연 7.3% 금리 - SBS Biz",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CcDk1cXh0bmNkNDgwNi13QUhFejBYN0NaN1hldThjZGNTUVVtWkdVbjk5b3Y0NXN6MEtRZFNnOU9aa09naGNhUmIwcmpaRTJRdlFr0gFYQVVfeXFMT0ItamJnMG8tTHFlQVJBQl9RSkN4T1JGRVhKd3NGWTlwaFJpZk5BUHlIRldTbU40MWNSdjJPZEVzbzctS0J5Y1EtcTYzcV9kamJ0bGFUQkxFNg?oc=5",
    "source": "SBS Biz",
@@ -4496,30 +4520,6 @@
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9od2NObGdpanhIWXBsRkszVDEyWUtxd0hvUlp6WkJ4dGdtcWxrc09TSE9uN3VfSUVhaXV5WVhvT0lySTlHSWY4ZWlKM2hIV0RUWEp5d1JsNmNWMmRxVG96UHpUczdPckdtTHRN0gFrQVVfeXFMT2h3Y05sZ2lqeEhZcGxGSzNUMTJZS3F3SG9SWnpaQnh0Z21xbGtzT1NIT243dV9JRWFpdXlZWG9PSXJJOUdJZjhlaUozaEhXRFRYSnl3Umw2Y1YyZHFUb3pQelRzN09yR21MdE0?oc=5",
    "source": "SR타임스",
    "date": "2026-08-05"
-  },
-  {
-   "title": "모두투어, NH농협은행과 여행적금 출시…마일리지 혜택 연계 - 데일리한국",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hWkkwLWZRZzlwajRhc1Q0NkxFRFdDa1dNVEJHTGxkWkdxdlFWODlySGhKNDRJdGVLbWw5V2FtUmk3aHZGbTlxR3k2UE9QNmxORVVXRVhYdmk3eklzVEpFRmFiQVlrTlZMdUlHV2NHY3hiWTDSAXNBVV95cUxOYVpJMC1mUWc5cGo0YXNUNDZMRURXQ2tXTVRCR0xsZFpHcXZRVjg5ckhoSjQ0SXRlS21sOVdhbVJpN2h2Rm05cUd5NlBPUDZsTkVVV0VYWHZpN3pJc1RKRUZhYkFZa05WTHVJR1djR2N4Ylkw?oc=5",
-   "source": "데일리한국",
-   "date": "2026-08-05"
-  },
-  {
-   "title": "모두투어, NH농협은행과 여행 적금 출시…최고 연 7.3% 금리 - 네이트",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93T1htbTU0bi0waGlURWxrVnhKYVBVbnBKRTFTTC1BbG9LbWxSYjFhSGh1T2VhR2pObllKVzZzNjdLY01pR0pabjB1ZS1LY3k3azYzWnNvS3llVnJEZlQ4OUQ3RDlqbHFLNXY3ZGNB?oc=5",
-   "source": "네이트",
-   "date": "2026-08-05"
-  },
-  {
-   "title": "최고 연 7.3%에 여행 마일리지까지…모두투어·NH농협은행, 한정판 적금 출시 - 투어코리아",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05Rjd3Z2dsbng2QXY3a0NySUxRMF9IT3REZ1FUQmh4eGZHZV9NWEplS0hkd3NkdmJ2QmQyX3BnT1FWUHByeUNqd2FBRGd6WElxUFoyTC1OcWY0cjFiSTlBNE90VWgwMHpUalZsUEJB?oc=5",
-   "source": "투어코리아",
-   "date": "2026-08-05"
-  },
-  {
-   "title": "우리은행, 백범 김구 탄생 150주년 맞아 '우리의 소원 정기예금·적금' 출시 - 네이트",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xbVd0N09nSzQzdWlObmwyQW9lamlWanozd3BHU2hMV1lwTTBoUjlVR0EwbjEwU3lGX21uVUFsQmhobmtRU2MtQlFoYjdBaTMxYXc4?oc=5",
-   "source": "네이트",
-   "date": "2026-08-03"
   }
  ],
  "news_seen": [
@@ -4948,7 +4948,11 @@
   "964e7168fcba7ad3",
   "642888a9700fc75b",
   "8c1edaca33301d60",
-  "c6f63c91c9d01599"
+  "c6f63c91c9d01599",
+  "d61b420d762954d6",
+  "48d557b97c8b6659",
+  "a533a48d0574479e",
+  "e35a93371778a199"
  ],
  "news_seeded": true,
  "news_products": [
@@ -4998,7 +5002,7 @@
    "norm": "우리의소원예·적금",
    "rate": 8.29,
    "first_news": "2026-08-03",
-   "count": 51,
+   "count": 53,
    "articles": [
     {
      "title": "우리은행, '우리의 소원 예·적금' 출시 - 전자신문",
@@ -5137,7 +5141,7 @@
    "norm": "NH모두트래블리적금",
    "rate": 5.05,
    "first_news": "2026-07-31",
-   "count": 24,
+   "count": 25,
    "articles": [
     {
      "title": "[게시판] 농협은행, 모두투어 제휴 'NH모두트래블리적금' 출시 - 연합뉴스 한민족센터",
