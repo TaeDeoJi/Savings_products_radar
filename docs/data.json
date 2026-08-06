@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-06 18:44",
+ "updated_at": "2026-08-06 21:07",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -4450,6 +4450,54 @@
  ],
  "news": [
   {
+   "title": "토스뱅크, 최고 연 10% '키워봐요 31일적금' 출시 - 팍스경제TV",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CM1VMZzZBbkRSQ29kNl9WV3BfbjhpWjhNZU1USk9PUmtpMm1kZzdHcmdVY05ob25uRDFqVW1QU2x4Wl81aUVnTFMxY1FHaFBYUEMyLWFObDljX25QV2NDdFZWV21MSDg?oc=5",
+   "source": "팍스경제TV",
+   "date": "2026-08-06"
+  },
+  {
+   "title": "‘최고 연 10%’ 토스뱅크, ‘키워봐요 31일적금’ 출시 - 에너지경제신문",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0tRHNsbWpfd092ZUFKMTFWUlpQWFdpbFh0NzRmZnNlZmhvYXhnUWhWQ1lMSFNUSVUxOWc1NlhVWGVhcUl4aFRfUV9Rc2Q1LUlKZEVLR0VsUkh6eDc0MjNPMk5qNA?oc=5",
+   "source": "에너지경제신문",
+   "date": "2026-08-06"
+  },
+  {
+   "title": "﻿토스뱅크, 최고금리 연 10% '키워봐요 31일적금' 출시 - newsdream.kr",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oZmRST3BVclV2Sm5KajltQ1kxUTFCOU92eGJSNXZMaVdiS3dxb25lY3hMUzFzbnN4dnBKbVUzdHAxOVNKVWtnNE1NeHZjdFpuWXVmaUk1QTRWZFp1YzY1NXNqeDY1a0VpbHfSAW5BVV95cUxNeEI4OWhUNWx2WktMX1dDbTRDQzF2bGF1WnRzX29LdGtjWjEzZE04cXRkN3BObF9sb3NmVXh1dHFsdy1pNHBJa0dSYXdpeDVOQklwa1J3RUJxb1BDUUlXdC1wQ0FWYzlhNU5rRHdudw?oc=5",
+   "source": "newsdream.kr",
+   "date": "2026-08-06"
+  },
+  {
+   "title": "“매일 저금하면 금리가 쑥”…토스뱅크, ‘키워봐요 31일적금’ 출시 - bizwnews.com",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EaExGc3loWE9vY2VsM2dIOUlGeW4yUTF0VUlacFEwdjZiMDhSRTQwbndVb3pNOThhcWlyR2ozUHBIN2k4Sk5HVTZHQnNDQmR4V1pYRUsyVlIxc3VoNThUSklqeWRfVFhZVmc?oc=5",
+   "source": "bizwnews.com",
+   "date": "2026-08-06"
+  },
+  {
+   "title": "[금융zip] 토스뱅크, 최고 연 10% ‘키워봐요 31일적금’ 출시 外 - 글로벌경제신문",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3OFNEMkM1REVYMFlEbnlxSDJ4bGl1cV84NU9WLVNGWjl1WGZ5LWpZRTdSTTdNMWNNNTYyUEE4OVVjSGl6QXMxRGpLRGZ1NzhkZDNtc3BVU1I1SGQ0TTNNc3JXajI3SDBlZjFNN9IBcEFVX3lxTFBuYmplLWZQVENoZkhwUzBkeURtU2pYVDdYOEtobTFZSWotaTNST3hOM2hBUlBxTWhGcmdHclVKeTdWMG91R1ItWUdVNEVKX3pmUHJvNXJXTWlEN0VMOTFqQXJZNzUtUzl5ZnZYWjh3bmE?oc=5",
+   "source": "글로벌경제신문",
+   "date": "2026-08-06"
+  },
+  {
+   "title": "\"매일 저금하면 최고 연10%\" 토스뱅크 '키워봐요 31일적금' 출시 - catchnews.kr",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tc3VxalVKcUNQRzhWVDRYRmV3U3NSdlZyRExvYXJNcWNkNE0zYVFIa2hPRkR2RktEWVc1ZGh0VldpdjYxZlBZQmRCMjJ1ZnQ3ejlBSlpBdGMtdm5uQlpiS0tmZ05HR25tY0xF?oc=5",
+   "source": "catchnews.kr",
+   "date": "2026-08-06"
+  },
+  {
+   "title": "“31일만 버티면 연 10%”… 토스뱅크, 게임처럼 돈 모으는 적금 출시 - 스카이데일리",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPTnY5SThibllTa1FvdHZXYUlLTGlxMTdJZV82d053SGkxdVNNTkhXdG1mS29aZXhoZ3JrS3pMSkFUSER6RGR2ckNNY09rajJDM2ZVMjZMcUxMS3IyOG00aFp3?oc=5",
+   "source": "스카이데일리",
+   "date": "2026-08-06"
+  },
+  {
+   "title": "모두투어, NH농협은행과 여행 적금 출시…최고 연 7.3% 금리 - 네이트",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Ha1ZhV2VZUExuWFpRaFRZRFRZYTVyTm5GS3VFREdKV2I4bzk1b3RqRUJjR3JIWWtPdks5SEdEQXdYbXZlMFAydm1UWXhIOVlvYTA4em9ra0tpcWpTZGVjbg?oc=5",
+   "source": "네이트",
+   "date": "2026-08-05"
+  },
+  {
    "title": "최고 연 10% 금리…토스뱅크 '키워봐요 31일 적금' 출시 - 아시아경제",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2aUdzdUNoSlp4NFVrbFZwZFh6QmVqUHVkUU5FemF6VTNFcjA5UnZYMVNWOTRMdXlUZVVlUGNRZWZEcUc3VXZ3ZUJEbGpqMnpUeE5fakp2cUpkWWtkQlpHNA?oc=5",
    "source": "아시아경제",
@@ -4471,54 +4519,6 @@
    "title": "신협 '독도愛사랑적금' 출시 8일 만에 7만3000좌 판매…비대면 가입 확대 - 라이센스뉴스",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pRHdxRjFmSC1ObE1LS3JWNXdlV1JCNlJzNU12dUluX0VkOENscnNmaTJpaFlSRmVCaGhfYkxYWXdybGE5OWRJcDBjOHd0Mk5qdXU3X1BzbmRRUERiSHRlRVlXcDRqbFFiRURB?oc=5",
    "source": "라이센스뉴스",
-   "date": "2026-08-06"
-  },
-  {
-   "title": "토스뱅크, '키워봐요 31일적금' 출시…매일 저금하면 최고 연 10% - 데일리안",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVVERuZDJSUDVNQzNYa0lOTlUtQmxSci05UTRVWHBZZjJSQ1drRmZWNlVxX29WM3loQ1F2R3pjMnBWT3JmMm04X0ZTZ0xUU0FqYl80Rw?oc=5",
-   "source": "데일리안",
-   "date": "2026-08-06"
-  },
-  {
-   "title": "토스뱅크, 매일 저금 '키워봐요 31일적금' 출시 - 뉴시스",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkSDh5bGpOamFFLVJqQXo2MHlHd2JJMlBGUnRLMmRVdURTX0FGcjRhdC1raUZpUkFjbEhjSXByM1JjMGRQMWhrSTF1R3NncXBaZng4cVJWcFEySWJUeU1xOVY0MGRBXzJOTTFib3lMYzhSMW5tVXlfd9IBeEFVX3lxTFBkSDh5bGpOamFFLVJqQXo2MHlHd2JJMlBGUnRLMmRVdURTX0FGcjRhdC1raUZpUkFjbEhjSXByM1JjMGRQMWhrSTF1R3NncXBaZng4cVJWcFEySWJUeU1xOVY0MGRBXzJOTTFib3lMYzhSMW5tVXlfdw?oc=5",
-   "source": "뉴시스",
-   "date": "2026-08-06"
-  },
-  {
-   "title": "토스뱅크, 최고 연 10% '키워봐요 31일적금' 출시 - 디지털투데이",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5qX0RsUzdZMnFfVFBvNlFETnMwMDhRaVRuM05tY2wyRlZRUEV1TFoyTGJ3d3BDbDlFcF9xVnU3SEVLV0lkME94N05XaWVHT200WUZVUVB4QUtBd3Z0aE0zSHl4R3Vja3QtTzFBd0V2eVVCRkk?oc=5",
-   "source": "디지털투데이",
-   "date": "2026-08-06"
-  },
-  {
-   "title": "토스뱅크, 최고 연 10% 금리 제공…‘키워봐요 31일적금’ 출시 - 이지경제",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxNTJCM0lNM3B3LWRLV091OUx6TGg4VXFzbVVSZTlybDBMS1haa1hDSlU4dmR3NTV1NFVIZGtTc3B0VXZMbFNHQ1JFSzNiN0NYTTVJZVpTdVZ4NWJFdXkwazlNdzVIeE1tMHJ1SC1n?oc=5",
-   "source": "이지경제",
-   "date": "2026-08-06"
-  },
-  {
-   "title": "토스뱅크, ‘키워봐요 31일 적금’ 출시 - hankooki.com",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kU3NVWGhNc005MFh2MGU5UWs0MzNoalRIMWIyUmV5Y1JCOGNoTmRqUjZSWkJoQUE0U0U2bDBUZUdzLVRQU0pnRXd1Ml81LWJMLXl6bnoxaU9QNHdBOWhFOTdNc011TEVOQ2ItbUt6WdIBb0FVX3lxTE5kU3NVWGhNc005MFh2MGU5UWs0MzNoalRIMWIyUmV5Y1JCOGNoTmRqUjZSWkJoQUE0U0U2bDBUZUdzLVRQU0pnRXd1Ml81LWJMLXl6bnoxaU9QNHdBOWhFOTdNc011TEVOQ2ItbUt6WQ?oc=5",
-   "source": "hankooki.com",
-   "date": "2026-08-06"
-  },
-  {
-   "title": "“다람쥐 키우며 매일 저금”…토스뱅크, 최고 연 10% ‘31일적금’ 출시 - 더게이트",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtQng4TENuODRUSEdycXJIWjFzNG5hZ1JlNFgxeS11VDJkdXBpYTRfSkEzdGd0LVVUUnJuUUF4UGdKcXp6U05LNDlmMFZGckg2cWs5Wkp4N3VaWTVmNHdqX2JpcEczVzVRWUt4NtIBbEFVX3lxTFBtQng4TENuODRUSEdycXJIWjFzNG5hZ1JlNFgxeS11VDJkdXBpYTRfSkEzdGd0LVVUUnJuUUF4UGdKcXp6U05LNDlmMFZGckg2cWs5Wkp4N3VaWTVmNHdqX2JpcEczVzVRWUt4Ng?oc=5",
-   "source": "더게이트",
-   "date": "2026-08-06"
-  },
-  {
-   "title": "토스뱅크, '31일 챌린지 적금' 출시…게임처럼 저축하면 최고 연 10% - 이코노미사이언스",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52dlFaeldLcGI1STZNLXNiSzd6UG5IWHpSWFZDZjlXSnVHTEFpWWhhTE1OaE9DR1U3YTMydHBJQkwzcWhJbDNKX25HUDhZSVRoa3FJU2hyQ1lpbldhWDlmc3ZhdXc5WklmM3ZSREhmWQ?oc=5",
-   "source": "이코노미사이언스",
-   "date": "2026-08-06"
-  },
-  {
-   "title": "토스뱅크, 최고 연 10% '키워봐요 31일적금' 출시 - 네이트",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TYkNISHhMSGlDM0VDMGlkaFR0N3dfX29MSGJWRkhQS0x1OGlLM2JBQzRtOHB5RW5hQm9abVdUTUY4WUhaNGlWMm5qTW1VQ3lXUTFlUTlkWVdBSnhWUi14WQ?oc=5",
-   "source": "네이트",
    "date": "2026-08-06"
   }
  ],
@@ -4980,7 +4980,15 @@
   "c988f7f6f4932fd5",
   "8f8421826b22a2b7",
   "c6b2dbd960e8270f",
-  "833989b7b5655265"
+  "833989b7b5655265",
+  "7275eb89e5d8ca74",
+  "5f46bbb59eadc5dc",
+  "c7bbe63ae7ac42ba",
+  "d12278dd9400e6e3",
+  "7404436251dcb78f",
+  "5ab1f02263f6906c",
+  "227608d3f9d709cc",
+  "1db8b4e6dd4355ab"
  ],
  "news_seeded": true,
  "news_products": [
@@ -4990,7 +4998,7 @@
    "norm": "키워봐요31일적금",
    "rate": 10.0,
    "first_news": "2026-08-06",
-   "count": 14,
+   "count": 21,
    "articles": [
     {
      "title": "토스뱅크, '키워봐요 31일적금' 출시…매일 저금하면 최고 연 10% - 데일리안",
@@ -5273,7 +5281,7 @@
    "norm": "여행적금",
    "rate": 7.3,
    "first_news": "2026-07-31",
-   "count": 7,
+   "count": 8,
    "articles": [
     {
      "title": "NH농협은행, 모두투어와 여행적금 특판 - 중앙이코노미뉴스",
