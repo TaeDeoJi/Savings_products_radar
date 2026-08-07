@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-07 16:35",
+ "updated_at": "2026-08-07 18:08",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -4450,6 +4450,18 @@
  ],
  "news": [
   {
+   "title": "NH농협은행, 모두투어와 출시한 'NH모두트래블리적금' 조기 완판 - 우먼컨슈머",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40azlhd2RHRkhzRUZNQTRvaUY2eTFQSlN1NWtPSVVtekJzM2VZbHh6RXNiTFpwaEpFaW9NNnFJWjFuUXIweU5zYm5faVhPcUJGWXpLTHdLRjYxNk0wSzE3eXJsckp6Ty13SGpCTg?oc=5",
+   "source": "우먼컨슈머",
+   "date": "2026-08-07"
+  },
+  {
+   "title": "농협은행, 모두투어와 출시한 'NH모두트래블리적금' 조기 완판 - 데일리한국",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xd0dPbnR4WS1pTnRVTEJHUTI5cy1XbWJublNXY2pLZjM3d1pZbnNPYm1IdVV5b1ZqdFlpRXFHRWhqNVBRT2FyMXdnRFpCckd4ZU1QUGMyUFNrcUZ1X1lYU3RrUmM0U2FWcWRrX0tZQ0N3T2PSAXNBVV95cUxNcXdHT250eFktaU50VUxCR1EyOXMtV21ibm5TV2NqS2YzN3daWW5zT2JtSHVVeW9WanRZaUVxR0VoajVQUU9hcjF3Z0RaQnJHeGVNUFBjMlBTa3FGdV9ZWFN0a1JjNFNhVnFka19LWUNDd09j?oc=5",
+   "source": "데일리한국",
+   "date": "2026-08-07"
+  },
+  {
    "title": "모두투어, ‘NH모두트래블리적금’ 출시 8일 만에 조기 완판 - ksdaily.co.kr",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjaEs2ZXdQYnBWa2J3Z0RGMTB2NG01Y0dHcHZsUV9FLVJQNVM3OWI5bUZjZ2FqcUZ6UnhuQnE5clB4SENBYm1RODZoOGVjQm55ME9tT29ManFnVm9YWFJSRHhZZ25sWUpuQWdN?oc=5",
    "source": "ksdaily.co.kr",
@@ -4507,18 +4519,6 @@
    "title": "NH농협은행, 모두투어와 출시한 ‘NH모두트래블리적금’ 조기 완판 - 오늘경제",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBIWEpyRE5wQl9nYTl5Vy15Qmh1bHY3YXFIQy0zQUlkbzJQb0N5YnpOXzI3djBKUnl6OTdydzVObkdxUGhKcWFuTGxhU0NhU1JqMVZ4WXJTRW1KMEl2Z1R1aHNuaHFuVFNBa0t0aE5Nb1pHcU0?oc=5",
    "source": "오늘경제",
-   "date": "2026-08-07"
-  },
-  {
-   "title": "토스뱅크, ‘키워봐요 31일 적금’ 출시 - 주간한국",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0ydU9BMHJDTVh6a1Z2R2Nac29uZWc3RjEycC0xX1dDRmowU0lYV2x5bWpLMTFYcGNHN0x4QWpxVmo3Y1FxMG1qQ3c5UG1Uak43T1dGbjJ2S1dhblZPUUpyNFhtQ1RkVHpuWnh5UmtILWw2RHNu0gF0QVVfeXFMTTJ1T0EwckNNWHprVnZHY1pzb25lZzdGMTJwLTFfV0NGajBTSVhXbHltaksxMVhwY0c3THhBanFWajdjUXEwbWpDdzlQbVRqTjdPV0ZuMnZLV2FuVk9RSnI0WG1DVGRUem5aeHlSa0gtbDZEc24?oc=5",
-   "source": "주간한국",
-   "date": "2026-08-07"
-  },
-  {
-   "title": "토스뱅크, 31일 적금 출시…신협, 고창 해상풍력 1000억원 지원 [금융 PICK] - 뉴스포스트",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CeVhQRWpuenZ2b1pxVFIwWlhYUlFKNGtMOGQ4dHBacXpuYlBaOXUxQWEyX3Z5NEI4ZHFmVlJnVWpEV01BQTQyRXpoOF9tdGRtelV0TTZmSm16dlRPM0VjWHlVSGNmTWpN?oc=5",
-   "source": "뉴스포스트",
    "date": "2026-08-07"
   }
  ],
@@ -5019,7 +5019,9 @@
   "721cc341292a2061",
   "0ad32d600641f013",
   "8c43b124d2ab2420",
-  "de5c8c46567192cd"
+  "de5c8c46567192cd",
+  "e7c9fa9cb9845832",
+  "7c2554e7aed29a41"
  ],
  "news_seeded": true,
  "news_products": [
@@ -5294,7 +5296,7 @@
    "norm": "NH모두트래블리적금",
    "rate": 5.05,
    "first_news": "2026-07-31",
-   "count": 36,
+   "count": 38,
    "articles": [
     {
      "title": "[게시판] 농협은행, 모두투어 제휴 'NH모두트래블리적금' 출시 - 연합뉴스 한민족센터",
