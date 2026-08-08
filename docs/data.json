@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-08 22:03",
+ "updated_at": "2026-08-08 22:50",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -4450,6 +4450,12 @@
  ],
  "news": [
   {
+   "title": "“다람쥐 키우며 매일 저금”…토스뱅크, 최고 연 10% ‘31일적금’ 출시 - spochoo.com",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XY3pIWnY2cUViSlVlQ0luNWZ1RDloVURobVNsZXRoREExeC1zV053dHFiREh1WUdhUUpxck5sai01aUcwOW9sUy1GRTdBdWVhcDVwaTVMc2JfS29LZzRfZGtNbWJ2ci1pTEHSAWxBVV95cUxQbUJ4OExDbjg0VEhHcnFySFoxczRuYWdSZTRYMXktdVQyZHVwaWE0X0pBM3RndC1VVFJyblFBeFBnSnF6elNOSzQ5ZjBWRnJINnFrOVpKeDd1Wlk1ZjR3al9iaXBHM1c1UVlLeDY?oc=5",
+   "source": "spochoo.com",
+   "date": "2026-08-06"
+  },
+  {
    "title": "‘최고 연 10%’ 토스뱅크, ‘키워봐요 31일적금’ 출시 - 에너지경제신문",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlcndwbnpKWTdBTzdxajlObDAwMDRGbzFqcEg1ZmxiNjgyY1VKeFdxTFZJdEVrZzQ2TWN2bkN5RDhNUV83Z1pnc3F4b0w3NmU0V19yR216NGR4bG8?oc=5",
    "source": "에너지경제신문",
@@ -4514,12 +4520,6 @@
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zenY4MFVOWHBMMlFBclUzbkN0TndWV1N0cFR4Y2llNVh2dEJWY1l2YlQ1LUktbl9xc2tvTDRZd1FsSTR5NVF0aFhMZ3JYVGJkbzhPRjlUc1k3aUNJVGI4V1hMNVhuZDd0MmtF?oc=5",
    "source": "비즈월드",
    "date": "2026-08-06"
-  },
-  {
-   "title": "\"코스피 떠나는 개미들 잡아라\"…'연 7~8% 적금'까지, 고금리 특판 뜬다 - 뉴시스",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5Mm1UbW9xUHQxR1c4czgxXzNyTVhkbzREX0M3Y1JlRW1vR252LUg2cHMzLTBtbWtkSWRmaHg0Mk5oMlZ4WGNEY09pb090VDdsNHFhalgxampzSVBoenpwZ9IBeEFVX3lxTFBXcVJWaHlReV9RZVhRanhGcWZSQ2tiVGktblJSZ0s2Q3FtRGJvQVFhUUNWM19TNjFuaVMyd2tkUjNrU0JYbGtFSEMxa2NRcUhOT2Mtbk9nYW9SQUxGejE4emtoTDdKMWJUa2FJVTBsWTZWejlneDEySw?oc=5",
-   "source": "뉴시스",
-   "date": "2026-08-05"
   }
  ],
  "news_seen": [
@@ -5041,7 +5041,8 @@
   "0f56c4166ceb5e5f",
   "ba40f050ff6b9241",
   "5f6e3aaf42ec6cd3",
-  "ce26c1ad052af94d"
+  "ce26c1ad052af94d",
+  "7ce1f0b033c4441b"
  ],
  "news_seeded": true,
  "news_products": [
@@ -5068,7 +5069,7 @@
    "norm": "키워봐요31일적금",
    "rate": 10.0,
    "first_news": "2026-08-06",
-   "count": 39,
+   "count": 40,
    "articles": [
     {
      "title": "토스뱅크, '키워봐요 31일적금' 출시…매일 저금하면 최고 연 10% - 데일리안",
