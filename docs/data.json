@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-08 16:04",
+ "updated_at": "2026-08-08 16:54",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -4450,6 +4450,12 @@
  ],
  "news": [
   {
+   "title": "토스뱅크, '키워봐요 31일적금' 출시…최고 연 10% 금리 - 네이트",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLUVZLUkhNMFh6U2Z5Mm1XNnlPOVJmRTJRb293S2dIalBlbkFpczhfTnBZUmJEVmx6cWZPdE14T3pYSEVoUWJDY2lpY0pzUXBBRTJv?oc=5",
+   "source": "네이트",
+   "date": "2026-08-06"
+  },
+  {
    "title": "NH농협은행 ‘NH모두트래블리적금’, 출시 8일 만에 1만좌 완판 - 뉴스드림",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqcWpXbHJOZDNRUFVfc1gzNDlKMnFzYm9neDRNOUo4Y0JDbjBCUnVuZEhJUml3d0VacHpNRGpQM0UtVTFIS3cxREwxaUVGa3Zjd0hlV1ZlYXRmcGExZHU4S214aUdPLTh5eGNF0gFuQVVfeXFMT2xpcHQzMVJFVVlDd3NsTFpFMEVPQ2JsYkhtTF9JeWJGbnpsZTUwSlI3Z1Vvd19JQTVyM3Zlcml5dmQ0NF9yaWNrYXlVMTB2QTFYdkZ3ejlsdFROVzhGSXNfWFl4X0NOOTNKcThVNGc?oc=5",
    "source": "뉴스드림",
@@ -4513,12 +4519,6 @@
    "title": "NH농협은행, ′NH모두트래블리적금′ 최고 연 7.3% 금리 힘입어 출시 8일 만에 1만좌 완판 - 일요주간",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xdGk5SmZBd1NDRXUxV0FuZUZQQjA5ajVKRVlLYTNwMXZ0MnVGWkJzSVdLbGR6YURjRkxQeVRtSUJwT1N2MFJsaDRIRTU5Sm1RT1U2Y0FmemU5Z1ItdDcxdGVfWDN1ZzRfVXBxZEJCWHplbjA?oc=5",
    "source": "일요주간",
-   "date": "2026-08-07"
-  },
-  {
-   "title": "농협은행, 모두투어와 출시한 'NH모두트래블리적금' 조기 완판 - 데일리한국",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96amRSODRNOTViSkU4QnJyMGVGV09DZnBvOGdWRkZ0cS14NmE4Yk0xLTV5Q3Z5cmdOTzVQcEVJeEU2WWJ5Uks4dzBTN214RGw1R2hkUVVtM25ZQThxdVpueEJTSGo3NHB4Z3BQbW5VNNIBc0FVX3lxTE1xd0dPbnR4WS1pTnRVTEJHUTI5cy1XbWJublNXY2pLZjM3d1pZbnNPYm1IdVV5b1ZqdFlpRXFHRWhqNVBRT2FyMXdnRFpCckd4ZU1QUGMyUFNrcUZ1X1lYU3RrUmM0U2FWcWRrX0tZQ0N3T2M?oc=5",
-   "source": "데일리한국",
    "date": "2026-08-07"
   }
  ],
@@ -5038,7 +5038,8 @@
   "0cee0a496600dd43",
   "b19ac7d6580f5a55",
   "ce0d1736baaeee87",
-  "0f56c4166ceb5e5f"
+  "0f56c4166ceb5e5f",
+  "ba40f050ff6b9241"
  ],
  "news_seeded": true,
  "news_products": [
@@ -5065,7 +5066,7 @@
    "norm": "키워봐요31일적금",
    "rate": 10.0,
    "first_news": "2026-08-06",
-   "count": 36,
+   "count": 37,
    "articles": [
     {
      "title": "토스뱅크, '키워봐요 31일적금' 출시…매일 저금하면 최고 연 10% - 데일리안",
