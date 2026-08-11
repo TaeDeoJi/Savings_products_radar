@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-12 05:55",
+ "updated_at": "2026-08-12 06:56",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -4450,6 +4450,18 @@
  ],
  "news": [
   {
+   "title": "NH농협은행, 창립기념 'NH농심천심예금·적금' 출시…최대 8.15% 금리 제공 - ttlnews.com",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfRVk0NnJ3d2RqRkd4Z3V0Wk5BS1FBX1p1Sk84M0hESkhEdXlTclliTXAtdVYxWmNZQzZsNXpNa0ZnU0pZYklzeEJVUTNvLVo1a2RJdmJWZ0d3QlRGNmNYMF9QRFZZdEZBUnc?oc=5",
+   "source": "ttlnews.com",
+   "date": "2026-08-11"
+  },
+  {
+   "title": "NH농협은행, 창립기념일 맞아 'NH농심천심예·적금' 출시 - 모바일한경",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uTXR3MmZXbndpWERDQWkyS2J1YjZDZkJhU0pLQUV3aV94cXY1SXpVQ285aHlXTnpwa2ppWFdUTFNxVmlJRmRyZ0pGekcyaElBZ2RKZWRHM2FfOW5ZWlpJcUVPSlhKRFQzcjZ4WTVZbGsxWk9sVjRBTm9PT2hhLTQ?oc=5",
+   "source": "모바일한경",
+   "date": "2026-08-11"
+  },
+  {
    "title": "NH농협은행, 창립기념 ‘NH농심천심예·적금’ 출시…최고 연 8.15% - 더퍼블릭",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sRlVETmdCcE1sSmVoS0VEWUpCYUNVTDl6TzFVTE45V3NwamhsXzBFTkpGbExwYV8tUUM1NHFvMHRIMG5qaDNKUUxLdDVNbE9vUExLZENZbURKM1hkNlh0ejBFRDlCMXM1azM40gFvQVVfeXFMTjhFcGVpWFBaOHZsUWNqQ3NjSktfZkUtVGh1UFFvbDV2b08tY19ncm5aclRtcGZWWW9TWk5VQVo0Yk9QeWFtUEpUelFiMnkxelBmR1ZubUxWVzVKWTZ5SlVCZE9sdHJjVzBMTVh0N3pz?oc=5",
    "source": "더퍼블릭",
@@ -4507,18 +4519,6 @@
    "title": "농협은행, ‘NH농심천심예·적금’ 출시…최고 연 8.15% - 디지털데일리",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IY0JBcjRmRjBrUVNyVWFkUkVIczVxaUs5SG84MWVFX2t3NVZSWEMtWmhfSXZ0QXhVYVNvTkZkZXRWNER1M1BtMGpjaTQwWmFWakQ2S3Z5R0o3b0JOQjNGY0hfaUFjbm8?oc=5",
    "source": "디지털데일리",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "NH농협은행, 'NH농심천심' 예·적금 출시…적금 금리 최고 연 8.15% - news.nate.com",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Wa3h4Ukp1Zmt3TkQyaGVBLWpHbW1WbzVfekR4dDZtMm1lZVRCcE04a2xJNkxFZFRMdDk1a3NIUVZDSGdxNEo4ZG93SVViaEZBZVZfUGF5Um82Z3FBbTVhellxT0p6cEkzeGhySTFHNFFSZXNEdG1ZRQ?oc=5",
-   "source": "news.nate.com",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "[카드] 농협은행, 창립기념 '농심천심' 예·적금 출시 - news.nate.com",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xN0o3NUs2Q0stcUZFeWljUXBJbHhPY2dwVktlYVZPTVRaek9YU2dBM3pnX3NicWdaYWJkYlJVa01ONXc2dndIN0h5Q3VJY0RoSFVj?oc=5",
-   "source": "news.nate.com",
    "date": "2026-08-11"
   }
  ],
@@ -5144,7 +5144,9 @@
   "3458c873b12a3071",
   "1d3763aa104ce116",
   "bf6d2d8e45abc63a",
-  "f83b2c5e68453f3c"
+  "f83b2c5e68453f3c",
+  "457eb2bdd49be549",
+  "645fdbe43884e078"
  ],
  "news_seeded": true,
  "news_products": [
@@ -5189,7 +5191,7 @@
    "norm": "NH농심천심예·적금",
    "rate": 8.15,
    "first_news": "2026-08-11",
-   "count": 33,
+   "count": 34,
    "articles": [
     {
      "title": "NH농협은행, 창립기념일 맞아 ‘NH농심천심 예·적금’ 출시…최고 연 8.15% 금리 - 아시아투데이",
@@ -5241,7 +5243,7 @@
    "norm": "NH농심천심예금·적금",
    "rate": 8.15,
    "first_news": "2026-08-11",
-   "count": 2,
+   "count": 3,
    "articles": [
     {
      "title": "NH농협은행, 창립기념 'NH농심천심예금·적금' 출시…최대 8.15% 금리 제공 - 퍼블릭뉴스통신",
@@ -5253,6 +5255,12 @@
      "title": "NH농협은행, 창립기념일 맞아 ‘NH농심천심예금·적금’ 출시 - 아시아에이",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lTUMxYVpZWVVwWGlFdVVaMEphejZocFdyZWtuVEl5ZlI5WEpvY1prcWNJbXNMbG9uQUNTN1g2OTlEUnRkU3BOTUtESEdsZ3NSZzZnUHhXWFRNYm5mNi1JSVVKd3otNDZLM1HSAW5BVV95cUxNWVYySGphUVdteFFOeG52N042TlhkdEVXQThZQ0VzSEx1aE5HYVp6Q3FXMWdTSFZjeDF4TXloX3lSZUF6NDNGbF9iOVd4QUFYbzhTWW0tbGQ5bFlnUlpEVjd0NDFpTUlfcGxEX3lTdw?oc=5",
      "source": "아시아에이",
+     "date": "2026-08-11"
+    },
+    {
+     "title": "NH농협은행, 창립기념 'NH농심천심예금·적금' 출시…최대 8.15% 금리 제공 - ttlnews.com",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfRVk0NnJ3d2RqRkd4Z3V0Wk5BS1FBX1p1Sk84M0hESkhEdXlTclliTXAtdVYxWmNZQzZsNXpNa0ZnU0pZYklzeEJVUTNvLVo1a2RJdmJWZ0d3QlRGNmNYMF9QRFZZdEZBUnc?oc=5",
+     "source": "ttlnews.com",
      "date": "2026-08-11"
     }
    ],
