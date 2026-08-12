@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-12 11:31",
+ "updated_at": "2026-08-12 13:53",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2936,26 +2936,26 @@
      "save_trm": 12,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.3,
-     "intr_rate2": 3.5
+     "intr_rate": 3.31,
+     "intr_rate2": 3.51
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.14,
-     "intr_rate2": 3.34
+     "intr_rate": 3.15,
+     "intr_rate2": 3.35
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.11,
-     "intr_rate2": 3.31
+     "intr_rate": 3.13,
+     "intr_rate2": 3.33
     }
    ],
-   "best_rate": 3.5,
-   "best_base_rate": 3.3,
+   "best_rate": 3.51,
+   "best_base_rate": 3.31,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%EC%9D%80%ED%96%89%20%EB%AF%B8%EC%A6%88%EC%9B%94%EB%B3%B5%EB%A6%AC%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88",
    "first_seen": "2026-07-31",
@@ -2979,15 +2979,15 @@
      "save_trm": 1,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.35,
-     "intr_rate2": 2.45
+     "intr_rate": 2.36,
+     "intr_rate2": 2.46
     },
     {
      "save_trm": 3,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.58,
-     "intr_rate2": 2.68
+     "intr_rate": 2.59,
+     "intr_rate2": 2.69
     },
     {
      "save_trm": 6,
@@ -3000,26 +3000,26 @@
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.2,
-     "intr_rate2": 3.4
+     "intr_rate": 3.21,
+     "intr_rate2": 3.41
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.04,
-     "intr_rate2": 3.24
+     "intr_rate": 3.05,
+     "intr_rate2": 3.25
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.01,
-     "intr_rate2": 3.21
+     "intr_rate": 3.03,
+     "intr_rate2": 3.23
     }
    ],
-   "best_rate": 3.4,
-   "best_base_rate": 3.2,
+   "best_rate": 3.41,
+   "best_base_rate": 3.21,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%EC%9D%80%ED%96%89%20%EC%8A%A4%EB%A7%88%ED%8A%B8%EB%AA%A8%EC%95%84Dream%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88",
    "first_seen": "2026-07-31",
@@ -3043,12 +3043,12 @@
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.1,
-     "intr_rate2": 3.6
+     "intr_rate": 3.11,
+     "intr_rate2": 3.61
     }
    ],
-   "best_rate": 3.6,
-   "best_base_rate": 3.1,
+   "best_rate": 3.61,
+   "best_base_rate": 3.11,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%EC%9D%80%ED%96%89%20%EA%B5%BF%EC%8A%A4%ED%83%80%ED%8A%B8%EC%98%88%EA%B8%88",
    "first_seen": "2026-07-31",
@@ -3601,26 +3601,26 @@
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.12,
-     "intr_rate2": 3.12
+     "intr_rate": 3.13,
+     "intr_rate2": 3.13
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.2,
-     "intr_rate2": 3.2
+     "intr_rate": 3.23,
+     "intr_rate2": 3.23
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.29,
-     "intr_rate2": 3.29
+     "intr_rate": 3.31,
+     "intr_rate2": 3.31
     }
    ],
-   "best_rate": 3.29,
-   "best_base_rate": 3.29,
+   "best_rate": 3.31,
+   "best_base_rate": 3.31,
    "best_term": 36,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85%EC%9D%80%ED%96%89%20IBK%EB%8D%94%EA%B5%B4%EB%A6%AC%EA%B8%B0%ED%86%B5%EC%9E%A5%28%EC%8B%A4%EC%84%B8%EA%B8%88%EB%A6%AC%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88%29",
    "first_seen": "2026-07-31",
@@ -3665,12 +3665,12 @@
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.27,
-     "intr_rate2": 3.27
+     "intr_rate": 3.28,
+     "intr_rate2": 3.28
     }
    ],
-   "best_rate": 3.27,
-   "best_base_rate": 3.27,
+   "best_rate": 3.28,
+   "best_base_rate": 3.28,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85%EC%9D%80%ED%96%89%20IBK%EA%B5%B4%EB%A6%AC%EA%B8%B0%ED%86%B5%EC%9E%A5%28%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88%29",
    "first_seen": "2026-07-31",
@@ -4450,6 +4450,54 @@
  ],
  "news": [
   {
+   "title": "다람쥐 키우며 최고 연10%…토스뱅크, '31일적금' 출시 나흘 만에 10만좌 돌파 - 비욘드포스트",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16bVlROUwtTGc0QmdUaW5qZkdqLUhMM3MyVmZieTd1dnpqZVlWaEllbzY3VWN5akVRcmVjUGliNUMyX3hCQlFKR3hOeEhWTzRER0FvR0xhSzgzRVpPM2IwMnRtWFVESk8xbEloTmFyMTlPZnlWR2VxR1psMA?oc=5",
+   "source": "비욘드포스트",
+   "date": "2026-08-12"
+  },
+  {
+   "title": "토스뱅크, ‘31일 적금’ 출시 4일 만 10만 좌 넘어 - 부산일보",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83MFZSOUpza0pibFluUFpMd3NhQzdvOXVpWnNOSkpLbEp4R0ZZUTZULUlkUVg3TG1RSVg5aGNLUTRXQW8ydVNFb2VQUjB2aVllSFRBNUJIaW5ueWkzdVJ6RUNEVm5CQ0F6c09Hczl4dzU0eTJH?oc=5",
+   "source": "부산일보",
+   "date": "2026-08-12"
+  },
+  {
+   "title": "[카드] 토스뱅크 '키워봐요 31일적금' 출시 4일 만 10만좌 돌파 - 네이트",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NXzBzTkZHanJCODk3TnVkYVhCdGhIcC1pSEpBVHhYTnpaNmxkZmdPdTJQcGk3TUVSZGk3SmM5SjNhdGsyYng5RTRoWU5hQjhPSG5oMUZObjhGUXQyazM4Y29zbHFsV0RpbklZUDQzZWUxTTNLVDZJSw?oc=5",
+   "source": "네이트",
+   "date": "2026-08-12"
+  },
+  {
+   "title": "토스뱅크 '키워봐요 31일적금' 흥행…출시 4일 만에 10만좌 돌파 - 퍼블릭타임스",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SUjlUZzhGX3N3eWVFakJLWFRBa2RzNDdicWJFV3pMNlRQdVlpc0REZmZwdktwSmpXMTdGa0Rld0FNWlJsRHVKU2dCMzdaQkYwUlJkcnM3dkdRSGxYajRKMVBNZmVNQmp5cXfSAW5BVV95cUxOSkFKdHQ4VDJfb3hrckp3SkJEc2g1dF9aT1FrRlVjaUNRVmNDcGZPeEtHQjc3U2EtUF9YclNVR0VoYTRvanh6ekg0WUx0TnFPYWNBS0pUdEc2YlVsaFRVSF9IN3N1VnloYmw3YVBlQQ?oc=5",
+   "source": "퍼블릭타임스",
+   "date": "2026-08-12"
+  },
+  {
+   "title": "토스뱅크 '키워봐요 31일적금', 출시 나흘 만에 10만좌 돌파 - 네이트",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xMEE1MlRYazZXNzZFM1VCVUt1N2xyc0FjV2dOcHF5LWtRLUg5SWJEaTE2Z2o2VVVMdWhSNHNzT25FWENfU09WNFNmVS11VmlRNGVj?oc=5",
+   "source": "네이트",
+   "date": "2026-08-12"
+  },
+  {
+   "title": "토스뱅크, ‘키워봐요 31일적금’ 출시 4일 만에 10만좌 돌파 - 데일리한국",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5Nno4S09heEN1NEVoTTVFZkJaXzg0REFWVkRyNEhTbUk4Y01sZ3Z0Q3J4TVNWSHBQRThJZDExTVItd1ZOMXltUUs3Vmk5ZkJzdXR6ZGI3NVh6QXZidkZKN29tTG10QnZQVUM2TXI2VTd1SkHSAXNBVV95cUxQOTZ6OEtPYXhDdTRFaE01RWZCWl84NERBVlZEcjRIU21JOGNNbGd2dENyeE1TVkhwUEU4SWQxMU1SLXdWTjF5bVFLN1ZpOWZCc3V0emRiNzVYekF2YnZGSjdvbUxtdEJ2UFVDNk1yNlU3dUpB?oc=5",
+   "source": "데일리한국",
+   "date": "2026-08-12"
+  },
+  {
+   "title": "NH농협은행, 창립기념 ‘NH농심천심예·적금’ 출시…최고 연 8.15% - 더퍼블릭",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44RXBlaVhQWjh2bFFjakNzY0pLX2ZFLVRodVBRb2w1dm9PLWNfZ3JuWnJUbXBmVllvU1pOVUFaNGJPUHlhbVBKVHpRYjJ5MXpQZkdWbm1MVlc1Slk2eUpVQmRPbHRyY1cwTE1YdDd6c9IBb0FVX3lxTE44RXBlaVhQWjh2bFFjakNzY0pLX2ZFLVRodVBRb2w1dm9PLWNfZ3JuWnJUbXBmVllvU1pOVUFaNGJPUHlhbVBKVHpRYjJ5MXpQZkdWbm1MVlc1Slk2eUpVQmRPbHRyY1cwTE1YdDd6cw?oc=5",
+   "source": "더퍼블릭",
+   "date": "2026-08-11"
+  },
+  {
+   "title": "강호동 농협중앙회장, NH농심천심 예·적금 신상품 출시 기념 가입 - 네이트",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qbXdDVUd4cUpkcGNDdFowUVdyU0ZuNzA2VmlUWGwtTVdJT0hVakozdmo5MFU1c2x6emJ5anc2R1UwejFoc01aMUJlNUh1ZFBHdUxz?oc=5",
+   "source": "네이트",
+   "date": "2026-08-11"
+  },
+  {
    "title": "토스뱅크 '키워봐요 31일적금' 출시 4일만에 가입 10만좌 돌파 - 뉴스핌",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TWW1SQ1BLeFQ3MUh6bzNaaWRqZFZzX3JFTVR1bVRlNTVHWTlDaE9iVGZOSjN6bU9rRFFac3N0YUR6anFvLUdNRjVMcWFKSmdXRDFKY0Z3YmhFbFBB?oc=5",
    "source": "뉴스핌",
@@ -4472,54 +4520,6 @@
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iVUNWWTN0RUFyakZ2RXY1Ui14SUU4SEQ4bFZIdEI4R3RVaFJXYUhfSjVXejY5TUFwbDM5Wk9WMkx6eTc5QmM0ZDBnVnpzekVLbmJjcnB3?oc=5",
    "source": "지디넷코리아",
    "date": "2026-08-12"
-  },
-  {
-   "title": "NH농협은행, 창립기념일 맞이 'NH농심천심예·적금' 출시 - CEO스코어데일리",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xWUNPZjhyNXV3aHpFZm5ZcXVfUVRXX1ZuTEhqV2FvZDVtUDB0emVNMkhFYjFGeF9ITXJzaktkeF9qN2JXWDF1dkdmUmhwU0kxeTViRlZObDFvRGJLYmJXak5zR2NnMzE0WUI0?oc=5",
-   "source": "CEO스코어데일리",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "농협, NH농심천심 예·적금 신상품 출시 - 네이트",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yWEZyS0E2LVFFb2pPRTJYdEVHdFFLRWxtR1BlampyZTh6LWtOZ2phdndKNUg1RVVfQ3pKV1lwZU9VVEJySlhyaGZhZkdtQWM0VFMtWUY5UENhREVrcHY0SQ?oc=5",
-   "source": "네이트",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "NH농협은행, 창립기념일 맞아 최고 연 8.15% 적금 출시… 예금 연 3.7% - 우먼타임스",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aVGQ1RzRSdFA3Y1N6MHBzQ1cyLXB1dENPaURVRThhLV9FZi1wRWxocDlPWnFyQzBMdHV6YVFDMnc2ZmM3OU0zSlBUTGFzYV9qY090RmdiZldxSG5uUUJkVmVhbjcxQ1hCWjhxLW1DQTI4blZ00gF0QVVfeXFMTlpUZDVHNFJ0UDdjU3owcHNDVzItcHV0Q09pRFVFOGEtX0VmLXBFbGhwOU9acXJDMEx0dXphUUMydzZmYzc5TTNKUFRMYXNhX2pjT3RGZ2JmV3FIbm5RQmRWZWFuNzFDWEJaOHEtbUNBMjhuVnQ?oc=5",
-   "source": "우먼타임스",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "NH농심천심 예·적금 신상품 출시 - 뉴스1",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE56MlAwRFVlTDRkQVNoYmR5QlpZNlNaY1BkME5QU1k5XzJjT0N1VXI3UVk2Z1hQaVdKb3ZEbU9VNXIxaldiUTBNbDJNUQ?oc=5",
-   "source": "뉴스1",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "NH농협은행, 창립기념일 맞아 'NH농심천심예·적금' 출시 - 한국경제",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBocHQ3N3QteVh0SkhnRnlwbFlFSHJSRVQ1RWVvWkwyaUpLbDdNZFROQUpZajRpUFFJaXEtSzlLSWlzS0RPbVJKM1FsVkk3MjhBYWVYam9sUGRLZw?oc=5",
-   "source": "한국경제",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "농협은행, 농심천심 예·적금 출시…금리 최대 연 8.15% - 네이트",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zcjFoRWp4QTg5QVUyQVZvQjdWUDVJVnQtX3EtWGEtbGtza2VWaWd6WXZNbWI3SmR0cjFDY0dIbjJFYi11QjFlRXJOZGQ1Z0dDZ2s1SXRzWnhTRTlUeHVJRVNueWpOcjM2MjhHNzR3?oc=5",
-   "source": "네이트",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "NH농협은행, 창립기념일 맞아 'NH농심천심 예·적금' 출시…최고 연 8.15% 금리 - 네이트",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzN1A2S3lnWHpJeWJRRXVZQ2o0Mk9MTmhGVTk5alVOVW9vd1FLN05ZdFc4VE9YVWlWc2xMRDRMaTd5VEFPV2dXTW5oX19vTmFpWWFSVm1rdWViTk8tUks3NzItVmNJM2lWbUVVUHg1Z1VDN1FDV3V6ag?oc=5",
-   "source": "네이트",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "NH농심천심 예·적금 신상품 출시 - 네이트",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TbVBlTWM2cVYyQW8wb2xjb1RWZUc1cW1HZFozMlh2TU1QZVJSbzU3eHNLWE5zTVBydmdxM1E0VWNqUE5uYnBuTFJvWWprVGltTmdn?oc=5",
-   "source": "네이트",
-   "date": "2026-08-11"
   }
  ],
  "news_seen": [
@@ -5158,7 +5158,15 @@
   "f54477ef26401629",
   "676da7e2d4af2580",
   "d8231189e3754228",
-  "f647ffa9c97d1646"
+  "f647ffa9c97d1646",
+  "3fc91c7ca868ee24",
+  "469d9062e4980f19",
+  "63cc5d74cb44dc3d",
+  "ea8e504e01a24858",
+  "dbbf0f4fa3c6557b",
+  "65a58e8d463ee11f",
+  "83b8e0b82d81c6f9",
+  "c7f1f21112724d93"
  ],
  "news_seeded": true,
  "news_products": [
@@ -5203,7 +5211,7 @@
    "norm": "NH농심천심예·적금",
    "rate": 8.15,
    "first_news": "2026-08-11",
-   "count": 37,
+   "count": 38,
    "articles": [
     {
      "title": "NH농협은행, 창립기념일 맞아 ‘NH농심천심 예·적금’ 출시…최고 연 8.15% 금리 - 아시아투데이",
@@ -5353,7 +5361,7 @@
    "norm": "키워봐요31일적금",
    "rate": 10.0,
    "first_news": "2026-08-06",
-   "count": 47,
+   "count": 53,
    "articles": [
     {
      "title": "토스뱅크, '키워봐요 31일적금' 출시…매일 저금하면 최고 연 10% - 데일리안",
