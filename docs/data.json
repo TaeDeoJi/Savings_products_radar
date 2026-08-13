@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-14 02:06",
+ "updated_at": "2026-08-14 03:02",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -4450,6 +4450,12 @@
  ],
  "news": [
   {
+   "title": "전북은행, 최고 연 4.50% ‘현대자동차 X JB 특판적금’ 출시-이벤트 - 전북중앙",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuNENlU0M0cUFTa2ZYMnNJTUZsamxRWlRfT3JiVzVMcm5pR20zRGdzWV93TFVNT1FJYXJLQmUzOTI2NFhLTktCczJxd2xobjZvdFNPT0dwNGRnTFhCbkVHSUtxdGV5bzNJ0gFrQVVfeXFMTlVWRjBsNjJvUkZ1dlVOMjZZcGl0SFJlaS1obE9rcXliM0ZKd052cVR0NDlRT0FyTHZaRm5rV3ZtU2lSeGY1YV9YRkhZMkVxcmZfN1VDeHB5bThuZmlObks1QUFNTGJoSTF0eG8?oc=5",
+   "source": "전북중앙",
+   "date": "2026-08-13"
+  },
+  {
    "title": "NH농협은행 창립기념 적금 출시…연 8.15% 1만좌 한정 - 창원특례신문",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vaDhJMy1PbFdrV0xxZjZveGY5Sjd6bEhhNGlzdk0wb1RnQU5qT1NkUEdEYUM2dlFtWk1YZXltWThXNl95TklOcmJkanIzeUxGRW1ORWkwR1JoeFZpN0hDWW1XbERqTnfSAWtBVV95cUxPaDFGS2R4Q3FmaXgtUmFLaDNQdXkwN2Z2UkYxSEZZLTJnM3YtclNXYVc3b3JwVElVcHZwWFlFaUpwUjZnTHItR2EtWmdycTdZY0RmVWVQTGxidm9aYmlxaVYya1BJN25md2tYMA?oc=5",
    "source": "창원특례신문",
@@ -4513,12 +4519,6 @@
    "title": "신한은행, 최고 연 9% ‘신한 적금 9단’ 출시…20만좌 한정 판매 - ziksir.com",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Zbk5xbXhPNWV5T1FDdEtldzJ1S2dNd1JrTzdaTWFpVHl4NGxGcW85SmxhOFFtLUQxN3FHcUFtOF85YVRFN2tJX1NzcGxRT0IxZjRyZVF4RVY3UkNodFZ6Vy1YNkNEd2J2c0poctIBbEFVX3lxTE5Zbk5xbXhPNWV5T1FDdEtldzJ1S2dNd1JrTzdaTWFpVHl4NGxGcW85SmxhOFFtLUQxN3FHcUFtOF85YVRFN2tJX1NzcGxRT0IxZjRyZVF4RVY3UkNodFZ6Vy1YNkNEd2J2c0pocg?oc=5",
    "source": "ziksir.com",
-   "date": "2026-08-13"
-  },
-  {
-   "title": "전북은행, 현대차 구매 고객 우대 특판적금 출시 - 아시아경제",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01UHlzOWh3VXBtMlZadUY5MUtsRFAyUjB2bFUydWJXLUVQMU9obWdhM0U5RUNPdUhfbktRTUpIdmItc2FuTkdIaVd6RUJ1QkVXcHNIM0xrOGFxWk04UDdWdFVTeVNXUlUy?oc=5",
-   "source": "아시아경제",
    "date": "2026-08-13"
   }
  ],
@@ -5268,7 +5268,8 @@
   "0d72b587ec94fd7f",
   "77258811505e42d6",
   "2facd002e3a6f236",
-  "4d34213dbe5e5ab0"
+  "4d34213dbe5e5ab0",
+  "28d449c67970e7d1"
  ],
  "news_seeded": true,
  "news_products": [
@@ -5313,7 +5314,7 @@
    "norm": "현대자동차XJB특판적금",
    "rate": 4.5,
    "first_news": "2026-08-13",
-   "count": 6,
+   "count": 7,
    "articles": [
     {
      "title": "전북은행, 최고 연 4.50% ‘현대자동차 X JB 특판적금’ 출시 및 이벤트 실시 - 전북투데이",
