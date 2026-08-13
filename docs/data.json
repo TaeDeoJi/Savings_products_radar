@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-14 07:52",
+ "updated_at": "2026-08-14 08:51",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -4450,6 +4450,12 @@
  ],
  "news": [
   {
+   "title": "신한은행, 최고 연 9% 이자 혜택 '신한 적금 9단' 출시… 20만좌 한정 - 더퍼블릭",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5R3JuTV9jcXBrRlRnWmI0RUJLaE5TTVVXTC1EanhYeWZtdTNWMHRnTkk5ZXVSMTZ0OFc4ZW9pR3FQYlpUNlV4bzhZbDVhT0VSSDEwSXB4V2lTYXlxSjQxcEJHX3ZUbF9Ud1Mw0gFvQVVfeXFMTl9hVWJpN05KaTRpRW50MVNWUGdFcXFNSHFMV2FJNGRsOHVNbjRxcGJQaHRvVnlaWkVqT1ktN3pmWjNBek9jZUNzUTRXV1N0SDhXNkpsSGYxMUtwcmpFNDFBWjNwaG9ibHBURGZHZmo4?oc=5",
+   "source": "더퍼블릭",
+   "date": "2026-08-14"
+  },
+  {
    "title": "신한은행, 최고 연 9% ‘신한 적금 9단’ 출시…청년·첫 거래 고객 목돈 마련 지원 - 퍼블릭타임스",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvS1RmaFh4eGhCaGZ1aEVLc1dWX1FNRzQ4YTdjdEw1VDdmdFh1Q3dHRFhpZmVld0V5clQwbC1RM2FXemZhclhtZXZOYjNDeHg2R0ZlYUxsNlB3Z0h2dGQ2MVd0RUs0WmRKQkHSAW5BVV95cUxNcGluamRxTXJZeGxaVlNOeTgwQXhtT0E3MFFMR21hWnhNWE9id3JUMlh2VlhGMHBpa2xxMGlEclhEMjBuUGV6VTR2dzZvYUlGZTFPSHZZQkdqMnplZDlEdXRpcThwTV8tc2VXUnFjZw?oc=5",
    "source": "퍼블릭타임스",
@@ -4513,12 +4519,6 @@
    "title": "신한은행, 최고 연 9% ‘신한 적금 9단’ 출시 - 인사이트코리아",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6UmZmeXNya2xTZTNGQ0NmMTVxOXhlQjFzeFhvTVF0blVWZl9QSzFOcmVld0MtdURUNDV3SFFabUFHMWxVaFR5SFhWUkZYWkRfRVN6Vm43N0NhbGdRLTRkaW1lVzJWNUItWDhLYUpaZFdSbUnSAXdBVV95cUxNbjEtcnoxbWQ5UEh5UGlxbFJmYTNPRHFnZk1MMGJabzBWT3N2NDg1TFRxQ2tGbHFiSTVtd002VHE2SVVucDN6MGdONnJmM1UzUXowS0hTUWJvSkdFbGtxWE1vMG1mdVEwaFhWeERZbXh3NmFfNGUwSQ?oc=5",
    "source": "인사이트코리아",
-   "date": "2026-08-13"
-  },
-  {
-   "title": "신한은행, ‘신한 적금 9단’ 출시··· 최고 연 9% - enewstoday.co.kr",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KOGRPZVZHLVlwRUlTbmxHNElhczJ3SUdpUFBZM3dpb0IxWUNCbFZCbWVvVmNES2R2ZURfRF84RmRIUUlaTUtZV3BsUDMzcDg3dG9WTm5SYndmNVVJOXNNMUpLUlE3Zkk3VWprSEFfeURWd2pp0gF0QVVfeXFMTko4ZE9lVkctWXBFSVNubEc0SWFzMndJR2lQUFkzd2lvQjFZQ0JsVkJtZW9WY0RLZHZlRF9EXzhGZEhRSVpNS1lXcGxQMzNwODd0b1ZOblJid2Y1VUk5c00xSktSUTdmSTdVamtIQV95RFZ3amk?oc=5",
-   "source": "enewstoday.co.kr",
    "date": "2026-08-13"
   }
  ],
@@ -5274,7 +5274,8 @@
   "aa597aae5b86f332",
   "c9c1f1bf4c3f4cc6",
   "d60bd9637c3b031b",
-  "3a4843efe2e52e5c"
+  "3a4843efe2e52e5c",
+  "0a305e09101d42dc"
  ],
  "news_seeded": true,
  "news_products": [
@@ -5284,7 +5285,7 @@
    "norm": "신한적금9단",
    "rate": 9.0,
    "first_news": "2026-08-13",
-   "count": 50,
+   "count": 51,
    "articles": [
     {
      "title": "신한은행, 최고 연 9.0% '신한 적금 9단' 출시 - 연합뉴스",
