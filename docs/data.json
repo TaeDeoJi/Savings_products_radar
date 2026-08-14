@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-14 15:20",
+ "updated_at": "2026-08-14 17:22",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2936,26 +2936,26 @@
      "save_trm": 12,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.32,
-     "intr_rate2": 3.52
+     "intr_rate": 3.33,
+     "intr_rate2": 3.53
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.17,
-     "intr_rate2": 3.37
+     "intr_rate": 3.18,
+     "intr_rate2": 3.38
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.15,
-     "intr_rate2": 3.35
+     "intr_rate": 3.16,
+     "intr_rate2": 3.36
     }
    ],
-   "best_rate": 3.52,
-   "best_base_rate": 3.32,
+   "best_rate": 3.53,
+   "best_base_rate": 3.33,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%EC%9D%80%ED%96%89%20%EB%AF%B8%EC%A6%88%EC%9B%94%EB%B3%B5%EB%A6%AC%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88",
    "first_seen": "2026-07-31",
@@ -2986,40 +2986,40 @@
      "save_trm": 3,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.59,
-     "intr_rate2": 2.69
+     "intr_rate": 2.6,
+     "intr_rate2": 2.7
     },
     {
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.83,
-     "intr_rate2": 2.93
+     "intr_rate": 2.84,
+     "intr_rate2": 2.94
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.22,
-     "intr_rate2": 3.42
+     "intr_rate": 3.23,
+     "intr_rate2": 3.43
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.07,
-     "intr_rate2": 3.27
+     "intr_rate": 3.08,
+     "intr_rate2": 3.28
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.05,
-     "intr_rate2": 3.25
+     "intr_rate": 3.06,
+     "intr_rate2": 3.26
     }
    ],
-   "best_rate": 3.42,
-   "best_base_rate": 3.22,
+   "best_rate": 3.43,
+   "best_base_rate": 3.23,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%EC%9D%80%ED%96%89%20%EC%8A%A4%EB%A7%88%ED%8A%B8%EB%AA%A8%EC%95%84Dream%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88",
    "first_seen": "2026-07-31",
@@ -3043,12 +3043,12 @@
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.12,
-     "intr_rate2": 3.62
+     "intr_rate": 3.13,
+     "intr_rate2": 3.63
     }
    ],
-   "best_rate": 3.62,
-   "best_base_rate": 3.12,
+   "best_rate": 3.63,
+   "best_base_rate": 3.13,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%EC%9D%80%ED%96%89%20%EA%B5%BF%EC%8A%A4%ED%83%80%ED%8A%B8%EC%98%88%EA%B8%88",
    "first_seen": "2026-07-31",
@@ -3187,40 +3187,40 @@
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
      "intr_rate": 1.7,
-     "intr_rate2": 2.65
+     "intr_rate2": 2.9
     },
     {
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
      "intr_rate": 1.9,
-     "intr_rate2": 2.9
+     "intr_rate2": 3.3
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
      "intr_rate": 2.0,
-     "intr_rate2": 3.7
+     "intr_rate2": 3.8
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
      "intr_rate": 1.85,
-     "intr_rate2": 2.8
+     "intr_rate2": 3.8
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
      "intr_rate": 1.85,
-     "intr_rate2": 2.8
+     "intr_rate2": 3.85
     }
    ],
-   "best_rate": 3.7,
-   "best_base_rate": 2.0,
-   "best_term": 12,
+   "best_rate": 3.85,
+   "best_base_rate": 1.85,
+   "best_term": 36,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A0%9C%EC%A3%BC%EC%9D%80%ED%96%89%20J%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88%0A%28%EB%A7%8C%EA%B8%B0%EC%A7%80%EA%B8%89%EC%8B%9D%29",
    "first_seen": "2026-07-31",
    "is_baseline": true
@@ -3594,8 +3594,8 @@
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.93,
-     "intr_rate2": 2.93
+     "intr_rate": 2.94,
+     "intr_rate2": 2.94
     },
     {
      "save_trm": 12,
@@ -3608,8 +3608,8 @@
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.22,
-     "intr_rate2": 3.22
+     "intr_rate": 3.24,
+     "intr_rate2": 3.24
     },
     {
      "save_trm": 36,
@@ -3644,8 +3644,8 @@
      "save_trm": 1,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.48,
-     "intr_rate2": 2.48
+     "intr_rate": 2.49,
+     "intr_rate2": 2.49
     },
     {
      "save_trm": 3,
@@ -4451,6 +4451,66 @@
  "news": [
   {
    "title": "농협은행 'NH농심천심 적금' 출시 이틀만에 1만좌 완판 - 중소기업신문",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tZUF5aUQ0X2piWlBNVzhnbGZmNGg1XzI5NGFUcDNPY18zUDUxZ2diSVFudGhvc0RzTWpiVWxBbEt4eG1CV1NFbEtHUllBMHZwQk5qSDRNVzk4dXBtYUhZcE5ZTUhTNjd0RU1iT0hn?oc=5",
+   "source": "중소기업신문",
+   "date": "2026-08-14"
+  },
+  {
+   "title": "NH농협은행 적금 출시 하루 만에 완판…1만좌 모두 소진 - 뉴스퀘스트",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40cE1tRmZKMlhBTHR2Qmxaa2UxdlEtcTYxV2Z6aW84dFF6Nl9reTRvNldPYlR0Q01jQkFEVHFEQkVJVmxaU3hoVnQ3d24tVzc3OFNDVEQ2M0t3MDhfdmFHM2dDX0NjMzZHbWI3UUE0Q0s3Y3PSAXNBVV95cUxONHBNbUZmSjJYQUx0dkJsWmtlMXZRLXE2MVdmemlvOHRRejZfa3k0bzZXT2JUdENNY0JBRFRxREJFSVZsWlN4aFZ0N3duLVc3NzhTQ1RENjNLdzA4X3ZhRzNnQ19DYzM2R21iN1FBNENLN2Nz?oc=5",
+   "source": "뉴스퀘스트",
+   "date": "2026-08-14"
+  },
+  {
+   "title": "NH농협 '농심천심 적금', 출시 이틀 만에 1만좌 완판…최고 연 8.15% - 퍼블릭뉴스통신",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZS0NlUF9sUVFlb0dWVEl2c0UwWWJWMVlLTGZqdUVKZmFkaVYzLTNMVzlDRG9jVHZKX3lSX1V1aEFuRHBrZlpzMGJ1VExJOTVDOFBGM08wVF90clhPTmk2ZFZEUFg1T3Bob0FF?oc=5",
+   "source": "퍼블릭뉴스통신",
+   "date": "2026-08-14"
+  },
+  {
+   "title": "농협은행 '농심천심 적금' 흥행…출시 이틀 만에 '1만좌' 완판 - 뉴스웍스",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBlU3EweGtJMVZXUXE2X2ZFbHRya21BN2lOZ2tCZXFlR2tKenpIVGVzMkdLdF82endHT2ZjZWE1b2F5RmtSc3B4RjdwQ0p5ejJJNDFwNExKMnBmOGxYSDRhcU1xNlVRZjZudDF6VGNXSUZxMW_SAXNBVV95cUxQZVNxMHhrSTFWV1FxNl9mRWx0cmttQTdpTmdrQmVxZUdrSnp6SFRlczJHS3RfNnp3R09mY2VhNW9heUZrUnNweEY3cENKeXoySTQxcDRMSjJwZjhsWEg0YXFNcTZVUWY2bnQxelRjV0lGcTFv?oc=5",
+   "source": "뉴스웍스",
+   "date": "2026-08-14"
+  },
+  {
+   "title": "“최고 연 8.15% 대박 금리에 쏠린 눈”… NH농협은행 ‘NH농심천심 적금’, 출시 이틀 만에 1만좌 완판 - 스마트경제",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kX1pYRFRvZEhOMklhQXdBTENWcExhcmJTaFU4dy1PNWN3QzB4SW5tN193LVVKLU1tLUZoQXlnczd6X0hvQTNsRzV3cy1yQVgxZnBNaklwY09xbzJpemdBZ0RJNmZvbTJfM1lwNFFqd2I?oc=5",
+   "source": "스마트경제",
+   "date": "2026-08-14"
+  },
+  {
+   "title": "NH농협은행, ‘NH농심천금 적금’ 1만좌 소진…출시 이틀만 - 소년한국일보",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NQmY3OFE2c0xfX1lmdkNPRFBJd045Ykg1SnBfZXBHZDFuWElwalMzZkN1WGppTWlPR0NrWTJoWnBoeGhXckdsZTMyeGF0eDJvTHBGZ0VGc0ZidEU1d0NaZ3VQMC00cEw3VDFESNIBcEFVX3lxTE8zSnVGeVQ3bUREUnNjRm9Sci1IV3ZoRWtDc2lfeDJvb1FnX2gzeFVSMFhaOVJsS21YQW10SDc1RHpZaDRiYUZuT09qLWNfbEl3WnVrblpwcVJOVUxaaHpwM3ZFVzZReWNvU3NieU9aRHM?oc=5",
+   "source": "소년한국일보",
+   "date": "2026-08-14"
+  },
+  {
+   "title": "농협은행, 'NH농심천심 적금' 출시 이틀 만에 1만좌 완판 - 화이트페이퍼",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kS1JLVXlicEZ6NkFpbDd4bDF2NWhnQUs4S2dxYVRLQng1enNfWllNSG5GTXR5ZEtQNjRKenQ0UjU5UEZ6djlGMXY3SWtObHBwT3plb0xMZHVZbkNWTWZSSHZobjBCS3hmcFdodHZ2UHVBbVHSAXNBVV95cUxNZEtSS1V5YnBGejZBaWw3eGwxdjVoZ0FLOEtncWFUS0J4NXpzX1pZTUhuRk10eWRLUDY0Snp0NFI1OVBGenY5RjF2N0lrTmxwcE96ZW9MTGR1WW5DVk1mUkh2aG4wQkt4ZnBXaHR2dlB1QW1R?oc=5",
+   "source": "화이트페이퍼",
+   "date": "2026-08-14"
+  },
+  {
+   "title": "신한은행, 최고 연 9% ‘신한 적금 9단’ 출시 - 시사코리아",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5fbElTZUthOXhEVW8tSW1xVGtQbWd5cTFOems5cnloZjh6eGlJUksyV3gwM21mMHpOcHVrRkoxSVZIYloz?oc=5",
+   "source": "시사코리아",
+   "date": "2026-08-13"
+  },
+  {
+   "title": "신한은행, 최고 연 9% 적금 내놨다...20만좌 한정 출시 - 파이낸셜투데이",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rdWFpSkR3dGpXd1VJTlZzSjVUSThUeFFubm9Kc3RjWjhITzVadlpfV1BDQWY3a3B2S3ljTll0NnFQdFpvQWJsWjFreExIZkhVTUFuZEdaMTliXy04Vzc2WVcyR3VZeXpzVlHSAW5BVV95cUxOaWNDT2E0SS01VWhQTWZYX0loek9DOTNfTjRxSG5HSkZWNm5Pb1RIWEVYbS1Ja2NGaUNrMWhnMV8xc1ZDRFNVZUVGU3FHZjNEelRSc1hjMTJiX202S0lLSzBFdE5hdnY0VjBMT2EtUQ?oc=5",
+   "source": "파이낸셜투데이",
+   "date": "2026-08-13"
+  },
+  {
+   "title": "농협은행, 농심천심 예·적금 출시…금리 최대 연 8.15% - 아시아경제",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYzQ3VnpYUm0xeXFXNEJIZHRQYXZNbEVUTExPVF9HcG0yNVEwZUJ0Z3BQMWJHUUV5QzViQWlSQUt0RU54TUk3TU1PRW1zcksyMlI4Y1hWQjNYeWZpMEc4MDdmbV9lMmlvT2FEZ1lWbU52UTNIbXdIMmN3ZzJPb190NHFB?oc=5",
+   "source": "아시아경제",
+   "date": "2026-08-12"
+  },
+  {
+   "title": "농협은행 'NH농심천심 적금' 출시 이틀만에 1만좌 완판 - 중소기업신문",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tandKc1ZYMk5ZcnFaN25WUFpYNUJCc2VuaUpKdktKMTRmeFpwelV4T3BNeldjc3VIc05GTUpDTFRXcVA5ek5DNXFWc0FDYlBhMVA2a0lsYTZoc09NX08wSFNSRVVrMHRPOWl4cQ?oc=5",
    "source": "중소기업신문",
    "date": "2026-08-14"
@@ -4459,66 +4519,6 @@
    "title": "NH농협은행, 'NH농심천심 적금' 출시 이틀 만에 1만좌 완판 - 한국경제",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOM3JkNFZGZmhUSm9tUnZYYVFfR1pJT0tjNXdlOWFONm1wSUduYm81eUdPYzNMNkxaYzR6RjVmZXllSFdPNEE5UkFCNlZEc0dvVGV5OFF6bndlUQ?oc=5",
    "source": "한국경제",
-   "date": "2026-08-14"
-  },
-  {
-   "title": "NH농협은행 적금 출시 하루 만에 완판…1만좌 모두 소진 - 뉴스퀘스트",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HckZOOVJnWUhhcFJ0aU1QOUJnc1duX0Q5S1E4eENQZkJSVTFjd0tJczZaLWxjRURTZHBCSXFfTXZDcEY0Y2JzaFhwcHpfNVkyaFdUSlpTd2pZbHY2dHhsR2ZWMTF1Z1BlTG1GbkVFQdIBc0FVX3lxTE40cE1tRmZKMlhBTHR2Qmxaa2UxdlEtcTYxV2Z6aW84dFF6Nl9reTRvNldPYlR0Q01jQkFEVHFEQkVJVmxaU3hoVnQ3d24tVzc3OFNDVEQ2M0t3MDhfdmFHM2dDX0NjMzZHbWI3UUE0Q0s3Y3M?oc=5",
-   "source": "뉴스퀘스트",
-   "date": "2026-08-14"
-  },
-  {
-   "title": "농협은행 '농심천심 적금' 흥행…출시 이틀 만에 '1만좌' 완판 - 뉴스웍스",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NWXVHRzNORmM5OFlnM2wxTHhYbFZkWklkV0pzTDY2dGlwVnloREluYnJJLUw1SXhqMXFWdURCX1U2NDFFb3VTZEZraHU4QjBsdVR1MXF5MlNWUnVkcjlzU1d0VV8wcWhWVWFwSTZ2a9IBc0FVX3lxTFBlU3EweGtJMVZXUXE2X2ZFbHRya21BN2lOZ2tCZXFlR2tKenpIVGVzMkdLdF82endHT2ZjZWE1b2F5RmtSc3B4RjdwQ0p5ejJJNDFwNExKMnBmOGxYSDRhcU1xNlVRZjZudDF6VGNXSUZxMW8?oc=5",
-   "source": "뉴스웍스",
-   "date": "2026-08-14"
-  },
-  {
-   "title": "신한은행, 최고 연 9.0% '신한 적금 9단' 출시 - yna.co.kr",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wR3NMa0Nxai1uTndjMk1kRjU1NllOdmFhcnhMbVlNbFVPdTR3dW5yWURHdXRpb3ExMTJHejVvQmstNFNHN0ExNi1TeFhsYnBWOGlZazBldnhiYUnSAWBBVV95cUxNSjhGZFBRYlhEWGxZTkZYNDZOajItRTZMTXZ1a3FyUHJhc3FEVFVFVkFDZzlKUG1qWUpZRmZ2LWlwSG1KTk40MGx4TlJ0TV8ybWM4WURlT0VMbXhCeFFuazI?oc=5",
-   "source": "yna.co.kr",
-   "date": "2026-08-13"
-  },
-  {
-   "title": "“8.15% 적금 나왔다”…NH농협은행, 창립기념 한정 상품 출시 - 경제시그널",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TOFpTTUxVYlR6ZWlEUDcxOEhkcGozY0JiQ3M4QlVfVFhKeXZVVHNfOUFOUjg0cjRyOVp5dlRjbjVaQXJyQ25wZ28xRWZOX0dHRm5Ia0Y1bGJLUXUwN1lUb2ItbXRkQmNnSzNaUUlXOHlqbXc?oc=5",
-   "source": "경제시그널",
-   "date": "2026-08-13"
-  },
-  {
-   "title": "토스뱅크, ‘키워봐요 31일적금’ 10만좌 돌파…출시 4일만 - 소년한국일보",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tajk1SlBVWUk1amFNb2NxMlZES0VPdC1UcDh3Tm1LSkRrNFpvaE5BQkdEX0xPVnUwTUFJT1FoMHJ3dDZwalI3VTl5bi0xU3JyTm85U2VvMndxNnVZOVlfSVpuUmpBZml1Umt5ZdIBcEFVX3lxTE02NnhXNUNIZjlrQmhZWkIwNnRuRFpsRzhpaWNhUl9HVTNGTjJpdk5UUi03TnZ3eWp1YWJaZmUwUjl1eXFJS3NFbXIxS0F2U1ZyQVpCaDg4R003ZC1BT3NjZlZDUlZDNTh6YXJRbUZJUXg?oc=5",
-   "source": "소년한국일보",
-   "date": "2026-08-14"
-  },
-  {
-   "title": "“최고 연 19% 효과” 청년미래적금 내일 출시 / KBS 2026.06.21. Retraites Complémentaires Erreurs (70hgXcR3Gh) - Mshale",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KV2FOSEtacFh6X0JxbnRmS2RRdE5tZWI3Y2lkMi1tRkktSURNMXl0WDdRYVpiRWRhdklzOV9UcFJNODJyUW9LR0NqSzJHbG0xdHM3UkdCZDA1ek0?oc=5",
-   "source": "Mshale",
-   "date": "2026-08-14"
-  },
-  {
-   "title": "신한은행, 최고 연 9% '신한 적금 9단' 출시 - 중소기업신문",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lUll0T0dmeXFrOF8tS3hpWUtYQk1mcm9OR0VUTTN6RVk5S0o0dUZlMFNLYmZ1cWtwUDZxYzVrMlgzNDhLZ1VRM29Mdy1WeHE3U1F4LXdzb1g3ZzUzYmJJRmctbEYwUFFNZVptRw?oc=5",
-   "source": "중소기업신문",
-   "date": "2026-08-13"
-  },
-  {
-   "title": "신한은행, 최고 연 9% 적금 내놨다...20만좌 한정 출시 - ftoday.co.kr",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pY0NPYTRJLTVVaFBNZlhfSWh6T0M5M19ONHFIbkdKRlY2bk9vVEhYRVhtLUlrY0ZpQ2sxaGcxXzFzVkNEU1VlRUZTcUdmM0R6VFJzWGMxMmJfbTZLSUtLMEV0TmF2djRWMExPYS1R0gFuQVVfeXFMTmljQ09hNEktNVVoUE1mWF9JaHpPQzkzX040cUhuR0pGVjZuT29USFhFWG0tSWtjRmlDazFoZzFfMXNWQ0RTVWVFRlNxR2YzRHpUUnNYYzEyYl9tNktJS0swRXROYXZ2NFYwTE9hLVE?oc=5",
-   "source": "ftoday.co.kr",
-   "date": "2026-08-13"
-  },
-  {
-   "title": "신한은행, 최고 연 9.0% ‘신한 적금 9단’ 출시 - 핸드메이커",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTU3BUdzhJdDF1bzREeTFrUlYtTk42dDhOMkxpeUdXNGNGODFDZ0dMeVdDM1dPcHAtQW0tNmhOS09aMDFjZVljY3A0WU1jaFBDWEwyZ09OX1l1RmJsZDB2di1LbkJmRknSAWtBVV95cUxNcndXYVlkZ1NWMTM3ZDRjTTczN2ptQ28zQlFHYzdfZzdYcFpmanE5SkI0a2dYZElPbG1iWm1lYVVyRmdZd0d6TGVmT1lQQkxrWmV6TjNtMXh4Rk1SMHRrSE5PYlFxUlAzaUxpMA?oc=5",
-   "source": "핸드메이커",
-   "date": "2026-08-14"
-  },
-  {
-   "title": "신한은행, 최고 연 9% 이자 혜택 '신한 적금 9단' 출시… 20만좌 한정 - 더퍼블릭",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fYVViaTdOSmk0aUVudDFTVlBnRXFxTUhxTFdhSTRkbDh1TW40cXBiUGh0b1Z5WlpFak9ZLTd6ZlozQXpPY2VDc1E0V1dTdEg4VzZKbEhmMTFLcHJqRTQxQVozcGhvYmxwVERmR2ZqONIBb0FVX3lxTE5fYVViaTdOSmk0aUVudDFTVlBnRXFxTUhxTFdhSTRkbDh1TW40cXBiUGh0b1Z5WlpFak9ZLTd6ZlozQXpPY2VDc1E0V1dTdEg4VzZKbEhmMTFLcHJqRTQxQVozcGhvYmxwVERmR2ZqOA?oc=5",
-   "source": "더퍼블릭",
    "date": "2026-08-14"
   }
  ],
@@ -5288,7 +5288,17 @@
   "965829b61ca239ab",
   "8073b705b487e252",
   "e15c87bfa7573ffe",
-  "e00c8a335c528ee4"
+  "e00c8a335c528ee4",
+  "4797d6ed821685c5",
+  "8b965fcde0294c98",
+  "479afbbda4b54988",
+  "82871b58015e741f",
+  "ca6cb3b739129432",
+  "5cb12c01cc048c73",
+  "678922d1cf8bb388",
+  "d6396557b6302f88",
+  "a0ecd0f43872de0b",
+  "56a9badf039774c6"
  ],
  "news_seeded": true,
  "news_products": [
@@ -5310,12 +5320,29 @@
    "in_disclosure": false
   },
   {
+   "bank": "NH농협은행",
+   "name": "NH농심천금 적금",
+   "norm": "NH농심천금적금",
+   "rate": null,
+   "first_news": "2026-08-14",
+   "count": 1,
+   "articles": [
+    {
+     "title": "NH농협은행, ‘NH농심천금 적금’ 1만좌 소진…출시 이틀만 - 소년한국일보",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NQmY3OFE2c0xfX1lmdkNPRFBJd045Ykg1SnBfZXBHZDFuWElwalMzZkN1WGppTWlPR0NrWTJoWnBoeGhXckdsZTMyeGF0eDJvTHBGZ0VGc0ZidEU1d0NaZ3VQMC00cEw3VDFESNIBcEFVX3lxTE8zSnVGeVQ3bUREUnNjRm9Sci1IV3ZoRWtDc2lfeDJvb1FnX2gzeFVSMFhaOVJsS21YQW10SDc1RHpZaDRiYUZuT09qLWNfbEl3WnVrblpwcVJOVUxaaHpwM3ZFVzZReWNvU3NieU9aRHM?oc=5",
+     "source": "소년한국일보",
+     "date": "2026-08-14"
+    }
+   ],
+   "in_disclosure": false
+  },
+  {
    "bank": "신한은행",
    "name": "신한 적금 9단",
    "norm": "신한적금9단",
    "rate": 9.0,
    "first_news": "2026-08-13",
-   "count": 56,
+   "count": 58,
    "articles": [
     {
      "title": "신한은행, 최고 연 9.0% '신한 적금 9단' 출시 - 연합뉴스",
@@ -5441,14 +5468,20 @@
    "name": "8.15% 적금 나왔다",
    "norm": "8.15%적금나왔다",
    "rate": 8.15,
-   "first_news": "2026-08-13",
-   "count": 1,
+   "first_news": "2026-08-12",
+   "count": 2,
    "articles": [
     {
      "title": "“8.15% 적금 나왔다”…NH농협은행, 창립기념 한정 상품 출시 - 경제시그널",
      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TOFpTTUxVYlR6ZWlEUDcxOEhkcGozY0JiQ3M4QlVfVFhKeXZVVHNfOUFOUjg0cjRyOVp5dlRjbjVaQXJyQ25wZ28xRWZOX0dHRm5Ia0Y1bGJLUXUwN1lUb2ItbXRkQmNnSzNaUUlXOHlqbXc?oc=5",
      "source": "경제시그널",
      "date": "2026-08-13"
+    },
+    {
+     "title": "농협은행, 농심천심 예·적금 출시…금리 최대 연 8.15% - 아시아경제",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYzQ3VnpYUm0xeXFXNEJIZHRQYXZNbEVUTExPVF9HcG0yNVEwZUJ0Z3BQMWJHUUV5QzViQWlSQUt0RU54TUk3TU1PRW1zcksyMlI4Y1hWQjNYeWZpMEc4MDdmbV9lMmlvT2FEZ1lWbU52UTNIbXdIMmN3ZzJPb190NHFB?oc=5",
+     "source": "아시아경제",
+     "date": "2026-08-12"
     }
    ],
    "in_disclosure": false
@@ -5517,7 +5550,7 @@
    "norm": "농심천심적금",
    "rate": 8.15,
    "first_news": "2026-08-11",
-   "count": 32,
+   "count": 36,
    "articles": [
     {
      "title": "NH농협은행, 최고 연 8.15% '농심천심 적금' 출시 - 신아일보",
@@ -5772,23 +5805,6 @@
      "title": "한 달 만에 연 10%? 토스뱅크 '다람쥐 적금' 출시 : 경제 - 재경일보",
      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE41cHN3LThqMW9ELXVNSlcxVmRkWjlZYnJKZXFQUUNXOHZVRHBlZWZoRnplbU1yeDFkREx5N1ZvbER2X0ZUU2hXNWlR?oc=5",
      "source": "재경일보",
-     "date": "2026-08-06"
-    }
-   ],
-   "in_disclosure": false
-  },
-  {
-   "bank": "NH농협은행",
-   "name": "NC 다이노스 위풍당당 적금",
-   "norm": "NC다이노스위풍당당적금",
-   "rate": 7.0,
-   "first_news": "2026-08-06",
-   "count": 1,
-   "articles": [
-    {
-     "title": "NH농협은행, 최고 연 7.0% 'NC 다이노스 위풍당당 적금' 출시 - 헤드라인제주",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lX3Z4VnlvT3BVNm0zbndFU0V0bjFLNzB4QmdYdVhQRkJFc2RFWEhiOXVFaHdoU2tGZHJKLWxTUkUxMnJrbjFmdWpfR24wdDMyUkN3SDdiM3NraG9CR0FCR2lPVExoU29ic0ZKQ1huRUo?oc=5",
-     "source": "헤드라인제주",
      "date": "2026-08-06"
     }
    ],
