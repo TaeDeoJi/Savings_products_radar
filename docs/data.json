@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-15 02:00",
+ "updated_at": "2026-08-15 02:56",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -4450,6 +4450,12 @@
  ],
  "news": [
   {
+   "title": "‘연 8.15%’ NH농협銀 ‘농심천심 적금’, 출시 이틀만에 1만좌 소진 - 주간한국",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1DaE00OERwQm1udk5iOUpoRm1vQkkxbmhxNjY3VjJoYzlheklKRkRTelpNcGd0LVYtYWpkU29RcHJ2bnA3TnRSY3NZbnFhb2dQTTlxYnk5OGhjSmxheHIyU1VVQklmc2dIcUpWckVJWnJFb3d00gF0QVVfeXFMTUNoTTQ4RHBCbW52TmI5SmhGbW9CSTFuaHE2NjdWMmhjOWF6SUpGRFN6Wk1wZ3QtVi1hamRTb1FwcnZucDdOdFJjc1lucWFvZ1BNOXFieTk4aGNKbGF4cjJTVVVCSWZzZ0hxSlZyRUlackVvd3Q?oc=5",
+   "source": "주간한국",
+   "date": "2026-08-14"
+  },
+  {
    "title": "NH농협은행, 'NH농심천심 적금' 출시 이틀 만에 1만좌 완판 - 우먼컨슈머",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85dFduTEE4UDc2SU9fbTlGb3Y4SG1jRGRYZ3JTWG5JZVFzeUx3SWEwYjRROThjREdOVHAwcEMycmIwdGgyV3duMDRHSmVHNzZ0eFlpWHZSdVA5OW1rMmphVUZXa19BRkRTVUxVWA?oc=5",
    "source": "우먼컨슈머",
@@ -4514,12 +4520,6 @@
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5EQ19xczlWWG5tQUdRX1VMQzZOOVlNcTExaDVZc3NyUXZjZzNfVExvTGZtZXFUME5KOEFpVUdHX1lpU0VJTkNsMXlMcHcyWkN3TGZxdEF5cUFnYVRzSHNwUkpWeng1dGJDZlFkbEFydw?oc=5",
    "source": "스마트경제",
    "date": "2026-08-14"
-  },
-  {
-   "title": "한 달간 매일 넣으면 '연 10%' 금리…출시 나흘 만에 10만좌 돌파한 초단기적금 - 네이트",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UNXNoVm1nRkdueFhEREhVYVNPc1QtT0hEYXRqWjJ2RlFxdzZsUDQtU0ZWUlpkbF9UZW9ibUNtUVZySXg2NjJlMTFNcGU4UXlsRnctVG1Rb1BWalRaTG4yQTRWU3d4cWJWbmlYUUNR?oc=5",
-   "source": "네이트",
-   "date": "2026-08-13"
   }
  ],
  "news_seen": [
@@ -5315,7 +5315,8 @@
   "ec7669b35dad605a",
   "dcd20e70a978d0bc",
   "4bb6dc85ea65c52e",
-  "c5bcadf0b7a61ff3"
+  "c5bcadf0b7a61ff3",
+  "73b1617540f0476c"
  ],
  "news_seeded": true,
  "news_products": [
@@ -5567,7 +5568,7 @@
    "norm": "농심천심적금",
    "rate": 8.15,
    "first_news": "2026-08-11",
-   "count": 44,
+   "count": 45,
    "articles": [
     {
      "title": "NH농협은행, 최고 연 8.15% '농심천심 적금' 출시 - 신아일보",
