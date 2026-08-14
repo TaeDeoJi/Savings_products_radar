@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-15 04:51",
+ "updated_at": "2026-08-15 05:37",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -4450,6 +4450,12 @@
  ],
  "news": [
   {
+   "title": "은행권, 실시간 스미싱 탐지 서비스 출시·‘나라사랑 815 광복 이벤트’ 실시·‘NH농심천심 적금’ 1만좌 완판·‘IBK 모두다 아트캠프’ 성료 - 통신일보",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mQjdfekFLVGhYRFRpXzNYM3VRUTlJOUtrRmx5WkRQVHVuRGdFQU5WS1hsc1VoVktZS01PSXZxR3l1ckxJMHVMWWhvZDlOUzZGc3lSQU5wWHpBRlMtT1NwSTV3cm9TUQ?oc=5",
+   "source": "통신일보",
+   "date": "2026-08-14"
+  },
+  {
    "title": "청년미래적금 오늘 출시‥\"최고 연 19% 효과\" (2026.06.22/12MBC뉴스) Brandon Clarke (ztSDwk3Bwh) - Mshale",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xTmQyZ3RiN3JQUDZtRnNrTFFwempDR0JEdnJ5X3dKSE9WeExBc1IzYmhtNFkxOTdVSjdOYmRaYlhlMGdXN1VDU0s5dEFFdDJ5b055SnRDUE5SaU0?oc=5",
    "source": "Mshale",
@@ -4513,12 +4519,6 @@
    "title": "신한은행 '연 9%' 신한 적금 9단 출시 - 세이프머니",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03c1p6ZmdwMzVCR0U3OFBwMmlKQXpuc1hVcUhwLTF3c3oySy1UY0g4T1pLSVlRVXllTjdMMWF0dVVNWWppeXNpN2J6Z0xEd3EtSWd5MGIwV1Ixb3BnejZ5eXhod05UdTY3dElPanVn?oc=5",
    "source": "세이프머니",
-   "date": "2026-08-14"
-  },
-  {
-   "title": "2026 아기통장 고금리 적금 특판 TOP3 총정리 Santé (2bcvQSaBcW) - Mshale",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DLThKUUdlYnd3dWJqOUtrb2phbFBzNWdla1RzN05ZY1UyWlhVYXNQeF9nQmdzMng4MzZrZHBJeTZXajN3UW9zdVdhMWdNaHE1SXFSVUdxWDBtZnc?oc=5",
-   "source": "Mshale",
    "date": "2026-08-14"
   }
  ],
@@ -5319,7 +5319,8 @@
   "73b1617540f0476c",
   "f9f6a46bceef9d10",
   "a2490bfcc6e79f30",
-  "b895547f4d31a960"
+  "b895547f4d31a960",
+  "af4bd1ae38d9890e"
  ],
  "news_seeded": true,
  "news_products": [
