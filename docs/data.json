@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-15 04:03",
+ "updated_at": "2026-08-15 04:51",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -4450,6 +4450,12 @@
  ],
  "news": [
   {
+   "title": "청년미래적금 오늘 출시‥\"최고 연 19% 효과\" (2026.06.22/12MBC뉴스) Brandon Clarke (ztSDwk3Bwh) - Mshale",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xTmQyZ3RiN3JQUDZtRnNrTFFwempDR0JEdnJ5X3dKSE9WeExBc1IzYmhtNFkxOTdVSjdOYmRaYlhlMGdXN1VDU0s5dEFFdDJ5b055SnRDUE5SaU0?oc=5",
+   "source": "Mshale",
+   "date": "2026-08-14"
+  },
+  {
    "title": "\"적금인데 연 9% 금리라고요?\" 신한, 고금리 목돈 마련 상품 출시에 관심 집중 | - nanamcom.co.kr",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zTWUySk1SUDliZHBzVmtDSEo4eHR4M0tfamtNNEdEbU9KLTR3ZnVHMlNBdVZnUmlWdXhKX083dWdtMkZwQmJkV0NXQ2txajk0cEhNczhjZWM5STU4X01UZ3E3WGVYRzlHdG9nWVBQRms?oc=5",
    "source": "nanamcom.co.kr",
@@ -4513,12 +4519,6 @@
    "title": "2026 아기통장 고금리 적금 특판 TOP3 총정리 Santé (2bcvQSaBcW) - Mshale",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DLThKUUdlYnd3dWJqOUtrb2phbFBzNWdla1RzN05ZY1UyWlhVYXNQeF9nQmdzMng4MzZrZHBJeTZXajN3UW9zdVdhMWdNaHE1SXFSVUdxWDBtZnc?oc=5",
    "source": "Mshale",
-   "date": "2026-08-14"
-  },
-  {
-   "title": "농협은행, 'NH농심천심 적금' 출시 이틀 만에 1만좌 완판 - 화이트페이퍼",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCWWJCWFVOd1BFUHhwLXJfQU93SFBtN09oQ2xURk5YeWRvWWk3V09FNWFMb2oyeWxNZThJc25IczIybmN0NW1Db09PYXdkRy1HMHBOa2UyMzJSOEZqUWNISVpIeGFDcmdiU1M3N0d2eGvSAXNBVV95cUxNZEtSS1V5YnBGejZBaWw3eGwxdjVoZ0FLOEtncWFUS0J4NXpzX1pZTUhuRk10eWRLUDY0Snp0NFI1OVBGenY5RjF2N0lrTmxwcE96ZW9MTGR1WW5DVk1mUkh2aG4wQkt4ZnBXaHR2dlB1QW1R?oc=5",
-   "source": "화이트페이퍼",
    "date": "2026-08-14"
   }
  ],
@@ -5318,7 +5318,8 @@
   "c5bcadf0b7a61ff3",
   "73b1617540f0476c",
   "f9f6a46bceef9d10",
-  "a2490bfcc6e79f30"
+  "a2490bfcc6e79f30",
+  "b895547f4d31a960"
  ],
  "news_seeded": true,
  "news_products": [
