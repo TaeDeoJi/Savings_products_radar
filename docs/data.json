@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-15 23:29",
+ "updated_at": "2026-08-16 00:28",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -4450,6 +4450,12 @@
  ],
  "news": [
   {
+   "title": "전북은행, 최고 연 4.50% ‘현대자동차 X JB 특판적금’ 출시 - 비즈월드",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QODRIVGlnTlhHdHlZaWR1RWpBSzZBeVdlVUNlb0Zmd2dscXBVeEdxbEtGVnVpWTk2V200d1ZRRFEyXy1sdnFNbVZBUEhLMi1zTkZjNHdKOThtV0tNb0d4V1hzeWVUMHNNZHc?oc=5",
+   "source": "비즈월드",
+   "date": "2026-08-15"
+  },
+  {
    "title": "신한은행, 목돈 마련 고객에 최고 연 9% 적금 출시 - 우먼타임스",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44REtWNjNGMmd6RVBfRFk4MDlQSjlfeU9OOEFoZjRKMGxEVnFNVDJmd2lpUG0xSy1zcndTUVJMUjctNzBaeHR0U0E1WUNldkV1SlRJSnJ4T2NqUDJxVlcwekROaU9obHd5eVBMdHd0VkTSAXRBVV95cUxOY20zZUZNMU9ld2dlV0lQeVFmTnlPYmw4akViRWNJN0lYVTZlbEhmZVA4Nm9KYjIydTJPMVF4bzU1bTh1WnpjbDNoSkpyR2c0cmhocHNxSFRxRXNuQW8yZ0tzY3hRb25uOTBXM2FSVEYzRkQ2Qw?oc=5",
    "source": "우먼타임스",
@@ -4514,16 +4520,9 @@
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mQjdfekFLVGhYRFRpXzNYM3VRUTlJOUtrRmx5WkRQVHVuRGdFQU5WS1hsc1VoVktZS01PSXZxR3l1ckxJMHVMWWhvZDlOUzZGc3lSQU5wWHpBRlMtT1NwSTV3cm9TUQ?oc=5",
    "source": "통신일보",
    "date": "2026-08-14"
-  },
-  {
-   "title": "청년미래적금 오늘 출시‥\"최고 연 19% 효과\" (2026.06.22/12MBC뉴스) Brandon Clarke (ztSDwk3Bwh) - Mshale",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xTmQyZ3RiN3JQUDZtRnNrTFFwempDR0JEdnJ5X3dKSE9WeExBc1IzYmhtNFkxOTdVSjdOYmRaYlhlMGdXN1VDU0s5dEFFdDJ5b055SnRDUE5SaU0?oc=5",
-   "source": "Mshale",
-   "date": "2026-08-14"
   }
  ],
  "news_seen": [
-  "09d44690e6667855",
   "4ead303fccfc36a9",
   "57a576f760a1040c",
   "26a37873f0c4d43e",
@@ -5322,7 +5321,8 @@
   "73eb04d932b35d28",
   "35eaa85208196b02",
   "e7000ebfa0623b80",
-  "1dfd3d91d91f5fa7"
+  "1dfd3d91d91f5fa7",
+  "9de894352af83160"
  ],
  "news_seeded": true,
  "news_products": [
@@ -5401,7 +5401,7 @@
    "norm": "현대자동차XJB특판적금",
    "rate": 4.5,
    "first_news": "2026-08-13",
-   "count": 8,
+   "count": 9,
    "articles": [
     {
      "title": "전북은행, 최고 연 4.50% ‘현대자동차 X JB 특판적금’ 출시 및 이벤트 실시 - 전북투데이",
