@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-17 19:38",
+ "updated_at": "2026-08-17 20:32",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -4450,6 +4450,12 @@
  ],
  "news": [
   {
+   "title": "KB저축은행 골드키위적금 4% 💰 고금리 특판적금 파킹통장 추천 | 잘살아보세 El Clasico (RcIVIJCgn8) - Mshale",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwODhEUTY3czhHOUJ1OUo4WnhJM3RDaTBIbDlSRUctNGI0cEFmY0F1TEEyampZbHlrZVM4X2VwSVBLNVJzLWZPNGVFNXdEWEFvUUdsZW1lR0Y3c2M?oc=5",
+   "source": "Mshale",
+   "date": "2026-08-17"
+  },
+  {
    "title": "증시 추락에 예적금으로 ‘역머니무브’…은행권 최고 9% 특판 경쟁 - v.daum.net",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aQzBnV0VONk5pZjlXVUMzdXhzaHdDNmhRZEJBWUluaVB1aHNmUDhtYWZZVktsWHZrUUFGZ3lzZ1FETlFaZDlyZEZLbVB2bXM3NWR5RQ?oc=5",
    "source": "v.daum.net",
@@ -4514,16 +4520,9 @@
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45aDJ1cGNzWTlmaGR1dmFmaXN3Nng0dUE3YzlMQklzX3dtZWNPVGpuR0YybHBiOXJqODk2ZGxNMElFaDF3MXdWTnRzNmstSGdGMWFNcXA1V1VWQVNQaU5YMTZJbUtVMHN0NHln?oc=5",
    "source": "마일드경제",
    "date": "2026-08-15"
-  },
-  {
-   "title": "신한은행, 최고 연 9.0% '신한 적금 9단' 출시 - 연합뉴스",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wR3NMa0Nxai1uTndjMk1kRjU1NllOdmFhcnhMbVlNbFVPdTR3dW5yWURHdXRpb3ExMTJHejVvQmstNFNHN0ExNi1TeFhsYnBWOGlZazBldnhiYUk?oc=5",
-   "source": "연합뉴스",
-   "date": "2026-08-13"
   }
  ],
  "news_seen": [
-  "9d2b41fda4aaabfb",
   "760a52444ec237d4",
   "a50f687611641a8a",
   "a3bd73eea999a878",
@@ -5322,10 +5321,28 @@
   "9cf7c0669d8da58d",
   "85ae7b78a48333a6",
   "54f30b7108eef36e",
-  "20f0ed224db3f3f0"
+  "20f0ed224db3f3f0",
+  "53846739fc0d66b4"
  ],
  "news_seeded": true,
  "news_products": [
+  {
+   "bank": "국민은행",
+   "name": "골드키위적금",
+   "norm": "골드키위적금",
+   "rate": 4.0,
+   "first_news": "2026-08-17",
+   "count": 1,
+   "articles": [
+    {
+     "title": "KB저축은행 골드키위적금 4% 💰 고금리 특판적금 파킹통장 추천 | 잘살아보세 El Clasico (RcIVIJCgn8) - Mshale",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwODhEUTY3czhHOUJ1OUo4WnhJM3RDaTBIbDlSRUctNGI0cEFmY0F1TEEyampZbHlrZVM4X2VwSVBLNVJzLWZPNGVFNXdEWEFvUUdsZW1lR0Y3c2M?oc=5",
+     "source": "Mshale",
+     "date": "2026-08-17"
+    }
+   ],
+   "in_disclosure": false
+  },
   {
    "bank": "국민은행",
    "name": "청년미래적금",
@@ -5812,23 +5829,6 @@
      "title": "토스뱅크, '31일 챌린지 적금' 출시…게임처럼 저축하면 최고 연 10% - 이코노미사이언스",
      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52dlFaeldLcGI1STZNLXNiSzd6UG5IWHpSWFZDZjlXSnVHTEFpWWhhTE1OaE9DR1U3YTMydHBJQkwzcWhJbDNKX25HUDhZSVRoa3FJU2hyQ1lpbldhWDlmc3ZhdXc5WklmM3ZSREhmWQ?oc=5",
      "source": "이코노미사이언스",
-     "date": "2026-08-06"
-    }
-   ],
-   "in_disclosure": false
-  },
-  {
-   "bank": "토스뱅크",
-   "name": "다람쥐 적금",
-   "norm": "다람쥐적금",
-   "rate": 10.0,
-   "first_news": "2026-08-06",
-   "count": 1,
-   "articles": [
-    {
-     "title": "한 달 만에 연 10%? 토스뱅크 '다람쥐 적금' 출시 : 경제 - 재경일보",
-     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE41cHN3LThqMW9ELXVNSlcxVmRkWjlZYnJKZXFQUUNXOHZVRHBlZWZoRnplbU1yeDFkREx5N1ZvbER2X0ZUU2hXNWlR?oc=5",
-     "source": "재경일보",
      "date": "2026-08-06"
     }
    ],
