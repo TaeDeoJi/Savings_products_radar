@@ -4450,6 +4450,12 @@
  ],
  "news": [
   {
+   "title": "iM뱅크, 31일 매일 넣으면 최고 연 8% ‘야구 적금’ 출시 - edaily.co.kr",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUjVSX0JpcC1GMkFxQi1FNjBJVWVLeXR2dVE1bUs3NXZsUUZneVhvU01BQ25fbXlNUDFha0xyWV8zTHdsSjZTVFdOVTlySjc4bVVVeTdKMUhfM05RRzlaM0tqaW1OWnZFRnZ6TGNrcklpMXotM244bFZYNVJGWWhNWQ?oc=5",
+   "source": "edaily.co.kr",
+   "date": "2026-08-18"
+  },
+  {
    "title": "신한은행, 최고 연 9% ‘신한 적금 9단’ 출시 - 내외뉴스통신",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EWnhqRFJFZG84R2JfRkFsYlZTT0VXVkxUXzRYSG9xakpNaEdhSEk2Z3JKcWpCWmIxbUVXOHJ5YjU5Vm44VGFPZUlwVzdtZ3hNRFpqYTdOY3pNTElENDVGdUd5U214YklNMjN5cdIBcEFVX3lxTE40QjU3NnJGT0dMZ2RURUFzdXNVd2MyVk5VdHhRajVmdk1Zbzh6TXNGc3Y5empHYWswMFlmVWZ6czhUdnNVZVJZZTF0M3k3U2R1b0FUYU5uRjAzclZPeHdxVFo4VlZNaGsxSEFPQXRWZTc?oc=5",
    "source": "내외뉴스통신",
@@ -4514,16 +4520,9 @@
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFZFRPM1NtVG12Ylc0ZXd2czJkZlpkYkJoWkRYeU5GeS1rOF9PUzMzTzZVVGxWbHBVZ2x2X09FQ3VyWHFfWlFudHhDQ1Q4aEZXM2pXUkE3RW9CVzM0NVlrcTR4WVVVVHVo?oc=5",
    "source": "queen.co.kr",
    "date": "2026-08-18"
-  },
-  {
-   "title": "NH농협은행, 'NH농심천심 적금' 출시 이틀 만에 1만 좌 완판 - 사회적경제뉴스",
-   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5Yd3VDN25UcGpHc3hjN1lXZjNpMWVfc1V2MHdHRDcwb3oySnkyMGU2dmxibXhLYTY3WXNEUEdWNA?oc=5",
-   "source": "사회적경제뉴스",
-   "date": "2026-08-18"
   }
  ],
  "news_seen": [
-  "0ed901ae19f07006",
   "850935e20e344176",
   "11488667c681c9ab",
   "cbdb0480ec42cc69",
@@ -5322,7 +5321,8 @@
   "c3c311500dfc4679",
   "881ec4428733aba8",
   "7239b888110f8ad6",
-  "2dfd13fcd27c454a"
+  "2dfd13fcd27c454a",
+  "3da34955c9582326"
  ],
  "news_seeded": true,
  "news_products": [
@@ -5384,12 +5384,18 @@
    "norm": "야구적금",
    "rate": 8.0,
    "first_news": "2026-08-18",
-   "count": 1,
+   "count": 2,
    "articles": [
     {
      "title": "iM뱅크, 31일 매일 넣으면 최고 연 8% '야구 적금' 출시 - 네이트",
      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yNWU4bkQ0ODRCdVBnSE4yZlN5TUJJQ2cwVFJOZGx3dF9HdkNXc3Y0OTVNc1J0NGdIaDRYb293dG8tR08yaEZZN0JkV2dleXd3U21WeE40eXpNOG0yQWlMMA?oc=5",
      "source": "네이트",
+     "date": "2026-08-18"
+    },
+    {
+     "title": "iM뱅크, 31일 매일 넣으면 최고 연 8% ‘야구 적금’ 출시 - edaily.co.kr",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUjVSX0JpcC1GMkFxQi1FNjBJVWVLeXR2dVE1bUs3NXZsUUZneVhvU01BQ25fbXlNUDFha0xyWV8zTHdsSjZTVFdOVTlySjc4bVVVeTdKMUhfM05RRzlaM0tqaW1OWnZFRnZ6TGNrcklpMXotM244bFZYNVJGWWhNWQ?oc=5",
+     "source": "edaily.co.kr",
      "date": "2026-08-18"
     }
    ],
