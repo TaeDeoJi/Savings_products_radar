@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-21 05:36",
+ "updated_at": "2026-08-21 06:34",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -4450,6 +4450,18 @@
  ],
  "news": [
   {
+   "title": "‘NH농심천심적금’ 출시 이틀 만에 완판 - 농민신문",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHX0xncGhVY29SSDRTQ24tcUR0V20yNDJQMFJqNlVhQ3NTblF3cVZ5dzZqemdlcE1VU0paSUFGbF9VRENhUjV4MDZnNUs1d0lLX1k0QXpCZlc3dw?oc=5",
+   "source": "농민신문",
+   "date": "2026-08-19"
+  },
+  {
+   "title": "iM뱅크, 31일 단기 적금 '야구에 진심이지' 출시…최고 연 8% 금리 혜택 - 네이트",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SQTVOaEExcGROQW1pbE9fQmM0SmQ3TnZhV0RtSFdnX0tLSVpJa3dVTXRnRGRyRThPUjBGcDB5Yl9jOHRCeV92d2pSUWplSEUyeVJn?oc=5",
+   "source": "네이트",
+   "date": "2026-08-18"
+  },
+  {
    "title": "이 대통령 \"다 받아주라\" 청년미래적금…출시 2주도 안 돼 신청자 200만 돌파｜지금 이 쇼츠 Jena Sims (9VN7XrLd5n) - Mshale",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HcjhRX09zYnl1WE9iMWdzenJpWFVvaVNKMTZQSkg2X2RkZFBmWm9sMzFEa2xVc29vQ0dZY3FkU19GZXVjVFJfbE1rM2lsVmsyME5ZSC1VUzdYeG8?oc=5",
    "source": "Mshale",
@@ -4508,23 +4520,9 @@
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBacTdpUkd2NzJHS3A0RWVHeEZmMURFelVXc0JITG5Wak5oZWhvSk5BV1Vqd0ZqLWVGWEliVV9yQ05ONE8yOGFiN2FBcDJiVWQyRDBhX0xscEZTclh1bkdmN0YtejNmRmh3bVE1MFhsN0JOZ9IBckFVX3lxTFBacTdpUkd2NzJHS3A0RWVHeEZmMURFelVXc0JITG5Wak5oZWhvSk5BV1Vqd0ZqLWVGWEliVV9yQ05ONE8yOGFiN2FBcDJiVWQyRDBhX0xscEZTclh1bkdmN0YtejNmRmh3bVE1MFhsN0JOZw?oc=5",
    "source": "팝콘뉴스",
    "date": "2026-08-18"
-  },
-  {
-   "title": "iM뱅크, 31일 매일 넣으면 최고 연 8% '야구 적금' 출시 - 네이트",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yNWU4bkQ0ODRCdVBnSE4yZlN5TUJJQ2cwVFJOZGx3dF9HdkNXc3Y0OTVNc1J0NGdIaDRYb293dG8tR08yaEZZN0JkV2dleXd3U21WeE40eXpNOG0yQWlMMA?oc=5",
-   "source": "네이트",
-   "date": "2026-08-18"
-  },
-  {
-   "title": "신한은행, 최고 연 9% ‘신한 적금 9단’ 출시 - 내외뉴스통신",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40QjU3NnJGT0dMZ2RURUFzdXNVd2MyVk5VdHhRajVmdk1Zbzh6TXNGc3Y5empHYWswMFlmVWZ6czhUdnNVZVJZZTF0M3k3U2R1b0FUYU5uRjAzclZPeHdxVFo4VlZNaGsxSEFPQXRWZTfSAXBBVV95cUxONEI1NzZyRk9HTGdkVEVBc3VzVXdjMlZOVXR4UWo1ZnZNWW84ek1zRnN2OXpqR2FrMDBZZlVmenM4VHZzVWVSWWUxdDN5N1NkdW9BVGFObkYwM3JWT3h3cVRaOFZWTWhrMUhBT0F0VmU3?oc=5",
-   "source": "내외뉴스통신",
-   "date": "2026-08-18"
   }
  ],
  "news_seen": [
-  "bc75bf3ad51ea3d9",
-  "37bb36782b652960",
   "3ab3ea6d32698f25",
   "052a6c8fb5c19d2c",
   "296a0dca6e50e177",
@@ -5322,7 +5320,9 @@
   "94aab4ac30e45925",
   "20724e95eeeaa8c4",
   "78d3fd531b6cf901",
-  "062609be0f037d56"
+  "062609be0f037d56",
+  "f30bf39b68a790f5",
+  "ff77dca48563d953"
  ],
  "news_seeded": true,
  "news_products": [
@@ -5332,7 +5332,7 @@
    "norm": "야구에진심이지적금",
    "rate": 8.0,
    "first_news": "2026-08-18",
-   "count": 8,
+   "count": 9,
    "articles": [
     {
      "title": "iM뱅크, 야구팬 겨냥 ‘야구에 진심이지 적금’ 출시…최고 연 8% - 대경일보",
