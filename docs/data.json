@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-23 13:44",
+ "updated_at": "2026-08-23 14:35",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -4472,6 +4472,12 @@
  ],
  "news": [
   {
+   "title": "경기농협 ‘NH개인파킹통장·파킹모아적금’ 출시 - 산경일보",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TbHZnZ2lreTI2TGRnR2RmNFpmRGlXODBDX1UwSnZKYVZWbzVxR19HMHl1ZFZaTlJuX0dKX2xDNFFMMzFwdzh1SUtCWnJwMk8xZ3hBcVlpbHhMZ0FCc2NmZnh6LTFaSnR2UDNDaVUweUE?oc=5",
+   "source": "산경일보",
+   "date": "2026-08-23"
+  },
+  {
    "title": "경기농협, ‘NH개인파킹통장·파킹모아적금’ 출시 - v.daum.net",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TSXQtNXhYT3BiYW9BcmxZaXhwU1g1SFozWGxQZmtCRXY1RG9kTnNxMlI2ak41N3A1RFhBbUlBcnpzT3RlYV96dDhqOHRsa0k?oc=5",
    "source": "v.daum.net",
@@ -4536,16 +4542,9 @@
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYXzcybzhXNzNQTUNVWmRHWXFoZnBtY1FPWFZSX0pjLVg4TDVfeWZyeFJCemlTX2JNd3dGRzM2UzZmc0tvTjluck1iVk9IQkpsNzUyTW5UNkZnQQ?oc=5",
    "source": "파이낸셜뉴스",
    "date": "2026-08-21"
-  },
-  {
-   "title": "경기농협, 'NH개인파킹통장·파킹모아적금'출시 - 뉴스잡",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jdlotYnEzUGd2ZzluMnQ3aURyVlV4SDJDZV9fSm5YVS1JbHh0bVFCRGJDYXhlSHhwbUtNS1h3VklHQkFpdEtfTC0tYi1CcW5sSHphVmVCSWUtQlJqcVFLVk9FaWFxR01EOXlB0gFrQVVfeXFMTmN2Wi1icTNQZ3ZnOW4ydDdpRHJWVXhIMkNlX19KblhVLUlseHRtUUJEYkNheGVIeHBtS01LWHdWSUdCQWl0S19MLS1iLUJxbmxIemFWZUJJZS1CUmpxUUtWT0VpYXFHTUQ5eUE?oc=5",
-   "source": "뉴스잡",
-   "date": "2026-08-22"
   }
  ],
  "news_seen": [
-  "e4930317d00b77b1",
   "3e8a0a10ee52b009",
   "f820950ae33e1f87",
   "09b0c24dbd99741d",
@@ -5344,7 +5343,8 @@
   "0141924f29d2da94",
   "d2054cc199adce13",
   "d08571ac776d4877",
-  "d13bfbd38c69e561"
+  "d13bfbd38c69e561",
+  "63218ab0f3baf698"
  ],
  "news_seeded": true,
  "news_products": [
