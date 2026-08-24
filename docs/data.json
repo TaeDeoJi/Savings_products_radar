@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-25 03:50",
+ "updated_at": "2026-08-25 04:35",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -4472,6 +4472,18 @@
  ],
  "news": [
   {
+   "title": "KB국민카드·은행 'KB카드쓰담적금' 협업 출시 - 중소기업신문",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUTmQyQUI4UEJYc3FiWUV0aU8ycEpRdklvbHZSQnJFTndGUXFnX1JMVWhxRWFrRVo5NGI4YmdpTDBWTFNaU09yRkNwLWE3em1OTFItc2NuY2lfLVNVSGhxX09XMzdMVEduaUNMdExB?oc=5",
+   "source": "중소기업신문",
+   "date": "2026-08-24"
+  },
+  {
+   "title": "iM뱅크, 전라권 첫 영업점 개점 기념 예·적금 특판…최고 연 11% - 대경일보",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jNTQzdlVsX2s5dmZncFpobVFmeTBoLUs2UEkyT1VLcjRGZmdPeTlKN2dQdFlyQ19idmN3RnZWVlFHdENEMUY1dnhwSUZqNEcta1Nqa2xDYmJPZ2Nydm1lSDMtUHNHaS1i?oc=5",
+   "source": "대경일보",
+   "date": "2026-08-24"
+  },
+  {
    "title": "KB국민카드, 국민은행과 최고 연 12% '카드쓰담적금' 출시 - 화이트페이퍼",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sRW5Ucmc3N2tTVW9QRGtBM2p6VDMwOGRIbXFDMXJNaXJZY3lUZFRXRlE4VTF2c3NZc3NZR3pQYmVNN25vckk1dzZOMldCdEQxd2pQNGlFYTFkOENHSlV0Z014Z3NHZk81UUhkR193UnrSAXNBVV95cUxNRFMxSGJFX2V3T0hnYmpLeTdTQ3o4dm5lNDJKLVFoaHlLUHFWdXdHdmhxYTJsRmMyZnVtTjlNMWRNV1R5ZnB0YkxGd2RJNHNva1VjWGRxYWtGX04yMnJNa3NNN0laYk5CaWZwNlJCSkxteERZ?oc=5",
    "source": "화이트페이퍼",
@@ -4530,23 +4542,9 @@
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKTlZraEx3ZDNqcjVFWFAwRDRpYjVTUkZpMkdMa3VvTXg5djhLZGhBN0JXLWpuRnM0cFpfVVY0YTVSdEszcGJDNms2YlVvQl9nS1RyX0NjOG1DaHJpUnl1ZmJsZzJXbDJxUDZLRElsME40Z9IBckFVX3lxTFBKTlZraEx3ZDNqcjVFWFAwRDRpYjVTUkZpMkdMa3VvTXg5djhLZGhBN0JXLWpuRnM0cFpfVVY0YTVSdEszcGJDNms2YlVvQl9nS1RyX0NjOG1DaHJpUnl1ZmJsZzJXbDJxUDZLRElsME40Zw?oc=5",
    "source": "팝콘뉴스",
    "date": "2026-08-24"
-  },
-  {
-   "title": "카드·급여 조건 채우면 최고 연 12%…KB ‘카드쓰담적금’ 출시 - 뉴스퀘스트",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01bFExaFBUM0pFQnQyMmctTVpNNFRTZUlNN3ZkU19KZU94NlFWaElfRERaNmV4b0ZPelhCSU9wem5xU2I4QkdRZGVNa3E3Q2YyVk0tUWRCZW5KTjNDY3RaSWtyVlBJRkJPZU1STTRyNUhuSDjSAXNBVV95cUxNNWxRMWhQVDNKRUJ0MjJnLU1aTTRUU2VJTTd2ZFNfSmVPeDZRVmhJX0REWjZleG9GT3pYQklPcHpucVNiOEJHUWRlTWtxN0NmMlZNLVFkQmVuSk4zQ2N0WklrclZQSUZCT2VNUk00cjVIbkg4?oc=5",
-   "source": "뉴스퀘스트",
-   "date": "2026-08-24"
-  },
-  {
-   "title": "경기농협, ‘NH개인파킹통장·파킹모아적금’ 출시 - 서울일보",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1RdTBKcWJKamZ6RUN4SWZFRzBRR3lfZHh1YTM4bGJhcWo5VVJxeFhFOGphRl9qdXg3bzZDZTJfemZ5RlhTM2s1Q2Y2c0VMTDU1cEVNYmhFQTNvZWk3WTdWZndUWWpja2RlSy040gFvQVVfeXFMT1duVThfM2ttUDdfLWs2NUJxUjNSekdseV8zSG1HclRoV2tmOUpadDZjZGxqSGZyeS1YVHl3VmEwc3NXdzVSTkowanV5N3hQUEdIUndoUWNsX0FCR3l0aFdjWkZKOU11c1lDdmlta0RZ?oc=5",
-   "source": "서울일보",
-   "date": "2026-08-23"
   }
  ],
  "news_seen": [
-  "581cc14faadf047d",
-  "2798e7cdf0a97068",
   "fb979b7eed5a28bf",
   "239c50543d5b5317",
   "8b004069adda3322",
@@ -5344,7 +5342,9 @@
   "95081eafae024104",
   "691569dd295487d2",
   "307c419c2a8a9989",
-  "cf3ba75c440d7718"
+  "cf3ba75c440d7718",
+  "8aa846fa6f4a122a",
+  "c50135b3816ccaaa"
  ],
  "news_seeded": true,
  "news_products": [
@@ -5354,7 +5354,7 @@
    "norm": "더쿠폰예·적금",
    "rate": 11.0,
    "first_news": "2026-08-24",
-   "count": 15,
+   "count": 16,
    "articles": [
     {
      "title": "iM뱅크, 광주·전주점 개점 기념 '더쿠폰 예·적금' 특판 - 메트로신문",
@@ -5418,7 +5418,7 @@
    "norm": "KB카드쓰담적금",
    "rate": 12.0,
    "first_news": "2026-08-21",
-   "count": 136,
+   "count": 137,
    "articles": [
     {
      "title": "KB국민은행, 'KB카드쓰담적금' 출시…최고 금리 연 12% - 연합뉴스",
