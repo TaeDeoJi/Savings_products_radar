@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-25 14:37",
+ "updated_at": "2026-08-25 15:59",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -4472,6 +4472,12 @@
  ],
  "news": [
   {
+   "title": "하나은행, CJ올리브네트웍스와 맞손…'최고 5%' 적금 출시 - 파이낸셜뉴스",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42UkE1SUJLQ3pHVXgxVjRFcDAtcmRSTTMyU2huR3F5b1VCREh3WmEwdldKUzlUcVFMSW5naW9TLUNncWc3SzJGUU1oeVBQbVd1SUxNMXUyRmk3dw?oc=5",
+   "source": "파이낸셜뉴스",
+   "date": "2026-08-25"
+  },
+  {
    "title": "하나은행, CJ올리브네트웍스와 맞손…‘최고 연 5%’ 적금상품 출시 - 동아일보",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIUzkxMHNPOWgwcGQyLUZiWGZJMTFHaTV6Tk1QSFR5TWhtbWZOU2swSmV5YWhZaHZlOVdJcmdmZUFrZkg4bmdySHM5UFRHQ0VSU1RPbXdxOHYxUHNTUUVhb2RWWXVnMkpMd1FLTHNDTVdWUXRsNnfSAWZBVV95cUxQSG8zNlhzc3pwajM3UGhUbHV6cVhHUUdPNzNUZkNuYnZ0bFZaMU1LR0lZMjhaOUVjWmJweGRYRXJuZHNMNkFLR1ZjelV3SjBiUzBaMHhZSmpIeTAzRm9vMTFZYnNaaVE?oc=5",
    "source": "동아일보",
@@ -4536,16 +4542,9 @@
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rZ09BeXM1MGt6RTU1c1hZX0dEb3VvbW0tY0xaT210czJ0YTZ1OE9RaVBFZksxYVVNb2REM3FiNFdYNThZYUd6SzlrNUx6ZWhuQXNaXzZkSWZjdUIxc1g1c1RWUV9ZbGZZZkd30gFrQVVfeXFMT2tnT0F5czUwa3pFNTVzWFlfR0RvdW9tbS1jTFpPbXRzMnRhNnU4T1FpUEVmSzFhVU1vZEQzcWI0V1g1OFlhR3pLOWs1THplaG5Bc1pfNmRJZmN1QjFzWDVzVFZRX1lsZllmR3c?oc=5",
    "source": "서울매일",
    "date": "2026-08-25"
-  },
-  {
-   "title": "카드·급여 조건 채우면 최고 연 12%…KB ‘카드쓰담적금’ 출시 - 뉴스퀘스트",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nNEtrRzBjWGlvNUxxY2p0TDlLTko1UWhDazQtdHlJNVdndENMcnRwcHhmRjR2RWRnUW1FWjMyNEMyLTBqRW1GcnJsTnl5VHBrM1VCa2xkYjUxS2MwbkNsbkJ3c09RNDhNOGtQX2hoONIBc0FVX3lxTE01bFExaFBUM0pFQnQyMmctTVpNNFRTZUlNN3ZkU19KZU94NlFWaElfRERaNmV4b0ZPelhCSU9wem5xU2I4QkdRZGVNa3E3Q2YyVk0tUWRCZW5KTjNDY3RaSWtyVlBJRkJPZU1STTRyNUhuSDg?oc=5",
-   "source": "뉴스퀘스트",
-   "date": "2026-08-24"
   }
  ],
  "news_seen": [
-  "08bfce42fe411b2d",
   "7168bf79254e6774",
   "892927ac14882ff7",
   "ff2b7a083c6871d1",
@@ -5344,7 +5343,8 @@
   "4de3d871c3bb1dfe",
   "dc013215d054fa23",
   "bfa16acf45582f87",
-  "c75f5c3932dff177"
+  "c75f5c3932dff177",
+  "76501bd3c3a8e2ad"
  ],
  "news_seeded": true,
  "news_products": [
