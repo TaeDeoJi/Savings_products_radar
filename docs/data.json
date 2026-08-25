@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-25 13:46",
+ "updated_at": "2026-08-25 14:37",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -4472,6 +4472,12 @@
  ],
  "news": [
   {
+   "title": "하나은행, CJ올리브네트웍스와 맞손…‘최고 연 5%’ 적금상품 출시 - 동아일보",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIUzkxMHNPOWgwcGQyLUZiWGZJMTFHaTV6Tk1QSFR5TWhtbWZOU2swSmV5YWhZaHZlOVdJcmdmZUFrZkg4bmdySHM5UFRHQ0VSU1RPbXdxOHYxUHNTUUVhb2RWWXVnMkpMd1FLTHNDTVdWUXRsNnfSAWZBVV95cUxQSG8zNlhzc3pwajM3UGhUbHV6cVhHUUdPNzNUZkNuYnZ0bFZaMU1LR0lZMjhaOUVjWmJweGRYRXJuZHNMNkFLR1ZjelV3SjBiUzBaMHhZSmpIeTAzRm9vMTFZYnNaaVE?oc=5",
+   "source": "동아일보",
+   "date": "2026-08-25"
+  },
+  {
    "title": "[통장잔GO] \"최고 연 12%\"…고금리 특판 적금 경쟁 후끈 - 데일리안",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42b21OUkNwZVRtX3hTbGJKOGRPb3l5Qlo2V05Nc01aVHBLaGdoRXQ3djlKcGJYR0ZNVHZQZGx5OWxXd3lyZkFPd0h3Vy1QRDVJWkZj?oc=5",
    "source": "데일리안",
@@ -4536,16 +4542,9 @@
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nNEtrRzBjWGlvNUxxY2p0TDlLTko1UWhDazQtdHlJNVdndENMcnRwcHhmRjR2RWRnUW1FWjMyNEMyLTBqRW1GcnJsTnl5VHBrM1VCa2xkYjUxS2MwbkNsbkJ3c09RNDhNOGtQX2hoONIBc0FVX3lxTE01bFExaFBUM0pFQnQyMmctTVpNNFRTZUlNN3ZkU19KZU94NlFWaElfRERaNmV4b0ZPelhCSU9wem5xU2I4QkdRZGVNa3E3Q2YyVk0tUWRCZW5KTjNDY3RaSWtyVlBJRkJPZU1STTRyNUhuSDg?oc=5",
    "source": "뉴스퀘스트",
    "date": "2026-08-24"
-  },
-  {
-   "title": "iM뱅크, 호남권 진출 기념 연 11% ‘더쿠폰 예·적금’ 특판 - v.daum.net",
-   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1BanZQbjhVR0xBMUlLNFBJUU1aZE41WS1nQzFvQVE1bVNXNXY2LWFtMU5LVEs0ZFFEb1B2aEw3b3l3MlZhclE?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-08-24"
   }
  ],
  "news_seen": [
-  "95c0bb82e8f8bfd4",
   "08bfce42fe411b2d",
   "7168bf79254e6774",
   "892927ac14882ff7",
@@ -5344,7 +5343,8 @@
   "c2ed7c0973805460",
   "4de3d871c3bb1dfe",
   "dc013215d054fa23",
-  "bfa16acf45582f87"
+  "bfa16acf45582f87",
+  "c75f5c3932dff177"
  ],
  "news_seeded": true,
  "news_products": [
