@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-25 10:42",
+ "updated_at": "2026-08-25 12:06",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -4472,6 +4472,12 @@
  ],
  "news": [
   {
+   "title": "KB국민카드, KB국민은행과 'KB카드쓰담적금' 협업 출시 - 잡포스트",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzRzAzbHBkQ1hQRENOeGIxa3JQalNOVzE2SzZiOFNqRjdVTGU2QjVCcHczWW5id19PNVlXUFM3cE5PT3VFOTBIMV9YUGk0U3ctUm5kQm9zQXlLdTZ2QkZtb0JGM0NmSXFWM1pfdVJ30gFyQVVfeXFMUDFwRXhlbWIwWnZ4VUpuQkRuLVNacEJtaEJUWnNqbm1Rdk1rNTg0VjYxTkFPcUp3MzJNZ0hrNFRNMU9ZdndqLUZqNzJCSlBBTmltSV96c1JoQXFEckpOQnNCMEl0bFJBM0EycF9FOF9uNU5n?oc=5",
+   "source": "잡포스트",
+   "date": "2026-08-24"
+  },
+  {
    "title": "전라권 뚫은 iM뱅크, 예·적금 특판 승부수 - 매일신문",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5HUGpRcWNMbGtiWU1xYlR6UVJUV09BUDdwY0RZb2FpV25XWUNhOXE4T2doNFVpZHp2VU1OMWJwRDh3alYwaTEwakxWTmQ1OGFRMTc2N3lhT0tHdEY1LUR3ZWZn?oc=5",
    "source": "매일신문",
@@ -4536,16 +4542,9 @@
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50UXBtR3k5Qm10YkNxcmpWZE42RVJYb3h4b1VvLWRrM1luRXBqVk1FRGp0SzloRVBkT200dmJBQWo1R1BLV19aQUs1LXJfWFdsQmhOT1FvNEFjamc0RldEdg?oc=5",
    "source": "한국농촌경제신문",
    "date": "2026-08-24"
-  },
-  {
-   "title": "KB국민카드, KB국민은행과 함께 ‘KB카드쓰담적금’ 출시 - 직썰",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55VEp2TWhCaXoyaE9zRHhqdzE5VzRQVTJZdTJ1SjdxU0RaNTE2RndxeUVtdHJnMmJnWW85dU9wREJzRzMtODh5Z25oWmotYjhIMnJ5Slk5WDBTbnZkTDNDWU14N05BTFVlcXlZeNIBbEFVX3lxTE55VEp2TWhCaXoyaE9zRHhqdzE5VzRQVTJZdTJ1SjdxU0RaNTE2RndxeUVtdHJnMmJnWW85dU9wREJzRzMtODh5Z25oWmotYjhIMnJ5Slk5WDBTbnZkTDNDWU14N05BTFVlcXlZeA?oc=5",
-   "source": "직썰",
-   "date": "2026-08-24"
   }
  ],
  "news_seen": [
-  "8b004069adda3322",
   "4823b6a814bae60a",
   "b2282ce92c007bb0",
   "95c0bb82e8f8bfd4",
@@ -5344,7 +5343,8 @@
   "8aa846fa6f4a122a",
   "c50135b3816ccaaa",
   "b852a0bd75e92be4",
-  "c2ed7c0973805460"
+  "c2ed7c0973805460",
+  "4de3d871c3bb1dfe"
  ],
  "news_seeded": true,
  "news_products": [
@@ -5418,7 +5418,7 @@
    "norm": "KB카드쓰담적금",
    "rate": 12.0,
    "first_news": "2026-08-21",
-   "count": 137,
+   "count": 138,
    "articles": [
     {
      "title": "KB국민은행, 'KB카드쓰담적금' 출시…최고 금리 연 12% - 연합뉴스",
