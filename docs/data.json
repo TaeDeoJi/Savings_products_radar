@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-25 12:06",
+ "updated_at": "2026-08-25 12:55",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -4472,6 +4472,12 @@
  ],
  "news": [
   {
+   "title": "KB국민카드·국민은행, 최고 연 12% '카드쓰담적금' 출시 - 네이트",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVZkYxUG1RSlRUSVFPUkpfT1hLeExINm1aT3FPUURwcDNSTER0Wk42TVFieDhyVnVXdHAyNWw1c1hmeENsTUhsMkk4ZkRwRnhpX1NGcVpVQ0U1M3Znd09uSw?oc=5",
+   "source": "네이트",
+   "date": "2026-08-24"
+  },
+  {
    "title": "KB국민카드, KB국민은행과 'KB카드쓰담적금' 협업 출시 - 잡포스트",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzRzAzbHBkQ1hQRENOeGIxa3JQalNOVzE2SzZiOFNqRjdVTGU2QjVCcHczWW5id19PNVlXUFM3cE5PT3VFOTBIMV9YUGk0U3ctUm5kQm9zQXlLdTZ2QkZtb0JGM0NmSXFWM1pfdVJ30gFyQVVfeXFMUDFwRXhlbWIwWnZ4VUpuQkRuLVNacEJtaEJUWnNqbm1Rdk1rNTg0VjYxTkFPcUp3MzJNZ0hrNFRNMU9ZdndqLUZqNzJCSlBBTmltSV96c1JoQXFEckpOQnNCMEl0bFJBM0EycF9FOF9uNU5n?oc=5",
    "source": "잡포스트",
@@ -4536,16 +4542,9 @@
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yUzlVbTZmWFZvd2JtMFBNREN2WXdHVFBNc3hfMDE3eTZPQ0QtWXZaRDRmTkI0RWtlNkZfdWNERDU3LW41akxCdWs4cE1XdkpfU21yWHdWX2xxRmJD?oc=5",
    "source": "livesnews.com",
    "date": "2026-08-24"
-  },
-  {
-   "title": "농협상호금융,‘NH개인파킹통장·NH파킹모아적금’ 출시 - 한국농촌경제신문",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50UXBtR3k5Qm10YkNxcmpWZE42RVJYb3h4b1VvLWRrM1luRXBqVk1FRGp0SzloRVBkT200dmJBQWo1R1BLV19aQUs1LXJfWFdsQmhOT1FvNEFjamc0RldEdg?oc=5",
-   "source": "한국농촌경제신문",
-   "date": "2026-08-24"
   }
  ],
  "news_seen": [
-  "4823b6a814bae60a",
   "b2282ce92c007bb0",
   "95c0bb82e8f8bfd4",
   "08bfce42fe411b2d",
@@ -5344,7 +5343,8 @@
   "c50135b3816ccaaa",
   "b852a0bd75e92be4",
   "c2ed7c0973805460",
-  "4de3d871c3bb1dfe"
+  "4de3d871c3bb1dfe",
+  "dc013215d054fa23"
  ],
  "news_seeded": true,
  "news_products": [
@@ -5418,7 +5418,7 @@
    "norm": "KB카드쓰담적금",
    "rate": 12.0,
    "first_news": "2026-08-21",
-   "count": 138,
+   "count": 139,
    "articles": [
     {
      "title": "KB국민은행, 'KB카드쓰담적금' 출시…최고 금리 연 12% - 연합뉴스",
