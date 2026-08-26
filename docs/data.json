@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-26 17:53",
+ "updated_at": "2026-08-26 18:50",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -4472,6 +4472,12 @@
  ],
  "news": [
   {
+   "title": "수협 거래 늘리고 우대금리 두 번 잡으세요…2026 더블찬스적금 출시 - 어업in수산",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwZDhkMkY1Z1Zxa2dFcXBLQlQtSDlpV2lHaGdqWDZYZmlpMDdVQzZuWXk5Tmk2QTM0eU9GWWN1eVRzRmhsdVVXdTNpbDVOZUFJMHlsZkVhQTdsQ1p3MmoxWHJPSU02WVpnS2lKR0laOA?oc=5",
+   "source": "어업in수산",
+   "date": "2026-08-26"
+  },
+  {
    "title": "경기농협, ‘NH개인파킹통장·파킹모아적금’ 출시 - 환경일보",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tMXdLS0I5ZzFwc25OSkp1T0gyalhTTjcxc3hCRFUtUzc2akhnQXJ1c0p0WnFZaHpDMm1GbmwzdFB4S3M1TnFWMW5wTWRHdnA4Z2FEd1hmWmVjRE1mb08wakY5WnZzWFVC?oc=5",
    "source": "환경일보",
@@ -4536,16 +4542,9 @@
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42UkE1SUJLQ3pHVXgxVjRFcDAtcmRSTTMyU2huR3F5b1VCREh3WmEwdldKUzlUcVFMSW5naW9TLUNncWc3SzJGUU1oeVBQbVd1SUxNMXUyRmk3dw?oc=5",
    "source": "파이낸셜뉴스",
    "date": "2026-08-25"
-  },
-  {
-   "title": "하나은행, CJ올리브네트웍스와 맞손…‘최고 연 5%’ 적금상품 출시 - 동아일보",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIUzkxMHNPOWgwcGQyLUZiWGZJMTFHaTV6Tk1QSFR5TWhtbWZOU2swSmV5YWhZaHZlOVdJcmdmZUFrZkg4bmdySHM5UFRHQ0VSU1RPbXdxOHYxUHNTUUVhb2RWWXVnMkpMd1FLTHNDTVdWUXRsNnfSAWZBVV95cUxQSG8zNlhzc3pwajM3UGhUbHV6cVhHUUdPNzNUZkNuYnZ0bFZaMU1LR0lZMjhaOUVjWmJweGRYRXJuZHNMNkFLR1ZjelV3SjBiUzBaMHhZSmpIeTAzRm9vMTFZYnNaaVE?oc=5",
-   "source": "동아일보",
-   "date": "2026-08-25"
   }
  ],
  "news_seen": [
-  "05725b125afa8a87",
   "0cdfe4b23258d6a9",
   "e79b611f504f5af4",
   "ebf746ea5720b48a",
@@ -5344,7 +5343,8 @@
   "d6c2bcb6aed37cd3",
   "514cdb1771b7915e",
   "3e6ae2ff49710be1",
-  "abd05583c8d34292"
+  "abd05583c8d34292",
+  "84aa90e0ce955906"
  ],
  "news_seeded": true,
  "news_products": [
