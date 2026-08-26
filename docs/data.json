@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-26 13:48",
+ "updated_at": "2026-08-26 14:40",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -4472,6 +4472,12 @@
  ],
  "news": [
   {
+   "title": "경기농협, ‘NH개인파킹통장·파킹모아적금’ 출시 - 환경일보",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tMXdLS0I5ZzFwc25OSkp1T0gyalhTTjcxc3hCRFUtUzc2akhnQXJ1c0p0WnFZaHpDMm1GbmwzdFB4S3M1TnFWMW5wTWRHdnA4Z2FEd1hmWmVjRE1mb08wakY5WnZzWFVC?oc=5",
+   "source": "환경일보",
+   "date": "2026-08-26"
+  },
+  {
    "title": "\"최고 연 5.0% 고금리 적금 출시\"…하나은행, CJ ONE 제휴 이벤트 전개 - thefairnews.co.kr",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IQUp5LUtobnpuY2tJUWJmaE9laTF3V0JkM2RxTjRHQmZTX2lXTGFFVmNHR1BOdHZadWpRM3ZsS09pWFByZldyTm8wR0FPMnVxS3BXbzlzbmlyR1NvVlFNdEN6S3FibXk0em5JbjNtY3Y?oc=5",
    "source": "thefairnews.co.kr",
@@ -4536,16 +4542,9 @@
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIUzkxMHNPOWgwcGQyLUZiWGZJMTFHaTV6Tk1QSFR5TWhtbWZOU2swSmV5YWhZaHZlOVdJcmdmZUFrZkg4bmdySHM5UFRHQ0VSU1RPbXdxOHYxUHNTUUVhb2RWWXVnMkpMd1FLTHNDTVdWUXRsNnfSAWZBVV95cUxQSG8zNlhzc3pwajM3UGhUbHV6cVhHUUdPNzNUZkNuYnZ0bFZaMU1LR0lZMjhaOUVjWmJweGRYRXJuZHNMNkFLR1ZjelV3SjBiUzBaMHhZSmpIeTAzRm9vMTFZYnNaaVE?oc=5",
    "source": "동아일보",
    "date": "2026-08-25"
-  },
-  {
-   "title": "[통장잔GO] \"최고 연 12%\"…고금리 특판 적금 경쟁 후끈 - 데일리안",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42b21OUkNwZVRtX3hTbGJKOGRPb3l5Qlo2V05Nc01aVHBLaGdoRXQ3djlKcGJYR0ZNVHZQZGx5OWxXd3lyZkFPd0h3Vy1QRDVJWkZj?oc=5",
-   "source": "데일리안",
-   "date": "2026-08-25"
   }
  ],
  "news_seen": [
-  "423bdaa653e28f76",
   "05725b125afa8a87",
   "0cdfe4b23258d6a9",
   "e79b611f504f5af4",
@@ -5344,7 +5343,8 @@
   "473128caa49e1614",
   "d6c2bcb6aed37cd3",
   "514cdb1771b7915e",
-  "3e6ae2ff49710be1"
+  "3e6ae2ff49710be1",
+  "abd05583c8d34292"
  ],
  "news_seeded": true,
  "news_products": [
