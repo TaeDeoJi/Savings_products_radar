@@ -4472,6 +4472,12 @@
  ],
  "news": [
   {
+   "title": "토스·하나은행, 최고 연 4.5% 금리 주는 '만보기 적금 시즌2' 출시 - 파이낸셜포스트",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5OOXhHbTZNUzEyanphYU8zMHU5SHFaT25hSnI0dXhiU214QWM5ZlVmN0VBZkxnRms1ckNTUXNmdEhfcjBqOFhSaEg5b05JYjlqUktTVXUxUEpGYW11SWt0bHlyd2dsM2ozWk8tYVpCWTZra05h?oc=5",
+   "source": "파이낸셜포스트",
+   "date": "2026-08-28"
+  },
+  {
    "title": "“신규면 1%p, 1천만원 맡기면 2%p 더”…수협, 최대 연 3.0%p ‘더블찬스적금’ 출시 - 더게이트",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RN0dReUU2X1VadGdMSTBqRmhldmo0UUIxMTV4WWdNd0VnUi1SRVdtNlNjb2hjMVZOZEhmWlVOLWt0cGFJWGVXU2VTRy02RTBvUUlWSU4wTDJVM3pLN2RtZ2JnUlpmQ2YybWVwUdIBbEFVX3lxTE1RN0dReUU2X1VadGdMSTBqRmhldmo0UUIxMTV4WWdNd0VnUi1SRVdtNlNjb2hjMVZOZEhmWlVOLWt0cGFJWGVXU2VTRy02RTBvUUlWSU4wTDJVM3pLN2RtZ2JnUlpmQ2YybWVwUQ?oc=5",
    "source": "더게이트",
@@ -4536,16 +4542,9 @@
    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9WR1N6TlVsQnRmek41YWFoekNxMUxRZU1hQk9OLW9pU0tRSUxyM2ZnWHFuMXcxV3pNMlMydVl0QUNrQ0hWTkE?oc=5",
    "source": "v.daum.net",
    "date": "2026-08-29"
-  },
-  {
-   "title": "하나은행, ‘하나 만보기 적금 시즌2’ 출시…판매 한도 2만좌로 확대 - 퍼블릭타임스",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZZ0xSaDY5OHV4X3J6N1BoSDBybjRFaUNJX2J6cFpPM2tFbm1aQmZwYU1vdmU2XzRXX3RaUld4MjFkQmVsRTFpenhFZDVJLW5UUE5PR2xad0ZnTEJtQkJBRGxlaHVaVkk2LXfSAW5BVV95cUxNQXNTaWZuTktNSGZxQmRROUVwaURpVmt6eFpxWVlwXzM0NDFBRFoyZ3BTRDQ0am1kUDFsUWZLN0JnRVdMR1pBallDTXVpVmtQTC05Q3BuSDhoTTl3eDdETDdKQnQ4XzRVRERkV3dLZw?oc=5",
-   "source": "퍼블릭타임스",
-   "date": "2026-08-28"
   }
  ],
  "news_seen": [
-  "0bc29b0c9b71752e",
   "ea34332d17484204",
   "ba9e795b6ad0eab1",
   "3e323840bb936387",
@@ -5344,7 +5343,8 @@
   "dd691a07a8284211",
   "a4c5bf4f4f777797",
   "7c20abe1b77d797b",
-  "70a7fc1d8251409c"
+  "70a7fc1d8251409c",
+  "a12838a412418fc3"
  ],
  "news_seeded": true,
  "news_products": [
@@ -5389,7 +5389,7 @@
    "norm": "하나만보기적금시즌2",
    "rate": 4.5,
    "first_news": "2026-08-27",
-   "count": 42,
+   "count": 43,
    "articles": [
     {
      "title": "하나은행, '하나 만보기 적금 시즌2' 출시…한도 2만 좌로 확대 - 뉴스핌",
