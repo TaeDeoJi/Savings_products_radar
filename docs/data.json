@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-30 06:37",
+ "updated_at": "2026-08-30 09:03",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -4473,6 +4473,18 @@
  "news": [
   {
    "title": "농협상호금융, NH개인파킹통장·NH파킹모아적금 출시 - 한국영농신문",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVNXdIZm9EeEg0THFHdk92blRoUXFyTTBjUjBTYUpSRnp3czJfZXZ3SUpGRkVsR3BPZi1WNGV0dTB6ZFVnczhiaTh4NUh0SW42LWJRMnZxX0N1M1FnNEtLMUNSY3JIbVNVWXpmTmtn0gFuQVVfeXFMUFU1d0hmb0R4SDRMcUd2T3ZuVGhRcXJNMGNSMFNhSlJGendzMl9ldndJSkZGRWxHcE9mLVY0ZXR1MHpkVWdzOGJpOHg1SHRJbjYtYlEydnFfQ3UzUWc0S0sxQ1JjckhtU1VZemZOa2c?oc=5",
+   "source": "한국영농신문",
+   "date": "2026-08-29"
+  },
+  {
+   "title": "수협, 최고 3.0% 금리 '2026 더블찬스적금' 출시 - 중소기업신문",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVcUpTa0s2TWVKTGVxb0h2WHZEOXJQaEdDbW9qSFZwckxHN05OQ2c3bFlvbk5oeWtsQmU2czB2bU5sSHlTMWlIUkJGSHpXeC1zRXdfSXM4Vi13RjhVTHRxb1o4VFl1dlRaSTQwR193?oc=5",
+   "source": "중소기업신문",
+   "date": "2026-08-28"
+  },
+  {
+   "title": "농협상호금융, NH개인파킹통장·NH파킹모아적금 출시 - 한국영농신문",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13bWNWcXMzVVoxWVRYWUhRU2I5MFhsdTZ2bk5kcnpTUjhXMnZSRHVXR05CSkh0Qnh4Z2VZY29Zb0swekdBclFKOThpTjFGMTdRY0pZZVFnOFJDc2w4cng1dkR3V0JWcmRpWmZPWdIBbkFVX3lxTFBVNXdIZm9EeEg0THFHdk92blRoUXFyTTBjUjBTYUpSRnp3czJfZXZ3SUpGRkVsR3BPZi1WNGV0dTB6ZFVnczhiaTh4NUh0SW42LWJRMnZxX0N1M1FnNEtLMUNSY3JIbVNVWXpmTmtn?oc=5",
    "source": "한국영농신문",
    "date": "2026-08-29"
@@ -4530,23 +4542,9 @@
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXOGI1bVZMcHVNb2liMDlwQkY2RENYRktmRlBDXzNIQTBDa3l2eDFIR3B0RERZUTB2Z2lReDZzY19qS1hCdmw0bjhfT2stN2pNeDZRQzVpTmJ3NDdHaGNlNmtSZXpMNTVlb01mSDFWSdIBc0FVX3lxTE9zR0pJYWRhY3oydDBYYmxaaVlKSHNkckFrSHhabXUzbnkyanBFQzNSUVVIVDRMUWRMRk5KX3ZsT2NROGF2R2NoTHhBMGFMX2VEUVZHVWlzdl9xaTJla3R2MFNsTjlYRnptUDFjRDRqWldfX2M?oc=5",
    "source": "데일리한국",
    "date": "2026-08-28"
-  },
-  {
-   "title": "하나은행, 토스와 '하나 만보기 적금 시즌2' 출시…판매 한도 2만 좌로 확대 - 퍼블릭뉴스통신",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvaG5DVEhISGliUnozaDRVRjl4eFRJanVYRndrU2FRZS1EZkdJZGRXMngtZDdsaXJWcGs4RXZIZEZ5UDhQdlVILU1rQjNoUFZ2Nm5adkFuYlJCWGVHSkxMYS1lcHFpa1JKSGc?oc=5",
-   "source": "퍼블릭뉴스통신",
-   "date": "2026-08-27"
-  },
-  {
-   "title": "수협, 최대 연 3.0%p 우대 '2026 더블찬스적금' 출시...1만좌 한정 - 이로운넷",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jR2lYNWNSOGcyVDJ4cmJXelgtUGg0YmlRRmlkdktIcDZ0QnYwbzJuSzRjS0JSUHVXRFNGeU9qdWdRVktKZnA1MTVxZjdxS3daOXBvdHdmcG5CcEFsU0ptY2U0LUZkQQ?oc=5",
-   "source": "이로운넷",
-   "date": "2026-08-29"
   }
  ],
  "news_seen": [
-  "2405bb5ebe1af022",
-  "6c714148a6d7115e",
   "73055753bd174cde",
   "b6c0f2a4c5129aec",
   "509c75216cfe5046",
@@ -5344,7 +5342,9 @@
   "7ad2ebc95d711335",
   "305006f38fdacbfe",
   "56f3ec6fdc5b4933",
-  "6cbf7488de3c0d2d"
+  "6cbf7488de3c0d2d",
+  "14c522e53e6e2757",
+  "0f82747bbcbfabac"
  ],
  "news_seeded": true,
  "news_products": [
