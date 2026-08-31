@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-01 01:59",
+ "updated_at": "2026-09-01 06:51",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -4472,6 +4472,12 @@
  ],
  "news": [
   {
+   "title": "'최고 연 12%' 특판 쏟아지는데, 실제 이자는 6만원?…고금리 적금의 반전 - 뉴시스",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qN3k1Q2t1a1VrYmZ4eDdtZTZVb0NjNElDZnVra0k4Y1VJWl9OT00zY0tKSTB2UWl3OEg4NjJONmFieWZoUzlsZHlCaF9yWHJUNVdCNTJYZGhtc1R4ZG9DQtIBeEFVX3lxTFAxWTVUQ2p5ek94UDVBT0twSnQzTEVrbXQxVnJLUWpsVUJfZUk0REY4LUdOS2IwSFgwSzBTWmZ2aEJWSzZhOUNRNWM1amo0VUo3N2M5bGxXRXdZWGx0RkRmTGpsd3c3cmRmWGZqMl9jWER4UXlPRldDSA?oc=5",
+   "source": "뉴시스",
+   "date": "2026-09-01"
+  },
+  {
    "title": "수협, 우대금리 적용 ‘더블찬스적금’ 출시 - 핸드메이커",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16cGJoVGZpZzVGVmJhNXNnX3U4M2IzeFZqYmhnSjY5MHU1aVpjd0FwaGdTTHlPRXlMN1plVlZTaEJ0cDhxZi1iSmpXcUs4RFRVdE0tRmNGa3ZZOVRrUjhYYkl5NUNmclUyU0tR0gFrQVVfeXFMTXpwYmhUZmlnNUZWYmE1c2dfdTgzYjN4VmpiaGdKNjkwdTVpWmN3QXBoZ1NMeU9FeUw3WmVWVlNoQnRwOHFmLWJKaldxSzhEVFV0TS1GY0Zrdlk5VGtSOFhiSXk1Q2ZyVTJTS1E?oc=5",
    "source": "핸드메이커",
@@ -4536,16 +4542,9 @@
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RN0dReUU2X1VadGdMSTBqRmhldmo0UUIxMTV4WWdNd0VnUi1SRVdtNlNjb2hjMVZOZEhmWlVOLWt0cGFJWGVXU2VTRy02RTBvUUlWSU4wTDJVM3pLN2RtZ2JnUlpmQ2YybWVwUdIBbEFVX3lxTE1RN0dReUU2X1VadGdMSTBqRmhldmo0UUIxMTV4WWdNd0VnUi1SRVdtNlNjb2hjMVZOZEhmWlVOLWt0cGFJWGVXU2VTRy02RTBvUUlWSU4wTDJVM3pLN2RtZ2JnUlpmQ2YybWVwUQ?oc=5",
    "source": "더게이트",
    "date": "2026-08-28"
-  },
-  {
-   "title": "하나은행, ‘하나 만보기 적금 시즌2’ 출시…판매 한도 2배 확대 - 한국공공정책신문",
-   "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE91MzJFVDVPSEpxM2xNOXBqUTFnVVFCaU9XdE1LdXNwOVh6VDZrUnhpcWlHbkFROUI1SHE5Z2pIeUliM3M?oc=5",
-   "source": "한국공공정책신문",
-   "date": "2026-08-28"
   }
  ],
  "news_seen": [
-  "642888a9700fc75b",
   "8c1edaca33301d60",
   "c6f63c91c9d01599",
   "d61b420d762954d6",
@@ -5344,7 +5343,8 @@
   "989f72b0ba65d644",
   "c180288f068f52ec",
   "6a3aba948938369e",
-  "fd2ce246d054b178"
+  "fd2ce246d054b178",
+  "5bdb2486a92b962d"
  ],
  "news_seeded": true,
  "news_products": [
