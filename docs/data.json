@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-02 05:55",
+ "updated_at": "2026-09-02 08:13",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -4472,6 +4472,12 @@
  ],
  "news": [
   {
+   "title": "패션·러닝·연 8% 적금까지…가을 맞은 카드사 '신상 러시' [카드톡톡] - 매일일보",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DNnlMZzVJbFQ4aGg0bmNvSWhfMzJLcFhrY01Bd3NjSjQ4dWktejQzNG1OV19aVHQ4SGp4YlJDaXdRM3F4M0poX0Fua2FNaVJDcWNKYWVkVWhzeFNSdTRhZFBoclU2N3RO0gFoQVVfeXFMT0M2eUxnNUlsVDhoaDRuY29JaF8zMktwWGtjTUF3c2NKNDh1aS16NDM0bU5XX1pUdDhIanhiUkNpd1EzcXgzSmhfQW5rYU1pUkNxY0phZWRVaHN4U1J1NGFkUGhyVTY3dE4?oc=5",
+   "source": "매일일보",
+   "date": "2026-09-01"
+  },
+  {
    "title": "최대 8.0% 적금·4.0% 예금… 하나카드-산림조합, 고금리 제휴 특판 출시 - S저널",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LVUJ6VjJya241S09jcEt6dFNnT0J2ckJUNHI4ZDU0NFhkTURiOW1fQXBnOVBXc1U1ZzRXajM3N05HYmpzV3VjcXRjaUlMbENUbFhQRXk3NDZCVEI1RlpIc3JnSVhxY3BjbXhmTFV3?oc=5",
    "source": "S저널",
@@ -4536,16 +4542,9 @@
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1XzhoREd3QzlUM0lpSndwQ01kektoOFhaTDJLQkFCaUU3VXBSNzI1NzBJa1hkNThJU1BhODhjMGx3dXQ2V1NzQWR4ckZKdEwxSzZ1Nlc5a191M3ZwZEdlWTNUZUpOQWRCQ1RQQmFaYw?oc=5",
    "source": "catchnews.kr",
    "date": "2026-09-01"
-  },
-  {
-   "title": "\"적금 금리 연 8%\"…하나카드, 산림조합과 예·적금 특판 - 네이트",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0aEhwUjZYVm5vVWoyekdUSl84bFRpSGFKbDVsMmFMVWJzdk1GbGpwckswY0VxSk9ONi1JcXBDc0dGNThhUDBMNEs1WnBFeHRRVXJuc0YxUjVGTU5VUEtNVg?oc=5",
-   "source": "네이트",
-   "date": "2026-09-01"
   }
  ],
  "news_seen": [
-  "e4cbe8916fc8cc86",
   "de5d8a0dafa710f1",
   "93f1d7361e1fc3a8",
   "5b96d4ea84975607",
@@ -5344,7 +5343,8 @@
   "e011e2336af1085b",
   "9f6c36eeaacce25b",
   "a3428717af93b463",
-  "ffec4cb52826d3dc"
+  "ffec4cb52826d3dc",
+  "8d00c2a78711c268"
  ],
  "news_seeded": true,
  "news_products": [
