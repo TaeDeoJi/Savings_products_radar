@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-02 13:09",
+ "updated_at": "2026-09-02 18:25",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -1719,8 +1719,8 @@
      "save_trm": 12,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.0,
-     "intr_rate2": 3.8
+     "intr_rate": 3.01,
+     "intr_rate2": 3.81
     },
     {
      "save_trm": 24,
@@ -1737,8 +1737,8 @@
      "intr_rate2": 3.5
     }
    ],
-   "best_rate": 3.8,
-   "best_base_rate": 3.0,
+   "best_rate": 3.81,
+   "best_base_rate": 3.01,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EB%86%8D%ED%98%91%EC%9D%80%ED%96%89%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20NH%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%9B%94%EB%B3%B5%EB%A6%AC%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -2965,15 +2965,15 @@
      "save_trm": 24,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.24,
-     "intr_rate2": 3.44
+     "intr_rate": 3.25,
+     "intr_rate2": 3.45
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.17,
-     "intr_rate2": 3.37
+     "intr_rate": 3.18,
+     "intr_rate2": 3.38
     }
    ],
    "best_rate": 3.61,
@@ -3001,22 +3001,22 @@
      "save_trm": 1,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.52,
-     "intr_rate2": 2.62
+     "intr_rate": 2.59,
+     "intr_rate2": 2.69
     },
     {
      "save_trm": 3,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.75,
-     "intr_rate2": 2.85
+     "intr_rate": 2.78,
+     "intr_rate2": 2.88
     },
     {
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.99,
-     "intr_rate2": 3.09
+     "intr_rate": 3.02,
+     "intr_rate2": 3.12
     },
     {
      "save_trm": 12,
@@ -3029,15 +3029,15 @@
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.14,
-     "intr_rate2": 3.34
+     "intr_rate": 3.15,
+     "intr_rate2": 3.35
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.07,
-     "intr_rate2": 3.27
+     "intr_rate": 3.08,
+     "intr_rate2": 3.28
     }
    ],
    "best_rate": 3.51,
@@ -3616,33 +3616,33 @@
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.1,
-     "intr_rate2": 3.08
+     "intr_rate": 3.12,
+     "intr_rate2": 3.12
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.28,
-     "intr_rate2": 3.28
+     "intr_rate": 3.29,
+     "intr_rate2": 3.29
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.32,
-     "intr_rate2": 3.32
+     "intr_rate": 3.35,
+     "intr_rate2": 3.35
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.37,
-     "intr_rate2": 3.37
+     "intr_rate": 3.41,
+     "intr_rate2": 3.41
     }
    ],
-   "best_rate": 3.37,
-   "best_base_rate": 3.37,
+   "best_rate": 3.41,
+   "best_base_rate": 3.41,
    "best_term": 36,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85%EC%9D%80%ED%96%89%20IBK%EB%8D%94%EA%B5%B4%EB%A6%AC%EA%B8%B0%ED%86%B5%EC%9E%A5%28%EC%8B%A4%EC%84%B8%EA%B8%88%EB%A6%AC%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88%29",
    "first_seen": "2026-07-31",
@@ -3666,33 +3666,33 @@
      "save_trm": 1,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.69,
-     "intr_rate2": 2.69
+     "intr_rate": 2.71,
+     "intr_rate2": 2.71
     },
     {
      "save_trm": 3,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.91,
-     "intr_rate2": 2.91
+     "intr_rate": 2.93,
+     "intr_rate2": 2.93
     },
     {
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.19,
-     "intr_rate2": 3.19
+     "intr_rate": 3.21,
+     "intr_rate2": 3.21
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.43,
-     "intr_rate2": 3.43
+     "intr_rate": 3.44,
+     "intr_rate2": 3.44
     }
    ],
-   "best_rate": 3.43,
-   "best_base_rate": 3.43,
+   "best_rate": 3.44,
+   "best_base_rate": 3.44,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85%EC%9D%80%ED%96%89%20IBK%EA%B5%B4%EB%A6%AC%EA%B8%B0%ED%86%B5%EC%9E%A5%28%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88%29",
    "first_seen": "2026-07-31",
@@ -4472,6 +4472,36 @@
  ],
  "news": [
   {
+   "title": "[포토] 'NH농심천심 예·적금' 출시 행사 - 이데일리TV",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE13M3B3UnRnd0htOFEwZGUxeXRxNEFyTTZIc1VfLWw1MnFLeEF0YUJ2OG1TMURyZjhkUDdLUlZpOWdITDVrTFVrTzQ3NjA0WDNjMFBvYTlDM1FDOW5jUFdUUHpTRmpvLUllSzJVaDhVN2hZNnQxX2x3QWpn?oc=5",
+   "source": "이데일리TV",
+   "date": "2026-09-02"
+  },
+  {
+   "title": "[포토] 농업·농촌의 가치 'NH농심천심예·적금' 출시 - 이데일리TV",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1rVkJZY3daVmJqZFZpWmJhQnNBWWd0Tnoza3RDRjgzeklPZFlZdXgzXzRmaE9iWXJueHh1SjYtMlFocy01V2dvcENoaURwWENtZ0piZmplV21WbWQ1eGdlMEJxN2pON0lOMklLR291ZnI1ZFJZaUlBblV3?oc=5",
+   "source": "이데일리TV",
+   "date": "2026-09-02"
+  },
+  {
+   "title": "하나카드·산림조합, 연 8.0% 특판 적금 상품 출시 - 중소기업신문",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuZHN3bERnbnc4VzgxOFNHVzZxV2QzSlo0LWp0ZEQ0NUJGQkw0NFZrN21wR0R4dDlDXzY5eDZjckdkc3VncmxsUnI2Vy1RdmJSV1JwUmpxNV83bFNMeGNyQTA2clROZkR5d2lFZQ?oc=5",
+   "source": "중소기업신문",
+   "date": "2026-09-01"
+  },
+  {
+   "title": "하나카드, 산림조합과 연 8.0% 특판 적금 상품 출시 - 미디어펜",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UZ2gtMFU4d0gzZGtWN1c0SUdBOTk4b2tiU24ySzA4TWlIbDVOOXNGaGZXd3VHOTgybHN3ZkVIUGIzeHE4NVppTlFHRUx3SExoUEFtNEt1UFrSAVhBVV95cUxOVGdoLTBVOHdIM2RrVjdXNElHQTk5OG9rYlNuMkswOE1pSGw1TjlzRmhmV3d1Rzk4Mmxzd2ZFSFBiM3hxODVaaU5RR0VMd0hMaFBBbTRLdVBa?oc=5",
+   "source": "미디어펜",
+   "date": "2026-09-01"
+  },
+  {
+   "title": "수협중앙회, ‘더블찬스적금’ 출시…최대 연 3%p 우대금리로 자산형성 지원 - 일요주간",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nS2hLZWt5aE9mZ2NURHpZekJZMnR1ZXUtSFBFbVhLN0phb3ZrSm5YdVdVMmd0aVRWMGFWeGVCcG9HWms4VWR1V1BEdHBsU29VU2xJMlZ2dG1VYTNlZWdDbmw0ODlDNGZ0UU5CQW9SSWpWWGE3aDVPMg?oc=5",
+   "source": "일요주간",
+   "date": "2026-08-31"
+  },
+  {
    "title": "하나카드·산림조합, 최고 연 8% 특판 적금 출시 - 한스경제",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wUW1KcVpKeFBSNkxRVUU2anNUY3dhTHJIeWxfZmloR0ZIZzRsYzV4b1BpNllhbG1GbDZMVXV3dHlzYlBnTUtYbGZFcEFaeV9fdnc4ai1IejdSLXp3RnFTZU4xUnBKVjV6Y0JhU9IBb0FVX3lxTE5zVXp6Uk5tVUdhb1JwN05iRlhWby03MlhzbjRyLThZU3U4cVM2MHdJYXktY2NIdEZnODg4QjVFYVZPdW9XQ0xSMEFmalhoSXVpRVJIaFFMdHB5bFQtc21aQ01GQV9fbDUtNFhlWEVOSQ?oc=5",
    "source": "한스경제",
@@ -4512,44 +4542,9 @@
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SbW9uOFdlcG5XVXMxUThmcEZnLVUyOExVZ1ZYdEtRcjFGSWFHUVZwb2hBZ3NHSUEtNHBPVXI2ZS1wb1QyLVlqRE9sc1liRkhDVTNlUGd4SHgyc3RSckVLQUR4R01NdDhhTjNj?oc=5",
    "source": "마일드경제",
    "date": "2026-09-01"
-  },
-  {
-   "title": "[게시판] 하나카드·산림조합, 연 8.0% 특판 적금 출시 - 연합뉴스",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15TGo4NFY4dXZORndRemNXQWttd3MyVngxNF9UejRlMThwVUh0cHJxNFU3b1RpQVNLRlcxMEJ3V3IyMXVNY0V6dTRBZE8xUjdiYzhuV0JVQURmdWvSAWBBVV95cUxPM29qcklEaEJNT1V2Q2lTUEdwNUkwT2V3R3hJNEFKaG5Fd1RSS19YVmc3OWtRbHV2NWRSWnRzN1NFSXI3VFZiOWZQbDBreUpPY3hNNnVibUQ3MWtUaVcxUTI?oc=5",
-   "source": "연합뉴스",
-   "date": "2026-09-01"
-  },
-  {
-   "title": "240만원 모으면 240만원 더…달성군 ‘두 배 적금’ 출시 - edaily.co.kr",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdWlPRW9OYURYYjVNeHVYX0doZjJmbnBmWDZzZHZoTGpNelJZeTkybVR2UlJpRDRNdmViMGdwYlF6clBfdGwwWnRBcFN5eXZaLUp0VzV3SE9xQmo1N1ZHSWF0SExDNWNIcWdsbmtLeDB2T1FfVlFxaEstZlgxejVPZw?oc=5",
-   "source": "edaily.co.kr",
-   "date": "2026-09-01"
-  },
-  {
-   "title": "240만원 모으면 240만원 더…달성군 '두 배 적금' 출시 - 네이트",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52dVNCOENUX0pLTHFCMnlPRU8xblk2WE1PUFhfeXMyaDJfQmpBSDZRVEZxMjdkWVNyTHNNYkJvZjBoYTRWdkZqbVVWTlNmVjlyRXhj?oc=5",
-   "source": "네이트",
-   "date": "2026-09-01"
-  },
-  {
-   "title": "하나카드, 산림조합과 연 8% 특판 적금 판매 - SBS Biz",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PMjVyaUFSTG5Na2F1aXJwMGN6alQyblBIMlR5b1cwYVBQc3JGY05xTl9vREd1Z2JGTHhHbDQxVG1VZVNGUTZGMHJpNFJCQVc1WHdIU0RNTWHSAVhBVV95cUxNTzI1cmlBUkxuTWthdWlycDBjempUMm5QSDJUeW9XMGFQUHNyRmNOcU5fb0RHdWdiRkx4R2w0MVRtVWVTRlE2RjByaTRSQkFXNVh3SFNETU1h?oc=5",
-   "source": "SBS Biz",
-   "date": "2026-09-01"
-  },
-  {
-   "title": "\"최고 연8% 적금특판\" 하나카드, 산림조합과 10월31일까지 '하나더 적금·예금Ⅱ' 출시 - catchnews.kr",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoZWotU19JSlI2Y2ltX2lveGNuX1FvWGE3Z19QVDA2LVpLc2ZHajE1VXE1YlRaaXRSRklfbHRIRndKdTlBZ3hpaWhoVFJOR05kelpyaEZpWVVreThGQTFOX0V3SEhBQU1HN1lN?oc=5",
-   "source": "catchnews.kr",
-   "date": "2026-09-01"
   }
  ],
  "news_seen": [
-  "57f83268ff8a3ea0",
-  "f063cbff9b9a6bf9",
-  "e1f73dede470d98a",
-  "9b664c6389fa1833",
-  "d8c800e63c8ea8bb",
   "f1e59f7d96cbe874",
   "d8e0a5f4b63d3d0a",
   "61809f99da81f9b3",
@@ -5344,7 +5339,12 @@
   "9b122dcc73c270a9",
   "c09d69b1bce68b95",
   "42c1519eaa2483c7",
-  "4bbacbf03c2f923c"
+  "4bbacbf03c2f923c",
+  "47b4ecbdc85ff7cd",
+  "589e573c00bebffe",
+  "52e4746bf38af820",
+  "b96f960b8433da0c",
+  "2f88fcd8dbf6cef2"
  ],
  "news_seeded": true,
  "news_products": [
