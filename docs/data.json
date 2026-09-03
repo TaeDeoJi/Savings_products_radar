@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-03 13:06",
+ "updated_at": "2026-09-03 17:52",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -1504,26 +1504,26 @@
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 2.65,
-     "intr_rate2": 3.95
+     "intr_rate": 2.9,
+     "intr_rate2": 4.2
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 2.65,
-     "intr_rate2": 3.95
+     "intr_rate": 2.9,
+     "intr_rate2": 4.2
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 2.7,
-     "intr_rate2": 4.0
+     "intr_rate": 2.95,
+     "intr_rate2": 4.25
     }
    ],
-   "best_rate": 4.0,
-   "best_base_rate": 2.7,
+   "best_rate": 4.25,
+   "best_base_rate": 2.95,
    "best_term": 36,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%8B%A0%ED%95%9C%EC%9D%80%ED%96%89%20%EC%8B%A0%ED%95%9C%20%EC%95%8C.%EC%8F%A0%20%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -2958,26 +2958,26 @@
      "save_trm": 12,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.41,
-     "intr_rate2": 3.61
+     "intr_rate": 3.42,
+     "intr_rate2": 3.62
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.25,
-     "intr_rate2": 3.45
+     "intr_rate": 3.29,
+     "intr_rate2": 3.49
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.18,
-     "intr_rate2": 3.38
+     "intr_rate": 3.22,
+     "intr_rate2": 3.42
     }
    ],
-   "best_rate": 3.61,
-   "best_base_rate": 3.41,
+   "best_rate": 3.62,
+   "best_base_rate": 3.42,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%EC%9D%80%ED%96%89%20%EB%AF%B8%EC%A6%88%EC%9B%94%EB%B3%B5%EB%A6%AC%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88",
    "first_seen": "2026-07-31",
@@ -3001,47 +3001,47 @@
      "save_trm": 1,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.59,
-     "intr_rate2": 2.69
+     "intr_rate": 2.6,
+     "intr_rate2": 2.7
     },
     {
      "save_trm": 3,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.78,
-     "intr_rate2": 2.88
+     "intr_rate": 2.79,
+     "intr_rate2": 2.89
     },
     {
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.02,
-     "intr_rate2": 3.12
+     "intr_rate": 3.03,
+     "intr_rate2": 3.13
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.31,
-     "intr_rate2": 3.51
+     "intr_rate": 3.32,
+     "intr_rate2": 3.52
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.15,
-     "intr_rate2": 3.35
+     "intr_rate": 3.19,
+     "intr_rate2": 3.39
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.08,
-     "intr_rate2": 3.28
+     "intr_rate": 3.12,
+     "intr_rate2": 3.32
     }
    ],
-   "best_rate": 3.51,
-   "best_base_rate": 3.31,
+   "best_rate": 3.52,
+   "best_base_rate": 3.32,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%EC%9D%80%ED%96%89%20%EC%8A%A4%EB%A7%88%ED%8A%B8%EB%AA%A8%EC%95%84Dream%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88",
    "first_seen": "2026-07-31",
@@ -3065,12 +3065,12 @@
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.21,
-     "intr_rate2": 3.71
+     "intr_rate": 3.22,
+     "intr_rate2": 3.72
     }
    ],
-   "best_rate": 3.71,
-   "best_base_rate": 3.21,
+   "best_rate": 3.72,
+   "best_base_rate": 3.22,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%EC%9D%80%ED%96%89%20%EA%B5%BF%EC%8A%A4%ED%83%80%ED%8A%B8%EC%98%88%EA%B8%88",
    "first_seen": "2026-07-31",
@@ -3616,33 +3616,33 @@
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.12,
-     "intr_rate2": 3.12
+     "intr_rate": 3.14,
+     "intr_rate2": 3.14
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.29,
-     "intr_rate2": 3.29
+     "intr_rate": 3.3,
+     "intr_rate2": 3.3
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.35,
-     "intr_rate2": 3.35
+     "intr_rate": 3.4,
+     "intr_rate2": 3.4
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.41,
-     "intr_rate2": 3.41
+     "intr_rate": 3.47,
+     "intr_rate2": 3.47
     }
    ],
-   "best_rate": 3.41,
-   "best_base_rate": 3.41,
+   "best_rate": 3.47,
+   "best_base_rate": 3.47,
    "best_term": 36,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85%EC%9D%80%ED%96%89%20IBK%EB%8D%94%EA%B5%B4%EB%A6%AC%EA%B8%B0%ED%86%B5%EC%9E%A5%28%EC%8B%A4%EC%84%B8%EA%B8%88%EB%A6%AC%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88%29",
    "first_seen": "2026-07-31",
@@ -3666,8 +3666,8 @@
      "save_trm": 1,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.71,
-     "intr_rate2": 2.71
+     "intr_rate": 2.72,
+     "intr_rate2": 2.72
     },
     {
      "save_trm": 3,
@@ -3680,19 +3680,19 @@
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.21,
-     "intr_rate2": 3.21
+     "intr_rate": 3.23,
+     "intr_rate2": 3.23
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.44,
-     "intr_rate2": 3.44
+     "intr_rate": 3.45,
+     "intr_rate2": 3.45
     }
    ],
-   "best_rate": 3.44,
-   "best_base_rate": 3.44,
+   "best_rate": 3.45,
+   "best_base_rate": 3.45,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85%EC%9D%80%ED%96%89%20IBK%EA%B5%B4%EB%A6%AC%EA%B8%B0%ED%86%B5%EC%9E%A5%28%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88%29",
    "first_seen": "2026-07-31",
@@ -3844,33 +3844,33 @@
      "save_trm": 1,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.0,
+     "intr_rate": 2.25,
      "intr_rate2": 2.5
     },
     {
      "save_trm": 3,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.2,
+     "intr_rate": 2.45,
      "intr_rate2": 2.85
     },
     {
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.2,
+     "intr_rate": 2.5,
      "intr_rate2": 3.1
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.3,
+     "intr_rate": 2.55,
      "intr_rate2": 3.3
     }
    ],
    "best_rate": 3.3,
-   "best_base_rate": 2.3,
+   "best_base_rate": 2.55,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%8B%A0%ED%95%9C%EC%9D%80%ED%96%89%20%EC%8B%A0%ED%95%9CMy%ED%94%8C%EB%9F%AC%EC%8A%A4%20%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88",
    "first_seen": "2026-07-31",
@@ -3894,47 +3894,47 @@
      "save_trm": 1,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.0,
+     "intr_rate": 2.25,
      "intr_rate2": 2.5
     },
     {
      "save_trm": 3,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.2,
+     "intr_rate": 2.45,
      "intr_rate2": 2.85
     },
     {
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.2,
+     "intr_rate": 2.5,
      "intr_rate2": 3.0
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.3,
+     "intr_rate": 2.55,
      "intr_rate2": 3.2
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.35,
+     "intr_rate": 2.6,
      "intr_rate2": 2.6
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.4,
+     "intr_rate": 2.6,
      "intr_rate2": 2.6
     }
    ],
    "best_rate": 3.2,
-   "best_base_rate": 2.3,
+   "best_base_rate": 2.55,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%8B%A0%ED%95%9C%EC%9D%80%ED%96%89%20%EC%8F%A0%ED%8E%B8%ED%95%9C%20%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88",
    "first_seen": "2026-07-31",
@@ -4472,6 +4472,12 @@
  ],
  "news": [
   {
+   "title": "새마을금고중앙회·농협상호금융 ‘MG희망나눔 걸음마(馬)적금’ 가입자 증가...‘NH개인파킹통장’-‘NH파킹모아적금’ 출시 - 여성소비자신문",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04X2dXaVdvamhwTDZBU1JNOW1qbTBvMEhuWjkxUTdoRXlLejhGcE1ueHowb1pZb3VIT0dmXzFQT05rMTF6eDFMNXZpNzlKUEpZcEpqQ0dXRWRGUjhEbEhNWTcxSk81Zw?oc=5",
+   "source": "여성소비자신문",
+   "date": "2026-09-03"
+  },
+  {
    "title": "'최고 연 12%' 특판 쏟아지는데, 실제 이자는 6만원?…고금리 적금의 반전 - 뉴시스",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Jb1VYZU9ENUJta0R0ZENQRFdzZTU1cHNyMWNGbkdWZUFxODBobTBaRE5LMGZBdVFlX0JCRkE4YnE1WjkyMTBJb2xSYmsycU16S182R2F4OTFfc01TRkladzd3?oc=5",
    "source": "뉴시스",
@@ -4536,16 +4542,9 @@
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxWTVUQ2p5ek94UDVBT0twSnQzTEVrbXQxVnJLUWpsVUJfZUk0REY4LUdOS2IwSFgwSzBTWmZ2aEJWSzZhOUNRNWM1amo0VUo3N2M5bGxXRXdZWGx0RkRmTGpsd3c3cmRmWGZqMl9jWER4UXlPRldDSNIBeEFVX3lxTFAxWTVUQ2p5ek94UDVBT0twSnQzTEVrbXQxVnJLUWpsVUJfZUk0REY4LUdOS2IwSFgwSzBTWmZ2aEJWSzZhOUNRNWM1amo0VUo3N2M5bGxXRXdZWGx0RkRmTGpsd3c3cmRmWGZqMl9jWER4UXlPRldDSA?oc=5",
    "source": "뉴시스",
    "date": "2026-09-01"
-  },
-  {
-   "title": "패션·러닝·연 8% 적금까지…가을 맞은 카드사 '신상 러시' [카드톡톡] - 매일일보",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DNnlMZzVJbFQ4aGg0bmNvSWhfMzJLcFhrY01Bd3NjSjQ4dWktejQzNG1OV19aVHQ4SGp4YlJDaXdRM3F4M0poX0Fua2FNaVJDcWNKYWVkVWhzeFNSdTRhZFBoclU2N3RO0gFoQVVfeXFMT0M2eUxnNUlsVDhoaDRuY29JaF8zMktwWGtjTUF3c2NKNDh1aS16NDM0bU5XX1pUdDhIanhiUkNpd1EzcXgzSmhfQW5rYU1pUkNxY0phZWRVaHN4U1J1NGFkUGhyVTY3dE4?oc=5",
-   "source": "매일일보",
-   "date": "2026-09-01"
   }
  ],
  "news_seen": [
-  "61809f99da81f9b3",
   "0df9c0d81c5c17fa",
   "487197ba6304ae44",
   "20092c4079eb068d",
@@ -5344,7 +5343,8 @@
   "b96f960b8433da0c",
   "2f88fcd8dbf6cef2",
   "e028dcdde231057e",
-  "b58a7e83cc10335a"
+  "b58a7e83cc10335a",
+  "bf04b81a965646a4"
  ],
  "news_seeded": true,
  "news_products": [
