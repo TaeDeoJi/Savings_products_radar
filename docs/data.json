@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-04 13:12",
+ "updated_at": "2026-09-04 18:27",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -1719,8 +1719,8 @@
      "save_trm": 12,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.01,
-     "intr_rate2": 3.81
+     "intr_rate": 3.02,
+     "intr_rate2": 3.82
     },
     {
      "save_trm": 24,
@@ -1737,8 +1737,8 @@
      "intr_rate2": 3.5
     }
    ],
-   "best_rate": 3.81,
-   "best_base_rate": 3.01,
+   "best_rate": 3.82,
+   "best_base_rate": 3.02,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EB%86%8D%ED%98%91%EC%9D%80%ED%96%89%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20NH%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%9B%94%EB%B3%B5%EB%A6%AC%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -2958,26 +2958,26 @@
      "save_trm": 12,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.42,
-     "intr_rate2": 3.62
+     "intr_rate": 3.44,
+     "intr_rate2": 3.64
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.29,
-     "intr_rate2": 3.49
+     "intr_rate": 3.33,
+     "intr_rate2": 3.53
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.22,
-     "intr_rate2": 3.42
+     "intr_rate": 3.27,
+     "intr_rate2": 3.47
     }
    ],
-   "best_rate": 3.62,
-   "best_base_rate": 3.42,
+   "best_rate": 3.64,
+   "best_base_rate": 3.44,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%EC%9D%80%ED%96%89%20%EB%AF%B8%EC%A6%88%EC%9B%94%EB%B3%B5%EB%A6%AC%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88",
    "first_seen": "2026-07-31",
@@ -3001,47 +3001,47 @@
      "save_trm": 1,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.6,
-     "intr_rate2": 2.7
+     "intr_rate": 2.61,
+     "intr_rate2": 2.71
     },
     {
      "save_trm": 3,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.79,
-     "intr_rate2": 2.89
+     "intr_rate": 2.8,
+     "intr_rate2": 2.9
     },
     {
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.03,
-     "intr_rate2": 3.13
+     "intr_rate": 3.05,
+     "intr_rate2": 3.15
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.32,
-     "intr_rate2": 3.52
+     "intr_rate": 3.34,
+     "intr_rate2": 3.54
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.19,
-     "intr_rate2": 3.39
+     "intr_rate": 3.23,
+     "intr_rate2": 3.43
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.12,
-     "intr_rate2": 3.32
+     "intr_rate": 3.17,
+     "intr_rate2": 3.37
     }
    ],
-   "best_rate": 3.52,
-   "best_base_rate": 3.32,
+   "best_rate": 3.54,
+   "best_base_rate": 3.34,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%EC%9D%80%ED%96%89%20%EC%8A%A4%EB%A7%88%ED%8A%B8%EB%AA%A8%EC%95%84Dream%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88",
    "first_seen": "2026-07-31",
@@ -3065,12 +3065,12 @@
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.22,
-     "intr_rate2": 3.72
+     "intr_rate": 3.24,
+     "intr_rate2": 3.74
     }
    ],
-   "best_rate": 3.72,
-   "best_base_rate": 3.22,
+   "best_rate": 3.74,
+   "best_base_rate": 3.24,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%EC%9D%80%ED%96%89%20%EA%B5%BF%EC%8A%A4%ED%83%80%ED%8A%B8%EC%98%88%EA%B8%88",
    "first_seen": "2026-07-31",
@@ -3616,33 +3616,33 @@
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.14,
-     "intr_rate2": 3.14
+     "intr_rate": 3.15,
+     "intr_rate2": 3.15
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.3,
-     "intr_rate2": 3.3
+     "intr_rate": 3.31,
+     "intr_rate2": 3.31
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.4,
-     "intr_rate2": 3.4
+     "intr_rate": 3.35,
+     "intr_rate2": 3.35
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.47,
-     "intr_rate2": 3.47
+     "intr_rate": 3.42,
+     "intr_rate2": 3.42
     }
    ],
-   "best_rate": 3.47,
-   "best_base_rate": 3.47,
+   "best_rate": 3.42,
+   "best_base_rate": 3.42,
    "best_term": 36,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85%EC%9D%80%ED%96%89%20IBK%EB%8D%94%EA%B5%B4%EB%A6%AC%EA%B8%B0%ED%86%B5%EC%9E%A5%28%EC%8B%A4%EC%84%B8%EA%B8%88%EB%A6%AC%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88%29",
    "first_seen": "2026-07-31",
@@ -3673,26 +3673,26 @@
      "save_trm": 3,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.93,
-     "intr_rate2": 2.93
+     "intr_rate": 2.94,
+     "intr_rate2": 2.94
     },
     {
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.23,
-     "intr_rate2": 3.23
+     "intr_rate": 3.24,
+     "intr_rate2": 3.24
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.45,
-     "intr_rate2": 3.45
+     "intr_rate": 3.46,
+     "intr_rate2": 3.46
     }
    ],
-   "best_rate": 3.45,
-   "best_base_rate": 3.45,
+   "best_rate": 3.46,
+   "best_base_rate": 3.46,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85%EC%9D%80%ED%96%89%20IBK%EA%B5%B4%EB%A6%AC%EA%B8%B0%ED%86%B5%EC%9E%A5%28%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88%29",
    "first_seen": "2026-07-31",
@@ -4472,6 +4472,54 @@
  ],
  "news": [
   {
+   "title": "광주은행, ‘전남광주시 사랑적금’ 출시 - 진일보",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IVWhhWC1Wb0lyUVc5Ti1KOWtMczhsWEoxR1RhMEZtSFhVeWc1RWNGMy1xSnV6WE5nLWtTVWZGMl9aR1NNS2pEVFNzcFBRSklfUU1GNktXS3I4NFFKdUUyTlJyYnViQ2s4dlZ2am42bw?oc=5",
+   "source": "진일보",
+   "date": "2026-09-04"
+  },
+  {
+   "title": "광주은행, '전남광주통합특별시 사랑적금' 출시...우대금리 충족 시 최고 연 4.70% 금리 제공 - fnnews.com",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93cnZrejhObTJqZ1pIdWpDLU1EWXF1WHhVd3NiVzNGSE1oX1l1SHZCMHQ2QlJuaTFyVm1FSlg4eUkzdS16WTBSalI0VjYzWEg5Y3Q1cE9lWFhyZw?oc=5",
+   "source": "fnnews.com",
+   "date": "2026-09-04"
+  },
+  {
+   "title": "광주은행, ‘전남광주시 사랑적금’ 출시 - thepowernews.co.kr",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TMXo5dGphWGl3ZW9vZE9qajZXTms1UUp0NnVIeFBndWM4Q0stUDFfdGY2VHc0bW1rcWNzOTdTSjl0M21uRFNtZEpBZ0wxSWRFYWxocjJOa1RyWFZmZkRyQlpCaUhadUNZbzlsVUxzcTBFbDh3ZVRJTE9adWxIQQ?oc=5",
+   "source": "thepowernews.co.kr",
+   "date": "2026-09-04"
+  },
+  {
+   "title": "광주은행, ‘전남광주통합특별시 사랑적금’ 출시… 최고 연 4.70% 금리 제공 - 브레이크뉴스",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE55SU5WclFFcEJFMU5FdkNUbW40VUVYb3hwQW1DRkxwMkYwZ2RZOUNDSm9odlFHOTVYdDZ1VG5zTUsxZTUxRDNvcA?oc=5",
+   "source": "브레이크뉴스",
+   "date": "2026-09-04"
+  },
+  {
+   "title": "광주은행, '전남광주통합특별시 사랑적금' 출시 - 노컷뉴스",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLZ2t1OHJMWDNGZ0U0dWhzekJaUkpPVEpCdi02T0lQTGsxR25YbmJiZUJrZFJReV8tbFBmQ2ozRTAxNkhhS2RhRS1CNno4bnJsbzctTQ?oc=5",
+   "source": "노컷뉴스",
+   "date": "2026-09-04"
+  },
+  {
+   "title": "광주은행, 전남광주통합특별시 사랑적금 출시 - 네이트",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5ZHpNUFNtd3lHVnlfaGhMeDlBOU9wci10d0RKY2hOTW1JR2EwQXRtQlRaU2FmeW9QOW5nSlFaUThCYzVZUDZIYkxUMDM2ZkwwSDlr?oc=5",
+   "source": "네이트",
+   "date": "2026-09-04"
+  },
+  {
+   "title": "KB증권·광주은행 ‘퇴직연금형 개인투자용 국채’ 거래 서비스 오픈·‘전남광주통합특별시 사랑적금’ 출시 - 여성소비자신문",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrdVVLb1l6V3k2bU5wNTREVTFFVDdMVnFYeHdGMVgwTmxJRWhYRTZLaUx5SmlGdzlRMUlOX1NWT0VjNzY3TlU4M1BKcVZCLS1TNWJROFVPVXpxdXVwM3BKak51Z2trZw?oc=5",
+   "source": "여성소비자신문",
+   "date": "2026-09-04"
+  },
+  {
+   "title": "광주은행, 전남광주통합특별시 사랑적금 출시 - 웹이코노미",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kV0ZNNmxMZ0oxaVBNUF9zYUFhNkRmNWdhUzZlaTZ0VmsxVFlhMUNORktxMUdVWFptdW03OGlWbzQyRXplMDVSVHhCYThDMnpVSlcyX1p2azJMMFpJWmNPWkZINVBLTzRXLW1Ta2NoeklqQQ?oc=5",
+   "source": "웹이코노미",
+   "date": "2026-09-04"
+  },
+  {
    "title": "광주은행, '전남광주통합특별시 사랑적금' 출시 - 연합뉴스",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UcDloN1k1T1lpeHl3T3lGYzBjUXBVeExsYUZNZlVEdmIxNzdhWHpWS2FnSkJHVXNtbGlVX0RSR2FZYTlBSHZJaHJlaENIMktSa0huX1dsQ0F2c0t6cXRsS9IBYEFVX3lxTE9UcDloN1k1T1lpeHl3T3lGYzBjUXBVeExsYUZNZlVEdmIxNzdhWHpWS2FnSkJHVXNtbGlVX0RSR2FZYTlBSHZJaHJlaENIMktSa0huX1dsQ0F2c0t6cXRsSw?oc=5",
    "source": "연합뉴스",
@@ -4494,65 +4542,9 @@
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hRjBQRnpTSTg0VWh3dUgzOHhvcWpYUVQtdVZWVklKb3dkd2p2R1Y4aEpzSnM1T1ExSHQ4azZ5Um9BZ1I1TG1DaFdjNURjTjF2N09WbVV6V1dBUjlTVGo4bVFvamlzaGNUcWpPZtIBb0FVX3lxTFBZREZVby1yaU5Ja2w0VU0wS3lmVXZoYW0xNEFJcEZIeFBpUFI1V0ZqaHhzcnR4ajIzY0NFNWFtcks4VEczMWI1M3B3SzBJcWZ4XzNRa2laXzdqQ3VRT0xmNGpiOFBFaks5ZGM0Z2FHTQ?oc=5",
    "source": "금융경제신문",
    "date": "2026-09-04"
-  },
-  {
-   "title": "광주은행, ‘전남광주통합특별시 사랑적금’ 출시 - 누리일보",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tS0NxN3QwRmplX2RDN0dDVWo4d3RsRWZnbVJGVDRPZ09LSlllOXJiQnNIWlZrYXNLUFFia3dxSzlXY3BCeXZpTl9XclB0VWY3SXhNcy1wT0dHcnc5?oc=5",
-   "source": "누리일보",
-   "date": "2026-09-04"
-  },
-  {
-   "title": "광주은행, ‘전남광주통합특별시 사랑적금’ 출시… 최고 연 4.70% 금리 제공 - 브레이크뉴스",
-   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9FNktSb05ROU1xVTVTNkZwMW4xN1NnRGE5X095LWZkR0dZbENLNzVtXzRqSW5qM1k3QU9sblE2bFN0QQ?oc=5",
-   "source": "브레이크뉴스",
-   "date": "2026-09-04"
-  },
-  {
-   "title": "광주은행, 최고 연 4.70% '전남광주통합특별시 사랑적금' 출시 - gukjenews.com",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vMDhvcmd1cUFZVHpwblFqWmFoVTBRU0xXZXZkQjhfRHlUVkgtUGRtcjVkVFl6bFFUeElYTjg1bGkzMmp4U256ZjZBRkFkQ095bXBoOTczcHNXQlhOTWxiVDVxcWZrQzdqSVpVYi1R?oc=5",
-   "source": "gukjenews.com",
-   "date": "2026-09-04"
-  },
-  {
-   "title": "광주은행, '전남광주통합특별시 사랑적금' 출시 - 네이트",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzVlJsd0FZdTBON0ZZTzhJZ25zZmkyUnA4ZExwbC1MeHJWY3Rmb3pLakEzVXFHeUx1Qld1YWFXRVNHd204VEREcFBxbG9TZ2xfRzZZ?oc=5",
-   "source": "네이트",
-   "date": "2026-09-04"
-  },
-  {
-   "title": "광주은행, 최고 연 4.70% 금리제공 적금 출시 - 네이트",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PcENxYnhualRzUUFDUkRzbkI5UzZWMEJDUlMycEpiOEhoOWpfRTYxb1Exd0ZtYkJ0NDZyTzBVVERkMnczMzljVG5wNnlpc3FBc1hr?oc=5",
-   "source": "네이트",
-   "date": "2026-09-04"
-  },
-  {
-   "title": "사랑예금 완판 이어…광주은행, '통합특별시 사랑적금' 출시 - 네이트",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFcHBJaWN6WmdZenlxSHZtNE0xSFFOWk13NFJrYjRwY0oxV2FrWmQ0eXBNWThraWZUZmk2ck85VnhIZWRHTXhpZE9IMXpmWFMtVGtB?oc=5",
-   "source": "네이트",
-   "date": "2026-09-04"
-  },
-  {
-   "title": "하나카드, 산림조합과 연 8% 특판적금 출시 - 아시아경제",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1nQXZ1aVZRTWxqSlRlc2txUGJhcFB3TXhScHR5V3U5dU85S2x2bnZFTjBreVIzOGtqUFE1b3JLNzRIVDdib3FlM2VLZXJrUTVIcWFITVNXOE84RE44bjI4VXZBVjhXbHlpNVZn?oc=5",
-   "source": "아시아경제",
-   "date": "2026-09-01"
-  },
-  {
-   "title": "하나카드·산림조합, 평균 연 8% 적금 특판 상품 출시…10월 말까지 한정 판매 - 팝콘뉴스",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE80WWYtVS15R19aTm5rMW4xcjgweUo3OHNTaVRPOXM4cGxXZ0R1QVM1U1FabjNfVnlhdUVCUldCVTNxRzI5TDZ3dDNrODk2STh5SVp6dDRuM0F3cV9FSDkwMXVrU3BNTXVsVmZubWtwZ000d9IBckFVX3lxTE80WWYtVS15R19aTm5rMW4xcjgweUo3OHNTaVRPOXM4cGxXZ0R1QVM1U1FabjNfVnlhdUVCUldCVTNxRzI5TDZ3dDNrODk2STh5SVp6dDRuM0F3cV9FSDkwMXVrU3BNTXVsVmZubWtwZ000dw?oc=5",
-   "source": "팝콘뉴스",
-   "date": "2026-09-01"
   }
  ],
  "news_seen": [
-  "7c2554e7aed29a41",
-  "fbc88f3902bcbe58",
-  "f2070a6611189ba0",
-  "7817cf43e2b9c088",
-  "50971ec5756d188e",
-  "70432c6b0c8dfbbe",
-  "b4e7511bc53b2991",
-  "49276c455ac37ef2",
   "1082a5921d5c8fa0",
   "b5133330572fbf90",
   "3c5b7a13043657a4",
@@ -5344,7 +5336,15 @@
   "c1290b6e9b55db56",
   "6c8428ccb8b5aa90",
   "e2eb1715f7e84153",
-  "94ae710f941cf01c"
+  "94ae710f941cf01c",
+  "5309141eb8e52369",
+  "b24aa782ee4f481e",
+  "08281e0564a7bc24",
+  "604567bb40255884",
+  "ca18cc87d54c8727",
+  "36079cfd7b94f21b",
+  "616dbee58e0f77bb",
+  "229f5393875897ba"
  ],
  "news_seeded": true,
  "news_products": [
@@ -5354,7 +5354,7 @@
    "norm": "전남광주통합특별시사랑적금",
    "rate": 4.7,
    "first_news": "2026-09-04",
-   "count": 9,
+   "count": 14,
    "articles": [
     {
      "title": "광주은행, '전남광주통합특별시 사랑적금' 출시 - 연합뉴스",
@@ -5378,6 +5378,46 @@
      "title": "광주은행, ‘전남광주통합특별시 사랑적금’ 출시 - 누리일보",
      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tS0NxN3QwRmplX2RDN0dDVWo4d3RsRWZnbVJGVDRPZ09LSlllOXJiQnNIWlZrYXNLUFFia3dxSzlXY3BCeXZpTl9XclB0VWY3SXhNcy1wT0dHcnc5?oc=5",
      "source": "누리일보",
+     "date": "2026-09-04"
+    }
+   ],
+   "in_disclosure": false
+  },
+  {
+   "bank": "광주은행",
+   "name": "전남광주시 사랑적금",
+   "norm": "전남광주시사랑적금",
+   "rate": null,
+   "first_news": "2026-09-04",
+   "count": 2,
+   "articles": [
+    {
+     "title": "광주은행, ‘전남광주시 사랑적금’ 출시 - 진일보",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IVWhhWC1Wb0lyUVc5Ti1KOWtMczhsWEoxR1RhMEZtSFhVeWc1RWNGMy1xSnV6WE5nLWtTVWZGMl9aR1NNS2pEVFNzcFBRSklfUU1GNktXS3I4NFFKdUUyTlJyYnViQ2s4dlZ2am42bw?oc=5",
+     "source": "진일보",
+     "date": "2026-09-04"
+    },
+    {
+     "title": "광주은행, ‘전남광주시 사랑적금’ 출시 - thepowernews.co.kr",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TMXo5dGphWGl3ZW9vZE9qajZXTms1UUp0NnVIeFBndWM4Q0stUDFfdGY2VHc0bW1rcWNzOTdTSjl0M21uRFNtZEpBZ0wxSWRFYWxocjJOa1RyWFZmZkRyQlpCaUhadUNZbzlsVUxzcTBFbDh3ZVRJTE9adWxIQQ?oc=5",
+     "source": "thepowernews.co.kr",
+     "date": "2026-09-04"
+    }
+   ],
+   "in_disclosure": false
+  },
+  {
+   "bank": "국민은행",
+   "name": "전남광주통합특별시 사랑적금",
+   "norm": "전남광주통합특별시사랑적금",
+   "rate": null,
+   "first_news": "2026-09-04",
+   "count": 1,
+   "articles": [
+    {
+     "title": "KB증권·광주은행 ‘퇴직연금형 개인투자용 국채’ 거래 서비스 오픈·‘전남광주통합특별시 사랑적금’ 출시 - 여성소비자신문",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrdVVLb1l6V3k2bU5wNTREVTFFVDdMVnFYeHdGMVgwTmxJRWhYRTZLaUx5SmlGdzlRMUlOX1NWT0VjNzY3TlU4M1BKcVZCLS1TNWJROFVPVXpxdXVwM3BKak51Z2trZw?oc=5",
+     "source": "여성소비자신문",
      "date": "2026-09-04"
     }
    ],
@@ -5829,46 +5869,6 @@
      "title": "전북은행, 최고 연 4.50% ‘현대자동차 X JB 특판적금’ 출시 - 투데이안",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRNHdYTkVIV2U3U3d3ZVp6Q3BuSnctczhBdEVvalBMYTRHSjdBa182S3pGNjllaGxFU2p1anRyd0ZvZWcxOGxkOWplbWRBTEd2VXYzT3paemkybHBtRGJJSWJZeEE0UF91Snc?oc=5",
      "source": "투데이안",
-     "date": "2026-08-13"
-    }
-   ],
-   "in_disclosure": false
-  },
-  {
-   "bank": "전북은행",
-   "name": "전북은행 JB특판적금 가입하면 차 구매 할인",
-   "norm": "전북은행JB특판적금가입하면차구매할인",
-   "rate": null,
-   "first_news": "2026-08-13",
-   "count": 2,
-   "articles": [
-    {
-     "title": "현대차 전북 \"전북은행 JB특판적금 가입하면 차 구매 할인\" - 뉴시스",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwQUc4Z0lYbWVBdlZkX1pibWl3dXcyZmIzSU1xWVZlSmJyZE1JREc0b18zcm5pZGltb0tTSERLejFWeW1rRDRpZHQwZ196UDd6M1FEcFpmMkI3NERpN0QxLdIBeEFVX3lxTFBUdV9rYzEwX1E4ckVYRlNQcHlMbjBCRXVfV3FGdm1ENWdSanhRLTNMUThYMGNqdjQxMXBSSTVFSGVDajJvR3N6RUp0c3VXamlxNHJ2ZDV1OWwzN3lDTk9WUDNGVm1qVkF5dGlmbWZNX0sxd0tiYkxnag?oc=5",
-     "source": "뉴시스",
-     "date": "2026-08-13"
-    },
-    {
-     "title": "현대차 전북 \"전북은행 JB특판적금 가입하면 차 구매 할인\" - 뉴시스",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUdV9rYzEwX1E4ckVYRlNQcHlMbjBCRXVfV3FGdm1ENWdSanhRLTNMUThYMGNqdjQxMXBSSTVFSGVDajJvR3N6RUp0c3VXamlxNHJ2ZDV1OWwzN3lDTk9WUDNGVm1qVkF5dGlmbWZNX0sxd0tiYkxnatIBeEFVX3lxTFBUdV9rYzEwX1E4ckVYRlNQcHlMbjBCRXVfV3FGdm1ENWdSanhRLTNMUThYMGNqdjQxMXBSSTVFSGVDajJvR3N6RUp0c3VXamlxNHJ2ZDV1OWwzN3lDTk9WUDNGVm1qVkF5dGlmbWZNX0sxd0tiYkxnag?oc=5",
-     "source": "뉴시스",
-     "date": "2026-08-13"
-    }
-   ],
-   "in_disclosure": false
-  },
-  {
-   "bank": "신한은행",
-   "name": "연 9% 적금",
-   "norm": "연9%적금",
-   "rate": 9.0,
-   "first_news": "2026-08-13",
-   "count": 1,
-   "articles": [
-    {
-     "title": "신한은행, '연 9% 적금' 출시…1년 만기·월 최대 30만원 - 컨슈머타임스",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yeDJHWkNLNlhWVENjSHNuYVZhN21DVVYydWJIMk9UcXB5ekw4b2RTeHBHYTRHdHJWZFE3QTB1d01HaGZUcl8zQ01uTlB5SWpFVWNaSXFiOU5CZjdOdGx2R2k0SENidkFHZWc?oc=5",
-     "source": "컨슈머타임스",
      "date": "2026-08-13"
     }
    ],
