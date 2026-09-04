@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-05 06:20",
+ "updated_at": "2026-09-05 08:54",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -4472,6 +4472,12 @@
  ],
  "news": [
   {
+   "title": "노동진 수협 회장, 예·적금 판매 수익금 지역에 환원 ‘첫 지역 나눔 공익상품 출시 후 1천만 원 여수에 기부’ - 로컬세계",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aM1duWGVSaVhrQmczRWNwTHNLaVJXRTMyaTl6REU5ZzI2WjhwT0NxS0ZQX0M2cmZjR0VzN0kxa1RtMGFhdUVtak9RR2w2UTJPMEZwa3BFaFlLLWtiUlFxUtIBWEFVX3lxTE5OU2RhX094OXVnLUhSbjZWSlNWY0xISFZGNk94Rl9OZGVBbEprUFJJYTVYN1dmMGQzclcxdktFbzJlRzU0Nl9MYUpCVVZNOWhGUFZZVnRQQWI?oc=5",
+   "source": "로컬세계",
+   "date": "2026-09-04"
+  },
+  {
    "title": "광주은행 ‘전남광주특별시 사랑적금’ 출시…고향사랑기부 연계 - 글로벌경제신문",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BQTlmYm13YTZDNENvakttSy1Dbk1RQ3VrTm9LRGJPWjlBN3V0elJ4ZDhuZGFZZGZWVGVrVC1wZnBHTW5xdUV6MFhBM1NCeldaTTlROVhxU3RqcFZDam1OZm8tNURKblNIYXYyTFhlb3LSAXBBVV95cUxPQUE5ZmJtd2E2QzRDb2pLbUstQ25NUUN1a05vS0RiT1o5QTd1dHpSeGQ4bmRhWWRmVlRla1QtcGZwR01ucXVFejBYQTNTQnpXWk05UTlYcVN0anBWQ2ptTmZvLTVESm5TSGF2MkxYZW9y?oc=5",
    "source": "글로벌경제신문",
@@ -4536,16 +4542,9 @@
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UcDloN1k1T1lpeHl3T3lGYzBjUXBVeExsYUZNZlVEdmIxNzdhWHpWS2FnSkJHVXNtbGlVX0RSR2FZYTlBSHZJaHJlaENIMktSa0huX1dsQ0F2c0t6cXRsS9IBYEFVX3lxTE9UcDloN1k1T1lpeHl3T3lGYzBjUXBVeExsYUZNZlVEdmIxNzdhWHpWS2FnSkJHVXNtbGlVX0RSR2FZYTlBSHZJaHJlaENIMktSa0huX1dsQ0F2c0t6cXRsSw?oc=5",
    "source": "연합뉴스",
    "date": "2026-09-04"
-  },
-  {
-   "title": "광주은행, 최고 연 4.7% '전남광주통합특별시 사랑적금' 출시 - ebn.co.kr",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wZkFCa1ZETTJxcktselpIOXJtQ1hvNHlnTTZkZnNMVEs1dWx1Q2tLWFM2QzlnVTJmX05PTjRTQllyRUdNQTJTcVhKNXlickEtN1lkNmNSNVp0Zl8tcFYxY3EzRGV5WVdB?oc=5",
-   "source": "ebn.co.kr",
-   "date": "2026-09-04"
   }
  ],
  "news_seen": [
-  "3c5b7a13043657a4",
   "8ce70f59d3b07edc",
   "ffb24660103db5be",
   "200183b792bf3bd1",
@@ -5344,7 +5343,8 @@
   "616dbee58e0f77bb",
   "229f5393875897ba",
   "1d484c3b7c24f4d2",
-  "1bb7dd796a181a82"
+  "1bb7dd796a181a82",
+  "4c00ffcf49180aef"
  ],
  "news_seeded": true,
  "news_products": [
