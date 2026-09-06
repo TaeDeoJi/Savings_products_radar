@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-07 06:11",
+ "updated_at": "2026-09-07 08:43",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -4472,6 +4472,48 @@
  ],
  "news": [
   {
+   "title": "우리은행, 아시안게임 응원 최고 연 7.5% '팀코리아' 적금 출시 - 퍼블릭타임스",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51dUdEMVI1VDFnMk1TRzhUQm1zZTN3MDJXb0VCckt6TXlnTDBhZXVmZEt0bWZDSWNpZ2ZhR1R4bWZYWVp2MUlYa2tpWFZkTW5sUTduU0d5bTJKcUwwUG9KQklVY3FEV21sNGfSAW5BVV95cUxQSUVkaFlVY09vOWZNbnFsMnctcVVfWWxadE5SYkhXM3VlcjA0RzBaNXpmLXBwbTdqa2E1TmduckFXMl9EN3BjdzFBZDU0bjNnNjlZWGtuTk1jX09Yelp1dkpqYnFzaW85M0hyekk5UQ?oc=5",
+   "source": "퍼블릭타임스",
+   "date": "2026-09-07"
+  },
+  {
+   "title": "우리은행, 아시안게임 응원 적금 출시…최고 연 7.5% - 네이트",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HcTJMYTU2TFFmcDR2MGVaNmhqcU9pM0Iyb0pweDEyemhlcF9iQ2pVOE9lSHVqcGI5dU55REV1b0hfRUNTSW10ZTFYdGlUT3pSb19v?oc=5",
+   "source": "네이트",
+   "date": "2026-09-07"
+  },
+  {
+   "title": "우리은행, 팀코리아 응원 적금 출시…최고 연 7.5% - v.daum.net",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnaXNPc0V2REswUFlpZUtEeVg3czkybEFmeERySEEzVEg2R2tTWUN6VEZGaFRTMjlra1JZcFZvb3ZhQnNnR3dRNms1U0ZZN0RMbkkzTXZBZmRCLU15WngzVnVIdTZ0WElZY2I0TnNhdmFMczUtZ1Zobl9kN0o?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-09-06"
+  },
+  {
+   "title": "카카오뱅크, '26주 적금 with 카카오웹툰' 출시 하루 만에 10만좌 개설 - catchnews.kr",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WZFRqcmlvdkFGWndmQ0l0S1NGYm5RakM5T0MyZHRNakR2ckN2dGp1Ym5uM0M4QUktTDZnT0RXeXgyZFJNcDJuZ0JSNTZ6U3YzTUotSjRwbWVnUXVCanpDMnVwQWlYc3NyNlHSAW5BVV95cUxQMU9CSVctVktXaWRnNmxPSE4yQmZ2Nl9GTVBxSzE1a0w5Z0FiTFR6a3hOMW0wUXJqYkktMXVtQlYzTlpDR0R0RG1TTE82dng0RXdqZjI3RERORHhOWHFhSlNwc2h1ZnFRTTNYOHlyUQ?oc=5",
+   "source": "catchnews.kr",
+   "date": "2026-09-06"
+  },
+  {
+   "title": "우리은행, 팀코리아 응원 적금 출시···최고 연 7.5% - 뉴스웨이",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yczZuekx3YlU3XzlpOWlVa19iQUJJaU9WTFRkUERnanZhbDl4Y3gzSnhCUXFZWW5CcU9CdUJoMGtYdjlucE53WWJiZWs0LVdQeTB1WlhXMkFzdURMUXJ5WmJfVVVmbzFz?oc=5",
+   "source": "뉴스웨이",
+   "date": "2026-09-06"
+  },
+  {
+   "title": "\"아시안게임 응원하면 금리오른다\" 우리은행, 연 7.5% 적금 출시 - gfr.co.kr",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wMUNYM0J3eWZjYzNZRVJJWklNUnFNQXpCVV9PMUNmTElTZFRnNXNWMmRSZGVfM1ZMMXJVbnZ1SU1WMk96TlFLVkpOOWU0WEpxc05NUURCUTFvNm1oOGpEdE9iSjg?oc=5",
+   "source": "gfr.co.kr",
+   "date": "2026-09-06"
+  },
+  {
+   "title": "‘최고 연 7.5% 이율’…우리은행, 팀코리아 적금2 출시로 아시안게임 응원 - ppss.kr",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GS1hLNW44aTVfV1ZZdEFSUVRkRHFtUlRPeXBsc1BTQk1lLUR4ZHpxR0dXUFNaU0RJbl94VHA2M2RwSVBOMHVrdWlXV1lkWEQzTmo2cXUzMFI0OVBnOUNaX1pKNTQ?oc=5",
+   "source": "ppss.kr",
+   "date": "2026-09-06"
+  },
+  {
    "title": "우리은행, 아시안게임 응원 적금 출시…최고 연 7.5% - 조세일보",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xYU5POHpLOFhrSDdqRzVlNURlTVR0R3VXcGNLQXVHOW5HQmVuMm0yRXhRTF9jS0ZDcDZQal9YYlNEMkdTZ2ZzWXBweXhwdzZOakFQQzRxMUNyanRkRG9mdThBbVRVMm81YVpDV0Q0X3hZRkZC?oc=5",
    "source": "조세일보",
@@ -4500,58 +4542,9 @@
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ReTFuM2UtczJXZkd1azRWcTBJa01KRjFJdmxaR2NNNk95b2UyRnUyUVFubUZ5c0xQWl9nemlBZ2FtZ2JqbGEwaWZoQnZfcDY0UDdQd3VBbndzQnBxRTBIWWFWblQtd3BmSjI1THR4TWcxU2E4RzJBNg?oc=5",
    "source": "네이트",
    "date": "2026-09-06"
-  },
-  {
-   "title": "우리은행, 아시안게임 맞아 최고 연 7.5% ‘Team Korea 적금’ 출시 - 팍스경제TV",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYbFp3SnQ2S1NUeWQ5OVdPQ29CNThjWGVXMXBnOVFQZE5oaW9hZGNrdk92Rk12OF92THlPWl94ak1XM2lDeU1oZUw3V2d4RTd4ZFBZYVgwOTN1ak5VeHJtX0x4emNSSjQ3?oc=5",
-   "source": "팍스경제TV",
-   "date": "2026-09-07"
-  },
-  {
-   "title": "우리은행, 아시안게임 응원 적금 출시…최고 연 7.5% - v.daum.net",
-   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9neFlLRjlYalVwLU44X3hNM0hLUlFNQjJvSUI1bG82UTd1dlJJbjBMdVhySWZpUjFMb280bTNhQkRfeHZ4dnc?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-09-06"
-  },
-  {
-   "title": "우리은행, 아시안게임 승리 기원...연 7.5% 적금 출시 - choicenews.co.kr",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE14LS1xZ0VONGNlV3pTaDF5X2NLZUNYMzB6d0pKbGdFenNET3ZlQUVwdGV5c2MwZEY2WjJIdEVZMlZnRVVhejZldzVHV09xMVNzWGgtV0kyaXNiRjVXUHpFcG5rVkxlVWJULW92dXZNWdIBc0FVX3lxTE02blhjcXNLQ1dLa1JwTld4ZDE2a1p5QTZJZjkyZ01ZcWlvUEkwNmdSdEg4SDRJcmlDM1BNQWJKeFJ6LVFwa0VwNlRCUWc0TVZGUHgwRkVYTVpxd1dCQlNTSTZIVnVmb00zV01jMXRzSExuM0U?oc=5",
-   "source": "choicenews.co.kr",
-   "date": "2026-09-06"
-  },
-  {
-   "title": "우리은행, 아시안게임 ‘팀 코리아 적금’ 출시-종합 1위 땐 최고 연 7.5% - 미디어파인",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zVnVpX0Q5N2VhM2wxbEhyWXlJSFVpSDZIN1B3dUYtNklGRUhsSnNBNnEzRXpJY2QxaGtlLXMtSUFRcTZ6ZzlmUEdpV2lxR3ktckxCTWZmb1dfazhNWkVidHBQeHVBWFVqLWxpVGp3?oc=5",
-   "source": "미디어파인",
-   "date": "2026-09-06"
-  },
-  {
-   "title": "우리은행, 아시안게임 ‘팀 코리아’ 응원 적금 출시 - 이코노뉴스",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50TzVxZUNvb1RyZW1DWWhsaWFZb0I1aXZ4Tm9FTEhEUDZCc0NxMHlpdWF6aEFmRnpwcDVDRVZ5Vl90ampFUE1sUlk5SHUtekZ3ZkNzU3NhWDhpa1hqM245OWFkQ29mVk1mV1BkaTk4aw?oc=5",
-   "source": "이코노뉴스",
-   "date": "2026-09-06"
-  },
-  {
-   "title": "우리은행, 아시안게임 응원 적금 출시…최고 연 7.5% - v.daum.net",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mTzJ3S3F1bE5jQ3J2cng4c2otVHhJT3hCTGdSR1YtU0FuMUJLZ3REdlY2TTFLRDlQM2g4NWZuYng0SHRxN1ZOZFY2emVWYl9fNUdyWA?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-09-06"
-  },
-  {
-   "title": "광주은행, ‘전남광주통합특별시 사랑적금’ 출시 - 한스경제",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vUlZOR2RjdUdlQXN4OHVPV0VPRjAybEFIUEEzS2J1V2VHdGlKR1gwdy1GR0ZYTTBUVGZDbFR1ZlhQdENNS1JXY2FRX3owV0pRODBLdEl4Z01pYXZPekV2bWhDWDc3MTkzRTR30gFvQVVfeXFMUFZKRlJtTFotakRhcXhOS255aTFqZkw1LWdNU2tkenJnanUtUlRsVUJISmJTSVJzNkhhYjZZb2dXMFJ5SmxXVjQ2RUU3MGl6cE01U2pZcVNKRlVqSm9XRExFejZpZEUwNldubmRoQkRB?oc=5",
-   "source": "한스경제",
-   "date": "2026-09-06"
   }
  ],
  "news_seen": [
-  "af71b93fc6057851",
-  "bc21bd36e6640549",
-  "43108a9c7f9d0693",
-  "5b3155db51ff7a40",
-  "1c83ed59f12a5b21",
-  "1b8874f182b65c99",
-  "ba4556580e9d1c13",
   "2e02b64c7298f3d3",
   "98133ff5eb239e14",
   "2a986dd87ed224c8",
@@ -5344,7 +5337,14 @@
   "5a9e607e481fa37f",
   "ab5d25ef094792eb",
   "5ef49cc4a60fe1c6",
-  "44f02a06e729ab41"
+  "44f02a06e729ab41",
+  "a4dd55bd9498f7f8",
+  "461ee070514114c6",
+  "cfb88428e3011e74",
+  "b5b0690aedceb68f",
+  "fe7aac92cd10ca4a",
+  "dacf6b4c196c7cd0",
+  "59a7bc9b5fd10cae"
  ],
  "news_seeded": true,
  "news_products": [
@@ -5354,7 +5354,7 @@
    "norm": "팀코리아적금",
    "rate": 7.5,
    "first_news": "2026-09-06",
-   "count": 30,
+   "count": 36,
    "articles": [
     {
      "title": "우리은행, 최고 7.5% '팀코리아 적금' 출시 - Nate News",
@@ -5533,7 +5533,7 @@
    "norm": "26주적금",
    "rate": 5.0,
    "first_news": "2026-08-27",
-   "count": 17,
+   "count": 18,
    "articles": [
     {
      "title": "카카오뱅크, 6개 브랜드 혜택 모은 '26주적금' 출시 - 전자신문",
