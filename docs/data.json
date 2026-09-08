@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-08 14:52",
+ "updated_at": "2026-09-08 20:04",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -1719,8 +1719,8 @@
      "save_trm": 12,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.02,
-     "intr_rate2": 3.82
+     "intr_rate": 3.03,
+     "intr_rate2": 3.83
     },
     {
      "save_trm": 24,
@@ -1737,8 +1737,8 @@
      "intr_rate2": 3.5
     }
    ],
-   "best_rate": 3.82,
-   "best_base_rate": 3.02,
+   "best_rate": 3.83,
+   "best_base_rate": 3.03,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EB%86%8D%ED%98%91%EC%9D%80%ED%96%89%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20NH%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%9B%94%EB%B3%B5%EB%A6%AC%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -2958,8 +2958,8 @@
      "save_trm": 12,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.45,
-     "intr_rate2": 3.65
+     "intr_rate": 3.46,
+     "intr_rate2": 3.66
     },
     {
      "save_trm": 24,
@@ -2972,12 +2972,12 @@
      "save_trm": 36,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.28,
-     "intr_rate2": 3.48
+     "intr_rate": 3.29,
+     "intr_rate2": 3.49
     }
    ],
-   "best_rate": 3.65,
-   "best_base_rate": 3.45,
+   "best_rate": 3.66,
+   "best_base_rate": 3.46,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%EC%9D%80%ED%96%89%20%EB%AF%B8%EC%A6%88%EC%9B%94%EB%B3%B5%EB%A6%AC%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88",
    "first_seen": "2026-07-31",
@@ -3022,8 +3022,8 @@
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.35,
-     "intr_rate2": 3.55
+     "intr_rate": 3.36,
+     "intr_rate2": 3.56
     },
     {
      "save_trm": 24,
@@ -3036,12 +3036,12 @@
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.18,
-     "intr_rate2": 3.38
+     "intr_rate": 3.19,
+     "intr_rate2": 3.39
     }
    ],
-   "best_rate": 3.55,
-   "best_base_rate": 3.35,
+   "best_rate": 3.56,
+   "best_base_rate": 3.36,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%EC%9D%80%ED%96%89%20%EC%8A%A4%EB%A7%88%ED%8A%B8%EB%AA%A8%EC%95%84Dream%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88",
    "first_seen": "2026-07-31",
@@ -3065,12 +3065,12 @@
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.25,
-     "intr_rate2": 3.75
+     "intr_rate": 3.26,
+     "intr_rate2": 3.76
     }
    ],
-   "best_rate": 3.75,
-   "best_base_rate": 3.25,
+   "best_rate": 3.76,
+   "best_base_rate": 3.26,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%EC%9D%80%ED%96%89%20%EA%B5%BF%EC%8A%A4%ED%83%80%ED%8A%B8%EC%98%88%EA%B8%88",
    "first_seen": "2026-07-31",
@@ -3623,26 +3623,26 @@
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.32,
-     "intr_rate2": 3.31
+     "intr_rate": 3.33,
+     "intr_rate2": 3.33
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.35,
-     "intr_rate2": 3.35
+     "intr_rate": 3.37,
+     "intr_rate2": 3.37
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.42,
-     "intr_rate2": 3.42
+     "intr_rate": 3.44,
+     "intr_rate2": 3.44
     }
    ],
-   "best_rate": 3.42,
-   "best_base_rate": 3.42,
+   "best_rate": 3.44,
+   "best_base_rate": 3.44,
    "best_term": 36,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85%EC%9D%80%ED%96%89%20IBK%EB%8D%94%EA%B5%B4%EB%A6%AC%EA%B8%B0%ED%86%B5%EC%9E%A5%28%EC%8B%A4%EC%84%B8%EA%B8%88%EB%A6%AC%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88%29",
    "first_seen": "2026-07-31",
@@ -3673,8 +3673,8 @@
      "save_trm": 3,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.94,
-     "intr_rate2": 2.94
+     "intr_rate": 2.95,
+     "intr_rate2": 2.95
     },
     {
      "save_trm": 6,
@@ -3687,12 +3687,12 @@
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.47,
-     "intr_rate2": 3.47
+     "intr_rate": 3.48,
+     "intr_rate2": 3.48
     }
    ],
-   "best_rate": 3.47,
-   "best_base_rate": 3.47,
+   "best_rate": 3.48,
+   "best_base_rate": 3.48,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85%EC%9D%80%ED%96%89%20IBK%EA%B5%B4%EB%A6%AC%EA%B8%B0%ED%86%B5%EC%9E%A5%28%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88%29",
    "first_seen": "2026-07-31",
@@ -4472,92 +4472,79 @@
  ],
  "news": [
   {
-   "title": "[단독]적금처럼 금 산다…카카오뱅크, '26주 금모으기' 출시 - 전자신문",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5sMmhrQTdwc2ZBb21nZnF5blFmMDZ1eVFZYlU0ZXEweE5jS2ZNdjBhanRwWWt6aUR1QXZ3MjBBZXVDSVpjMjFuc2pfOWxjdw?oc=5",
-   "source": "전자신문",
+   "title": "토스뱅크 ‘키워봐요 31일적금’, 출시 한 달 만에 30만좌 넘어 - bizwnews.com",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1X0pyRWlNbEFYYVFMRk9ZTHE1TE5sMkpzUzFlT2xpYnBXT0pDMmVNc1dueUdKTjRqWGtTREdFRGV0Z20tQkNtYTZwQ0I4OXNHQjBzbTlQTk1wT3RGbmlIU1AwMTdSLXh5MGc?oc=5",
+   "source": "bizwnews.com",
    "date": "2026-09-08"
   },
   {
-   "title": "토스뱅크 '키워봐요 31일적금', 출시 한 달 만에 30만좌 돌파 - fetv.co.kr",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFWGdQVS1WSlZuQnpiWDBBYldzQTN0YVRfM0xvR09KN3ZxeTFHZjZUMnNBM3I2cE5rTmpPM2tRbi02bFR5eTRWTHhwVEctT0Q3Y08xSkxkNWtkT2FBQ0JMOFdlb2x5a2pj?oc=5",
-   "source": "fetv.co.kr",
-   "date": "2026-09-08"
-  },
-  {
-   "title": "토스뱅크 '키워봐요 31일적금', 출시 한 달 만에 30만좌 돌파 - 매일일보",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfOFV2VzRUdGl2Uk5mYzg3ZU92OTluS1pVUTNQNUM3Wm00T3dkNHJPWUpicFRjX2I1QlRYXzJIQkZONGRyWUdXc1NiR0hSVmdELXM2RUlBUmhHMWhOZ3pzcmtOZUc4U1BU0gFoQVVfeXFMUF84VXZXNFR0aXZSTmZjODdlT3Y5OW5LWlVRM1A1QzdabTRPd2Q0ck9ZSmJwVGNfYjVCVFhfMkhCRk40ZHJZR1dzU2JHSFJWZ0QtczZFSUFSaEcxaE5nenNya05lRzhTUFQ?oc=5",
-   "source": "매일일보",
-   "date": "2026-09-08"
-  },
-  {
-   "title": "토스뱅크 ‘키워봐요 31일적금’, 출시 한 달 만에 30만좌 돌파 - 퍼블릭타임스",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tUVhFUG42ajB1NGVpY010OFV1UGhLVWpBaHBvRjVkcWVTUjUyOVYwaEpWdUVweTdrenJDcjBfMU9aOU8yeTE4UW5OQ1lXNS1jUjl0MnBKamloS2VXaTBzMTBJbGNIZDdVMlHSAW5BVV95cUxPQjVaTk8zQmlRVEx5ZXNkMEl2SURtTVZEcy1jcXhwUXFUaTRxTTh6WjFhUzBpNjkyOU5WQkVheXJLYjZ0czNNVkNtaHhUMTdMQmpObmNQbl9XWm1VSjcxenhMSHo5T0xRS0swbXMtdw?oc=5",
-   "source": "퍼블릭타임스",
+   "title": "토스뱅크 ‘키워봐요 31일적금’, 출시 한 달 만에 30만좌 돌파 - 파이낸셜투데이",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oYm1XTVlkMDBSdzZ1UnBUOWo1N0djRnRqSkdjaG1QM19MQ1pKTEl5Q2NrZkdvVG00SFFKczlpUVE1OVZnQWpublllWFVad0diYjRTdV9ZQ1BoTEkyVlFjbVVjaGk4dnlOM1NN0gFuQVVfeXFMTUhNamEydGh6NENMU3k0WWIzN3pDbVp3MHMtY1A4bjhRajBmb0t3MXdHMzVyV1cyWHl3MC1qbFhHWXNsaGhyQnhOTjhZbXRZalVaLUpNNTN2MmhBaHdrUHkyYmZXMDJ5WHhIRmNaRGc?oc=5",
+   "source": "파이낸셜투데이",
    "date": "2026-09-08"
   },
   {
    "title": "토스뱅크 '키워봐요 31일적금', 출시 한 달 만에 30만좌 돌파 - 더팩트",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tSjBrQWk3TGk5NGhmZkNMdFNMdms1UnJmeWdNTkdzQTdSeVNfdjFTTVA4MS03YXJKQVVQaDBqYzhVSlpZVGczcmItdUlwMEk1WDR2NEpHX2R4d9IBVEFVX3lxTFBQZnp5R0tmTEhBMFhXdzFYMzltNlVrUXVpRTdCVUx0NVNiM1FzeEtUczJUc01INFhza2RTVGc0TlV5dUhhdnFsWXBZVUxTal9ocG9XdQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQZnp5R0tmTEhBMFhXdzFYMzltNlVrUXVpRTdCVUx0NVNiM1FzeEtUczJUc01INFhza2RTVGc0TlV5dUhhdnFsWXBZVUxTal9ocG9XddIBVEFVX3lxTFBQZnp5R0tmTEhBMFhXdzFYMzltNlVrUXVpRTdCVUx0NVNiM1FzeEtUczJUc01INFhza2RTVGc0TlV5dUhhdnFsWXBZVUxTal9ocG9XdQ?oc=5",
    "source": "더팩트",
    "date": "2026-09-08"
   },
   {
-   "title": "토스뱅크 '키워봐요 31일적금', 출시 한 달 만 30만좌 넘었다 - 포인트데일리",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvb1JjTkt1ekxQUHoxTUN3SUtXSjM3ZW9uSndsVkRpbEwycU50VDBKdG1uUTZxX3pkUnIwR1p4RGs1aHBjajN5eXo2emwyQTZWZUJmNGN1aUJ6cU0xOFU2aWp5ZHAtR09kdkF1TjlmRHjSAXRBVV95cUxPOWd1OHRiYUt4dll3eERUaGpkdENQZHQ5Y08xcmY4dTV0SndsRVU5X01La1ZJQWVfdWpDRElRR2pBQXBCQzhvUUl3VEdheW5pQnhLX1pwWkctOXV3eDdtXzd4cWhfT1BaOUZ4ajdjOVlFTlhDeQ?oc=5",
-   "source": "포인트데일리",
+   "title": "\"무려 연 10% 금리 준다\"... 출시 한 달 만에 '30만 명' 몰린 적금의 정체 - 토픽트리",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zZDF0NjN3dW1ESVY3djNYR0MtM3RKUzZnM3JiVTd5Q2drMzc0TkhQeVAwVjY3d3V3SGwtd1M3VTV1U1FmdXRSM2tRUGptZ3F2NF9NcVRVdzNwQnVKTUlWby1YTHFNTXdSbC03M1dEdTBXTWJTQVJZQlFGLTlMX1XSAYcBQVVfeXFMT0ZrM2dsS2M5OHpJMURCbHhRcnpuVUVuNjBta3BZTU16NjAwVVNGcW5nM2tlUWM5RjRHX0ltMXlHTmhhNWhVNDN6eFFadDBhem9hYVpRNGZsVUg5N2kydmZjcUFpRTgxUFo5b0prWU1oMTJiN1dBemh0bkg1SFRvTndrWjI1QTdN?oc=5",
+   "source": "토픽트리",
    "date": "2026-09-08"
   },
   {
-   "title": "토스뱅크, 출시 한달 '31일적금' 누적 30만좌 돌파 - newsis.com",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iWm1pMW0zMFZEUVZwZWVCUFVURnJ2SW9rbDlpa1k3b3kyZ3NoUnZQdVFDSWJDZUZ6MEIzMUJ1eHhLUzI1czg1QzR5SGhTSHN3cF9jMnltVm8zREFBTFNFVDZScU4tdzdRbFV2MlU0Rk9VMFpTSXFZUNIBeEFVX3lxTE1iWm1pMW0zMFZEUVZwZWVCUFVURnJ2SW9rbDlpa1k3b3kyZ3NoUnZQdVFDSWJDZUZ6MEIzMUJ1eHhLUzI1czg1QzR5SGhTSHN3cF9jMnltVm8zREFBTFNFVDZScU4tdzdRbFV2MlU0Rk9VMFpTSXFZUA?oc=5",
-   "source": "newsis.com",
+   "title": "\"연 10%나 준다고?\"… 출시 한 달 만에 30만 명 '우르르' 몰린 적금의 정체 - 경제시그널",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSY1J6bGZqYkt1b0EzLXAzUDVmenQxMW9BTFRhVWdPb191alRhLWZNQjZxcGlHMlBTTm8wbmYzbXZRaGJKRjVTQTBXTWpqV0o2UDFmUE1LeXVCUklpT3FsYUI4YVhDZGdEY2JETy1WRjBGX00?oc=5",
+   "source": "경제시그널",
    "date": "2026-09-08"
   },
   {
-   "title": "토스뱅크 '키워봐요 31일 적금' 출시 한 달 만에 30만좌 돌파 - 네이트",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RMVY5MUx0RXBISkR0SjZUeTNKbFpaYjM5bFJwaS1VbnVLZGF0SkNnR2F0U196NEZNUWE4VHN6NFFwZHRYQjAxaTV0d1RyMy1RUVNv?oc=5",
+   "title": "우리은행, 연 7.5% 적금 출시…아시안게임 팀코리아 응원 - bizwnews.com",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1XWWcyd3NhSFVzclQySjNRYkxGak5NWkZGdEtOZnZKRVBIeVdkdFQxYXY1aWNLNnlZdnRGcXA2RFNnNjB0dnN1M2h5RVJrRmtiVVNZT2xQOFdHMVc0cThULXVoWGI1SVJaalVv?oc=5",
+   "source": "bizwnews.com",
+   "date": "2026-09-08"
+  },
+  {
+   "title": "토스뱅크, '키워봐요 31일적금' 출시 한 달 만에 30만좌 돌파 - 네이트",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0a1NZMmZJbjh5Z2dwbnpHbllVS2IyQzhna3dPazBad3dkT2pyLWF6dTVhVlBRZlpCTEhRQktHZ1ktNUh0Qlo5LU50R3Q3R2FTRzRN?oc=5",
    "source": "네이트",
    "date": "2026-09-08"
   },
   {
-   "title": "카카오뱅크, '한달적금 with MMA2026' 출시…티켓 1000장 제공 - SR타임스",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40Q1RCdU1YZjlnajZvSW5ZZVhPY0o3cXdPb0JUSjNOTG9YV1U0UFhSenBhRVNHazZqck1sMldiV3FhZEJkVElzZlNFckM5Mkh5VnNSNUJ6bnNmZXVqY0xCb1F3S0JublE40gFrQVVfeXFMTkJRNXRqZ2twMmRmYW5fR2locFZXa1B5NXJXd1QzWUszdUplZ3Z4TGVZS3ZQeUZqQ1VuQVlITloyWDFIR05EdzFtZkNVYTNOVERpbEdXanBNOEZFQXYwQkhJYlNyYWxjNlRpQ28?oc=5",
-   "source": "SR타임스",
+   "title": "토스뱅크 '키워봐요 31일적금', 출시 한 달 만에 30만좌 돌파 - 네이트",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCZUN0d0RpbFVPcENPNTBCWDdRTnQxYXdtNUJKUm1FcXRWWk9VOFF1Q2Y0SVg1aFJUQ2NsN1VMcHNpelFwVlVjOEt5RVNVbkYxTGZz?oc=5",
+   "source": "네이트",
+   "date": "2026-09-08"
+  },
+  {
+   "title": "카카오뱅크 '한달적금 with MMA2026' 출시 - 현대경제신문",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tTjVVVVdpVk9yZGVNaUFqZFcyeTBTRE5tWjJFcUl1Rm1DcmgxYW05dXBMVGx2cjBVVll1Q1V1YWpUZjV0MF8wOFZLMEJZcDNxOXU5ZHNJeFo5YmY5ZEhrQ3pFQVdrZTlOXzg40gFrQVVfeXFMTS1ONVVVV2lWT3JkZU1pQWpkVzJ5MFNETm1aMkVxSXVGbUNyaDFhbTl1cExUbHZyMFVWWXVDVXVhalRmNXQwXzA4VkswQllwM3E5dTlkc0l4WjliZjlkSGtDekVBV2tlOU5fODg?oc=5",
+   "source": "현대경제신문",
    "date": "2026-09-07"
   },
   {
-   "title": "카카오뱅크, ‘한달적금 with MMA2026’ 출시…1000명에 티켓 제공 - ziksir.com",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04cHBaWFJOLVNrdlNSWGJLUmwzR3ZKM1FQaHdEbWdrUGd4MjFXVThVcko2dnVYajFYNENuR2N6UE12dmR2VkstSWxJRUxfMXlKN3EtVWtLMTlwR25fZUdTMk1fWkxmQmFEN1NlRNIBbEFVX3lxTE04cHBaWFJOLVNrdlNSWGJLUmwzR3ZKM1FQaHdEbWdrUGd4MjFXVThVcko2dnVYajFYNENuR2N6UE12dmR2VkstSWxJRUxfMXlKN3EtVWtLMTlwR25fZUdTMk1fWkxmQmFEN1NlRA?oc=5",
-   "source": "ziksir.com",
-   "date": "2026-09-07"
-  },
-  {
-   "title": "신한은행 적금 9단 출시 캐시워크 돈 버는 퀴즈, 정답은? - 아주경제",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtWFJyREdiR21TbThqbEZvUnpLb1Y0NmpDSi1LcDZoUUU4Uk1PZ3RKSGxwX3J6VUhENnp4Z2hoVHJQV1lxbVJRMTNhX1BVSXBaUHhydU5XcHVuZ9IBWEFVX3lxTFBFcF9mOHNKQkFKOEdJWmplZjE1TXNjbTdJUDgzZ2tOYkVQUXBmSXVubkh0NTJZaUxFaTRWMllHcHk5S1N6UDQwM29ZdE9LakJiZnhPeXlGakY?oc=5",
-   "source": "아주경제",
+   "title": "우리은행, 아시안게임 '팀코리아' 응원…연 7.5% 적금 출시 - news.tf.co.kr",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fdnVXRE01UXlvWHhjWERiU3ZrdWRlTkl0Umx0cmZMTTAyZmFUcGRIQzFyT3dicURIX1JHX0xvYlMxWXI0S2R6S0JEM3VDbzlHUkNwenNtUVdYd9IBVEFVX3lxTE5BWjVCbm9vQ1k4QU51NnVGay1nS2lVNEYyLWdScUNwRXo2ZzNuR0xwR0U3a2pWSV92WHI0Nlcyc0g2ajhIVGFtemFRZnB5c3gtVnFlLQ?oc=5",
+   "source": "news.tf.co.kr",
    "date": "2026-09-06"
   },
   {
-   "title": "우리은행, 아시안게임 '팀코리아' 적금 출시…최고 연 7.5% - 네이트",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10V0JKQ2c3UDNaa2ItZTVIbTRVMkNQRjNxQ2Z2dVpXenlEWVNnT0pCVmJlRm9DZXVQamdianUtY0RxUkNCM2VGZWRRV2FiWVkwbUZF?oc=5",
-   "source": "네이트",
+   "title": "우리銀, 아시안게임 팀코리아 승리 기원에 연 7.5% 적금 출시 - 헤럴드경제",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XTTN2TW5WWEdYVnFpa1JMN1pPUXVDaVF1STlFRll2U0JpMHBzSWZsZDJKTk1UdndvVlVJYzZpRTR1SFhDSnlUT3VVdF9xV3lKSUY1SkFR?oc=5",
+   "source": "헤럴드경제",
+   "date": "2026-09-06"
+  },
+  {
+   "title": "우리은행 아시안게임 응원하는 '팀코리아 적금2' 출시, 우대금리 포함 최고 연 7.5% - 비즈니스포스트",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9QRmJidjUwdUlNVGd6UDNtRjdzal9KdkpsUExjYllfUHlsTlNoQWZOWnRXVGNoSVBrUlUzVEMyQ2hsODdJc1duTVNFQUNRTmxIYnFOM2V0UHBYdVB4M0tJeGdneXo0SVExcFktcTlqbjlBLUk?oc=5",
+   "source": "비즈니스포스트",
    "date": "2026-09-06"
   }
  ],
  "news_seen": [
-  "65a58e8d463ee11f",
-  "83b8e0b82d81c6f9",
-  "c7f1f21112724d93",
-  "55ec83b8be3356ad",
-  "89946d5c0bfb8ee6",
-  "5c1b5655ce596363",
-  "a819aa094c2cb874",
-  "379d79f5282244c3",
-  "96b7dd76a369ce9e",
-  "c8d9c93c3f9f36e2",
-  "216f8e72c62848ff",
-  "f6fd083e3bf2ef23",
-  "504a2dc7bedb6d5d",
   "c040e8c97349ccdc",
   "5f9eb56298af9b14",
   "beaa096d462165d3",
@@ -5344,7 +5331,20 @@
   "a9ff79edd8bcf9f2",
   "551db8dd7bb3eb4d",
   "0d0af21b57aecc25",
-  "b59a77b2f426c90e"
+  "b59a77b2f426c90e",
+  "7e95654d4a37574b",
+  "c8b04fe01e85d092",
+  "b4e9d879cc9c506b",
+  "34058fd41ece9c29",
+  "66c0cfaddbb4c3c2",
+  "9027f19811047f12",
+  "789089f410890cab",
+  "bc361a793999face",
+  "8afc15247f6e99f5",
+  "9435ae65df2f42cd",
+  "b564550f0e599ca8",
+  "afbcbc766cecbb66",
+  "70c6e25c0c791e3f"
  ],
  "news_seeded": true,
  "news_products": [
@@ -5354,7 +5354,7 @@
    "norm": "키워봐요31일적금",
    "rate": null,
    "first_news": "2026-09-08",
-   "count": 10,
+   "count": 15,
    "articles": [
     {
      "title": "토스뱅크 ‘키워봐요 31일적금’, 출시 한 달 만에 30만좌 돌파 - ksdaily.co.kr",
@@ -5389,7 +5389,7 @@
    "norm": "한달적금withMMA2026",
    "rate": null,
    "first_news": "2026-09-07",
-   "count": 9,
+   "count": 10,
    "articles": [
     {
      "title": "카카오뱅크, '한달적금 with MMA2026' 출시…\"저축하면 MMA 티켓 당첨률↑\" - 네이트",
@@ -5441,7 +5441,7 @@
    "norm": "팀코리아적금",
    "rate": 7.5,
    "first_news": "2026-09-06",
-   "count": 47,
+   "count": 51,
    "articles": [
     {
      "title": "우리은행, 최고 7.5% '팀코리아 적금' 출시 - Nate News",
@@ -5476,7 +5476,7 @@
    "norm": "우리TeamKorea적금2",
    "rate": 7.5,
    "first_news": "2026-09-04",
-   "count": 29,
+   "count": 30,
    "articles": [
     {
      "title": "우리은행, 아이치·나고야 아시안게임 맞아 ‘우리 Team Korea 적금 2’ 출시…최고 연 7.5% - 소셜밸류",
