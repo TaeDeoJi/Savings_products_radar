@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-09 03:29",
+ "updated_at": "2026-09-09 06:45",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -4472,6 +4472,12 @@
  ],
  "news": [
   {
+   "title": "하나금융·우리은행 ‘동네슈퍼 착한계란 공급 통한 물가안정화 지원’ 업무협약 체결·‘우리 Team Korea 적금 2’ 출시 - wsobi.com",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Dd3JxZGdJQUhGRHR3ZGJwNzFDQzI5dHVtX2xiQ3h0OUtBek5GVWxmUmpQbnhTWWlwa194cGVLZVZfZXZNR1lYTzhKS2dJWU5aODllMHF2TXJXVjcwYWM5cTZSUQ?oc=5",
+   "source": "wsobi.com",
+   "date": "2026-09-06"
+  },
+  {
    "title": "토스뱅크 ‘키워봐요 31일적금’, 출시 한 달 만에 30만좌 넘어 - bizwnews.com",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1X0pyRWlNbEFYYVFMRk9ZTHE1TE5sMkpzUzFlT2xpYnBXT0pDMmVNc1dueUdKTjRqWGtTREdFRGV0Z20tQkNtYTZwQ0I4OXNHQjBzbTlQTk1wT3RGbmlIU1AwMTdSLXh5MGc?oc=5",
    "source": "bizwnews.com",
@@ -4536,16 +4542,9 @@
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XTTN2TW5WWEdYVnFpa1JMN1pPUXVDaVF1STlFRll2U0JpMHBzSWZsZDJKTk1UdndvVlVJYzZpRTR1SFhDSnlUT3VVdF9xV3lKSUY1SkFR?oc=5",
    "source": "헤럴드경제",
    "date": "2026-09-06"
-  },
-  {
-   "title": "우리은행 아시안게임 응원하는 '팀코리아 적금2' 출시, 우대금리 포함 최고 연 7.5% - 비즈니스포스트",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9QRmJidjUwdUlNVGd6UDNtRjdzal9KdkpsUExjYllfUHlsTlNoQWZOWnRXVGNoSVBrUlUzVEMyQ2hsODdJc1duTVNFQUNRTmxIYnFOM2V0UHBYdVB4M0tJeGdneXo0SVExcFktcTlqbjlBLUk?oc=5",
-   "source": "비즈니스포스트",
-   "date": "2026-09-06"
   }
  ],
  "news_seen": [
-  "c040e8c97349ccdc",
   "5f9eb56298af9b14",
   "beaa096d462165d3",
   "dcf152c0042853e1",
@@ -5344,7 +5343,8 @@
   "9435ae65df2f42cd",
   "b564550f0e599ca8",
   "afbcbc766cecbb66",
-  "70c6e25c0c791e3f"
+  "70c6e25c0c791e3f",
+  "222547565af6e6f5"
  ],
  "news_seeded": true,
  "news_products": [
@@ -5476,7 +5476,7 @@
    "norm": "우리TeamKorea적금2",
    "rate": 7.5,
    "first_news": "2026-09-04",
-   "count": 30,
+   "count": 31,
    "articles": [
     {
      "title": "우리은행, 아이치·나고야 아시안게임 맞아 ‘우리 Team Korea 적금 2’ 출시…최고 연 7.5% - 소셜밸류",
