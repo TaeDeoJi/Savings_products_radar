@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-09 09:00",
+ "updated_at": "2026-09-09 13:22",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -4472,6 +4472,18 @@
  ],
  "news": [
   {
+   "title": "토스뱅크 ‘키워봐요 31일적금’, 출시 한 달 만에 30만좌 돌파 - 소년한국일보",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmaVZPN2duSkxTR2pQREJmRGFXTkM4UEIwN2FfOU41QmRCS3FrekdkREVIclFtNEh3SEFycWZTMEl2TWNubUp1QVdHNVRRazRYbkJjb1hBRlRfM1hCRGlxWHprcUhlM0pmZ29LetIBcEFVX3lxTFBmTE84VHNoTWd2QmhXTWJaa1NIS2F6ZFJZMmpwT3BUZGFUSGhieldUTWNUcHJQTEw5c3MxZ2F3cFFjOWkwVFgxNWdxYW9OTTcyQ3M4MlBNWk9OY2pIZDhzSV9Cd011MmlMbUJqT211VUU?oc=5",
+   "source": "소년한국일보",
+   "date": "2026-09-09"
+  },
+  {
+   "title": "토스뱅크 ‘키워봐요 31일적금’, 출시 한 달 만에 30만좌 넘어 - 비즈월드",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VcFFsMFhIb1ltTGxJVVJSQ09hRWJkaEYydWpsTTNuSjVaWDhJeGxUMzQzeEstWFdWMXl6UDZKOHc4anBNcXlBVWdwZ3gtX2R5Y0twb1ZudUtfWmFDdVpYMEVLMU1GYlQ3bDBV?oc=5",
+   "source": "비즈월드",
+   "date": "2026-09-08"
+  },
+  {
    "title": "\"무려 연 10% 금리 준다\"... 출시 한 달 만에 '30만 명' 몰린 적금의 정체 - 토픽트리",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRmszZ2xLYzk4ekkxREJseFFyem5VRW42MG1rcFlNTXo2MDBVU0Zxbmcza2VRYzlGNEdfSW0xeUdOaGE1aFU0M3p4UVp0MGF6b2FhWlE0ZmxVSDk3aTJ2ZmNxQWlFODFQWjlvSmtZTWgxMmI3V0F6aHRuSDVIVG9Od2taMjVBN03SAYcBQVVfeXFMT0ZrM2dsS2M5OHpJMURCbHhRcnpuVUVuNjBta3BZTU16NjAwVVNGcW5nM2tlUWM5RjRHX0ltMXlHTmhhNWhVNDN6eFFadDBhem9hYVpRNGZsVUg5N2kydmZjcUFpRTgxUFo5b0prWU1oMTJiN1dBemh0bkg1SFRvTndrWjI1QTdN?oc=5",
    "source": "토픽트리",
@@ -4530,23 +4542,9 @@
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1XWWcyd3NhSFVzclQySjNRYkxGak5NWkZGdEtOZnZKRVBIeVdkdFQxYXY1aWNLNnlZdnRGcXA2RFNnNjB0dnN1M2h5RVJrRmtiVVNZT2xQOFdHMVc0cThULXVoWGI1SVJaalVv?oc=5",
    "source": "bizwnews.com",
    "date": "2026-09-08"
-  },
-  {
-   "title": "토스뱅크, '키워봐요 31일적금' 출시 한 달 만에 30만좌 돌파 - 네이트",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0a1NZMmZJbjh5Z2dwbnpHbllVS2IyQzhna3dPazBad3dkT2pyLWF6dTVhVlBRZlpCTEhRQktHZ1ktNUh0Qlo5LU50R3Q3R2FTRzRN?oc=5",
-   "source": "네이트",
-   "date": "2026-09-08"
-  },
-  {
-   "title": "토스뱅크 '키워봐요 31일적금', 출시 한 달 만에 30만좌 돌파 - 네이트",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCZUN0d0RpbFVPcENPNTBCWDdRTnQxYXdtNUJKUm1FcXRWWk9VOFF1Q2Y0SVg1aFJUQ2NsN1VMcHNpelFwVlVjOEt5RVNVbkYxTGZz?oc=5",
-   "source": "네이트",
-   "date": "2026-09-08"
   }
  ],
  "news_seen": [
-  "995ef54f5045ac91",
-  "c316f1fdb48e8a2d",
   "4057a5121f837987",
   "cef9b1bd9751b27d",
   "4c585e8c27f4d2b9",
@@ -5344,7 +5342,9 @@
   "222547565af6e6f5",
   "db3ac527ff5bae9c",
   "c0ac3965abc3a977",
-  "c0d79933aa4dc728"
+  "c0d79933aa4dc728",
+  "b122da82a2bb869a",
+  "42fead0e3ae3a8b7"
  ],
  "news_seeded": true,
  "news_products": [
@@ -5354,7 +5354,7 @@
    "norm": "키워봐요31일적금",
    "rate": null,
    "first_news": "2026-09-08",
-   "count": 15,
+   "count": 17,
    "articles": [
     {
      "title": "토스뱅크 ‘키워봐요 31일적금’, 출시 한 달 만에 30만좌 돌파 - ksdaily.co.kr",
