@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-09 13:22",
+ "updated_at": "2026-09-09 18:33",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2965,15 +2965,15 @@
      "save_trm": 24,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.34,
-     "intr_rate2": 3.54
+     "intr_rate": 3.33,
+     "intr_rate2": 3.53
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.29,
-     "intr_rate2": 3.49
+     "intr_rate": 3.28,
+     "intr_rate2": 3.48
     }
    ],
    "best_rate": 3.66,
@@ -3015,8 +3015,8 @@
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.06,
-     "intr_rate2": 3.16
+     "intr_rate": 3.07,
+     "intr_rate2": 3.17
     },
     {
      "save_trm": 12,
@@ -3029,15 +3029,15 @@
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.24,
-     "intr_rate2": 3.44
+     "intr_rate": 3.23,
+     "intr_rate2": 3.43
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.19,
-     "intr_rate2": 3.39
+     "intr_rate": 3.18,
+     "intr_rate2": 3.38
     }
    ],
    "best_rate": 3.56,
@@ -3616,22 +3616,22 @@
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.16,
-     "intr_rate2": 3.16
+     "intr_rate": 3.17,
+     "intr_rate2": 3.17
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.33,
-     "intr_rate2": 3.33
+     "intr_rate": 3.34,
+     "intr_rate2": 3.34
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.37,
-     "intr_rate2": 3.37
+     "intr_rate": 3.39,
+     "intr_rate2": 3.39
     },
     {
      "save_trm": 36,
@@ -3666,8 +3666,8 @@
      "save_trm": 1,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.72,
-     "intr_rate2": 2.72
+     "intr_rate": 2.73,
+     "intr_rate2": 2.73
     },
     {
      "save_trm": 3,
@@ -3680,19 +3680,19 @@
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.25,
-     "intr_rate2": 3.25
+     "intr_rate": 3.26,
+     "intr_rate2": 3.26
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.48,
-     "intr_rate2": 3.48
+     "intr_rate": 3.49,
+     "intr_rate2": 3.49
     }
    ],
-   "best_rate": 3.48,
-   "best_base_rate": 3.48,
+   "best_rate": 3.49,
+   "best_base_rate": 3.49,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85%EC%9D%80%ED%96%89%20IBK%EA%B5%B4%EB%A6%AC%EA%B8%B0%ED%86%B5%EC%9E%A5%28%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88%29",
    "first_seen": "2026-07-31",
@@ -4472,6 +4472,18 @@
  ],
  "news": [
   {
+   "title": "NH저축은행, 최고 연 6% 적금 출시...800좌 한정 판매 - 아주경제",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSSFMtOU44ZXZUQjVocnhrdl9rVGR1QndfeTF1MHV3V09ZMTdwU2c2UDBscF8wMzFnU21rMmF6SHZZUnowYkt0ZjFzb0QzSjBWZU1GbXkwazDSAVhBVV95cUxQUkhTLTlOOGV2VEI1aHJ4a3Zfa1RkdUJ3X3kxdTB1d1dPWTE3cFNnNlAwbHBfMDMxZ1NtazJhekh2WVJ6MGJLdGYxc29EM0owVmVNRm15MGsw?oc=5",
+   "source": "아주경제",
+   "date": "2026-09-09"
+  },
+  {
+   "title": "카카오뱅크, 뮤직페스티벌 연계 적금 출시...1000명에 초대권 쏜다 - 뉴스핌",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sREhYZlpMczBTTTRkQUlpRFVSeU9MelRkS0FKblgzVkp4STl0X1NsRkZIeVptSmNTV1I2TWZpb2NOV21SNUV6VVpfR1RNcWo3dnU3cUljOXc5a3pu?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-09-07"
+  },
+  {
    "title": "토스뱅크 ‘키워봐요 31일적금’, 출시 한 달 만에 30만좌 돌파 - 소년한국일보",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmaVZPN2duSkxTR2pQREJmRGFXTkM4UEIwN2FfOU41QmRCS3FrekdkREVIclFtNEh3SEFycWZTMEl2TWNubUp1QVdHNVRRazRYbkJjb1hBRlRfM1hCRGlxWHprcUhlM0pmZ29LetIBcEFVX3lxTFBmTE84VHNoTWd2QmhXTWJaa1NIS2F6ZFJZMmpwT3BUZGFUSGhieldUTWNUcHJQTEw5c3MxZ2F3cFFjOWkwVFgxNWdxYW9OTTcyQ3M4MlBNWk9OY2pIZDhzSV9Cd011MmlMbUJqT211VUU?oc=5",
    "source": "소년한국일보",
@@ -4530,23 +4542,9 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zZDF0NjN3dW1ESVY3djNYR0MtM3RKUzZnM3JiVTd5Q2drMzc0TkhQeVAwVjY3d3V3SGwtd1M3VTV1U1FmdXRSM2tRUGptZ3F2NF9NcVRVdzNwQnVKTUlWby1YTHFNTXdSbC03M1dEdTBXTWJTQVJZQlFGLTlMX1XSAYcBQVVfeXFMT0ZrM2dsS2M5OHpJMURCbHhRcnpuVUVuNjBta3BZTU16NjAwVVNGcW5nM2tlUWM5RjRHX0ltMXlHTmhhNWhVNDN6eFFadDBhem9hYVpRNGZsVUg5N2kydmZjcUFpRTgxUFo5b0prWU1oMTJiN1dBemh0bkg1SFRvTndrWjI1QTdN?oc=5",
    "source": "토픽트리",
    "date": "2026-09-08"
-  },
-  {
-   "title": "\"연 10%나 준다고?\"… 출시 한 달 만에 30만 명 '우르르' 몰린 적금의 정체 - 경제시그널",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSY1J6bGZqYkt1b0EzLXAzUDVmenQxMW9BTFRhVWdPb191alRhLWZNQjZxcGlHMlBTTm8wbmYzbXZRaGJKRjVTQTBXTWpqV0o2UDFmUE1LeXVCUklpT3FsYUI4YVhDZGdEY2JETy1WRjBGX00?oc=5",
-   "source": "경제시그널",
-   "date": "2026-09-08"
-  },
-  {
-   "title": "우리은행, 연 7.5% 적금 출시…아시안게임 팀코리아 응원 - bizwnews.com",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1XWWcyd3NhSFVzclQySjNRYkxGak5NWkZGdEtOZnZKRVBIeVdkdFQxYXY1aWNLNnlZdnRGcXA2RFNnNjB0dnN1M2h5RVJrRmtiVVNZT2xQOFdHMVc0cThULXVoWGI1SVJaalVv?oc=5",
-   "source": "bizwnews.com",
-   "date": "2026-09-08"
   }
  ],
  "news_seen": [
-  "4057a5121f837987",
-  "cef9b1bd9751b27d",
   "4c585e8c27f4d2b9",
   "3727fb481d86adfc",
   "cb78c2243a1ad724",
@@ -5344,7 +5342,9 @@
   "c0ac3965abc3a977",
   "c0d79933aa4dc728",
   "b122da82a2bb869a",
-  "42fead0e3ae3a8b7"
+  "42fead0e3ae3a8b7",
+  "6a605639c3eced07",
+  "fe5622ac7e670fa6"
  ],
  "news_seeded": true,
  "news_products": [
