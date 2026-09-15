@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-15 08:48",
+ "updated_at": "2026-09-15 13:37",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -4472,6 +4472,12 @@
  ],
  "news": [
   {
+   "title": "\"8개계열사 고금리적금·특판상품 한자리에\" 우리금융, 9월30일까지 '우다폐' 사전알림 접수 | - catchnews.kr",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zZnJqczBwRGRUb2ZtTDlFdXJtX2NYNkl2aHFYeHdBcVBHR3ExQzVKdU1yWWxJcy1Ja2FzOFdJVjNON292N0xWOUFlQXpUdDFURTA0OGYzVDlicG1IQk44WDZhZkRDY3R1Uk1vUGl4Yw?oc=5",
+   "source": "catchnews.kr",
+   "date": "2026-09-14"
+  },
+  {
    "title": "케이뱅크, ‘쎄봉라마’와 함께하는 ‘궁금한 적금’ 시즌8 출시…최대 연 6.7% - nanumy.co.kr",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOa2Vsal96eEhGWEZCUlZReTdmQ1hDbzJmbTlJdU9wRzJnRzN1MjVEUUlMOHhsSTVZVnE3SzhHUDAyZnVIT0U5eENrSTNsQXpITDZtZG95b3RsQ2t5VGg3R2FVTE1YZlc5ZlJYZw?oc=5",
    "source": "nanumy.co.kr",
@@ -4536,16 +4542,9 @@
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CUEFzOGZhdWlSb1RYNWdEV2gwUTdIc1FCenBnT2ZIVjdVb3lsM1lLREp1RmNQTlZ3VWNPak9sMmJlVVl2andzbEVRTDlNVXh1SFV5TF90X2F1cElONnJlVjJsQTlsZW9ESThlUTctdTfSAXRBVV95cUxPTVJGR0tpMFQzNkJGV255UHA3TXJXOURjQndRZTZxRV9DX1l0anh1MUp0NzJKRzNQcjFab0FYQkNYX0NrTHgwOFFhRGNTTkFkcUg1R2R3dDBhY0E4a1poMVhBeE1rSmpWZHd5anZEanVoeTkzUA?oc=5",
    "source": "weekly.hankooki.com",
    "date": "2026-09-14"
-  },
-  {
-   "title": "매일 저축하면 그림 한 장씩…케이뱅크, ‘쎄봉라마 적금’ 출시 - 뉴스퀘스트",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YaHA0a0dHcTRMQkljMjFBOWR4U2ZWQUp6RjF6S3dTdVpZZENnaGZ2YnMxTHBKcm9yVVE3aWh3eGVkcDlSSml4dko2d1k4eVBYYzEzLVhjZ1prMkg2eHFtZXZYdk9wZ0F3OGFBUk1Nbw?oc=5",
-   "source": "뉴스퀘스트",
-   "date": "2026-09-14"
   }
  ],
  "news_seen": [
-  "17c7550499494143",
   "be24a2c9bf3c8627",
   "9dbde4064fed4ed0",
   "d3ac9c1293a03ab5",
@@ -5344,7 +5343,8 @@
   "77e64ebbc0eb6112",
   "ed68b014fd78ecea",
   "7f9631a5df8aa98c",
-  "3d5f08ff64c95c15"
+  "3d5f08ff64c95c15",
+  "291abb68dfe71f62"
  ],
  "news_seeded": true,
  "news_products": [
