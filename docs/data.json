@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-16 09:08",
+ "updated_at": "2026-09-16 14:51",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -4472,6 +4472,12 @@
  ],
  "news": [
   {
+   "title": "청년미래적금 2차 출시…다음 달 7~16일 신청접수 - 뉴시스",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tczJqODAycjBudmFwWm5PY3RROXpvekpiV0pNc2RmM0Y4NlVZbFRTazBidmdZSnQ1MFFwNE9aQ2V5ZW1veWZreHU3S1FCTVlBSEp1ZFE3aEh5ZVNWRHdOMU5wa3o4M1M5U3RhOHE0d1JHaXJwUnpyY9IBeEFVX3lxTE4tczJqODAycjBudmFwWm5PY3RROXpvekpiV0pNc2RmM0Y4NlVZbFRTazBidmdZSnQ1MFFwNE9aQ2V5ZW1veWZreHU3S1FCTVlBSEp1ZFE3aEh5ZVNWRHdOMU5wa3o4M1M5U3RhOHE0d1JHaXJwUnpyYw?oc=5",
+   "source": "뉴시스",
+   "date": "2026-09-16"
+  },
+  {
    "title": "케이뱅크, '궁금한 적금' 시즌8 출시… 6.7% 금리에 캐릭터·웹소설 입혔다 - 비즈트리뷴",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uQnNfT1dZWUtScEd5ck1WblMxT29zYU10VUtieDRHYWtUcGVaa2NDWk1ueVZzOEhjVHA0bVhVbHdJVWlmdXRqQ0tDYWRsWVNkRlpSQ3VJSGZNSFBHRS1hSzVoTlBqTlAyYlMtdDQ4OFo?oc=5",
    "source": "비즈트리뷴",
@@ -4536,16 +4542,9 @@
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Ka3lNeWZyT0E4VDBWN2g0dkVlYWpraE95UnJhTjVZZzM0dTgtdUIzalpqb0hzTXA0U1lfOXlYa2pvMGx4WmNucEtsWWUtcHdKc2hWS1E2UG11djdDVnJzLTJ5YVROU1RM?oc=5",
    "source": "fetv.co.kr",
    "date": "2026-09-14"
-  },
-  {
-   "title": "\"8개계열사 고금리적금·특판상품 한자리에\" 우리금융, 9월30일까지 '우다폐' 사전알림 접수 - catchnews.kr",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03OGdUSUE4ZGd0VmdZd183VFpTc0JYMTh5TGNEbE94TXdCUTBlOWlTdHU1VE0zUmFUaktEUVBDMk1uaEZOaHFhZEVfQXdzNUtvOTJrT21ObnpkOTZSOXRuNHlXT1dONGY1alBB?oc=5",
-   "source": "catchnews.kr",
-   "date": "2026-09-14"
   }
  ],
  "news_seen": [
-  "d3ac9c1293a03ab5",
   "0d84ab6f3893e642",
   "a2dc899673ea3abc",
   "c6e70192a8a349aa",
@@ -5344,7 +5343,8 @@
   "3d5f08ff64c95c15",
   "291abb68dfe71f62",
   "134bfdb937e75706",
-  "6ed0ced39d64b975"
+  "6ed0ced39d64b975",
+  "7cfae156e6b66772"
  ],
  "news_seeded": true,
  "news_products": [
