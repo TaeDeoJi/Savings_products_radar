@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-16 14:51",
+ "updated_at": "2026-09-16 20:19",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -1719,8 +1719,8 @@
      "save_trm": 12,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.05,
-     "intr_rate2": 3.85
+     "intr_rate": 3.06,
+     "intr_rate2": 3.86
     },
     {
      "save_trm": 24,
@@ -1737,8 +1737,8 @@
      "intr_rate2": 3.5
     }
    ],
-   "best_rate": 3.85,
-   "best_base_rate": 3.05,
+   "best_rate": 3.86,
+   "best_base_rate": 3.06,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EB%86%8D%ED%98%91%EC%9D%80%ED%96%89%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20NH%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%9B%94%EB%B3%B5%EB%A6%AC%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -2958,26 +2958,26 @@
      "save_trm": 12,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.51,
-     "intr_rate2": 3.71
+     "intr_rate": 3.53,
+     "intr_rate2": 3.73
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.41,
-     "intr_rate2": 3.61
+     "intr_rate": 3.45,
+     "intr_rate2": 3.65
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.34,
-     "intr_rate2": 3.54
+     "intr_rate": 3.38,
+     "intr_rate2": 3.58
     }
    ],
-   "best_rate": 3.71,
-   "best_base_rate": 3.51,
+   "best_rate": 3.73,
+   "best_base_rate": 3.53,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%EC%9D%80%ED%96%89%20%EB%AF%B8%EC%A6%88%EC%9B%94%EB%B3%B5%EB%A6%AC%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88",
    "first_seen": "2026-07-31",
@@ -3008,40 +3008,40 @@
      "save_trm": 3,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.85,
-     "intr_rate2": 2.95
+     "intr_rate": 2.86,
+     "intr_rate2": 2.96
     },
     {
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.11,
-     "intr_rate2": 3.21
+     "intr_rate": 3.13,
+     "intr_rate2": 3.23
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.41,
-     "intr_rate2": 3.61
+     "intr_rate": 3.43,
+     "intr_rate2": 3.63
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.31,
-     "intr_rate2": 3.51
+     "intr_rate": 3.35,
+     "intr_rate2": 3.55
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.24,
-     "intr_rate2": 3.44
+     "intr_rate": 3.28,
+     "intr_rate2": 3.48
     }
    ],
-   "best_rate": 3.61,
-   "best_base_rate": 3.41,
+   "best_rate": 3.63,
+   "best_base_rate": 3.43,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%EC%9D%80%ED%96%89%20%EC%8A%A4%EB%A7%88%ED%8A%B8%EB%AA%A8%EC%95%84Dream%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88",
    "first_seen": "2026-07-31",
@@ -3065,12 +3065,12 @@
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.31,
-     "intr_rate2": 3.81
+     "intr_rate": 3.33,
+     "intr_rate2": 3.83
     }
    ],
-   "best_rate": 3.81,
-   "best_base_rate": 3.31,
+   "best_rate": 3.83,
+   "best_base_rate": 3.33,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%EC%9D%80%ED%96%89%20%EA%B5%BF%EC%8A%A4%ED%83%80%ED%8A%B8%EC%98%88%EA%B8%88",
    "first_seen": "2026-07-31",
@@ -3616,33 +3616,33 @@
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.21,
-     "intr_rate2": 3.21
+     "intr_rate": 3.23,
+     "intr_rate2": 3.23
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.39,
-     "intr_rate2": 3.39
+     "intr_rate": 3.41,
+     "intr_rate2": 3.41
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.52,
-     "intr_rate2": 3.52
+     "intr_rate": 3.59,
+     "intr_rate2": 3.59
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.57,
-     "intr_rate2": 3.57
+     "intr_rate": 3.64,
+     "intr_rate2": 3.64
     }
    ],
-   "best_rate": 3.57,
-   "best_base_rate": 3.57,
+   "best_rate": 3.64,
+   "best_base_rate": 3.64,
    "best_term": 36,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85%EC%9D%80%ED%96%89%20IBK%EB%8D%94%EA%B5%B4%EB%A6%AC%EA%B8%B0%ED%86%B5%EC%9E%A5%28%EC%8B%A4%EC%84%B8%EA%B8%88%EB%A6%AC%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88%29",
    "first_seen": "2026-07-31",
@@ -3673,26 +3673,26 @@
      "save_trm": 3,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.99,
-     "intr_rate2": 2.99
+     "intr_rate": 3.0,
+     "intr_rate2": 3.0
     },
     {
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.3,
-     "intr_rate2": 3.3
+     "intr_rate": 3.32,
+     "intr_rate2": 3.32
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.54,
-     "intr_rate2": 3.54
+     "intr_rate": 3.56,
+     "intr_rate2": 3.56
     }
    ],
-   "best_rate": 3.54,
-   "best_base_rate": 3.54,
+   "best_rate": 3.56,
+   "best_base_rate": 3.56,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85%EC%9D%80%ED%96%89%20IBK%EA%B5%B4%EB%A6%AC%EA%B8%B0%ED%86%B5%EC%9E%A5%28%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88%29",
    "first_seen": "2026-07-31",
@@ -4472,6 +4472,30 @@
  ],
  "news": [
   {
+   "title": "年 최대 19.4% 청년미래적금 2차 출시…다음 달 7일부터 신청 접수 - 동아일보",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RdjctVlRzUklDM29lbnBEZkw4TTJVcWVpQnpMN3NkME05RWNMelNlcHktZ0dmUVNVdVBBdk5TejZkSVdZV0U3ZVY3M1drWVY4TnlXZ2tfamFiNm1pVlVxUWQtb25GQdIBZkFVX3lxTE1RdjctVlRzUklDM29lbnBEZkw4TTJVcWVpQnpMN3NkME05RWNMelNlcHktZ0dmUVNVdVBBdk5TejZkSVdZV0U3ZVY3M1drWVY4TnlXZ2tfamFiNm1pVlVxUWQtb25GQQ?oc=5",
+   "source": "동아일보",
+   "date": "2026-09-16"
+  },
+  {
+   "title": "금융위, 청년미래적금 2차 출시…다음달 7~16일 신청 접수 - 데일리한국",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DYjlqVC1JVlU1YzZyQzZTaW9WN0RLbFlfekRfSUxhaWt1SFJvMlJON3JWZlBZN2MzTzNqbm1ldHhWTmFYVHJxR0RZT2pYNllUQWU2SktBeUd1V2pTcng2VDhCVFc4cTZtZlJaWHdQNNIBc0FVX3lxTE1FY2swV1RWSll3eUVuNXE5dUs1aTIzVUxFMV8wYTNlMlh4X1NnRVViUk9OTF94S0hLREl4b1F5TGpOR2VHbndjRThfZkQ2NUU0V21Fc3l5MEhscTN2RGhDc2RJMjZGeFNmV1FHcG9RT05iX3c?oc=5",
+   "source": "데일리한국",
+   "date": "2026-09-16"
+  },
+  {
+   "title": "청년미래적금 2차 출시…다음 달 7~16일 신청접수 - 뉴시스",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WaVdIRm9icUwxN3dlMlRYYzBOc056Wk9uYVYtZ2syQjJJUnpkRXNtNjBqNlRfUWptQkR5NjEyeUlua3hoUDR4VmNhZkpMZ0tOb3RrQ0oydjUzVUVFVVJtN9IBeEFVX3lxTE4tczJqODAycjBudmFwWm5PY3RROXpvekpiV0pNc2RmM0Y4NlVZbFRTazBidmdZSnQ1MFFwNE9aQ2V5ZW1veWZreHU3S1FCTVlBSEp1ZFE3aEh5ZVNWRHdOMU5wa3o4M1M5U3RhOHE0d1JHaXJwUnpyYw?oc=5",
+   "source": "뉴시스",
+   "date": "2026-09-16"
+  },
+  {
+   "title": "은행권, 고금리 단기 적금 ‘돌풍’…최고 연 12% 특판 쏟아낸다 - 데일리e뉴스",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBQOFpfWmZFTjlvaVZyMjRSeV9DN1pFbVpTellfLUpRT2FjTlNiQzNDU2FIZ0R6WXBWQ2ZZTnpYbm93aFBialUzcC15MTZ5NWZhMkFNcURGS3YwNnNVdFRGRndRSDVJZVpDaWlfd0I1dw?oc=5",
+   "source": "데일리e뉴스",
+   "date": "2026-09-16"
+  },
+  {
    "title": "청년미래적금 2차 출시…다음 달 7~16일 신청접수 - 뉴시스",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tczJqODAycjBudmFwWm5PY3RROXpvekpiV0pNc2RmM0Y4NlVZbFRTazBidmdZSnQ1MFFwNE9aQ2V5ZW1veWZreHU3S1FCTVlBSEp1ZFE3aEh5ZVNWRHdOMU5wa3o4M1M5U3RhOHE0d1JHaXJwUnpyY9IBeEFVX3lxTE4tczJqODAycjBudmFwWm5PY3RROXpvekpiV0pNc2RmM0Y4NlVZbFRTazBidmdZSnQ1MFFwNE9aQ2V5ZW1veWZreHU3S1FCTVlBSEp1ZFE3aEh5ZVNWRHdOMU5wa3o4M1M5U3RhOHE0d1JHaXJwUnpyYw?oc=5",
    "source": "뉴시스",
@@ -4518,37 +4542,9 @@
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEUkJXQ3g4TnRnUmYyTkVsb3U2a2xrMElxb20wVU1NUW9DX2hoNmtaN0M0NGxCMGQxMGtONmcycWFyYmpXVTJldzVKMUR2bVpNbGZScDF4dGVRaUgzdldkUDF2MUs4Y1M1YmfSAW5BVV95cUxPSW9pay1kTklyT3k4YmpmS1BIM2tiWlpzN2VUX3VKT3RQY2hYbFlEdTIydnI4a1NZcmxYQnFnV0FiNFVPem9nek9wb2M2eFBqN0R5TjBqZFpLZnYxeE9qcGs3blFnOUt1dDRVaVU4dw?oc=5",
    "source": "퍼블릭타임스",
    "date": "2026-09-14"
-  },
-  {
-   "title": "케이뱅크 '궁금한 적금' 시즌8 출시, 최고 연 6.7% - 세이프머니",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9iNmw4NGkyWjhJeFNORFFwZ1dxNmZvRnZqdzVMeTNrTW9TYjNqZlNPenliNi1mZ3M3Yi03c3JxRHZmSEZWbDhHWDZ4Zng4RFVJVTk0VTlRVmpRRUFGOWI2VVFwbzlYQThMdmFDVEd3?oc=5",
-   "source": "세이프머니",
-   "date": "2026-09-14"
-  },
-  {
-   "title": "케이뱅크, '쎄봉라마' 입힌 궁금한 적금 시즌8 출시 - 현대경제신문",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UMTViS1RQLUhfSW93SHp2cXBCa0h4bkthcnM2UGpQb1pyVDRBQjlpLTZiWXJtVDEybFdLRm1BV0c4b2puRWVXX2kwRjBIMHZRSjUwNVhlQUxJX3Jha1BfWXMzQTFGWC0x0gFrQVVfeXFMTkJQTHNUS0t5RUctN0JfREVreXhuQ1MxUzNoaExUWTAtM0s4QVZfX2YwTjdvc0pNa3M0VUp0RnlJbnVHSUVCZlNySWRaVGZHN1hkN3VCZEU5NjFBVVg1V0dDak9DM3VwS29YZmM?oc=5",
-   "source": "현대경제신문",
-   "date": "2026-09-14"
-  },
-  {
-   "title": "\"금리 최고 연6.7%\" 케이뱅크 '궁금한 적금' 시즌8 출시 | - catchnews.kr",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82S2Q5Nk1LcW91ZVdBSkJ0a1RQLXplZFRtNHcwekgwNm13ZlBhaXFfWVdJTFFqbDR4VVliRlVsY3hxTjNJY3JXUjZ1amNOSy02RGV5MnhrVGwyVVphNjcxMjFTRVRZXzlrNlVIX2NaSQ?oc=5",
-   "source": "catchnews.kr",
-   "date": "2026-09-14"
-  },
-  {
-   "title": "케이뱅크, 최고 연 6.7% 금리 '궁금한 적금' 신규 테마 선보여 - fetv.co.kr",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Ka3lNeWZyT0E4VDBWN2g0dkVlYWpraE95UnJhTjVZZzM0dTgtdUIzalpqb0hzTXA0U1lfOXlYa2pvMGx4WmNucEtsWWUtcHdKc2hWS1E2UG11djdDVnJzLTJ5YVROU1RM?oc=5",
-   "source": "fetv.co.kr",
-   "date": "2026-09-14"
   }
  ],
  "news_seen": [
-  "0d84ab6f3893e642",
-  "a2dc899673ea3abc",
-  "c6e70192a8a349aa",
-  "a6dab191fea67b2b",
   "0bf7c072b3a37864",
   "cce828c06a122ca0",
   "d5be093eb6a7f5cd",
@@ -5344,7 +5340,11 @@
   "291abb68dfe71f62",
   "134bfdb937e75706",
   "6ed0ced39d64b975",
-  "7cfae156e6b66772"
+  "7cfae156e6b66772",
+  "16e9f149ee8b4916",
+  "7b2d165d96291bea",
+  "53aefb8fd5d6a845",
+  "76ce5e8ce22c89bc"
  ],
  "news_seeded": true,
  "news_products": [
