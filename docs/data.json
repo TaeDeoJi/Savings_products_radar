@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-17 16:30",
+ "updated_at": "2026-09-17 22:19",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -4472,6 +4472,12 @@
  ],
  "news": [
   {
+   "title": "“특판 적금·비트코인” 아시안게임 ‘팀 코리아’ 응원나선 금융권 - 스포츠동아",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5SMElOSnZYR2xzMlp2Qi1iRGotNDlGU3BEMjNYSjIxMGVNUkVIZktVWm1jTGgxX2ZyQmN6TzF4bGdWbjU5dTVscFF2bjdSOE5RMVdqdE9QMXRlZEFsRFp1dW1oVEN2TkFZeTlIeGh0OENoU3c?oc=5",
+   "source": "스포츠동아",
+   "date": "2026-09-17"
+  },
+  {
    "title": "年 최대 19.4% 청년미래적금 2차 출시…다음 달 7일부터 신청 접수 - 동아일보",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RdjctVlRzUklDM29lbnBEZkw4TTJVcWVpQnpMN3NkME05RWNMelNlcHktZ0dmUVNVdVBBdk5TejZkSVdZV0U3ZVY3M1drWVY4TnlXZ2tfamFiNm1pVlVxUWQtb25GQdIBZkFVX3lxTE1RdjctVlRzUklDM29lbnBEZkw4TTJVcWVpQnpMN3NkME05RWNMelNlcHktZ0dmUVNVdVBBdk5TejZkSVdZV0U3ZVY3M1drWVY4TnlXZ2tfamFiNm1pVlVxUWQtb25GQQ?oc=5",
    "source": "동아일보",
@@ -4536,16 +4542,9 @@
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NUkZHS2kwVDM2QkZXbnlQcDdNclc5RGNCd1FlNnFFX0NfWXRqeHUxSnQ3MkpHM1ByMVpvQVhCQ1hfQ2tMeDA4UWFEY1NOQWRxSDVHZHd0MGFjQThrWmgxWEF4TWtKalZkd3lqdkRqdWh5OTNQ0gF0QVVfeXFMT01SRkdLaTBUMzZCRldueVBwN01yVzlEY0J3UWU2cUVfQ19ZdGp4dTFKdDcySkczUHIxWm9BWEJDWF9Da0x4MDhRYURjU05BZHFINUdkd3QwYWNBOGtaaDFYQXhNa0pqVmR3eWp2RGp1aHk5M1A?oc=5",
    "source": "weekly.hankooki.com",
    "date": "2026-09-14"
-  },
-  {
-   "title": "케이뱅크, ‘쎄봉라마’와 협업 '궁금한 적금' 시즌8 출시...최대 연 6.7% - 퍼블릭타임스",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEUkJXQ3g4TnRnUmYyTkVsb3U2a2xrMElxb20wVU1NUW9DX2hoNmtaN0M0NGxCMGQxMGtONmcycWFyYmpXVTJldzVKMUR2bVpNbGZScDF4dGVRaUgzdldkUDF2MUs4Y1M1YmfSAW5BVV95cUxPSW9pay1kTklyT3k4YmpmS1BIM2tiWlpzN2VUX3VKT3RQY2hYbFlEdTIydnI4a1NZcmxYQnFnV0FiNFVPem9nek9wb2M2eFBqN0R5TjBqZFpLZnYxeE9qcGs3blFnOUt1dDRVaVU4dw?oc=5",
-   "source": "퍼블릭타임스",
-   "date": "2026-09-14"
   }
  ],
  "news_seen": [
-  "0bf7c072b3a37864",
   "cce828c06a122ca0",
   "d5be093eb6a7f5cd",
   "adcd8a3487681298",
@@ -5344,7 +5343,8 @@
   "16e9f149ee8b4916",
   "7b2d165d96291bea",
   "53aefb8fd5d6a845",
-  "76ce5e8ce22c89bc"
+  "76ce5e8ce22c89bc",
+  "dd6586e0eecf3ef7"
  ],
  "news_seeded": true,
  "news_products": [
