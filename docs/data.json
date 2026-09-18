@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-18 18:34",
+ "updated_at": "2026-09-18 23:19",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -3467,8 +3467,7 @@
    "best_term": 24,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A0%84%EB%B6%81%EC%9D%80%ED%96%89%20JB%20%EB%8B%A4%EC%9D%B4%EB%A0%89%ED%8A%B8%28%EC%9E%90%EC%9C%A0%EB%A7%8C%EA%B8%B0%29%20%EC%98%88%EA%B8%88",
    "first_seen": "2026-09-18",
-   "is_baseline": false,
-   "analysis": "은행권 39개 예금 중 최고우대금리 6위 (상위 15%). 기본 3.82% + 우대 0.00%p → 우대폭이 작아 기본금리 위주로 판단 가능. 가입대상 제한: 실명의 개인(임의단체 제외"
+   "is_baseline": false
   },
   {
    "key": "0010024|21001115",
