@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-20 07:51",
+ "updated_at": "2026-09-20 09:56",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -4529,6 +4529,12 @@
  ],
  "news": [
   {
+   "title": "카카오엔터, 카카오뱅크와 26주적금 페이지 상품 출시 - 전자신문",
+   "link": "https://news.google.com/rss/articles/CBMilgVBVV95cUxNWkxJZER6c1l5bDZPTVBlejBwZ1cwal9QajBRRmZXZWpoTE9LYmpEMzVQd3I3bWNJdnVyenEwUEtPMnhza3hVWDY1ZVpQSUo5WmtWRnF0Yk9XSHdHTFRqUjdWMkZLeUstVERsSlpwWXZmYWoyVTNtSHZicEw5Nnd3QWh5X2kxZHJlSC1Iek9ROXl0OF9idXI0THFDRUdpeHZ1X00yR19CT0cwMHR2MUstZkI0Q1dwMHVBU1pIS0lOU01BWm9vM3NQUnh5MDZlLUY4dWVWWlBQX2JHejRVVWJtZDE1aklsOW5NUVIwRmhnQ0UzWGNzdU5oMk1KMFJQbEd1ZmF5TEJsc1J5MUptNlM4TEdTZWs2NWtEdTctRDl6ajUtdkJqaXd6eFFSVDhsWS1iMGpSVTdKZEpMcHVkam11Yk54VWJlTzdfemlGMmw5SThya1V4WXBGbFR2TThmLW9HQ2xqSkMxa0xqcHR3MEpjQVNHVEplcTVUQU9UOVBpa0VuaGd4VVlaVVdqSlRtXzhFWFBPQ2tmN3BNLUw0TDk4MUtqRW40TURFR1pxUXdiZ25qSWhtLUdkWDBxeC01M01KSzJRRFF1NlRRRXpreEJKTGtpUC1DSEtUdFhJbm5MWlp6VjRlWmJSSGh0aGJEVVFSTVpIV2xoS05ZbWVTVmVIMUVBdmVTWDZObmJxMk1TNEdic3FRYTI3SFpzY0h3dUYtWFl4dGw2SlZwYWFxUkFwNW51TW9BVWdVY0VvTzdPZGM2TWllTnZuV05vSjhsR1hEY3c2ODEwVlRHdXk4Zi1wNk9KcEx2UmdCNUxnNEg3ZFhKeGdtOHRYMXcxSXBOQVg1c0RoVWNzU1dfZktsSVZmMHBFZC1GQQ?oc=5",
+   "source": "전자신문",
+   "date": "2026-09-20"
+  },
+  {
    "title": "하나은행, 공적연금 전용 멤버십 출시...통장·적금·대출 한곳에 모았다 - 파이낸셜투데이",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRelRoMHZCNGRCbjRsR2pHQnhWeEpfWjVuSDdOaWhjNWtwTEtvdHpLcXRJZU5wUEpjcTJBdHpUVG1hZGlMLU5EeFJkVjFHY1BRdGktdExUQmpubHUwU25ZeDZBbUs1NUVUeVNr0gFuQVVfeXFMTWJ5aVhtZlc1bkFFeUV3LU1BWWY3OGRaUExsVk5IU1NtRWQwSGVscjdjOHJkd3BtSnQ2cGJKRGVYOGdwa2RDNWxqNXdic0lQYnVucFZGVmtjSU84T0RMV0hWcmlPRFJPRFlpM2p2ZWc?oc=5",
    "source": "파이낸셜투데이",
@@ -4593,16 +4599,9 @@
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tczJqODAycjBudmFwWm5PY3RROXpvekpiV0pNc2RmM0Y4NlVZbFRTazBidmdZSnQ1MFFwNE9aQ2V5ZW1veWZreHU3S1FCTVlBSEp1ZFE3aEh5ZVNWRHdOMU5wa3o4M1M5U3RhOHE0d1JHaXJwUnpyY9IBeEFVX3lxTE4tczJqODAycjBudmFwWm5PY3RROXpvekpiV0pNc2RmM0Y4NlVZbFRTazBidmdZSnQ1MFFwNE9aQ2V5ZW1veWZreHU3S1FCTVlBSEp1ZFE3aEh5ZVNWRHdOMU5wa3o4M1M5U3RhOHE0d1JHaXJwUnpyYw?oc=5",
    "source": "뉴시스",
    "date": "2026-09-16"
-  },
-  {
-   "title": "케이뱅크, '궁금한 적금' 시즌8 출시… 6.7% 금리에 캐릭터·웹소설 입혔다 - 비즈트리뷴",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uQnNfT1dZWUtScEd5ck1WblMxT29zYU10VUtieDRHYWtUcGVaa2NDWk1ueVZzOEhjVHA0bVhVbHdJVWlmdXRqQ0tDYWRsWVNkRlpSQ3VJSGZNSFBHRS1hSzVoTlBqTlAyYlMtdDQ4OFo?oc=5",
-   "source": "비즈트리뷴",
-   "date": "2026-09-15"
   }
  ],
  "news_seen": [
-  "cfd9b5048a2e17ba",
   "38388c2944d8dfb7",
   "eb42d363f6d62ff2",
   "c541c203f9cee5bc",
@@ -5401,7 +5400,8 @@
   "04c477bfe5ff4454",
   "e6ecfacd4378b270",
   "b30ab2a5abeef295",
-  "3819d12979ff682d"
+  "3819d12979ff682d",
+  "ebe3050fbb016e4b"
  ],
  "news_seeded": true,
  "news_products": [
@@ -5798,7 +5798,7 @@
    "norm": "26주적금",
    "rate": 5.0,
    "first_news": "2026-08-27",
-   "count": 18,
+   "count": 19,
    "articles": [
     {
      "title": "카카오뱅크, 6개 브랜드 혜택 모은 '26주적금' 출시 - 전자신문",
