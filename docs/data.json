@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-27 07:37",
+ "updated_at": "2026-09-27 10:16",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -4508,6 +4508,12 @@
  ],
  "news": [
   {
+   "title": "추석 용돈, 예·적금에 넣어볼까… 특판 금리 최고 연 12% - 조선비즈 - biz.chosun.com",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSFo0QjR4VzN4YUFDN1poUnE1d1U3RGxvLVVfUURGXy00enAtMFVKbldkaHBPU1RIY2dITHBaLTlfV00tVXZ6eTNWVmotOW16LUlUVE8yaHE2ZzdQZnB5ei0tZGFMNlVhMkt2el9ZbW0zRlowT0tEOGxUdWZSTEk0M9IBlAFBVV95cUxNbGJYNWctZ3dYdGpoeDctSUU2YXBEQ1RZVXMzd2Z1U3JmbHpKbUg3dWRDd0RJbjJEMlllY2FaYXFiLWNxWUNxZTByb09XSjRQZFBuckdwOTByU04wd2FFdW9veUlrZVM5RFItRlRTTVNha3VlcnJWSXlSSnBtRjIxTC0zRTdFNUgtTjRKNDlLWnlyZHR1?oc=5",
+   "source": "biz.chosun.com",
+   "date": "2026-09-27"
+  },
+  {
    "title": "추석 용돈, 예·적금에 넣어볼까… 특판 금리 최고 연 12% - 조선비즈 - Chosunbiz",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbGJYNWctZ3dYdGpoeDctSUU2YXBEQ1RZVXMzd2Z1U3JmbHpKbUg3dWRDd0RJbjJEMlllY2FaYXFiLWNxWUNxZTByb09XSjRQZFBuckdwOTByU04wd2FFdW9veUlrZVM5RFItRlRTTVNha3VlcnJWSXlSSnBtRjIxTC0zRTdFNUgtTjRKNDlLWnlyZHR10gGUAUFVX3lxTE1sYlg1Zy1nd1h0amh4Ny1JRTZhcERDVFlVczN3ZnVTcmZsekptSDd1ZEN3REluMkQyWWVjYVphcWItY3FZQ3FlMHJvT1dKNFBkUG5yR3A5MHJTTjB3YUV1b295SWtlUzlEUi1GVFNNU2FrdWVyclZJeVJKcG1GMjFMLTNFN0U1SC1ONEo0OUtaeXJkdHU?oc=5",
    "source": "Chosunbiz",
@@ -4572,16 +4578,9 @@
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RdjctVlRzUklDM29lbnBEZkw4TTJVcWVpQnpMN3NkME05RWNMelNlcHktZ0dmUVNVdVBBdk5TejZkSVdZV0U3ZVY3M1drWVY4TnlXZ2tfamFiNm1pVlVxUWQtb25GQdIBZkFVX3lxTE1RdjctVlRzUklDM29lbnBEZkw4TTJVcWVpQnpMN3NkME05RWNMelNlcHktZ0dmUVNVdVBBdk5TejZkSVdZV0U3ZVY3M1drWVY4TnlXZ2tfamFiNm1pVlVxUWQtb25GQQ?oc=5",
    "source": "동아일보",
    "date": "2026-09-16"
-  },
-  {
-   "title": "금융위, 청년미래적금 2차 출시…다음달 7~16일 신청 접수 - 데일리한국",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DYjlqVC1JVlU1YzZyQzZTaW9WN0RLbFlfekRfSUxhaWt1SFJvMlJON3JWZlBZN2MzTzNqbm1ldHhWTmFYVHJxR0RZT2pYNllUQWU2SktBeUd1V2pTcng2VDhCVFc4cTZtZlJaWHdQNNIBc0FVX3lxTE1FY2swV1RWSll3eUVuNXE5dUs1aTIzVUxFMV8wYTNlMlh4X1NnRVViUk9OTF94S0hLREl4b1F5TGpOR2VHbndjRThfZkQ2NUU0V21Fc3l5MEhscTN2RGhDc2RJMjZGeFNmV1FHcG9RT05iX3c?oc=5",
-   "source": "데일리한국",
-   "date": "2026-09-16"
   }
  ],
  "news_seen": [
-  "21e1068e4008f2a5",
   "5e31144a1c4f804a",
   "671702db3dfc90cd",
   "497324f25250677c",
@@ -5380,7 +5379,8 @@
   "ebe3050fbb016e4b",
   "0d8da16efb20239d",
   "f991972bf63f01c2",
-  "ad3df886a89d0777"
+  "ad3df886a89d0777",
+  "7cc1c0dc7d37e245"
  ],
  "news_seeded": true,
  "news_products": [
