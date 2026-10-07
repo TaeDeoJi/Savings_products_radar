@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07 10:22",
+ "updated_at": "2026-10-07 17:29",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -1698,8 +1698,8 @@
      "save_trm": 12,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.27,
-     "intr_rate2": 4.07
+     "intr_rate": 3.26,
+     "intr_rate2": 4.06
     },
     {
      "save_trm": 24,
@@ -1716,8 +1716,8 @@
      "intr_rate2": 3.5
     }
    ],
-   "best_rate": 4.07,
-   "best_base_rate": 3.27,
+   "best_rate": 4.06,
+   "best_base_rate": 3.26,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EB%86%8D%ED%98%91%EC%9D%80%ED%96%89%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20NH%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%9B%94%EB%B3%B5%EB%A6%AC%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -2573,22 +2573,22 @@
      "save_trm": 3,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.9,
-     "intr_rate2": 2.9
+     "intr_rate": 3.1,
+     "intr_rate2": 3.1
     },
     {
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.3,
-     "intr_rate2": 3.3
+     "intr_rate": 3.4,
+     "intr_rate2": 3.4
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.5,
-     "intr_rate2": 3.5
+     "intr_rate": 3.6,
+     "intr_rate2": 3.6
     },
     {
      "save_trm": 24,
@@ -2605,8 +2605,8 @@
      "intr_rate2": 2.7
     }
    ],
-   "best_rate": 3.5,
-   "best_base_rate": 3.5,
+   "best_rate": 3.6,
+   "best_base_rate": 3.6,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%9A%B0%EB%A6%AC%EC%9D%80%ED%96%89%20WON%ED%94%8C%EB%9F%AC%EC%8A%A4%EC%98%88%EA%B8%88",
    "first_seen": "2026-07-31",
@@ -2828,7 +2828,7 @@
    "join_way": "인터넷,스마트폰",
    "join_member": "실명의 개인",
    "join_deny": "1",
-   "spcl_cnd": "\"* 우대이율 (최대 1.82%p)\n가. 모바일뱅킹 금융정보 및 혜택알림 동의 우대이율 : 0.10%p\n나. 신규고객 또는 정기예금 중도해지고객 우대이율 1.12%p\n다. 특판우대이율 : 0.60%p(24개월 0.95%p)\"",
+   "spcl_cnd": "\"* 우대이율 (최대 1.95%p)\n가. 모바일뱅킹 금융정보 및 혜택알림 동의 우대이율 : 0.10%p\n나. 신규고객 또는 정기예금 중도해지고객 우대이율 1.25%p\n다. 특판우대이율 : 0.60%p",
    "mtrt_int": "- 만기후1년내: 가입기간별 일반정기예금이율 월이자지급식x 50%,\n- 만기후1년초과:가입기간별 일반정기예금이율 월이자지급식 x 20%",
    "max_limit": null,
    "etc_note": "1. 가입금액 : 1백만원 이상 제한없음 (원단위)\n2. 가입기간 : 1개월, 3개월, 6개월, 1년, 2년, 3년\n3. 이자지급방식 : 만기일시지급식",
@@ -2838,45 +2838,45 @@
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
      "intr_rate": 1.3,
-     "intr_rate2": 3.12
+     "intr_rate2": 3.25
     },
     {
      "save_trm": 3,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
      "intr_rate": 1.55,
-     "intr_rate2": 3.37
+     "intr_rate2": 3.5
     },
     {
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
      "intr_rate": 1.7,
-     "intr_rate2": 3.52
+     "intr_rate2": 3.65
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
      "intr_rate": 2.1,
-     "intr_rate2": 3.92
+     "intr_rate2": 4.05
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
      "intr_rate": 1.75,
-     "intr_rate2": 3.92
+     "intr_rate2": 3.7
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
      "intr_rate": 1.15,
-     "intr_rate2": 2.97
+     "intr_rate2": 3.1
     }
    ],
-   "best_rate": 3.92,
+   "best_rate": 4.05,
    "best_base_rate": 2.1,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%EC%9D%80%ED%96%89%20%EB%8D%94%28The%29%20%ED%8A%B9%ED%8C%90%20%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88",
@@ -2892,7 +2892,7 @@
    "join_way": "스마트폰",
    "join_member": "실명의 개인",
    "join_deny": "1",
-   "spcl_cnd": "*우대이율(최대 1.22%p)\n가. 모바일뱅킹 금융정보 및 혜택알림 동의 우대이율 : 0.10%p\n나. 비대면 정기예금 재예치 우대이율  : 1.12%",
+   "spcl_cnd": "*우대이율(최대 1.35%p)\n가. 모바일뱅킹 금융정보 및 혜택알림 동의 우대이율 : 0.10%p\n나. 비대면 정기예금 재예치 우대이율  : 1.25%",
    "mtrt_int": "- 만기후1년내: 가입기간별 일반정기예금이율 월이자지급식 x 50%,\n- 만기후1년초과:가입기간별 일반정기예금이율월 이자지급식 x 20%",
    "max_limit": null,
    "etc_note": "1. 가입금액 : 1백만원 이상 제한없음 (원단위)\n2. 가입기간 : 6개월, 1년\n3. 이자지급방식 : 만기일시지급식",
@@ -2902,17 +2902,17 @@
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
      "intr_rate": 2.5,
-     "intr_rate2": 3.72
+     "intr_rate2": 3.85
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
      "intr_rate": 2.65,
-     "intr_rate2": 3.87
+     "intr_rate2": 4.0
     }
    ],
-   "best_rate": 3.87,
+   "best_rate": 4.0,
    "best_base_rate": 2.65,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0%EC%9D%80%ED%96%89%20%EB%8D%94%28The%29%20%EB%A0%88%EB%B2%A8%EC%97%85%20%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88",
@@ -2937,26 +2937,26 @@
      "save_trm": 12,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.46,
-     "intr_rate2": 3.66
+     "intr_rate": 3.42,
+     "intr_rate2": 3.62
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.28,
-     "intr_rate2": 3.48
+     "intr_rate": 3.24,
+     "intr_rate2": 3.44
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.14,
-     "intr_rate2": 3.34
+     "intr_rate": 3.1,
+     "intr_rate2": 3.3
     }
    ],
-   "best_rate": 3.66,
-   "best_base_rate": 3.46,
+   "best_rate": 3.62,
+   "best_base_rate": 3.42,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%EC%9D%80%ED%96%89%20%EB%AF%B8%EC%A6%88%EC%9B%94%EB%B3%B5%EB%A6%AC%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88",
    "first_seen": "2026-07-31",
@@ -2980,47 +2980,47 @@
      "save_trm": 1,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.36,
-     "intr_rate2": 2.46
+     "intr_rate": 2.34,
+     "intr_rate2": 2.44
     },
     {
      "save_trm": 3,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.7,
-     "intr_rate2": 2.8
+     "intr_rate": 2.69,
+     "intr_rate2": 2.79
     },
     {
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.05,
-     "intr_rate2": 3.15
+     "intr_rate": 3.02,
+     "intr_rate2": 3.12
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.36,
-     "intr_rate2": 3.56
+     "intr_rate": 3.32,
+     "intr_rate2": 3.52
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.18,
-     "intr_rate2": 3.38
+     "intr_rate": 3.14,
+     "intr_rate2": 3.34
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.04,
-     "intr_rate2": 3.24
+     "intr_rate": 3.0,
+     "intr_rate2": 3.2
     }
    ],
-   "best_rate": 3.56,
-   "best_base_rate": 3.36,
+   "best_rate": 3.52,
+   "best_base_rate": 3.32,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%EC%9D%80%ED%96%89%20%EC%8A%A4%EB%A7%88%ED%8A%B8%EB%AA%A8%EC%95%84Dream%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88",
    "first_seen": "2026-07-31",
@@ -3044,12 +3044,12 @@
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.36,
-     "intr_rate2": 3.86
+     "intr_rate": 3.32,
+     "intr_rate2": 3.82
     }
    ],
-   "best_rate": 3.86,
-   "best_base_rate": 3.36,
+   "best_rate": 3.82,
+   "best_base_rate": 3.32,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%EC%9D%80%ED%96%89%20%EA%B5%BF%EC%8A%A4%ED%83%80%ED%8A%B8%EC%98%88%EA%B8%88",
    "first_seen": "2026-07-31",
@@ -3609,15 +3609,15 @@
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.43,
-     "intr_rate2": 3.43
+     "intr_rate": 3.4,
+     "intr_rate2": 3.4
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.62,
-     "intr_rate2": 3.62
+     "intr_rate": 3.58,
+     "intr_rate2": 3.58
     },
     {
      "save_trm": 24,
@@ -3630,12 +3630,12 @@
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.45,
-     "intr_rate2": 3.45
+     "intr_rate": 3.46,
+     "intr_rate2": 3.46
     }
    ],
-   "best_rate": 3.62,
-   "best_base_rate": 3.62,
+   "best_rate": 3.58,
+   "best_base_rate": 3.58,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85%EC%9D%80%ED%96%89%20IBK%EB%8D%94%EA%B5%B4%EB%A6%AC%EA%B8%B0%ED%86%B5%EC%9E%A5%28%EC%8B%A4%EC%84%B8%EA%B8%88%EB%A6%AC%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88%29",
    "first_seen": "2026-07-31",
@@ -3659,33 +3659,33 @@
      "save_trm": 1,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.79,
-     "intr_rate2": 2.79
+     "intr_rate": 2.78,
+     "intr_rate2": 2.78
     },
     {
      "save_trm": 3,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.09,
-     "intr_rate2": 3.09
+     "intr_rate": 3.07,
+     "intr_rate2": 3.07
     },
     {
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.48,
-     "intr_rate2": 3.48
+     "intr_rate": 3.45,
+     "intr_rate2": 3.45
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.65,
-     "intr_rate2": 3.65
+     "intr_rate": 3.63,
+     "intr_rate2": 3.63
     }
    ],
-   "best_rate": 3.65,
-   "best_base_rate": 3.65,
+   "best_rate": 3.63,
+   "best_base_rate": 3.63,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85%EC%9D%80%ED%96%89%20IBK%EA%B5%B4%EB%A6%AC%EA%B8%B0%ED%86%B5%EC%9E%A5%28%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88%29",
    "first_seen": "2026-07-31",
@@ -4515,6 +4515,18 @@
  ],
  "news": [
   {
+   "title": "우리은행 9% 적금, \"우리금융 다함께 적금2 출시\"… 월 30만원 한도와 우대금리 조건 - 경제시그널",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2elFwMzZoZTZ0dkpTMzVZNS1adVdiOEppbjVUU2FPcmZNRmhyUklpa1pRY216YVlON2lQbzZ5cTdvV3A0NU5mZXFCU0ItOGlTc3pHajlTUG1MNFYyazN6TkF4dFd4S0JQaTV1Q29SOXlURHc?oc=5",
+   "source": "경제시그널",
+   "date": "2026-10-07"
+  },
+  {
+   "title": "[이코노 브리핑] 우리銀, 최고 연 9% ‘다함께 적금2’ 출시 - 세계일보",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QYmVHY24zRkRJMXllVG1mczVWNEpMbUUzWDJxcldhR3EyYUdLRXljVUppakpSaXJYc3NNRWpIYUlaYUxRZVVyRDBJVE5FUC0zU3A5Wk9CTVfSAVRBVV95cUxPRndBT2NBTWRLTFh6YTJQSjZGbEFsQmVxazRVTkU3RG52V1VZUzBMczY3cHJmd2ZWM2ZqTFAxb1kzQkRjYkk1c3ktM1dQcEpHUnAwakM?oc=5",
+   "source": "세계일보",
+   "date": "2026-10-06"
+  },
+  {
    "title": "우리금융 다함께 적금2 출시…월 30만원 한도로 최고 연 9% - https://www.diarypoint.com/",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xNjJDVjN1Q2VQOWdLSXRlVng1dGxXYklTYUhiV2pTckFIMnlMaWVKY1NCMFdEWkY0SUR5M05PZ3pQcUtRMTZWUm5tQlAyeDVlbVpBeWlrRERnUVlhM2J3eTdIMS03dmNoaWxR?oc=5",
    "source": "https://www.diarypoint.com/",
@@ -4573,23 +4585,9 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVOTZrY2NjWUoyWHh6N29tRWVCakkteGZiVmdrZUFXclUzUmVkajdKY25QbUI5Q0kzWjJ1SDBTc3BnUjVFZ3BLdXRUWnhsUjBjM2piSW51ak8tLWFob0ln?oc=5",
    "source": "스마트투데이",
    "date": "2026-10-05"
-  },
-  {
-   "title": "우리은행, 최고 연 9% ‘다함께 적금2’ 출시… ‘우리금융 다함께 페스타’ 연계 이벤트 진행 - 한국보험신문",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FbWttVjNGZnNUdkxDMFg2dmg2M0FrZ2N2bmZHYU1KQTJULWVHTHJuVnFCbE44QjFaaFRpQlZYY25pWDlrU1RKT1ZHZTJ4R2ZTRllmMEc0dDJsa0lucF9zMV9aVHNBZlRJaUVlTnUxRdIBb0FVX3lxTE1FbWttVjNGZnNUdkxDMFg2dmg2M0FrZ2N2bmZHYU1KQTJULWVHTHJuVnFCbE44QjFaaFRpQlZYY25pWDlrU1RKT1ZHZTJ4R2ZTRllmMEc0dDJsa0lucF9zMV9aVHNBZlRJaUVlTnUxRQ?oc=5",
-   "source": "한국보험신문",
-   "date": "2026-10-05"
-  },
-  {
-   "title": "우리은행, 최고 연 9% ‘다함께 적금2’ 출시 - 이투데이",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01dDJpU24wWE9ZMzZUcWR1Q0JPaEpiWFA2bG9VVElHSXdEOTlRVzhZOHhIS0F6cl9CQW9RQmV2ZmpnYjRYdU1pUHRJT0d2a3NqX2d2NA?oc=5",
-   "source": "이투데이",
-   "date": "2026-10-05"
   }
  ],
  "news_seen": [
-  "9de894352af83160",
-  "19edb5ac188ed2ed",
   "708c6e5c553de05b",
   "a4054b349ada97a4",
   "c6ec4330257b3041",
@@ -5387,7 +5385,9 @@
   "43911cc77c6a1ac1",
   "ae23d111c67f61db",
   "273bc3ed18477676",
-  "46814c0cf8080eeb"
+  "46814c0cf8080eeb",
+  "4c655558f578a11f",
+  "7c1ceb2a6af54b84"
  ],
  "news_seeded": true,
  "news_products": [
@@ -5432,7 +5432,7 @@
    "norm": "우리금융다함께적금2",
    "rate": 9.0,
    "first_news": "2026-10-03",
-   "count": 38,
+   "count": 40,
    "articles": [
     {
      "title": "우리은행 최고 연 9.0% '우리금융 다함께 적금2' 출시 - 진일보",
