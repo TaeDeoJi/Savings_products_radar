@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14 20:37",
+ "updated_at": "2026-10-15 01:59",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -4515,6 +4515,24 @@
  ],
  "news": [
   {
+   "title": "하나은행, 서금원과 ‘청년미래적금’ 출시…22일부터 신청 접수 - 시사매거진",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBsbl9fd0J5UzNBVHpxZE9hdFluSEtjYU43WkxCVlFxcHBSWE1IcVREcmR4XzViUy1SZHVNSUQxb1hiMlE4eURRN0F5djdKYWdpOVN0aWEwRUU?oc=5",
+   "source": "시사매거진",
+   "date": "2026-10-14"
+  },
+  {
+   "title": "\"여행비 얼마씩 모으면 돼?\"…카뱅, AI 목표적금 출시 - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YVHl3Mnd0aFVEVDVnZE1HcjJMRzBvbGc1ekJMT0x0UHV4WU5aSzd3QVlkejh6QWNDTlhLX29qMDkxMUo3ZlVnMzVuQzcwRWNNWmxRUVJIOVF5aUtIam53ZzNCVGVrMGhD?oc=5",
+   "source": "TradingView",
+   "date": "2026-10-13"
+  },
+  {
+   "title": "카카오뱅크, ‘AI 목표적금’ 출시…금융권 최초 AI가 저축상품 코칭 - 비즈월드",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1eU9EOGpvWHFBM01HVXlZUUswZnZKUnJNdlpTRVdKdHdULUlSREhGY3M5M0hsV2I0aDFfUGk4bDI5Y3BXS1c2OWxDU3YtZjhnamE4dnpVRDlMc25OV3NkRmZLMjRUUlVlOXFn?oc=5",
+   "source": "비즈월드",
+   "date": "2026-10-13"
+  },
+  {
    "title": "카카오뱅크, AI 목표적금 출시... \"AI 저축 러닝메이트” - 시장경제신문",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CSFIzbGFzOWpDTVNnMkVlLUpKVUhhbzRIb1FZYXFPalg1Q1VYY1dUZHo0TE5Sd3VxQ2Z3bFRHWWlPblpzeUlzejMwZnlIakp4RVY2UExmcng3MHZBNWk3b3hfZW93VGs2TWlkOHYxYjg?oc=5",
    "source": "시장경제신문",
@@ -4567,30 +4585,9 @@
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44bUpEWVl0TWh1UF9rVUdBUjRFcjNXZk1wV1pZZW9LZTdtNVF3ejZZeW9WOFFoX2x0VFdmRmR4dHlVOWtlSVIzem1mWE8yT0Y5X3pNc3RPRQ?oc=5",
    "source": "KPI뉴스",
    "date": "2026-10-13"
-  },
-  {
-   "title": "카카오뱅크, 금융권 최초 AI 코칭 더한 'AI 목표적금' 출시 - 미래경제",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WcjFNQTZ1SUlxdjFQWlNLdy14TzIzQmJYb21HSkNEbnRVT0tCUmZwRXJrMldVWnZlU2NxUnhYYXFGMGI5MDJrT0x3TjNIWFZMVi0zcWdzMDUydGhWQk9vZFNVd1d6aWVIb2dfWQ?oc=5",
-   "source": "미래경제",
-   "date": "2026-10-13"
-  },
-  {
-   "title": "카카오뱅크, AI가 저축 관리하는 ‘목표적금’ 출시 - 뉴스인사이드",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBycEpVLTM1QjRIZjl0eHRHUVk4MVNnNllUeldpYnFLMGZEV1Bvc3VVcUhoT0lHVFdmTXhDeFRzNi1UMWdnc1hJX1I5QUJ4dXpzaElLUjRkekFXTklSOGpZa0hPemppNFhpWjVGbkdn?oc=5",
-   "source": "뉴스인사이드",
-   "date": "2026-10-13"
-  },
-  {
-   "title": "카카오뱅크, AI가 저축 목표 관리하는 ‘AI 목표적금’ 출시…최고 연 5% - 직썰",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01enVwbTNRNnVUcGl4RkRUeFFFS3BuMnYxaEFFTXJRS3M0dkE2YW1yN1pFZ0k2VDJIWHRseEdLSHlDVldjNm5uaXByUzgyc2pJZXFRRXpyUEF4RHNwb0ZQZ1hJUXdJRVVD0gFsQVVfeXFMUDZ3Vm5pRlZPeXBGeFhNSTA1SHdZRUowdUNMWXlKcHlOSldXaHJvbVdid19fbktQWGFyazRvZzZNcHo0dzJ4SlFTbXV5TThYcGRTek1ZTVFCQ1JpMS1aVndfak1QeFNJelQ0ekE5?oc=5",
-   "source": "직썰",
-   "date": "2026-10-13"
   }
  ],
  "news_seen": [
-  "7ef01b188d732776",
-  "8136f0984a284838",
-  "38e16d92f11e269c",
   "60d3dace3e635b09",
   "6d576240dbef3589",
   "cc57c3eb2ef0994f",
@@ -5387,17 +5384,37 @@
   "0b641357bc13074d",
   "9105466707fc887d",
   "49fac0b6303935d6",
-  "0ccbe71ed7691af6"
+  "0ccbe71ed7691af6",
+  "1ce30cde78a3c563",
+  "08cd85618e75e425",
+  "8ea55e96087dcd7e"
  ],
  "news_seeded": true,
  "news_products": [
+  {
+   "bank": "하나은행",
+   "name": "청년미래적금",
+   "norm": "청년미래적금",
+   "rate": null,
+   "first_news": "2026-10-14",
+   "count": 1,
+   "articles": [
+    {
+     "title": "하나은행, 서금원과 ‘청년미래적금’ 출시…22일부터 신청 접수 - 시사매거진",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBsbl9fd0J5UzNBVHpxZE9hdFluSEtjYU43WkxCVlFxcHBSWE1IcVREcmR4XzViUy1SZHVNSUQxb1hiMlE4eURRN0F5djdKYWdpOVN0aWEwRUU?oc=5",
+     "source": "시사매거진",
+     "date": "2026-10-14"
+    }
+   ],
+   "in_disclosure": false
+  },
   {
    "bank": "카카오뱅크",
    "name": "AI 목표적금",
    "norm": "AI목표적금",
    "rate": 5.0,
    "first_news": "2026-10-13",
-   "count": 36,
+   "count": 38,
    "articles": [
     {
      "title": "카카오뱅크, ‘AI 목표적금’ 출시…저축 상황 따라 맞춤형 조언 - 팍스경제TV",
@@ -5931,29 +5948,6 @@
      "title": "광주은행, ‘전남광주통합특별시 사랑적금’ 출시 - 누리일보",
      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tS0NxN3QwRmplX2RDN0dDVWo4d3RsRWZnbVJGVDRPZ09LSlllOXJiQnNIWlZrYXNLUFFia3dxSzlXY3BCeXZpTl9XclB0VWY3SXhNcy1wT0dHcnc5?oc=5",
      "source": "누리일보",
-     "date": "2026-09-04"
-    }
-   ],
-   "in_disclosure": false
-  },
-  {
-   "bank": "광주은행",
-   "name": "전남광주시 사랑적금",
-   "norm": "전남광주시사랑적금",
-   "rate": null,
-   "first_news": "2026-09-04",
-   "count": 2,
-   "articles": [
-    {
-     "title": "광주은행, ‘전남광주시 사랑적금’ 출시 - 진일보",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IVWhhWC1Wb0lyUVc5Ti1KOWtMczhsWEoxR1RhMEZtSFhVeWc1RWNGMy1xSnV6WE5nLWtTVWZGMl9aR1NNS2pEVFNzcFBRSklfUU1GNktXS3I4NFFKdUUyTlJyYnViQ2s4dlZ2am42bw?oc=5",
-     "source": "진일보",
-     "date": "2026-09-04"
-    },
-    {
-     "title": "광주은행, ‘전남광주시 사랑적금’ 출시 - thepowernews.co.kr",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TMXo5dGphWGl3ZW9vZE9qajZXTms1UUp0NnVIeFBndWM4Q0stUDFfdGY2VHc0bW1rcWNzOTdTSjl0M21uRFNtZEpBZ0wxSWRFYWxocjJOa1RyWFZmZkRyQlpCaUhadUNZbzlsVUxzcTBFbDh3ZVRJTE9adWxIQQ?oc=5",
-     "source": "thepowernews.co.kr",
      "date": "2026-09-04"
     }
    ],
