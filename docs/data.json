@@ -4515,6 +4515,12 @@
  ],
  "news": [
   {
+   "title": "카카오뱅크, AI가 저축 코치해주는 적금 출시…최대 연 5% - 머니투데이 - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91UnczNDB2Z05QY1UtdGliSldnTXFjczdvSDdOMGpNdC1BVmozWUpVNENJMlFKUlNPS2tKWExkT2l0Z3pEblprQzBuUkhKeHJjcjhZRjQyUTlkTldKcGkzWUQwOHY4VUpzMG9lTVVZV2nSAXBBVV95cUxPdVJ3MzQwdmdOUGNVLXRpYkpXZ01xY3M3b0g3TjBqTXQtQVZqM1lKVTRDSTJRSlJTT0trSlhMZE9pdGd6RG5aa0MwblJISnhyY3I4WUY0MlE5ZE5XSnBpM1lEMDh2OFVKczBvZU1VWVdp?oc=5",
+   "source": "머니투데이",
+   "date": "2026-10-13"
+  },
+  {
    "title": "카카오뱅크 ‘AI 목표적금’ 출시…최고 연 5%, 세후 이자는 얼마? - 창원특례신문",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UOUc1M29WLVZoU0tzcDgyMXhrVkpfQmNsaU5CaHdIX0VuUkRZTzlxU2xZUFlteTVlVGgzVHlGNWpPVS14LTlyRGluZ3g0anc3SkZ0SXdpMURBR1VNSjZNM0JER0NpbUnSAWtBVV95cUxOZGtvSk1QN3ROZzdZLUZvbXJyR3NBbTlSXzdTckhiU1d1b0o0b1hmSkVEajJkZFVFXzRVeTdhMWo1TGFwRGhOWC1MSmlzRWNPdjg0QTdYUHZvU1FNQ2x5YnVFUTJidkxVR2laNA?oc=5",
    "source": "창원특례신문",
@@ -4579,16 +4585,9 @@
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94cXpxakJOZk9vR2h2eVlWcUtXVHgwMVljV2xqdE02UDQxTVdQdDNuUmhPcmlRcGEzdVlzVnluZ3BMM2sxalBzRHpFaUdxQWhzdTJsWlFMSi1ySkJqSVZZUFZ4TXBJb3ZyWDk3MURRR3F3YWc?oc=5",
    "source": "비즈니스포스트",
    "date": "2026-10-13"
-  },
-  {
-   "title": "카카오뱅크, AI 페이스메이커 적용 'AI 목표적금' 출시 - FETV",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MOV9RRkIyQUk4VGlDQXVEY2p5SzR2MTAtY3hwZnpPSWJ3ZDNCbUowM0lHNENSTElQbnJWVXEtejkyUFRFcjc2aEEwcnlvQ09OT1hfbFgzOTF0N3c0Z3NkQXBnNDlPUklL?oc=5",
-   "source": "FETV",
-   "date": "2026-10-13"
   }
  ],
  "news_seen": [
-  "6d576240dbef3589",
   "cc57c3eb2ef0994f",
   "3eab7550f9918dd6",
   "427d57adf7fd2294",
@@ -5387,7 +5386,8 @@
   "1ce30cde78a3c563",
   "08cd85618e75e425",
   "8ea55e96087dcd7e",
-  "1229929d57bfcf02"
+  "1229929d57bfcf02",
+  "dac0747d796ac3e9"
  ],
  "news_seeded": true,
  "news_products": [
@@ -5414,7 +5414,7 @@
    "norm": "AI목표적금",
    "rate": 5.0,
    "first_news": "2026-10-13",
-   "count": 39,
+   "count": 40,
    "articles": [
     {
      "title": "카카오뱅크, ‘AI 목표적금’ 출시…저축 상황 따라 맞춤형 조언 - 팍스경제TV",
