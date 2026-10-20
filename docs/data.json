@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20 23:53",
+ "updated_at": "2026-10-21 04:06",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -4515,6 +4515,12 @@
  ],
  "news": [
   {
+   "title": "1.1.1. 제주은행, ‘제주 상생포용적금’ 출시 - 일간제주",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YTElnVHFNWkszdC1VLTA0ZU1DZ1ZYVFVrNGhwczdvdEExWjVja1NmMWIxblJCbDVvbXFUcy1iX1Y5dUZWLUQ5cFA5cnNrd1U4SHdwWXYwNWRFcF84MVBPT2c5R1ZtZUMtenAw?oc=5",
+   "source": "일간제주",
+   "date": "2026-10-20"
+  },
+  {
    "title": "제주은행, '연 7%+납입액 지원' 제주 상생포용적금 출시 - 헤드라인제주",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80WS1tSUVqeW01YjVHQlE0TVFwMTRkeFI3ekV3bVdLOXdBNDl2R2tzR2RSUW5PR2NqdkxZZDdIYzUwbzlMUWFQVnU4dEgtaVZ1Y2JpWVhzNjI1V0E4OHY3NEJMejc3Um9NRm5MVjNsaW0wODQ?oc=5",
    "source": "헤드라인제주",
@@ -4579,16 +4585,9 @@
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91UnczNDB2Z05QY1UtdGliSldnTXFjczdvSDdOMGpNdC1BVmozWUpVNENJMlFKUlNPS2tKWExkT2l0Z3pEblprQzBuUkhKeHJjcjhZRjQyUTlkTldKcGkzWUQwOHY4VUpzMG9lTVVZV2nSAXBBVV95cUxPdVJ3MzQwdmdOUGNVLXRpYkpXZ01xY3M3b0g3TjBqTXQtQVZqM1lKVTRDSTJRSlJTT0trSlhMZE9pdGd6RG5aa0MwblJISnhyY3I4WUY0MlE5ZE5XSnBpM1lEMDh2OFVKczBvZU1VWVdp?oc=5",
    "source": "머니투데이",
    "date": "2026-10-13"
-  },
-  {
-   "title": "카카오뱅크 ‘AI 목표적금’ 출시…최고 연 5%, 세후 이자는 얼마? - 창원특례신문",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UOUc1M29WLVZoU0tzcDgyMXhrVkpfQmNsaU5CaHdIX0VuUkRZTzlxU2xZUFlteTVlVGgzVHlGNWpPVS14LTlyRGluZ3g0anc3SkZ0SXdpMURBR1VNSjZNM0JER0NpbUnSAWtBVV95cUxOZGtvSk1QN3ROZzdZLUZvbXJyR3NBbTlSXzdTckhiU1d1b0o0b1hmSkVEajJkZFVFXzRVeTdhMWo1TGFwRGhOWC1MSmlzRWNPdjg0QTdYUHZvU1FNQ2x5YnVFUTJidkxVR2laNA?oc=5",
-   "source": "창원특례신문",
-   "date": "2026-10-14"
   }
  ],
  "news_seen": [
-  "8371de47cd3ba385",
   "beee38baf3bf233b",
   "0a402460253f7b8f",
   "d2dadfd8dc6b7094",
@@ -5387,7 +5386,8 @@
   "99eb768bf2af6d02",
   "c95e02cbc335703e",
   "d9c23ba857b5bfc4",
-  "44cc5fb67ecdf4fc"
+  "44cc5fb67ecdf4fc",
+  "e4fbc076f37d27d2"
  ],
  "news_seeded": true,
  "news_products": [
@@ -5397,7 +5397,7 @@
    "norm": "상생포용적금",
    "rate": 7.0,
    "first_news": "2026-10-20",
-   "count": 3,
+   "count": 4,
    "articles": [
     {
      "title": "제주은행, '연 7%+납입액 지원' 제주 상생포용적금 출시 - 헤드라인제주",
@@ -5415,6 +5415,12 @@
      "title": "제주은행, ‘제주 상생포용적금’ 출시 - 제주도민일보",
      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9yLXpCT0RTZS16MjhRZzUyNFBKX1ZCdTFycFJ6eGNRNGtibnNyLUNZNlQwS3d1QV96ZUFnYjJTLVpHQXZ1ZzRaSnV3ZVRVN1loSTNvR3Y0ZFIzM050TEhiVklORmVIcGJMbUV0aXFQdw?oc=5",
      "source": "제주도민일보",
+     "date": "2026-10-20"
+    },
+    {
+     "title": "1.1.1. 제주은행, ‘제주 상생포용적금’ 출시 - 일간제주",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YTElnVHFNWkszdC1VLTA0ZU1DZ1ZYVFVrNGhwczdvdEExWjVja1NmMWIxblJCbDVvbXFUcy1iX1Y5dUZWLUQ5cFA5cnNrd1U4SHdwWXYwNWRFcF84MVBPT2c5R1ZtZUMtenAw?oc=5",
+     "source": "일간제주",
      "date": "2026-10-20"
     }
    ],
