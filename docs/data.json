@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21 16:24",
+ "updated_at": "2026-10-21 22:39",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2445,8 +2445,7 @@
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B1%85%ED%81%AC%20%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B1%85%ED%81%AC%20AI%20%EB%AA%A9%ED%91%9C%EC%A0%81%EA%B8%88",
    "first_seen": "2026-10-21",
-   "is_baseline": false,
-   "analysis": "은행권 60개 적금 중 최고우대금리 11위 (상위 18%). 기본 3.00% + 우대 2.00%p → 우대폭이 커서 조건 확인이 중요. 가입대상 제한: 만 14세 이상의 실명의 내국인"
+   "is_baseline": false
   },
   {
    "key": "0017801|1001303001003",
@@ -4618,8 +4617,7 @@
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC%20%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC%20%EC%9B%90%ED%95%98%EB%8A%94%20%EB%82%A0%20%EB%A7%8C%EA%B8%B0%EB%90%98%EB%8A%94%20%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88",
    "first_seen": "2026-10-21",
-   "is_baseline": false,
-   "analysis": "은행권 40개 예금 중 최고우대금리 13위 (상위 32%). 기본 3.80% + 우대 0.00%p → 우대폭이 작아 기본금리 위주로 판단 가능. 가입대상 제한: 토스뱅크 통장 또는 토스뱅크 서브 통장을 보유한 실명의 개인"
+   "is_baseline": false
   }
  ],
  "news": [
