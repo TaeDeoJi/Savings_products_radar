@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23 10:22",
+ "updated_at": "2026-10-23 16:19",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2980,8 +2980,8 @@
      "save_trm": 12,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.34,
-     "intr_rate2": 3.54
+     "intr_rate": 3.35,
+     "intr_rate2": 3.55
     },
     {
      "save_trm": 24,
@@ -2998,8 +2998,8 @@
      "intr_rate2": 3.18
     }
    ],
-   "best_rate": 3.54,
-   "best_base_rate": 3.34,
+   "best_rate": 3.55,
+   "best_base_rate": 3.35,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%EC%9D%80%ED%96%89%20%EB%AF%B8%EC%A6%88%EC%9B%94%EB%B3%B5%EB%A6%AC%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88",
    "first_seen": "2026-07-31",
@@ -3030,22 +3030,22 @@
      "save_trm": 3,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.67,
-     "intr_rate2": 2.77
+     "intr_rate": 2.68,
+     "intr_rate2": 2.78
     },
     {
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.01,
-     "intr_rate2": 3.11
+     "intr_rate": 3.03,
+     "intr_rate2": 3.13
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.24,
-     "intr_rate2": 3.44
+     "intr_rate": 3.25,
+     "intr_rate2": 3.45
     },
     {
      "save_trm": 24,
@@ -3062,8 +3062,8 @@
      "intr_rate2": 3.08
     }
    ],
-   "best_rate": 3.44,
-   "best_base_rate": 3.24,
+   "best_rate": 3.45,
+   "best_base_rate": 3.25,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%EC%9D%80%ED%96%89%20%EC%8A%A4%EB%A7%88%ED%8A%B8%EB%AA%A8%EC%95%84Dream%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88",
    "first_seen": "2026-07-31",
@@ -3087,12 +3087,12 @@
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.24,
-     "intr_rate2": 3.74
+     "intr_rate": 3.25,
+     "intr_rate2": 3.75
     }
    ],
-   "best_rate": 3.74,
-   "best_base_rate": 3.24,
+   "best_rate": 3.75,
+   "best_base_rate": 3.25,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%EC%9D%80%ED%96%89%20%EA%B5%BF%EC%8A%A4%ED%83%80%ED%8A%B8%EC%98%88%EA%B8%88",
    "first_seen": "2026-07-31",
@@ -3301,12 +3301,12 @@
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.92,
-     "intr_rate2": 3.92
+     "intr_rate": 3.98,
+     "intr_rate2": 3.98
     }
    ],
-   "best_rate": 3.92,
-   "best_base_rate": 3.92,
+   "best_rate": 3.98,
+   "best_base_rate": 3.98,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A0%84%EB%B6%81%EC%9D%80%ED%96%89%20JB%20%EB%8B%A4%EC%9D%B4%EB%A0%89%ED%8A%B8%EC%98%88%EA%B8%88%ED%86%B5%EC%9E%A5%0A%28%EB%A7%8C%EA%B8%B0%EC%9D%BC%EC%8B%9C%EC%A7%80%EA%B8%89%EC%8B%9D%29",
    "first_seen": "2026-07-31",
@@ -3330,12 +3330,12 @@
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.33,
-     "intr_rate2": 3.93
+     "intr_rate": 3.5,
+     "intr_rate2": 4.1
     }
    ],
-   "best_rate": 3.93,
-   "best_base_rate": 3.33,
+   "best_rate": 4.1,
+   "best_base_rate": 3.5,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A0%84%EB%B6%81%EC%9D%80%ED%96%89%20JB%20123%20%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88%0A%20%28%EB%A7%8C%EA%B8%B0%EC%9D%BC%EC%8B%9C%EC%A7%80%EA%B8%89%EC%8B%9D%29",
    "first_seen": "2026-07-31",
@@ -3430,20 +3430,20 @@
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.92,
-     "intr_rate2": 3.92
+     "intr_rate": 3.98,
+     "intr_rate2": 3.98
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.94,
-     "intr_rate2": 3.94
+     "intr_rate": 3.98,
+     "intr_rate2": 3.98
     }
    ],
-   "best_rate": 3.94,
-   "best_base_rate": 3.94,
-   "best_term": 24,
+   "best_rate": 3.98,
+   "best_base_rate": 3.98,
+   "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A0%84%EB%B6%81%EC%9D%80%ED%96%89%20JB%20%EB%8B%A4%EC%9D%B4%EB%A0%89%ED%8A%B8%28%EC%9E%90%EC%9C%A0%EB%A7%8C%EA%B8%B0%29%20%EC%98%88%EA%B8%88",
    "first_seen": "2026-09-18",
    "is_baseline": false
@@ -3652,33 +3652,33 @@
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.42,
-     "intr_rate2": 3.42
+     "intr_rate": 3.43,
+     "intr_rate2": 3.43
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.54,
-     "intr_rate2": 3.54
+     "intr_rate": 3.55,
+     "intr_rate2": 3.55
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.4,
-     "intr_rate2": 3.4
+     "intr_rate": 3.42,
+     "intr_rate2": 3.42
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.36,
-     "intr_rate2": 3.36
+     "intr_rate": 3.39,
+     "intr_rate2": 3.39
     }
    ],
-   "best_rate": 3.54,
-   "best_base_rate": 3.54,
+   "best_rate": 3.55,
+   "best_base_rate": 3.55,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85%EC%9D%80%ED%96%89%20IBK%EB%8D%94%EA%B5%B4%EB%A6%AC%EA%B8%B0%ED%86%B5%EC%9E%A5%28%EC%8B%A4%EC%84%B8%EA%B8%88%EB%A6%AC%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88%29",
    "first_seen": "2026-07-31",
@@ -3716,8 +3716,8 @@
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.47,
-     "intr_rate2": 3.47
+     "intr_rate": 3.48,
+     "intr_rate2": 3.48
     },
     {
      "save_trm": 12,
@@ -4622,95 +4622,79 @@
  ],
  "news": [
   {
-   "title": "OK저축은행, 최고 연 15% ‘OK마이펫적금’ 출시…33일 만기 - 소셜밸류",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QZ09sUEJyVGhDYVNYZ09sb0ZzRDFUUWN6MmJXSkNSOFdGeGlvTVloSEs4SUlvSC1DMFk1Z2RZQXRlclZ5ZHNnT3VnTUNWa3NqOXlTOGlpTDlZbDJxeTJjYkYzRdIBbEFVX3lxTE9iY0w3Y25DcDdSZ214QjM4RVl5QkE3Q3Z3ZGVCZGxnOW9lTG91SkxmeFZLZFY1Z2tBcFhKVC03NXlfcW8tajVpS2FVUUpzTlh0NXRITU9hUmc1dkxZZjZFTVlqc3pGaTVVY19faw?oc=5",
-   "source": "소셜밸류",
+   "title": "OK저축은행, 반려동물 콘셉트 일적금 출시…최고 연 15% 금리 - 에너지경제신문",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtVmVJd0FCT3dwVWxkS1dER3BWWkFvZGdLREwzemcxS2hKQ3owVFNhcW9ub1JSYVVfeEJ6NVJXeWJkX21WX0x4SE41X0JHS1JnNHo5b2Q1eThmWTA?oc=5",
+   "source": "에너지경제신문",
    "date": "2026-10-23"
   },
   {
-   "title": "\"33일간 랜선 집사 돼볼까\"…OK저축은행, 최고 연 15% 펫적금 출시 - 뉴스웍스",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HcXhCRUp6TzJlLURFb29qVzFQVndpQTlkdmxTdEswSktxTEZNVUg1SkxYbFRhemg1ZWVTc0tjNjktMjlRNmZ1OEc1T05QLWZBbFl0dnVPZDhqaTdvSHFqc1FIbGtaUjZMcVUxN1lqRdIBc0FVX3lxTFBFUzJGbDZPYlIwcG5jTWNpOUhnOWJRNE1KV0hKUUt4bGphVllWWFQtbHAzWVFvQi0yTldscjR1WlVveUhEZU9pRHlkLWhYLWsxeUJ2dEVOV0tnUEJiMkpzZXNJU3FsN2VMQ2JkdF9tcW9Ub2s?oc=5",
-   "source": "뉴스웍스",
+   "title": "OK저축銀 ‘OK마이펫적금’ 출시…날마다 쌓는 재미 - 스트레이트뉴스",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5mT3JZYXR6RWc0a3BsMjB0RVRxekdXc180YWtVY2s2bGtEemluMzhVSmFBTjQ0NF9pSFlsWkp4aEZRVHZObzRIQkxzWkFONkw1LUNBUWNuS0EzbENmTFV4dHFIcDZaWV9TSlktVjdqanBKZlk?oc=5",
+   "source": "스트레이트뉴스",
    "date": "2026-10-23"
   },
   {
-   "title": "OK저축은행, 반려동물 콘셉트 일적금 'OK마이펫적금' 출시…최고 연 15% 금리 - 오늘경제",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1VjhGNmJvQUxrSmpsay1VWm90T1VuZUM5aVdaYmxjWmxRbHU5WXNvMzE1WHVuRXlhWlFSRURONmpudnJzYTFDN3dzVVF0ZDVwZ1NWVmVpSTI3U1NSWnBzN1pRTUxXTldiN1lCZjJqbWt1ODQ?oc=5",
-   "source": "오늘경제",
+   "title": "OK저축은행, 최고 연 15% 금리 제공...'OK마이펫적금' 출시 - 뉴스핌",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pQS1PYl9qMjIyVDZIV3d6V3RpTnZOOUhOaG5JZXktMDlwRzAzZE5PdUs3eEkyTnlrYXRKT2N0ZnpBUmtULVJxYzY5d2dNeEJjNE1YcWJpZnlhd2tU?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-10-23"
+  },
+  {
+   "title": "OK저축은행 'OK마이펫적금' 출시…최고 연 15% 금리 - 중소기업신문",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CdzM1UFRRenJpeGYyVElaSGZJTFJnc20zRzljaHFJN0ZDbEp5OEU4VFR4cnBkWk5Xc0ZlZldYc0xNRklKRENWN2t4emk0TnY5UldMeW43cmg4STdJbktMc0RSOWxTbEdaYW5PaQ?oc=5",
+   "source": "중소기업신문",
+   "date": "2026-10-23"
+  },
+  {
+   "title": "OK저축은행, 최고 연 15% ‘OK마이펫적금’ 출시 [코주부] - 서울경제",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jVWNJN0pqM3JyWjdVYkw5N0FLLTUtTHVGOWZ5NFQyYnFwc0k5bU40ejhFMVhieFdDV25rTVljOGFIalRXdUdGanlQZzhkY014TXfSAVNBVV95cUxOdzFGX1pfYlYwVnZ5RktkT1ltUWxBQ0FpSDNCUjZGSHdpc2VjZGV4RzRGSjZkTzA5bk5paEpXOXRhaEVrSDNsQ2F0STZmaEVVTUlqSQ?oc=5",
+   "source": "서울경제",
+   "date": "2026-10-23"
+  },
+  {
+   "title": "OK저축은행, 반려동물 콘셉트 일적금 'OK마이펫적금' 출시…최고 연 15% 금리 - 전자신문",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBLQWc3eVlFMGNzN1QteFp0ajFvQVhLZF9RX2FiMzlxeUFHdzlxeEc1aEJWeFktYkNEMk8zQ0dzd3pfVjlORFRrU0xRZ0dCdw?oc=5",
+   "source": "전자신문",
+   "date": "2026-10-23"
+  },
+  {
+   "title": "OK저축은행, 최고 연 15% 금리 ‘마이펫적금’ 출시…33일간 매일 1만원 납입 - 하이뉴스",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5fSzhhMFVrdUxzMWN6MVRHZ1RDVDlPdFc2QkduSl85UFJvWFpTTWNEMnVIaTZZc1hxWlhHWW1HWEtlTEF4NzAxSjJCT0VTaFQwZlJjQTBNaXRnSFlGQ3dhNWE2blJtVng1SDNPclpKem12dG1NcGdv?oc=5",
+   "source": "하이뉴스",
+   "date": "2026-10-23"
+  },
+  {
+   "title": "OK저축은행, 하루 1만원 ‘펫 키우는 적금’ 출시 - 한스경제",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zTTlJMnEteUlPaHpXNVRYdVJBbTFSbGEyeEtMdVozek1zMUNrQl9EdWxlaEI3XzFjWW5CVFFwRk9FX0xBWTA0blE1QTNwUWp0UGZHUElTUGV5d1IwUjJ2LTh3Rlh4Zno5TmRSLQ?oc=5",
+   "source": "한스경제",
    "date": "2026-10-23"
   },
   {
    "title": "OK저축은행, 33일간 1만원씩 납입 '마이펫적금' 출시 - 뉴시스",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOdl9kZlVQdll3VHRZc1J2QVhpUmVGaUdiQWJMTnhoYVBRSWJPSUZIbVVKVk50eDk1cjRFdXlUbnBVOS1CSjd6bFB5MnVrSTV2czRGclE1dmgwazd5OXVvcNIBeEFVX3lxTE8xMUI5SWV5RTZRUWpvVUE2S0tza2NUMVJLOUQ0V0pmcXNlSjZUWmVtcm9WWFl0Vmd4OS02anNLWW9FYmgyS0JXZVp0dTVqcjFjbWQ4NHpQcWRqcUh5RmhsVUNTM2taVjNVVm9ReENIUEUxd2I2ZHlobw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xMUI5SWV5RTZRUWpvVUE2S0tza2NUMVJLOUQ0V0pmcXNlSjZUWmVtcm9WWFl0Vmd4OS02anNLWW9FYmgyS0JXZVp0dTVqcjFjbWQ4NHpQcWRqcUh5RmhsVUNTM2taVjNVVm9ReENIUEUxd2I2ZHlob9IBeEFVX3lxTE8xMUI5SWV5RTZRUWpvVUE2S0tza2NUMVJLOUQ0V0pmcXNlSjZUWmVtcm9WWFl0Vmd4OS02anNLWW9FYmgyS0JXZVp0dTVqcjFjbWQ4NHpQcWRqcUh5RmhsVUNTM2taVjNVVm9ReENIUEUxd2I2ZHlobw?oc=5",
    "source": "뉴시스",
    "date": "2026-10-23"
   },
   {
-   "title": "OK저축은행, 반려동물 콘셉트 ‘OK마이펫적금’ 출시 - 이코노뉴스",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SQ0ZVRzlKN203Mm5acFFJZjZnVml4c3prVEpLREpWTmhoamJteDd2YjN0ekpZQ25QVW5xaTRzMDhMU29QZURvcnBfVEVNa3o3RU5rWTNsWUZzSU13QjF0WGwyN0d6M0xVX1VjWVdoVQ?oc=5",
-   "source": "이코노뉴스",
+   "title": "OK저축은행, 33일 만기 ‘마이펫적금’ 출시…최고 연 15% - 파이낸셜투데이",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MZHlOWVZ2ZGQ5cXpzUTAxSU1mUU1vb016NndJdTJaYmsxQWx1S0tfT0F1ZG56OVVSaEhzOEUxbzc5bDlOcGNKUE5qc29FS1ZnSGt1WktNMEN1MVpXTFpyZF85OUZCdGhCSEc00gFuQVVfeXFMTjZMUE54TWE2VTFuNTkwTVVBSzFuWGJMUVc4SmdlMVZFQ0RRV0dWdHdpSFNydFJwUnFhMVhIeHFIdndZNlFwNFhuTDF6MDF2THBPSG5peXMtbDVrR29FZkNaX1VRa3FoMkh2WFFDS0E?oc=5",
+   "source": "파이낸셜투데이",
    "date": "2026-10-23"
   },
   {
-   "title": "OK저축은행, 최고 연 15% ‘OK마이펫적금’ 출시 - 이투데이",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tVWNhSnBWRkM1M1lSMGV2cENkb1NCdG5KODl4NFZVSjJyNWtydmoyYTF1MEVVVU1xNDBrdm1fcDZlSWNCU1hJMG9iVFExY191RG8xTUdDNG1fcWR1b191aHdSVngxUHIzRWpKQ3U5MTdUcFhk?oc=5",
-   "source": "이투데이",
+   "title": "OK저축은행, 최고 연 15% 단기 적금 ‘마이펫적금’ 출시 - 핀포인트뉴스",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBBM21ZSkVFUkNzX2lEeHBLUm5zVEVyaFVnZlZhVUN0RFhKc29IanExTGhCSUVNaG1nejNKdUpiUEdwc3pnWElQTE9pVXRtNnJXbDYzTGtJWHBfNmxzWk0tYVVxWGY0S2lyTERFc3BiQkw2MEJobnVZ0gF3QVVfeXFMUEEzbVlKRUVSQ3NfaUR4cEtSbnNURXJoVWdmVmFVQ3REWEpzb0hqcTFMaEJJRU1obWd6M0p1SmJQR3BzemdYSVBMT2lVdG02cldsNjNMa0lYcF82bHNaTS1hVXFYZjRLaXJMREVzcGJCTDYwQmhudVk?oc=5",
+   "source": "핀포인트뉴스",
    "date": "2026-10-23"
   },
   {
-   "title": "OK저축은행, 매일 1만원 넣고 펫 키운다…연 15% 적금 출시 - 스포츠한국",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GQmtRZjFSYUdHdXBZU25CelNKUUlnZUwwVUhnSWIweEJSTjVxUnd4MkFCN2lKa3ZRZmRYWFNtZVlBOVVuSUdVcmF6Rzl5YUN2N0RqeEJFd0QtQzZqNzZ2ZVdWTGtWc2F6aFNJWEpiQnDSAXRBVV95cUxQTzIzMVVXZWVqWDZyQlVwaDU0eE1HMllpeWNXbDRhZmtoeHZ0ck93Mm9CRlVySExza1ZBdUhCSGVHRlZiMC02ZkNUeVFKT3RXSVliQ3ZUZ3pESWJhQzNPQ1pMTERCRTdEWFkwR1ZXeklHMGRnTQ?oc=5",
-   "source": "스포츠한국",
+   "title": "OK저축은행, 최고 연 15% 'OK마이펫적금' 출시…33일간 매일 1만 원 저축 - 이코노미사이언스",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvRTNjQzNIWXVMZmNUalpGcVNnWFgySjRBNVhYTl9mZHRTc3Zoa0FHanNYWXRsaGZLWUF2Y3JOelMxMmFCV1dSV2dZRk1iYV91MHFBbkJLaFhxTnM5MXJOTHh2bEQ3alVQQ0xqS1dSQQ?oc=5",
+   "source": "이코노미사이언스",
    "date": "2026-10-23"
-  },
-  {
-   "title": "제주은행, ‘제주 상생포용적금’ 출시…연 7% 금리 적용 - 미디어제주",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NSWYybHpUaGN6WlR4OXBKWElGSkFOWnBBRS1QZGh3bWNOUDRFYUxqV2xOa2FYN1hpXzFYTE5JSjFVeXlrbFVWOVJqSE83S29pLTgweEVuOExuTkhUNldiNDE3WWtoM0FuOWFSbtIBcEFVX3lxTE5HUWY5V3ZRbEw0RTNGTXQ0T1V2VXZQR1M2ajVXTEc2T0xrUmhCNFBzVmE4NGxGSmV2M3dfdzhKOXVycGV1a1dxNmZTQ3V0MlJKem1vcTBTaDh3S21IRHV0VFJqY0dJcjNrcVVqVml3UkM?oc=5",
-   "source": "미디어제주",
-   "date": "2026-10-22"
-  },
-  {
-   "title": "제주은행, ‘제주 상생포용적금’ 출시 - 뉴스N제주",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ET3h6V3U4TmNOMEhlc29tcWdTUmVjdVRfZUFLVEI5Y19HM2toZnBYMV9VRUp2SGVaTDFTR3ptVl9wSXB6aEdxeXdRWVNaRFdOSFlCdU5WSTVLT2JsOG1ZQkJ3NHd1SE5Nb1hpNg?oc=5",
-   "source": "뉴스N제주",
-   "date": "2026-10-21"
-  },
-  {
-   "title": "1.1.1. 제주은행, ‘제주 상생포용적금’ 출시 - 일간제주",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YTElnVHFNWkszdC1VLTA0ZU1DZ1ZYVFVrNGhwczdvdEExWjVja1NmMWIxblJCbDVvbXFUcy1iX1Y5dUZWLUQ5cFA5cnNrd1U4SHdwWXYwNWRFcF84MVBPT2c5R1ZtZUMtenAw?oc=5",
-   "source": "일간제주",
-   "date": "2026-10-20"
-  },
-  {
-   "title": "제주은행, '연 7%+납입액 지원' 제주 상생포용적금 출시 - 헤드라인제주",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80WS1tSUVqeW01YjVHQlE0TVFwMTRkeFI3ekV3bVdLOXdBNDl2R2tzR2RSUW5PR2NqdkxZZDdIYzUwbzlMUWFQVnU4dEgtaVZ1Y2JpWVhzNjI1V0E4OHY3NEJMejc3Um9NRm5MVjNsaW0wODQ?oc=5",
-   "source": "헤드라인제주",
-   "date": "2026-10-20"
-  },
-  {
-   "title": "제주은행, ‘제주 상생포용적금’ 출시 - 제주매일",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wbmNCYV9LLU40QjBBMjRxczNaeTdINHl1MVBxZFh1UjVPUGZsV05EakJmUmJ4a1hsUVZMYV9ZOFpjU1VDMEh2SkZHMUlkQnV3NllCdHU1MElueGF5MW9jdWY2YlpobDhSS2ZubA?oc=5",
-   "source": "제주매일",
-   "date": "2026-10-20"
   }
  ],
  "news_seen": [
-  "a93518a7665c2663",
-  "cd8a2596bfc78965",
-  "9e70c751df1f3fc4",
-  "5a6d2c9440ccf8d0",
-  "53006ed82bfb3a48",
-  "614878fb354e7768",
-  "bd0103d8b286c9c5",
-  "7d6fb8ea01107ce5",
-  "346c2df7687e8f20",
-  "1b4472f6b8118762",
-  "b492163013dead5c",
-  "9f714d193dd1580b",
-  "79a481f9be3b9137",
-  "1d2174559f4fbdc1",
-  "86ce0e94eb872f93",
-  "3b9eca8f5638f9b2",
   "99c0e13b59870725",
   "68247e4d1544ee5f",
   "9453fa913fda0649",
@@ -5494,7 +5478,23 @@
   "203a5ddff10cb0ff",
   "e95e69eed536f784",
   "dc93ae2269bae1a0",
-  "dea5aaa33b85eb6f"
+  "dea5aaa33b85eb6f",
+  "6c0a087e00cba268",
+  "d9deec3584c767f0",
+  "5f36ee41e6664e72",
+  "2b064a111097ce36",
+  "0d5ca0694d9ac3c5",
+  "1d3f9ea773247832",
+  "b151b1a4ae6a03cb",
+  "76c9169562b15e8a",
+  "63263f309c6c4262",
+  "3805d6f5ece25ecd",
+  "f3b6ffc833593957",
+  "84d1dd7326f075cd",
+  "16bd292f34e62c12",
+  "59e4a0b1aac88c04",
+  "dcf0bf6ac552623a",
+  "3423a79f0794a6b4"
  ],
  "news_seeded": true,
  "news_products": [
@@ -5504,7 +5504,7 @@
    "norm": "상생포용적금",
    "rate": 7.0,
    "first_news": "2026-10-20",
-   "count": 6,
+   "count": 8,
    "articles": [
     {
      "title": "제주은행, '연 7%+납입액 지원' 제주 상생포용적금 출시 - 헤드라인제주",
