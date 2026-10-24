@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24 09:26",
+ "updated_at": "2026-10-24 14:37",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -4622,6 +4622,18 @@
  ],
  "news": [
   {
+   "title": "OK저축은행, 반려동물 콘셉트 일적금 'OK마이펫적금' 출시…최고 연 15% 금리 - 리버티코리아포스트",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rNWd0ZkwzbVFFSUlDcDBqYVNwQjVfeXFFR1R4XzdCenJZQnNCWUxaTVE5QUt0NHl5bVVmTEZpUXNPUDdoel9QU2ttb190eEFGanJSdnlndnlMOG1ab0xzZFAyYjJpYkXSAWdBVV95cUxPazVndGZMM21RRUlJQ3AwamFTcEI1X3lxRUdUeF83QnpyWUJzQllMWk1ROUFLdDR5eW1VZkxGaVFzT1A3aHpfUFNrbW9fdHhBRmpyUnZ5Z3Z5TDhtWm9Mc2RQMmIyaWJF?oc=5",
+   "source": "리버티코리아포스트",
+   "date": "2026-10-23"
+  },
+  {
+   "title": "OK저축은행, 하루 1만원 ‘펫 키우는 적금’ 출시 - 한스경제",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RcnByRXpUa3BBVTdzWGV5alA5ZC1XYjNvWHFDUkNhUmdzS1NsVm5hZzFvTG8yOEthcjdzMTdYY29HTXpBMndiVE5hakF6b1czSW1KWU40N1BJRE5JN1BZUjZGMWt1aW5zN0w4?oc=5",
+   "source": "한스경제",
+   "date": "2026-10-23"
+  },
+  {
    "title": "OK저축은행, 반려동물 콘셉트 'OK마이펫적금' 출시…최고 연 15% - FETV",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XckZrWjhwa2lGam51OFlBX3huMmtHZldBajJ4WmZLMnQtOHlFZjNqS3FYcm0ySGhOTWxXVFdnNmlqQTJEdmdXZkVvVUpuUFcwYTU1STlBN3FSRjgtcDk5NGxEUDVFbXhB?oc=5",
    "source": "FETV",
@@ -4680,23 +4692,9 @@
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OekhKZVdnTU9CZFVkclN1bkhoNDhvUzVHUXFyaG4wTG85ZTRDbTFvbnhLZEx6S1g2Q3drOFptSVJmbzU3SWY3Rkwtd0xQMFJ5WXB5dk5wdkdSNWo4S0dabm5rUE5Sb1p3UHRpYThR?oc=5",
    "source": "일요경제",
    "date": "2026-10-23"
-  },
-  {
-   "title": "OK저축은행, 반려동물 콘셉트 일적금 출시…최고 연 15% 금리 - 에너지경제신문",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtVmVJd0FCT3dwVWxkS1dER3BWWkFvZGdLREwzemcxS2hKQ3owVFNhcW9ub1JSYVVfeEJ6NVJXeWJkX21WX0x4SE41X0JHS1JnNHo5b2Q1eThmWTA?oc=5",
-   "source": "에너지경제신문",
-   "date": "2026-10-23"
-  },
-  {
-   "title": "OK저축銀 ‘OK마이펫적금’ 출시…날마다 쌓는 재미 - 스트레이트뉴스",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5mT3JZYXR6RWc0a3BsMjB0RVRxekdXc180YWtVY2s2bGtEemluMzhVSmFBTjQ0NF9pSFlsWkp4aEZRVHZObzRIQkxzWkFONkw1LUNBUWNuS0EzbENmTFV4dHFIcDZaWV9TSlktVjdqanBKZlk?oc=5",
-   "source": "스트레이트뉴스",
-   "date": "2026-10-23"
   }
  ],
  "news_seen": [
-  "3381efaf882535f1",
-  "832a42d3faff8dff",
   "5b43f3c8a166e099",
   "80d0dec3d00b7533",
   "471a7c6309984c2e",
@@ -5494,7 +5492,9 @@
   "724fd018ebdb4809",
   "3907fc7bf28e63cc",
   "20b1732a35048912",
-  "db17256bd42978b0"
+  "db17256bd42978b0",
+  "8ba99b46063d6129",
+  "f5657cc7784be1ea"
  ],
  "news_seeded": true,
  "news_products": [
