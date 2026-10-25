@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25 09:59",
+ "updated_at": "2026-10-25 14:52",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -4622,6 +4622,12 @@
  ],
  "news": [
   {
+   "title": "OK저축은행, 33일 만기 단기 적금 'OK마이펫' 출시...최고 연 15% 금리 - 아시아에이",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrN0F2U0FiUTltTHlSZ0JLMjFQYTFEWWVBeVJGcV93MUswa3JLcUxubFJra2ZsZGtvUExtSXpmV2djVDlaTThCZG82d3U3c0xzcThQWFVQMDVObWFnUTY4WVMwYUNDX2VxMGfSAW5BVV95cUxQVWlHMHlwcE1GRmUtRndRckVEQVY4azZHTHozMER4bXA0RmZ5WGEyQXA5RFNFT05iNzdUV3NkX2ltZ1VvWGx2ZUsyRHNjRmpFa3oxb0NpbG5HcWdBMm9nbWIzcEhRYlpGZzhYZWZoUQ?oc=5",
+   "source": "아시아에이",
+   "date": "2026-10-25"
+  },
+  {
    "title": "\"OK마이펫적금이란? OK저축은행 33일 일적금 출시…우대 조건 모두 채우면 최고 연 15%\" - 창업일보",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HZ05DRUFCUmRLUGZfQUlsVm9uXzFkNFB2dU1KbFN0RGZVV0o2Ym80b212TlFZMnZvaXNfaDRvWlVlM3RSOTZqRzFuVW1EcnoxRXBqU0c5V0drbWRUQnBudkxaNWtVa1RN?oc=5",
    "source": "창업일보",
@@ -4686,16 +4692,9 @@
    "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPY3pnZF9jTDgxU0tFMHpQYUFYc01LaklnbXZFNU9kZFFfV1ZXTVQwd3VzdWU3WUJuOUNqbWUxX3p4MXo3dVlTajNlaFI1d244b0pnUUUteFJzZktNRlhoN0N5RUdlcXdFUUNsQ09kM0tyYzBsZHlWMlZfWEZxTU83YjNENGpvV3RrMGJkejFTU3B3OU5vTTRUTjJCTFQzTVY5akd2d3JrdjY4UzMzbnpnYW16QWhJZW9YRjBYellKbmxFVFBSeDRhMnFzRVFXb1ZacUpoRHlrYkdCVTJjWG5oTDY5eDZTaGtTQmJBZVJHRVNVNXhkUjNWRzBSbkNVaE5lYS1NZS1vQU5JVXFOOWFHQWQzYkNMNGNz?oc=5",
    "source": "데일리안",
    "date": "2026-10-23"
-  },
-  {
-   "title": "OK저축은행, 반려가구 겨냥한 일적금 'OK마이펫적금' 출시 - 비즈트리뷴",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TNzhrM3psQks5S1ZmVTBsUTdabTRRRXRmQUE2MWVKVFBVbGhwZ0N2REs5TFpaLW01RXM4YVoxQWRGZEpvU1o4alppbjhWQVhDZ3lyQmJxdGdGZVV1ME5YeXNiRDRFSmNTc01QUGV1dlQ?oc=5",
-   "source": "비즈트리뷴",
-   "date": "2026-10-23"
   }
  ],
  "news_seen": [
-  "80d0dec3d00b7533",
   "471a7c6309984c2e",
   "367fd49f335ebbce",
   "6c4bc5b6b3cb37c1",
@@ -5494,7 +5493,8 @@
   "db17256bd42978b0",
   "8ba99b46063d6129",
   "f5657cc7784be1ea",
-  "1dc0180c62d30ce2"
+  "1dc0180c62d30ce2",
+  "c2ce443c49b13465"
  ],
  "news_seeded": true,
  "news_products": [
