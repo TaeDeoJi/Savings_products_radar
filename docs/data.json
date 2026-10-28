@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29 03:44",
+ "updated_at": "2026-10-29 08:04",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -4622,6 +4622,12 @@
  ],
  "news": [
   {
+   "title": "\"연 26% 적금 나왔어요\" 몸부림 치는 저축은행, 불붙은 '고금리 적금' 특판 | - www.nanamcom.co.kr",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2WUxaLVhGM2RNb1lQeTd0Q0JBT0FpM1g3djRqdWlGMktpTHdlZWZYUzB2U3NTbjNmUjBkRFJELVdEZEFvTnFuNG9FSkh2Qmlhcll5TDZRa0lUWnJsczgtRGgwYzBlNzBaaElfM1FCWVE?oc=5",
+   "source": "www.nanamcom.co.kr",
+   "date": "2026-10-27"
+  },
+  {
    "title": "예가람저축은행, 최고 15% '핑크스파이더스 V6 적금' 출시 - 뉴시스",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IQldyaE43Ym9uVDJGcVE1NFBIbW1TaTBOeW00alBjbGtlQjdPLUNiZ0RYVFlPMXZEb3RyRy1ORnUwVzBZUWhaWkxndjJjU1RxNlVvbVA0VlNqZFdxZXlCbUVZenBmTXh2V2xJeERnN051QUc2ek5NQdIBeEFVX3lxTE5IQldyaE43Ym9uVDJGcVE1NFBIbW1TaTBOeW00alBjbGtlQjdPLUNiZ0RYVFlPMXZEb3RyRy1ORnUwVzBZUWhaWkxndjJjU1RxNlVvbVA0VlNqZFdxZXlCbUVZenBmTXh2V2xJeERnN051QUc2ek5NQQ?oc=5",
    "source": "뉴시스",
@@ -4686,16 +4692,9 @@
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9McC15V05LTjRxNmNNZTZjU0RCWlNDMm1FeEhFWm1YNUV4cTdNXzY0VmRyVXhNb2dVbDhLUG52ZzJPc1lhM3ptODJkbmtleXRyWllWRUVROUt1MHFkVF9HNi1hTjNSY05iSzM4M1ZvTXg0TTDSAXdBVV95cUxQQTNtWUpFRVJDc19pRHhwS1Juc1RFcmhVZ2ZWYVVDdERYSnNvSGpxMUxoQklFTWhtZ3ozSnVKYlBHcHN6Z1hJUExPaVV0bTZyV2w2M0xrSVhwXzZsc1pNLWFVcVhmNEtpckxERXNwYkJMNjBCaG51WQ?oc=5",
    "source": "핀포인트뉴스",
    "date": "2026-10-23"
-  },
-  {
-   "title": "OK저축은행, 33일 만기 단기 적금 'OK마이펫' 출시...최고 연 15% 금리 - 아시아에이",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrN0F2U0FiUTltTHlSZ0JLMjFQYTFEWWVBeVJGcV93MUswa3JLcUxubFJra2ZsZGtvUExtSXpmV2djVDlaTThCZG82d3U3c0xzcThQWFVQMDVObWFnUTY4WVMwYUNDX2VxMGfSAW5BVV95cUxQVWlHMHlwcE1GRmUtRndRckVEQVY4azZHTHozMER4bXA0RmZ5WGEyQXA5RFNFT05iNzdUV3NkX2ltZ1VvWGx2ZUsyRHNjRmpFa3oxb0NpbG5HcWdBMm9nbWIzcEhRYlpGZzhYZWZoUQ?oc=5",
-   "source": "아시아에이",
-   "date": "2026-10-25"
   }
  ],
  "news_seen": [
-  "9a6f9af49cabaf9c",
   "2cd889d64f2cb20f",
   "4e00ae849412c8b9",
   "6c3b4e4e58e9ecaf",
@@ -5494,7 +5493,8 @@
   "bb22b54f6757f388",
   "34b69bbdd13b72d1",
   "d76d29344aecb3c6",
-  "fce990f33de54679"
+  "fce990f33de54679",
+  "7bbe6a978b1e5eb9"
  ],
  "news_seeded": true,
  "news_products": [
