@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29 11:19",
+ "updated_at": "2026-10-29 18:44",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -1698,8 +1698,8 @@
      "save_trm": 12,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.26,
-     "intr_rate2": 4.06
+     "intr_rate": 3.28,
+     "intr_rate2": 4.08
     },
     {
      "save_trm": 24,
@@ -1716,8 +1716,8 @@
      "intr_rate2": 3.5
     }
    ],
-   "best_rate": 4.06,
-   "best_base_rate": 3.26,
+   "best_rate": 4.08,
+   "best_base_rate": 3.28,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EB%86%8D%ED%98%91%EC%9D%80%ED%96%89%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20NH%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%9B%94%EB%B3%B5%EB%A6%AC%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -2075,7 +2075,7 @@
    "join_way": "영업점,인터넷,스마트폰",
    "join_member": "실명의 개인",
    "join_deny": "1",
-   "spcl_cnd": "* 최대우대금리:0.5%\n1. 해양플라스틱감축서약 : 0.1% (신규시) \n2. 봉사활동 또는 상품홍보 : 0.2% (만기시) \n3. 입출금통장 최초신규 : 0.2% (만기시)\n4. 자동이체 출금실적 : 0.2% (만기시)\n - 수협신용카드 / 당행 펀드 / 수협체크카드",
+   "spcl_cnd": "* 최대우대금리:0.6%\n1. 해양플라스틱감축서약 : 0.1% (신규시) \n2. 해양환경 퀴즈 미션 : 0.2% (만기시) \n3. 입출금통장 최초신규 : 0.3% (만기시)\n4. 자동이체 출금실적 : 0.3% (만기시)\n - 수협신용카드 / 당행 펀드 / 수협체크카드",
    "mtrt_int": "* 만기후 \n-1년 이내:만기일 당시 계약기간에 해당하는  정기적금 기본금리의 1/2\n-1개월 초과 ~ 3개월 이내:만기일 당시 계약기간에 해당하는 정기적금 기본금리의 1/4\n-3개월 초과:만기일 당시 보통예금 기본금리",
    "max_limit": 1000000,
    "etc_note": "- 1인 1계좌 \n- 월 가입한도 : 100만원",
@@ -2085,24 +2085,24 @@
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
      "intr_rate": 3.5,
-     "intr_rate2": 4.0
+     "intr_rate2": 4.1
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
      "intr_rate": 3.0,
-     "intr_rate2": 3.5
+     "intr_rate2": 3.6
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
      "intr_rate": 3.3,
-     "intr_rate2": 3.8
+     "intr_rate2": 3.9
     }
    ],
-   "best_rate": 4.0,
+   "best_rate": 4.1,
    "best_base_rate": 3.5,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%88%98%ED%98%91%EC%9D%80%ED%96%89%20Sh%ED%95%B4%EC%96%91%ED%94%8C%EB%9D%BC%EC%8A%A4%ED%8B%B1Zero%21%EC%A0%81%EA%B8%88%0A%28%EC%A0%95%EC%95%A1%EC%A0%81%EB%A6%BD%EC%8B%9D%29",
@@ -2197,7 +2197,7 @@
    "join_way": "영업점,인터넷,스마트폰",
    "join_member": "실명의 개인",
    "join_deny": "1",
-   "spcl_cnd": "* 최대우대금리:0.5%\n1. 해양플라스틱감축서약 : 0.1% (신규시) \n2. 봉사활동 또는 상품홍보 : 0.2% (만기시) \n3. 입출금통장 최초신규 : 0.2% (만기시)\n4. 자동이체 출금실적 : 0.2% (만기시)\n - 수협신용카드 / 당행 펀드 / 수협체크카드",
+   "spcl_cnd": "* 최대우대금리:0.6%\n1. 해양플라스틱감축서약 : 0.1% (신규시) \n2. 해양환경 퀴즈미션 : 0.2% (만기시) \n3. 입출금통장 최초신규 : 0.3% (만기시)\n4. 자동이체 출금실적 : 0.3% (만기시)\n - 수협신용카드 / 당행 펀드 / 수협체크카드",
    "mtrt_int": "* 만기후 \n-1년 이내:만기일 당시 계약기간에 해당하는  상호부금 기본금리의 1/2\n-1개월 초과 ~ 3개월 이내:만기일 당시 계약기간에 해당하는 상호부금 기본금리의 1/4\n-3개월 초과:만기일 당시 보통예금 기본금리",
    "max_limit": 200000,
    "etc_note": "- 1인 1계좌 \n- 월 가입한도 : 20만원",
@@ -2207,24 +2207,24 @@
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
      "intr_rate": 3.65,
-     "intr_rate2": 4.15
+     "intr_rate2": 4.25
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
      "intr_rate": 2.85,
-     "intr_rate2": 3.35
+     "intr_rate2": 3.45
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
      "intr_rate": 2.85,
-     "intr_rate2": 3.35
+     "intr_rate2": 3.45
     }
    ],
-   "best_rate": 4.15,
+   "best_rate": 4.25,
    "best_base_rate": 3.65,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%88%98%ED%98%91%EC%9D%80%ED%96%89%20Sh%ED%95%B4%EC%96%91%ED%94%8C%EB%9D%BC%EC%8A%A4%ED%8B%B1Zero%21%EC%A0%81%EA%B8%88%0A%28%EC%9E%90%EC%9C%A0%EC%A0%81%EB%A6%BD%EC%8B%9D%29",
@@ -2285,33 +2285,33 @@
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.6,
-     "intr_rate2": 3.8
+     "intr_rate": 3.7,
+     "intr_rate2": 3.9
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.75,
-     "intr_rate2": 3.95
+     "intr_rate": 3.85,
+     "intr_rate2": 4.05
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.1,
-     "intr_rate2": 3.3
+     "intr_rate": 3.2,
+     "intr_rate2": 3.4
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.1,
-     "intr_rate2": 3.3
+     "intr_rate": 3.2,
+     "intr_rate2": 3.4
     }
    ],
-   "best_rate": 3.95,
-   "best_base_rate": 3.75,
+   "best_rate": 4.05,
+   "best_base_rate": 3.85,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B1%85%ED%81%AC%20%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B1%85%ED%81%AC%20%EC%9E%90%EC%9C%A0%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -2980,26 +2980,26 @@
      "save_trm": 12,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.34,
-     "intr_rate2": 3.54
+     "intr_rate": 3.33,
+     "intr_rate2": 3.53
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.12,
-     "intr_rate2": 3.32
+     "intr_rate": 3.1,
+     "intr_rate2": 3.3
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.95,
-     "intr_rate2": 3.15
+     "intr_rate": 2.93,
+     "intr_rate2": 3.13
     }
    ],
-   "best_rate": 3.54,
-   "best_base_rate": 3.34,
+   "best_rate": 3.53,
+   "best_base_rate": 3.33,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%EC%9D%80%ED%96%89%20%EB%AF%B8%EC%A6%88%EC%9B%94%EB%B3%B5%EB%A6%AC%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88",
    "first_seen": "2026-07-31",
@@ -3030,40 +3030,40 @@
      "save_trm": 3,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.69,
-     "intr_rate2": 2.79
+     "intr_rate": 2.7,
+     "intr_rate2": 2.8
     },
     {
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.04,
-     "intr_rate2": 3.14
+     "intr_rate": 3.05,
+     "intr_rate2": 3.15
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.24,
-     "intr_rate2": 3.44
+     "intr_rate": 3.23,
+     "intr_rate2": 3.43
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.02,
-     "intr_rate2": 3.22
+     "intr_rate": 3.0,
+     "intr_rate2": 3.2
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.85,
-     "intr_rate2": 3.05
+     "intr_rate": 2.83,
+     "intr_rate2": 3.03
     }
    ],
-   "best_rate": 3.44,
-   "best_base_rate": 3.24,
+   "best_rate": 3.43,
+   "best_base_rate": 3.23,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%EC%9D%80%ED%96%89%20%EC%8A%A4%EB%A7%88%ED%8A%B8%EB%AA%A8%EC%95%84Dream%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88",
    "first_seen": "2026-07-31",
@@ -3087,12 +3087,12 @@
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.24,
-     "intr_rate2": 3.74
+     "intr_rate": 3.23,
+     "intr_rate2": 3.73
     }
    ],
-   "best_rate": 3.74,
-   "best_base_rate": 3.24,
+   "best_rate": 3.73,
+   "best_base_rate": 3.23,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%EC%9D%80%ED%96%89%20%EA%B5%BF%EC%8A%A4%ED%83%80%ED%8A%B8%EC%98%88%EA%B8%88",
    "first_seen": "2026-07-31",
@@ -3652,33 +3652,33 @@
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.45,
-     "intr_rate2": 3.45
+     "intr_rate": 3.46,
+     "intr_rate2": 3.46
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.55,
-     "intr_rate2": 3.55
+     "intr_rate": 3.54,
+     "intr_rate2": 3.54
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.36,
-     "intr_rate2": 3.36
+     "intr_rate": 3.4,
+     "intr_rate2": 3.4
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.3,
-     "intr_rate2": 3.3
+     "intr_rate": 3.34,
+     "intr_rate2": 3.34
     }
    ],
-   "best_rate": 3.55,
-   "best_base_rate": 3.55,
+   "best_rate": 3.54,
+   "best_base_rate": 3.54,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85%EC%9D%80%ED%96%89%20IBK%EB%8D%94%EA%B5%B4%EB%A6%AC%EA%B8%B0%ED%86%B5%EC%9E%A5%28%EC%8B%A4%EC%84%B8%EA%B8%88%EB%A6%AC%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88%29",
    "first_seen": "2026-07-31",
@@ -3709,15 +3709,15 @@
      "save_trm": 3,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.09,
-     "intr_rate2": 3.09
+     "intr_rate": 3.1,
+     "intr_rate2": 3.1
     },
     {
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.5,
-     "intr_rate2": 3.5
+     "intr_rate": 3.51,
+     "intr_rate2": 3.51
     },
     {
      "save_trm": 12,
@@ -4349,7 +4349,7 @@
    "join_way": "영업점,인터넷,스마트폰",
    "join_member": "실명의 개인",
    "join_deny": "1",
-   "spcl_cnd": "* 최대우대금리:0.35%\n1. 해양플라스틱감축서약 : 0.1% (신규시) \n2. 봉사활동 또는 상품홍보 : 0.15% (만기시) \n3. 입출금통장 최초신규 : 0.1% (만기시)\n4. 자동이체 출금실적 : 0.1% (만기시)\n - 수협신용카드 / 당행 펀드 또는 적금 / 수협체크카드",
+   "spcl_cnd": "* 최대우대금리:0.45%\n1. 해양플라스틱감축서약 : 0.1% (신규시) \n2. 해양환경퀴즈미션 : 0.15% (만기시) \n3. 입출금통장 최초신규 : 0.2% (만기시)\n4. 자동이체 출금실적 : 0.2% (만기시)\n - 수협신용카드 / 당행 펀드 또는 적금 / 수협체크카드",
    "mtrt_int": "* 만기후 \n-1개월 이내: 만기당시 일반정기예금(월이자지급식) 계약기간별 기본금리 1/2\n-1개월초과~3개월 이내: 만기당시 일반정기예금(월이자지급식) 기본금리의 1/4\n- 3개월 초과: 만기당시 보통예금 기본금리",
    "max_limit": 500000000,
    "etc_note": "- 1인 다계좌 가능 \n  단,  합산금액 5억원 이내 \n- 최저 100만원 이상",
@@ -4359,17 +4359,17 @@
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
      "intr_rate": 3.3,
-     "intr_rate2": 3.65
+     "intr_rate2": 3.75
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
      "intr_rate": 3.46,
-     "intr_rate2": 3.81
+     "intr_rate2": 3.91
     }
    ],
-   "best_rate": 3.81,
+   "best_rate": 3.91,
    "best_base_rate": 3.46,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%88%98%ED%98%91%EC%9D%80%ED%96%89%20Sh%ED%95%B4%EC%96%91%ED%94%8C%EB%9D%BC%EC%8A%A4%ED%8B%B1Zero%21%EC%98%88%EA%B8%88%0A%28%EB%A7%8C%EA%B8%B0%EC%9D%BC%EC%8B%9C%EC%A7%80%EA%B8%89%EC%8B%9D%29",
@@ -4466,47 +4466,47 @@
      "save_trm": 1,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.0,
-     "intr_rate2": 3.0
+     "intr_rate": 3.1,
+     "intr_rate2": 3.1
     },
     {
      "save_trm": 3,
-     "intr_rate_type_nm": "단리",
-     "rsrv_type_nm": "",
-     "intr_rate": 3.4,
-     "intr_rate2": 3.4
-    },
-    {
-     "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
      "intr_rate": 3.5,
      "intr_rate2": 3.5
     },
     {
+     "save_trm": 6,
+     "intr_rate_type_nm": "단리",
+     "rsrv_type_nm": "",
+     "intr_rate": 3.6,
+     "intr_rate2": 3.6
+    },
+    {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.7,
-     "intr_rate2": 3.7
+     "intr_rate": 3.8,
+     "intr_rate2": 3.8
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.1,
-     "intr_rate2": 3.1
+     "intr_rate": 3.2,
+     "intr_rate2": 3.2
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.1,
-     "intr_rate2": 3.1
+     "intr_rate": 3.2,
+     "intr_rate2": 3.2
     }
    ],
-   "best_rate": 3.7,
-   "best_base_rate": 3.7,
+   "best_rate": 3.8,
+   "best_base_rate": 3.8,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B1%85%ED%81%AC%20%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B1%85%ED%81%AC%20%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88",
    "first_seen": "2026-07-31",
@@ -4622,6 +4622,30 @@
  ],
  "news": [
   {
+   "title": "BNK경남은행, 포춘쿠키 뽑으면 최고 연 11%...BNK 포춘 적금 출시 - 파이낸셜투데이",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uVjhIcVNFRkp6RnlUaTI1NHN4ZXcxQTVpUm9wNlZlSV9PdXdnM0t2Y1dGMTRlaEtEblY4cllUZDVyc3l4SkFXWjM3NVdnWkN3V2huNHJoLVNvNDBMWGZBNHNRbHVfN3IxaFM0eWd30gFuQVVfeXFMT25WOEhxU0VGSnpGeVRpMjU0c3hldzFBNWlSb3A2VmVJX091d2czS3ZjV0YxNGVoS0RuVjhyWVRkNXJzeXhKQVdaMzc1V2daQ3dXaG40cmgtU280MExYZkE0c1FsdV83cjFoUzR5Z3c?oc=5",
+   "source": "파이낸셜투데이",
+   "date": "2026-10-29"
+  },
+  {
+   "title": "BNK경남은행, ‘BNK 포춘 적금’ 특판…최고 연 11% 금리 - 글로벌경제신문",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SZVRXVXRRRTVpMzVpRllnX3lWb19rOExqNDZNdTNKMTVKU24waENGOUl6cnlJWEhHQ2NMeG5BQ1IzUlFEendCS0V0eXEyZ0ZBalFJSHV0VE9qU1pYeTY0bTE5bzV0ZGVGOElYWnFaU1fSAXBBVV95cUxPUmVUV1V0UUU1aTM1aUZZZ195Vm9fazhMajQ2TXUzSjE1SlNuMGhDRjlJenJ5SVhIR0NjTHhuQUNSM1JRRHp3QktFdHlxMmdGQWpRSUh1dFRPalNaWHk2NG0xOW81dGRlRjhJWFpxWlNX?oc=5",
+   "source": "글로벌경제신문",
+   "date": "2026-10-29"
+  },
+  {
+   "title": "BNK경남은행, 포춘쿠키 추첨형 적금 상품 선보여 - CNB뉴스",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5kTDBhV3kzUHZnNk5HS1ljV1ZvSEpFWXlBcGxUU0JKcWN0RnQtbGdXUEw1WWFmWkxvU3VERGY0cVE3U29hbUFoX2IxZHJ4V3VTQmpYSDM0Y1VwbF9pc3Z5Z243V2pVX09Ud3pB?oc=5",
+   "source": "CNB뉴스",
+   "date": "2026-10-29"
+  },
+  {
+   "title": "BNK경남은행, 'BNK 포춘 적금' 특판...최고 연 11% 금리 제공 - 일요경제",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jZlJVMkZINTF0MnZNaENZWVM4RXl2a29BVlloOXFCYm5zUFBLMXpyUFdaM1p1bUFmaFE3d2VXd3YyMEIxcmRkOXlQLVlMWXM5NTZOLWdzRWJDU1ZlRWp1QU9KZkh6c1FyUW5UZUhn?oc=5",
+   "source": "일요경제",
+   "date": "2026-10-29"
+  },
+  {
    "title": "Sh수협은행, ‘Sh해양플라스틱Zero!예·적금’ 등 해양특화 상품 2종 리뉴얼 출시 - 어업in수산",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpY0FPdTlGSU5YLWJja2pLUUJHa191c2t6WUpjSXozdlBpN3RxdVFFcEhRTjhWXzR1ZVNPVVIxUDJHNm55bTU1ZEZwR3hNQTZ3eWZBeFZCRWtIUDhTdTRPTGFSd19ESUp4T3FIdW9fMA?oc=5",
    "source": "어업in수산",
@@ -4668,37 +4692,9 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GRktSak95LVNsT1k3NTFWSGtvU0ExZEhZZ3RfNVgwNExtRUVPTXNnMU43THBXUG1wNHB2MlNhR18yM3YwQmNZUGRhT3BiMkdXYUtfWUJxY29fVzDSAWBBVV95cUxPQ18zSnJycFp1YTEyd2VtLURDYUE1MXdYbGpNOVR5T21zV3V6UWI1cXFjd0NyazE2TnZSbGdxTWloY1VMQ3FaMVEwdmVDekY5OXIyU0xuNnAtZEdmUmt3WVI?oc=5",
    "source": "연합뉴스",
    "date": "2026-10-26"
-  },
-  {
-   "title": "예가람저축은행, '핑크스파이더스 V6 적금' 출시…최고 연 15% - FETV",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiMDV0bmRZcWxuQWU2NnFabHVwdWpKNHpRTUtCeV8zZmJlLUhvWWUtQlBqcWlGQnF6bXFyeDd5SzhoTzdnVXhWVVJwNEZiUEdlZ01rQzFvOEJ2OWstVkVYNUhxdmxpTFlL?oc=5",
-   "source": "FETV",
-   "date": "2026-10-26"
-  },
-  {
-   "title": "예가람저축은행, 최고 15% '핑크스파이더스 V6 적금' 출시 - 뉴시스",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UOElER2FhUmlNajcyNWY4TGJfdlNja04yaXRtY1ZFMURlbkVRMWFLNHluVENCNXdoZHUteHdkV0RJLWNJVi1nY1N0U0pMRmxEWXRGUlVSdERNTXhsTEpUd9IBeEFVX3lxTE5IQldyaE43Ym9uVDJGcVE1NFBIbW1TaTBOeW00alBjbGtlQjdPLUNiZ0RYVFlPMXZEb3RyRy1ORnUwVzBZUWhaWkxndjJjU1RxNlVvbVA0VlNqZFdxZXlCbUVZenBmTXh2V2xJeERnN051QUc2ek5NQQ?oc=5",
-   "source": "뉴시스",
-   "date": "2026-10-26"
-  },
-  {
-   "title": "OK저축은행, 최고 연 15% ‘OK마이펫적금’ 출시 [코주부] - 서울경제",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jVWNJN0pqM3JyWjdVYkw5N0FLLTUtTHVGOWZ5NFQyYnFwc0k5bU40ejhFMVhieFdDV25rTVljOGFIalRXdUdGanlQZzhkY014TXc?oc=5",
-   "source": "서울경제",
-   "date": "2026-10-23"
-  },
-  {
-   "title": "OK저축은행, 최고 연 15% '마이펫적금' 출시 - 증권경제신문",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqY3hLSmF4LUtTanBMN01hRmlNc2JMRmYzbTR6NlBEcFFZUkVCNmV0Sm80NEVwZlhoVC1KTkhXeDdISnRvMVRJTnpYdkNqclBhYWVNaF93WmNlREhwV0ZIckhzZVZHeld1VGpyX2tfWFkxZ9IBdkFVX3lxTE5sU2NROW9jRzhFal9kcE5nUEtiWDgxT0JsMmhpR1ZZU1dMS2xhbksxdmdObE0wU204cHZYam1ESTZjV3BDYnE4eUNMaDhtOFVncWxxYVV3SzhrNkxIMTdGRUVpVERBd00ybEIyRWg1Q3U5MUFoX0E?oc=5",
-   "source": "증권경제신문",
-   "date": "2026-10-23"
   }
  ],
  "news_seen": [
-  "4e00ae849412c8b9",
-  "6c3b4e4e58e9ecaf",
-  "eb90f6ae25cea871",
-  "1a910a382db339fb",
   "bc7eec5a60469708",
   "68a88568220063d1",
   "b5cb30e3aef27684",
@@ -5494,7 +5490,11 @@
   "d76d29344aecb3c6",
   "fce990f33de54679",
   "7bbe6a978b1e5eb9",
-  "cf413df9453c1415"
+  "cf413df9453c1415",
+  "2eb683e1faf10197",
+  "3bc3fbd169261f3d",
+  "4a6724436e213711",
+  "2ac1d6c523689b5b"
  ],
  "news_seeded": true,
  "news_products": [
@@ -5510,6 +5510,29 @@
      "title": "Sh수협은행, ‘Sh해양플라스틱Zero!예·적금’ 등 해양특화 상품 2종 리뉴얼 출시 - 어업in수산",
      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpY0FPdTlGSU5YLWJja2pLUUJHa191c2t6WUpjSXozdlBpN3RxdVFFcEhRTjhWXzR1ZVNPVVIxUDJHNm55bTU1ZEZwR3hNQTZ3eWZBeFZCRWtIUDhTdTRPTGFSd19ESUp4T3FIdW9fMA?oc=5",
      "source": "어업in수산",
+     "date": "2026-10-29"
+    }
+   ],
+   "in_disclosure": false
+  },
+  {
+   "bank": "경남은행",
+   "name": "BNK 포춘 적금",
+   "norm": "BNK포춘적금",
+   "rate": 11.0,
+   "first_news": "2026-10-29",
+   "count": 2,
+   "articles": [
+    {
+     "title": "BNK경남은행, ‘BNK 포춘 적금’ 특판…최고 연 11% 금리 - 글로벌경제신문",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SZVRXVXRRRTVpMzVpRllnX3lWb19rOExqNDZNdTNKMTVKU24waENGOUl6cnlJWEhHQ2NMeG5BQ1IzUlFEendCS0V0eXEyZ0ZBalFJSHV0VE9qU1pYeTY0bTE5bzV0ZGVGOElYWnFaU1fSAXBBVV95cUxPUmVUV1V0UUU1aTM1aUZZZ195Vm9fazhMajQ2TXUzSjE1SlNuMGhDRjlJenJ5SVhIR0NjTHhuQUNSM1JRRHp3QktFdHlxMmdGQWpRSUh1dFRPalNaWHk2NG0xOW81dGRlRjhJWFpxWlNX?oc=5",
+     "source": "글로벌경제신문",
+     "date": "2026-10-29"
+    },
+    {
+     "title": "BNK경남은행, 'BNK 포춘 적금' 특판...최고 연 11% 금리 제공 - 일요경제",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jZlJVMkZINTF0MnZNaENZWVM4RXl2a29BVlloOXFCYm5zUFBLMXpyUFdaM1p1bUFmaFE3d2VXd3YyMEIxcmRkOXlQLVlMWXM5NTZOLWdzRWJDU1ZlRWp1QU9KZkh6c1FyUW5UZUhn?oc=5",
+     "source": "일요경제",
      "date": "2026-10-29"
     }
    ],
@@ -6009,41 +6032,6 @@
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WOHVkQXg0ZUhFbGR0cnlrN0NHd0IzMnNWQ0Riem5DdTgyM1pTYXRTYkhaajVWMlAtcWRVMjU5V2FqRU5vcGVqa2FfQWExMFJycnFsSw?oc=5",
      "source": "매일경제",
      "date": "2026-09-07"
-    }
-   ],
-   "in_disclosure": false
-  },
-  {
-   "bank": "우리은행",
-   "name": "팀코리아 적금",
-   "norm": "팀코리아적금",
-   "rate": 7.5,
-   "first_news": "2026-09-06",
-   "count": 53,
-   "articles": [
-    {
-     "title": "우리은행, 최고 7.5% '팀코리아 적금' 출시 - Nate News",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yekY1NG5mTzJPTXhHc3FnMXQ2blVJeHlZZzB6Zk5CdkJXV0F2RTBZOFB4V25TVWVrOWtCaFBMR3ZUVHE4VHY1eUNwNEhUZVZKcUw4?oc=5",
-     "source": "Nate News",
-     "date": "2026-09-06"
-    },
-    {
-     "title": "우리은행, 아시안게임 '팀코리아 적금 2' 출시…최고 연 7.5% 금리 - 전자신문",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5tNXlXTVJMaUVMRUtzTGVxV1c5RktIa0xjVDRlRTYzT2JBVWVuY3VMRDYzb0hoamdrOEpWeERkUjN3eGRFbldjSXhuZ2lHUQ?oc=5",
-     "source": "전자신문",
-     "date": "2026-09-06"
-    },
-    {
-     "title": "우리은행, 최고 7.5% '팀코리아 적금' 출시 - 뉴시스",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjTzhwZWZ5Wld4MlNGd0V5d2xXcmZNSlhsR2lDbnJkWkFfNFFLN2FUYWtaMXF2TkN2ejdPa1Y3NlA4M1I4M0ljLTFBNUR0TW9pcVBiaEMzUTJ2Tl8yclEwRUdlSWtNR2NPSjFQTV9aVUpydnl5ZUg4YdIBeEFVX3lxTFBjTzhwZWZ5Wld4MlNGd0V5d2xXcmZNSlhsR2lDbnJkWkFfNFFLN2FUYWtaMXF2TkN2ejdPa1Y3NlA4M1I4M0ljLTFBNUR0TW9pcVBiaEMzUTJ2Tl8yclEwRUdlSWtNR2NPSjFQTV9aVUpydnl5ZUg4YQ?oc=5",
-     "source": "뉴시스",
-     "date": "2026-09-06"
-    },
-    {
-     "title": "우리은행 아시안게임 응원하는 '팀코리아 적금2' 출시, 우대금리 포함 최고 연 7.5% - 비즈니스포스트",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zU2toUXRFWUhEanFVZE90S25DNk1McHpkTTVldWQzblA4cE1weUUzSmQ2S0tYdjN5dU9ZM1NvR2s3QU00UmtYNW5xWkV5RmRIcVo1T3VYY051SnpWYlM5RVBGYW1QajRab05uNlpIOA?oc=5",
-     "source": "비즈니스포스트",
-     "date": "2026-09-06"
     }
    ],
    "in_disclosure": false
