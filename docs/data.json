@@ -4622,6 +4622,18 @@
  ],
  "news": [
   {
+   "title": "하나은행, '태권브이' 탄생 50주년 기념 적금 출시 - 한스경제",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96dEhLVjgwOHh1UFhMZ010YkxHaHowQjliWllJU3VWUklHNzhBQWdvd0I0cFBNV2w3UGVoMVJGUV94YXFocWtaMjE0aTdXdlhTNUp3NjEzNEF3YzFqYzlfTkxkaUdQc2JfaWtv?oc=5",
+   "source": "한스경제",
+   "date": "2026-10-30"
+  },
+  {
+   "title": "하나은행, 태권브이 적금 출시 - 뉴스프리존",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zZ3hYalZfMUxvckVyRUJtSi1Fal9hNGJURkhIQmE3dFEycm8zUnMzVWp4MVh3UkhxZldyTHN2dWI2TGxrcVR0ckNIWmQ0M3BULVFUbVlSRVBNbnVxMnZqWW96LTAxenhjWWdVSXJvNzJfQ3PSAXdBVV95cUxQMVdTc19DUnlrZ3YyMDlzMlVlNVZ0Q1lQa1RBNUZXSnAxZUVWcVJ6SVB3a0pxYkR1aXlzRTlkYWt4YWR3Tm1CNk5SWUdhUU84S1ExLUtlZllPNWtZVzBGUTlESXZUN0U0aGZKcy1fb2dUcXFRRGFCWQ?oc=5",
+   "source": "뉴스프리존",
+   "date": "2026-10-30"
+  },
+  {
    "title": "하나은행, 최고 연 5% ‘태권브이 적금’ 출시 - ER 이코노믹리뷰",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yNUFrMHNoT3VUWGFwZ3AwdVdRbTRla3ZxZmYwNlNzdlhIZGExUWREYzlodjBJdzBEUEpKR0VWU0lNTjZ5R3VMd3ptUmVZTGhXOW90NEo2MkdYZnRNUDhiVzBWcERqQTJiYzZIVw?oc=5",
    "source": "ER 이코노믹리뷰",
@@ -4680,23 +4692,9 @@
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDQ3Q0YS1RZGVTeGkyMC1KWUw1Sno3NmlnVXJkWWdnd1pZTWhzNHZ4eEt2ZjdRdndzbEdfdDg4Xzk0M3I3ZGRIZUM0d0JaVmhvei1aUl9uWkFMOTIyRVlnZExaRVBRYUHSAWdBVV95cUxQQ0N0NGEtUWRlU3hpMjAtSllMNUp6NzZpZ1VyZFlnZ3daWU1oczR2eHhLdmY3UXZ3c2xHX3Q4OF85NDNyN2RkSGVDNHdCWlZob3otWlJfblpBTDkyMkVZZ2RMWkVQUWFB?oc=5",
    "source": "리버티코리아포스트",
    "date": "2026-10-30"
-  },
-  {
-   "title": "하나은행, '태권브이 50주년' 적금 출시…최고 연 5.0% 금리 - FETV",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MLUViRUVVZ29XZWEyNmx6MXYwWDBFTDlzSmwyeWp0SGFnWXVlem9LTTUtck5aZExZbHdMcUNIUVhobkgtd0oyaS1kQ0Z6LTlmM2hJZ0U1dy1UUW45WXB2T21sdVA2UGFx?oc=5",
-   "source": "FETV",
-   "date": "2026-10-31"
-  },
-  {
-   "title": "하나은행, '날아라 태권브이 적금' 출시…최고 연 5.0% 금리·3만좌 한정 판매 - 금융계",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GRUcySDNBYS1xSEpPYWd3dk5qeE9mNERUcmg3LUZnc19teDJMU3l3al9pcVVqdnBGdElOT3FxNHhLSWEzVjBOSm1XOV9PRzIxek00NnltZno1aW9XYXo3a1dOWXozZVMyUDR30gFrQVVfeXFMT0ZFRzJIM0FhLXFISk9hZ3d2Tmp4T2Y0RFRyaDctRmdzX214MkxTeXdqX2lxVWp2cEZ0SU5PcXE0eEtJYTNWME5KbVc5X09HMjF6TTQ2eW1mejVpb1dhejdrV05ZejNlUzJQNHc?oc=5",
-   "source": "금융계",
-   "date": "2026-10-31"
   }
  ],
  "news_seen": [
-  "bdcd1630d2673a4f",
-  "19da06b7f82d4478",
   "97bf8d1992f66418",
   "17e20386846ace2f",
   "884cc8e13e931907",
@@ -5494,7 +5492,9 @@
   "8e99d68f46cb2668",
   "6d055b5f97571de0",
   "77d1b62b64c98628",
-  "aad5eba05058f832"
+  "aad5eba05058f832",
+  "86b5faaf5c45b5b9",
+  "a79fa1b1331fae27"
  ],
  "news_seeded": true,
  "news_products": [
