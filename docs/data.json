@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-10 18:35",
+ "updated_at": "2026-11-11 02:37",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -4622,6 +4622,12 @@
  ],
  "news": [
   {
+   "title": "순천시, 국립순천대 의대 신설 기념 '동행 특판적금' 공동 1호 가입 - 한국사회복지저널",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sTDFhRW9SdWFabUpjYXdYR2lzYkMtQjE3RE1zaGpOeDR3Z2x1ZFZGMW0tV3FyYXJXUW1pNkVTQWtlWHZaVG93WE9EZTZIbEtrZnZNSmVGUFFCbWZtOW44VkFJWnMzUVNpZzEteQ?oc=5",
+   "source": "한국사회복지저널",
+   "date": "2026-11-09"
+  },
+  {
    "title": "새마을금고중앙회, ‘충북 청년 두배 적금’ 출시 기대 - 굿모닝충청",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE85NTRmX0NRRk5KQmJwNWoyUEJvS3lieFlub05waTV1RkYtcWZIekZ0NmhjQ0lPUGlEM19nRTR3UGhueWZfQjJXUUlOZzBhVW1vRDhNWi1scDFLWFJacnNZZ3luQ1RjUWtmY1BNWUxrdW5Kdw?oc=5",
    "source": "굿모닝충청",
@@ -4686,16 +4692,9 @@
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12SVUydk00MWhFalFXWXV6RnhhLXV0VlhOeVNrMjBabVpZT0RuX0ZZQUllaFl4VjRpcDJkMS01LUhzUkt4ZFRKMy1FSl9yTUh1LS1tbWs5QXVWTkdITjhXVGI1WTM4X3ZYVFE?oc=5",
    "source": "광주타임즈",
    "date": "2026-11-09"
-  },
-  {
-   "title": "순천대 의대 염원 담은 특판적금 출시…손훈모 시장 ‘1호 가입’ - 서울경제",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9US0ZQNzFIVVpwamVhUlVCV0lyRmI1V0VkMVMzQ3VEZkNYM1RsNUo4VmhObi1LLTN6VnBNeTl2WnBXc25YOGZlRHhhZFN6aF9Ob2fSAVNBVV95cUxObnFmamNSR0FpQkdxUjY4NWQ5QkF3ZmRDWmtuOGI2NmFWbjZEY2hiRUd0X2xHaFhZUWRVT3pzcXM0c0tweTNBcmtORTdwXzFVblNOcw?oc=5",
-   "source": "서울경제",
-   "date": "2026-11-09"
   }
  ],
  "news_seen": [
-  "d1fc18169be93dfc",
   "7b026b7ba40702e0",
   "a3d491bf83014015",
   "c6b0d1ea9dedc3d2",
@@ -5494,7 +5493,8 @@
   "6d9ab077f22f4d49",
   "f8be04dd27447819",
   "d5d5e461f7d7f576",
-  "4c8a0d0b62286dd1"
+  "4c8a0d0b62286dd1",
+  "a41f0706bef25772"
  ],
  "news_seeded": true,
  "news_products": [
