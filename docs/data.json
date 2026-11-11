@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11 11:43",
+ "updated_at": "2026-11-11 19:39",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -1698,8 +1698,8 @@
      "save_trm": 12,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.39,
-     "intr_rate2": 4.19
+     "intr_rate": 3.38,
+     "intr_rate2": 4.18
     },
     {
      "save_trm": 24,
@@ -1716,8 +1716,8 @@
      "intr_rate2": 3.5
     }
    ],
-   "best_rate": 4.19,
-   "best_base_rate": 3.39,
+   "best_rate": 4.18,
+   "best_base_rate": 3.38,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EB%86%8D%ED%98%91%EC%9D%80%ED%96%89%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20NH%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%9B%94%EB%B3%B5%EB%A6%AC%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -2980,27 +2980,27 @@
      "save_trm": 12,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.3,
-     "intr_rate2": 3.5
+     "intr_rate": 3.28,
+     "intr_rate2": 3.48
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.0,
-     "intr_rate2": 3.2
+     "intr_rate": 2.98,
+     "intr_rate2": 3.18
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.79,
-     "intr_rate2": 3.99
+     "intr_rate": 2.77,
+     "intr_rate2": 2.97
     }
    ],
-   "best_rate": 3.99,
-   "best_base_rate": 2.79,
-   "best_term": 36,
+   "best_rate": 3.48,
+   "best_base_rate": 3.28,
+   "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%EC%9D%80%ED%96%89%20%EB%AF%B8%EC%A6%88%EC%9B%94%EB%B3%B5%EB%A6%AC%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88",
    "first_seen": "2026-07-31",
    "is_baseline": true
@@ -3023,15 +3023,15 @@
      "save_trm": 1,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.33,
-     "intr_rate2": 2.43
+     "intr_rate": 2.34,
+     "intr_rate2": 2.44
     },
     {
      "save_trm": 3,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.72,
-     "intr_rate2": 2.82
+     "intr_rate": 2.73,
+     "intr_rate2": 2.83
     },
     {
      "save_trm": 6,
@@ -3044,26 +3044,26 @@
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.2,
-     "intr_rate2": 3.4
+     "intr_rate": 3.18,
+     "intr_rate2": 3.38
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.9,
-     "intr_rate2": 3.1
+     "intr_rate": 2.88,
+     "intr_rate2": 3.08
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.69,
-     "intr_rate2": 2.89
+     "intr_rate": 2.67,
+     "intr_rate2": 2.87
     }
    ],
-   "best_rate": 3.4,
-   "best_base_rate": 3.2,
+   "best_rate": 3.38,
+   "best_base_rate": 3.18,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%EC%9D%80%ED%96%89%20%EC%8A%A4%EB%A7%88%ED%8A%B8%EB%AA%A8%EC%95%84Dream%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88",
    "first_seen": "2026-07-31",
@@ -3087,12 +3087,12 @@
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.2,
-     "intr_rate2": 3.7
+     "intr_rate": 3.18,
+     "intr_rate2": 3.68
     }
    ],
-   "best_rate": 3.7,
-   "best_base_rate": 3.2,
+   "best_rate": 3.68,
+   "best_base_rate": 3.18,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%EC%9D%80%ED%96%89%20%EA%B5%BF%EC%8A%A4%ED%83%80%ED%8A%B8%EC%98%88%EA%B8%88",
    "first_seen": "2026-07-31",
@@ -3652,15 +3652,15 @@
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.49,
-     "intr_rate2": 3.49
+     "intr_rate": 3.48,
+     "intr_rate2": 3.48
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.5,
-     "intr_rate2": 3.5
+     "intr_rate": 3.49,
+     "intr_rate2": 3.49
     },
     {
      "save_trm": 24,
@@ -3673,12 +3673,12 @@
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.17,
-     "intr_rate2": 3.17
+     "intr_rate": 3.16,
+     "intr_rate2": 3.16
     }
    ],
-   "best_rate": 3.5,
-   "best_base_rate": 3.5,
+   "best_rate": 3.49,
+   "best_base_rate": 3.49,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85%EC%9D%80%ED%96%89%20IBK%EB%8D%94%EA%B5%B4%EB%A6%AC%EA%B8%B0%ED%86%B5%EC%9E%A5%28%EC%8B%A4%EC%84%B8%EA%B8%88%EB%A6%AC%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88%29",
    "first_seen": "2026-07-31",
@@ -3716,19 +3716,19 @@
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.54,
-     "intr_rate2": 3.54
+     "intr_rate": 3.53,
+     "intr_rate2": 3.53
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.6,
-     "intr_rate2": 3.6
+     "intr_rate": 3.59,
+     "intr_rate2": 3.59
     }
    ],
-   "best_rate": 3.6,
-   "best_base_rate": 3.6,
+   "best_rate": 3.59,
+   "best_base_rate": 3.59,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85%EC%9D%80%ED%96%89%20IBK%EA%B5%B4%EB%A6%AC%EA%B8%B0%ED%86%B5%EC%9E%A5%28%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88%29",
    "first_seen": "2026-07-31",
@@ -4622,6 +4622,48 @@
  ],
  "news": [
   {
+   "title": "충북농협, 농업인의 날 맞아 ‘농심천심’ 예·적금 출시 - 농민신문",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NZW1iMlM5UEtzeThKR1hXZHE3dVJza3ZRQ0dxWER1c3liYkZ0aEN0REVzWllSYWZsb2pxSVNhaGJKa1FCcEtYRkQxdU8xVEttZms3WlBESHE3dw?oc=5",
+   "source": "농민신문",
+   "date": "2026-11-11"
+  },
+  {
+   "title": "충북농협, 농업인의 날 맞아 ‘농심천심’ 예·적금 출시 - 중부매일",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Hc3N1WDdfeV9aWGNNRndMaV9zRjFBbFlNYm1pREtWdHNMbnRNT2dtRV9neWV6WURjWnoyZjl1MktqakhOM250dzV4ZGs5MElJU1lrNkR5QVBKeElGazhwSkU2dkZOQTJ0ZTZYSGpn0gFuQVVfeXFMT0dzc3VYN195X1pYY01Gd0xpX3NGMUFsWU1ibWlES1Z0c0xudE1PZ21FX2d5ZXpZRGNaejJmOXUyS2pqSE4zbnR3NXhkazkwSUlTWWs2RHlBUEp4SUZrOHBKRTZ2Rk5BMnRlNlhIamc?oc=5",
+   "source": "중부매일",
+   "date": "2026-11-11"
+  },
+  {
+   "title": "충북농협, 농업인의 날 맞아 ‘농심천심예적금’ 출시 - 굿모닝충청",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yRGdvajlxVXpZaHJWbmx3ZE9vUXhPM05DTkkzSkVzYjFPcmJ6X1NtQy16TllQZFFRaE9COXRwZXh2NWR2Y09LcTZtV0t5QkU1UXc5Wk13Z19xcFhHNWZ3SlF2TE5SMzk3WjNRc04yVnlSQQ?oc=5",
+   "source": "굿모닝충청",
+   "date": "2026-11-11"
+  },
+  {
+   "title": "충북농협, 농업인의 날 맞아 '농심천심' 예·적금 출시 - 충청일보",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RU2hpZTVXZWk4SmQ4dUc4UGMtMWFUMDd3VWR4b1NCRHV0Zjd2Q1M5WXQtMENwTl92VEdZOGhhQkd0cVdNUTlORkoweGp6VFlQUEZ6TWxJMmRiWnM4MW13Tk5GeGtZWnoxS3dBTnVLT3g?oc=5",
+   "source": "충청일보",
+   "date": "2026-11-11"
+  },
+  {
+   "title": "순천농협, 의대 신설 특판적금…출시 이틀 만에 ‘완판’ - 남도닷컴",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKblpGN2dsNlM4QUU4WllITWgyZmVGdTl3RXdOdGxjbnhjOW1mSXJaYVlKS0hYblVSSzRGdFJXQUNFYVBsSWZyb0NkaDI4ZEkwbWlUZFQzQ2ZheHJZdTk0Yzh0OW00UDgtNzRF?oc=5",
+   "source": "남도닷컴",
+   "date": "2026-11-11"
+  },
+  {
+   "title": "충북농협, 농업인 특화 상품 '농심천심 예·적금' 신규 출시 - 브레이크뉴스",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8yci1WaU1Da25RVXZVMzRfNzdsQzd1U0ZfZ25TWFVHU0pIcTVKRm53ZERGYnhFek4yUVRGUGYzbklZeGpHbHRjZw?oc=5",
+   "source": "브레이크뉴스",
+   "date": "2026-11-11"
+  },
+  {
+   "title": "순천농협 의대 신설 기념 특판적금, 이틀 만에 75억 원 '완판' - 더팩트",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10WHRJTkNKV0Zsa0s3VVFSVFk0MVNaNzhSdFFZc0xyQWZVRzZ0d1Z4a1hRUjc2NkZoSElVYWJIcERiWWg3VnA5Y2F0a3VXeEFHbUgxT1l30gFWQVVfeXFMTXRYdElOQ0pXRmxrSzdVUVJUWTQxU1o3OFJ0UVlzTHJBZlVHNnR3VnhrWFFSNzY2RmhISVVhYkhwRGJZaDdWcDljYXRrdVd4QUdtSDFPWXc?oc=5",
+   "source": "더팩트",
+   "date": "2026-11-11"
+  },
+  {
    "title": "순천시, 국립순천대 의대 신설 기념 '동행 특판적금' 공동 1호 가입 - 한국사회복지저널",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sTDFhRW9SdWFabUpjYXdYR2lzYkMtQjE3RE1zaGpOeDR3Z2x1ZFZGMW0tV3FyYXJXUW1pNkVTQWtlWHZaVG93WE9EZTZIbEtrZnZNSmVGUFFCbWZtOW44VkFJWnMzUVNpZzEteQ?oc=5",
    "source": "한국사회복지저널",
@@ -4650,58 +4692,9 @@
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16WF91eHNPeXlTS1lEbXVGcHVLQVJSXzg4YlN1RDNEcEwybl9FNGpOQy1MU0xaZFdIcHFFeHlESExoUzJhN05zbUY1QjFHYkVBRGQ1N1FUbEpEdnNzeDFWVnE5OXJEYmZGR19IRA?oc=5",
    "source": "작은뉴스",
    "date": "2026-11-09"
-  },
-  {
-   "title": "순천대 의대 염원 담은 특판적금 출시…손훈모 시장 ‘1호 가입’ - 서울경제",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ucWZqY1JHQWlCR3FSNjg1ZDlCQXdmZENaa244YjY2YVZuNkRjaGJFR3RfbEdoWFlRZFVPenNxczRzS3B5M0Fya05FN3BfMVVuU05z0gFTQVVfeXFMTm5xZmpjUkdBaUJHcVI2ODVkOUJBd2ZkQ1prbjhiNjZhVm42RGNoYkVHdF9sR2hYWVFkVU96c3FzNHNLcHkzQXJrTkU3cF8xVW5TTnM?oc=5",
-   "source": "서울경제",
-   "date": "2026-11-09"
-  },
-  {
-   "title": "손훈모 시장, ‘순천대 의대 건립 동행 특판적금’ 공동 1호 가입 - 브레이크뉴스",
-   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBJQnV3dUJHcXFuMWlkVE90S2VBX1VocDdMUjc1RHlJNHZpN2o5Y0M5SkxDWG9fRDYyUzNhUzFrNkE2QQ?oc=5",
-   "source": "브레이크뉴스",
-   "date": "2026-11-09"
-  },
-  {
-   "title": "손훈모 시장, 의대 건립 동행 특판적금 공동 1호 가입 - 빛가람뉴스",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mTmZLTWk0c2tVNkNnbktWamVjZWhLM2xyMFFMRWY5bWNvY1FSX2NZdVcxeHVzSmU0REhnb2ZyaEt6RjAxSk1ZdGdZMDBlUjg4TDNjRldRN0pIVjhkSnY3d19HX1E2UFVTdmJr0gFvQVVfeXFMTWxtZjJkQzlnUWR1WkVkb2sweHlWRlFKcmZsei11b0EtZkxPaTZ5ODR3WEtCTEh2QWdJVTVfSnZKTndLLWVlWl9abzlqSHF1RnkybUk4Y1ZfLVVSNVJfblFyVVBrdDJFVGlfalFmeTVB?oc=5",
-   "source": "빛가람뉴스",
-   "date": "2026-11-09"
-  },
-  {
-   "title": "'순천대 의대 건립 동행 특판적금' 출시…금리 최대 5.91% 적용 - LG헬로비전",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0MkVqSG9fVXJhcnEwc3daTjBWUUJVVVBieFd2bWh5M0RNX3BmNzlxZlhIX3NaNzZNdDNfbDNlVjNNZzhOVktScTY1Qmc5QlRwLUNET2p5em5KZGVCZU8tOWZGSUE3WC1HQ1hQNnFBR18zZ9IBdkFVX3lxTE1PQTRHeEpPTWtXZ1JXaU5HNjdpdFNPR1pMcEhUTmRZbWVFWDN6SU11MHJpQ2plUGlZX2E0elV4aVhDcFhDSDVBZzdRd1dfeWF1cWZDUVdMVFhKRW11RXppVkMwNHJOLW0zNFBDYk8xa2RXMi1pWmc?oc=5",
-   "source": "LG헬로비전",
-   "date": "2026-11-09"
-  },
-  {
-   "title": "순천농협, 의대 발전기금 기탁‥동행적금 출시 - 여수MBC",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mcXRCZkpfdS1BbVNRZ3BSaEJQdk5EZW9ab3VxT01RanYtSHFjcVpsaFRSOWZaTDFabjY2cTZrQjBIbmNBTE5YNlgzazZ4V3p3?oc=5",
-   "source": "여수MBC",
-   "date": "2026-11-09"
-  },
-  {
-   "title": "순천농협, 순천대 의대 건립 기념 특판적금 출시···최고 연 5.91% - 서울파이낸스",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtNWdycVBBUm1YcXNfMlk0WnFjRDg0R2I1SFJFQjBzTVRHbTlGN1l6QnFMNW1aYUpkUGx2RFliTWRDWG9GSGZXV2J1dTA4NFFKLVE4SkRnbkg1OExZeFp1NlgtazBfQzNCa1E?oc=5",
-   "source": "서울파이낸스",
-   "date": "2026-11-09"
-  },
-  {
-   "title": "순천농협 ‘순천대 의대건립’ 특판적금 출시 - 광주타임즈",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12SVUydk00MWhFalFXWXV6RnhhLXV0VlhOeVNrMjBabVpZT0RuX0ZZQUllaFl4VjRpcDJkMS01LUhzUkt4ZFRKMy1FSl9yTUh1LS1tbWs5QXVWTkdITjhXVGI1WTM4X3ZYVFE?oc=5",
-   "source": "광주타임즈",
-   "date": "2026-11-09"
   }
  ],
  "news_seen": [
-  "7b026b7ba40702e0",
-  "a3d491bf83014015",
-  "c6b0d1ea9dedc3d2",
-  "7896a3baf01b2122",
-  "a061bf92d545f302",
-  "1fdf7f9c48862a1f",
-  "9bfcbfa0cbcfd04c",
   "bcaed8560b630d4a",
   "b517702d42266f12",
   "02761262754acf36",
@@ -5494,7 +5487,14 @@
   "f8be04dd27447819",
   "d5d5e461f7d7f576",
   "4c8a0d0b62286dd1",
-  "a41f0706bef25772"
+  "a41f0706bef25772",
+  "532c50bae88b2e9e",
+  "472f79226a3c3c70",
+  "fa848045156be5e7",
+  "f3ffcf83872455bc",
+  "9363f4c64a473665",
+  "d7c6563841f9fa66",
+  "3612540b4f491f38"
  ],
  "news_seeded": true,
  "news_products": [
