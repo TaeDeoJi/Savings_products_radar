@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12 18:38",
+ "updated_at": "2026-11-13 03:05",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -4622,6 +4622,12 @@
  ],
  "news": [
   {
+   "title": "카카오뱅크, '외국인통장' 출시 한 달 만에 2만 좌 돌파…내년 예·적금 확대 - FETV",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPLThCMXBJTXM0d2xxTGVGWlFibG9DWlB5T2tBR29zWjI2aldIdllNQjlmbThNbkdiTFRnQk9LWWxHVnAxUFljb2RLMGFmQVBvREdjODl1NEJMdFpKZk96LXNsQ2FBR2tj?oc=5",
+   "source": "FETV",
+   "date": "2026-11-12"
+  },
+  {
    "title": "우리은행, '모니모' 전용 예·적금 3종 출시…매일이자 통장 연 최대 4% - 뉴스핌",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Cd053NWtiMm1RUnpHTVQ2NHR3OWZ2Y2p5WWJuZldmRW9fdWJMQXZmSlhydmktMmUtM2ZtdWJQcmlER091ZUNsUUpJZW85ZWtfWDk4ck1iUko3WjNm?oc=5",
    "source": "뉴스핌",
@@ -4686,16 +4692,9 @@
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93MFhIT1Y3SldHT3FvZnNhMzFtcnJyU1NXUHM4VFJ6SllHc0FKNlBJRGVwNm51MllLZ1BQeFVEdG9zUl9oSVp2YWFDaDdVXzhmd2lXWTVHemV4Y3NsR3ZQRldyMGs2bERLR2dN0gFvQVVfeXFMUGg2MWJSejNSbDZTc2lEV0xKNU4zd2gtaEtCRjBiYjMxd01Bd2JTU19PNk03OEhWdDN1VzV4ZDRXR05XbHZoQWJIc05PZHdVcVBhZWtTU1NpV3U2UjdoUUNWRlY3dVhNNUhkWFNyU204?oc=5",
    "source": "서울일보",
    "date": "2026-11-10"
-  },
-  {
-   "title": "충북농협, 농심천심예금·적금 출시 - 충청매일",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNU1QtUTVVN21pNnYycXRSXzJUZTl0ZkZUWWd3N0NtVGlYUU16M083dXY1TkJUaTRRR1N1WFlQMkp6VG9qcE9HMmpNZzF6RkZyekZTM2VxSUtVVTR6V1Y2dk5saTF5cG44Tnc?oc=5",
-   "source": "충청매일",
-   "date": "2026-11-11"
   }
  ],
  "news_seen": [
-  "a76444496f11adeb",
   "3b6c412f05d82a9b",
   "8e2760620995f59f",
   "3ad9450976d91f0b",
@@ -5494,7 +5493,8 @@
   "041c3eded9fd4404",
   "12762bace8a2bb52",
   "0d5ca673627d7d5c",
-  "3b6632ce1e101e4c"
+  "3b6632ce1e101e4c",
+  "3c98fa296da82620"
  ],
  "news_seeded": true,
  "news_products": [
