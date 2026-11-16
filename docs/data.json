@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-16 10:47",
+ "updated_at": "2026-11-16 18:23",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -1190,33 +1190,33 @@
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 3.14,
-     "intr_rate2": 3.14
+     "intr_rate": 3.16,
+     "intr_rate2": 3.16
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 3.7,
-     "intr_rate2": 3.7
+     "intr_rate": 3.71,
+     "intr_rate2": 3.71
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 3.61,
-     "intr_rate2": 3.61
+     "intr_rate": 3.57,
+     "intr_rate2": 3.57
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "정액적립식",
-     "intr_rate": 3.63,
-     "intr_rate2": 3.63
+     "intr_rate": 3.6,
+     "intr_rate2": 3.6
     }
    ],
-   "best_rate": 3.7,
-   "best_base_rate": 3.7,
+   "best_rate": 3.71,
+   "best_base_rate": 3.71,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%ED%95%9C%EA%B5%AD%EC%82%B0%EC%97%85%EC%9D%80%ED%96%89%20KDB%20%EA%B8%B0%EC%97%85%EC%A0%95%EA%B8%B0%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -1240,47 +1240,47 @@
      "save_trm": 1,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.08,
-     "intr_rate2": 3.08
+     "intr_rate": 3.09,
+     "intr_rate2": 3.09
     },
     {
      "save_trm": 3,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.08,
-     "intr_rate2": 3.08
+     "intr_rate": 3.09,
+     "intr_rate2": 3.09
     },
     {
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.44,
-     "intr_rate2": 3.44
+     "intr_rate": 3.46,
+     "intr_rate2": 3.46
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.9,
-     "intr_rate2": 3.9
+     "intr_rate": 3.91,
+     "intr_rate2": 3.91
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.71,
-     "intr_rate2": 3.71
+     "intr_rate": 3.67,
+     "intr_rate2": 3.67
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.73,
-     "intr_rate2": 3.73
+     "intr_rate": 3.7,
+     "intr_rate2": 3.7
     }
    ],
-   "best_rate": 3.9,
-   "best_base_rate": 3.9,
+   "best_rate": 3.91,
+   "best_base_rate": 3.91,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%ED%95%9C%EA%B5%AD%EC%82%B0%EC%97%85%EC%9D%80%ED%96%89%20KDB%20%EC%9E%90%EC%9C%A0%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -2980,26 +2980,26 @@
      "save_trm": 12,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.27,
-     "intr_rate2": 3.47
+     "intr_rate": 3.28,
+     "intr_rate2": 3.48
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.0,
-     "intr_rate2": 3.2
+     "intr_rate": 3.02,
+     "intr_rate2": 3.22
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.79,
-     "intr_rate2": 2.99
+     "intr_rate": 2.82,
+     "intr_rate2": 3.02
     }
    ],
-   "best_rate": 3.47,
-   "best_base_rate": 3.27,
+   "best_rate": 3.48,
+   "best_base_rate": 3.28,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%EC%9D%80%ED%96%89%20%EB%AF%B8%EC%A6%88%EC%9B%94%EB%B3%B5%EB%A6%AC%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88",
    "first_seen": "2026-07-31",
@@ -3030,40 +3030,40 @@
      "save_trm": 3,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.74,
-     "intr_rate2": 2.84
+     "intr_rate": 2.75,
+     "intr_rate2": 2.85
     },
     {
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.08,
-     "intr_rate2": 3.18
+     "intr_rate": 3.09,
+     "intr_rate2": 3.19
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.17,
-     "intr_rate2": 3.37
+     "intr_rate": 3.18,
+     "intr_rate2": 3.38
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.9,
-     "intr_rate2": 3.1
+     "intr_rate": 2.92,
+     "intr_rate2": 3.12
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.69,
-     "intr_rate2": 2.89
+     "intr_rate": 2.72,
+     "intr_rate2": 2.92
     }
    ],
-   "best_rate": 3.37,
-   "best_base_rate": 3.17,
+   "best_rate": 3.38,
+   "best_base_rate": 3.18,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%EC%9D%80%ED%96%89%20%EC%8A%A4%EB%A7%88%ED%8A%B8%EB%AA%A8%EC%95%84Dream%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88",
    "first_seen": "2026-07-31",
@@ -3087,12 +3087,12 @@
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.17,
-     "intr_rate2": 3.67
+     "intr_rate": 3.18,
+     "intr_rate2": 3.68
     }
    ],
-   "best_rate": 3.67,
-   "best_base_rate": 3.17,
+   "best_rate": 3.68,
+   "best_base_rate": 3.18,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EA%B4%91%EC%A3%BC%EC%9D%80%ED%96%89%20%EA%B5%BF%EC%8A%A4%ED%83%80%ED%8A%B8%EC%98%88%EA%B8%88",
    "first_seen": "2026-07-31",
@@ -3652,33 +3652,33 @@
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.49,
-     "intr_rate2": 3.49
+     "intr_rate": 3.5,
+     "intr_rate2": 3.5
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.49,
-     "intr_rate2": 3.49
+     "intr_rate": 3.5,
+     "intr_rate2": 3.5
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.32,
-     "intr_rate2": 3.32
+     "intr_rate": 3.34,
+     "intr_rate2": 3.34
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.25,
-     "intr_rate2": 3.25
+     "intr_rate": 3.26,
+     "intr_rate2": 3.26
     }
    ],
-   "best_rate": 3.49,
-   "best_base_rate": 3.49,
+   "best_rate": 3.5,
+   "best_base_rate": 3.5,
    "best_term": 6,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85%EC%9D%80%ED%96%89%20IBK%EB%8D%94%EA%B5%B4%EB%A6%AC%EA%B8%B0%ED%86%B5%EC%9E%A5%28%EC%8B%A4%EC%84%B8%EA%B8%88%EB%A6%AC%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88%29",
    "first_seen": "2026-07-31",
@@ -3702,33 +3702,33 @@
      "save_trm": 1,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.8,
-     "intr_rate2": 2.8
+     "intr_rate": 2.81,
+     "intr_rate2": 2.81
     },
     {
      "save_trm": 3,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.14,
-     "intr_rate2": 3.14
+     "intr_rate": 3.15,
+     "intr_rate2": 3.15
     },
     {
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.54,
-     "intr_rate2": 3.54
+     "intr_rate": 3.55,
+     "intr_rate2": 3.55
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.59,
-     "intr_rate2": 3.59
+     "intr_rate": 3.6,
+     "intr_rate2": 3.6
     }
    ],
-   "best_rate": 3.59,
-   "best_base_rate": 3.59,
+   "best_rate": 3.6,
+   "best_base_rate": 3.6,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85%EC%9D%80%ED%96%89%20IBK%EA%B5%B4%EB%A6%AC%EA%B8%B0%ED%86%B5%EC%9E%A5%28%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88%29",
    "first_seen": "2026-07-31",
@@ -4622,104 +4622,79 @@
  ],
  "news": [
   {
-   "title": "[게시판] 카카오뱅크, 다이슨 할인·경품 추첨 '한달적금' 출시 - 연합뉴스",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CRlAxQ1VxQVpzQkN0cThQTUFzdVJsRE1KRnRJTURnLWFQb19KWXZNYmhzcWVMLTVQLUEzMWRCTkg3Tm9pNFNJYW1vOEVwVVlYM2JKTG5uZ2RaWFU0TlctMdIBYEFVX3lxTE1CRlAxQ1VxQVpzQkN0cThQTUFzdVJsRE1KRnRJTURnLWFQb19KWXZNYmhzcWVMLTVQLUEzMWRCTkg3Tm9pNFNJYW1vOEVwVVlYM2JKTG5uZ2RaWFU0TlctMQ?oc=5",
-   "source": "연합뉴스",
+   "title": "저축하면 다이슨 할인 혜택이 줄줄이…카뱅, 제휴 적금 출시 - 한국경제",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zajdLM2JabjRFVlFWUFBDaGk3YktLRDgzQlljbXlCbkk1YXZQS25kanhCU3RFSE9Kb2FTSXNKZDZVQjFFWFJHd3ViM1dFUE9FemlLbEZHc04tQQ?oc=5",
+   "source": "한국경제",
    "date": "2026-11-16"
   },
   {
-   "title": "카카오뱅크, 할인·경품혜택 담은 '다이슨 한달적금' 출시 - 뉴스드림",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yLWZqTm0ydDR2S1lEcTRtUHJRWEZYR29OOUNzOVVhVnllTE5ubVpodTRoS3RMbDJxTlQ2VmJEazByTDE5eWp5SkF3bHdLS2RMX1I5S05DdWp5SUo0WDN6b2YwOXlZU1lvT0Nr0gFuQVVfeXFMTWpfYk03eGR2NDdLQmdDSnVKWHM0RGpHWW12MlR1ZnJlLWsteWwwWmdwNlFjVFVJSDZyRFRidHRmRlVYWVB2RDZSTy1YS1kzLUZ4MEFUR1VOanRIWGV2T201anlCTF9XVUp6bUo5MWc?oc=5",
-   "source": "뉴스드림",
+   "title": "BNK부산은행, '르노코리아 우대적금' 출시...최고 연 4.3% 금리 - 파이낸셜뉴스",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZdEQxZ0gtdjJXRkJzWW9UWXlObmhyQnJsRjcxbi1XZnF6VVVSbENYakpEb3JJQkgyVjNvTHI3Z1o2RXBVY2lsVG1YWU1FSm9oVjJ5YkwwQlZQZw?oc=5",
+   "source": "파이낸셜뉴스",
    "date": "2026-11-16"
   },
   {
-   "title": "카카오뱅크, 다이슨 손잡고 한달적금 출시…브랜드 제휴 확대 - 아주경제",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80U3I2UTJmNmJXOV9pT2ZKQ29ZTGgzNUY1Z3hxRGo5aUNfU1RZLTJzNm90Q2U3OFdmOFJ3WmMzVW5xNkFzMF9jTUZhbmhxal9OeUREaTAzdXnSAVhBVV95cUxPNFNyNlEyZjZiVzlfaU9mSkNvWUxoMzVGNWd4cURqOWlDX1NUWS0yczZvdENlNzhXZjhSd1pjM1VucTZBczBfY01GYW5ocWpfTnlERGkwM3V5?oc=5",
-   "source": "아주경제",
+   "title": "부산은행, ‘르노코리아 우대적금’ 출시···최고 연 4.3% - 이뉴스투데이",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfQUFXVHU3Nm16alpRRVpTeDRTdldPTkZfUlZFbHlGdGNYLUlqTThfeXJZeTA0RDB2ZmJ1azJCa282WU14TTU5VVRIUTFpZUVBdFVoR0R3NHRtRDZXUmMxMDIyQ2hmY1lSdFBJa0N0c1LSAXRBVV95cUxObWh3YWltdVVfMzNUa2ZKYS1YM25PUnZUQVdkZUJXazV4eDFqVjBiNUNwZHQxZWJPOWNsdUxPazk0OW9aeXdhclNCSVAzeHNrbnZndnRsR3BLM1BFeXhqSXJEWVM2ZmJNTTJaVmJfZVhPOXpLNA?oc=5",
+   "source": "이뉴스투데이",
    "date": "2026-11-16"
   },
   {
-   "title": "카카오뱅크, 다이슨 제휴 '한달적금' 출시 - 뉴스핌",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CUVBMbjB5UVNqdzh1eVlHTHNTdGMwNkhMZFBVcmwtLS1FcGIxXzBDRS0wNlJBQ1AtbWN6NGlPU2JtYWVSUzB5RGdJdjVUS1ZjbW5lSkhqaG56am1q?oc=5",
-   "source": "뉴스핌",
+   "title": "농협상호금융, 농사게임 연계 적금 출시…우대금리·농산물 혜택 - 푸드투데이",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXTURxRmZuakNqSGxCNFMycnFmSEZodGpOQS1WMEJYVkFfNGtlNUZScHNOamdyR1p0a2RUckhmVE52YVdnLUlaV252WFl6YVVSNzllVGJzOWxVWDRHWkM4aG1meUE3dw?oc=5",
+   "source": "푸드투데이",
    "date": "2026-11-16"
   },
   {
-   "title": "카카오뱅크, 다이슨과 제휴 적금 출시…납입 횟수 따라 할인 혜택 - 디지털투데이",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aSklXMTdRZ1o0V21oREdUM1FFc0ktT2U3Zm4tWGF3WjFKR2JiMTlYc1IyLUZHMllYX1VUeG5LLTQ4azNfYjEzNDFNLVl5b0I3ai04MjJfWnBYZTVxT3JpOFdUXzhSdUN2SzhQV3JNQkQ5d0E?oc=5",
+   "title": "농협상호금융, 게임으로 농사 짓는 적금 출시…최고 연 7.3% - 우먼타임스",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tRmpQWkgyTzRfZkdVc2dPRWwwU21UVVFQaVlESWZsVUpHMkJkRTFvdzItd0lIS3JHc2xvbkFMamhGbUJvVTZUUzZvRFZQMEQ0bE92UGVBM1E2d0hNRVdaQ0lsZ181UHpkNm1wUFNkN2rSAXRBVV95cUxNNzRlc0lDdzIwdjlqV0ZPb3p3RDJTVjRLZjhIS2cxaGVtdk9aRDY5VGdPSGpxZkFqVGxDbl9SV2pFRHpWbmxCSWxrNEVTYnczZ3cwWm5TaGwyZzJfdGt3bVczZ0JEbkRZZmdLeE1kTzltNVc4OQ?oc=5",
+   "source": "우먼타임스",
+   "date": "2026-11-16"
+  },
+  {
+   "title": "iM뱅크, 제주 첫 영업점 개설…연 11% 특판 적금 출시 - 디지털투데이",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zbFVVVnNNQTB0MWlSRnBPanFYc0FRc3dDVHlvUHJwaUhYLTV4ZURiSTN5QUZRYVFXSmxHVkRSNFpROWVzQTNvVWJ2Uk1ReXZyQnNWS2d6Nk4xdTNld0NTeWFaREFoY0xVVEx6Y0VjeEtkN2c?oc=5",
    "source": "디지털투데이",
    "date": "2026-11-16"
   },
   {
-   "title": "“저금할 때마다 다이슨 할인”…카카오뱅크, 제휴 한달적금 출시 - 헤럴드경제",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ySEg4Y1hJSnpyalZ1OGRpUlpxWDdMLTB3UTB5bFVnUUdDM25Dd21tYlZUaDhaU244amVnM0NweDZWREhRY3hwYnlEaWdHdEJieU5aY25B?oc=5",
-   "source": "헤럴드경제",
+   "title": "＂매일 저축하고 할인 혜택＂…카뱅, ′다이슨 한달적금′ 출시 - KPI뉴스",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBXRHlHU3dRd0pVTzhKZ1cweEFEUVhKd1lKT1lJaVNaZXZSc1BxeTVUbVZDV1p4T3h4YW03R1RtUDNxZVJ5N2lxUjdnbUxfY01lcFJIS1BQa9IBU0FVX3lxTFA3LXJMZ1Zmek9sMlN4MFFzSWR2ajNickZvQTZiWmZZUWFPa1ljcTNoRWZhQm10RlpPZW5ra2RBQTkzVTBYWUZvai1XdmZqb3VxeVhF?oc=5",
+   "source": "KPI뉴스",
    "date": "2026-11-16"
   },
   {
-   "title": "카카오뱅크, 다이슨 할인 혜택 '한달적금' 출시 - PRESS9",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vZkd3UWdNNEtVbUNXSjFmZFFmVTVzbU45SWlhV3ZwZEhuYUgtNDJKR2duNjE5YTRjOTZVbU94V0NtMWNmcVZxbGlLWTZvdURVV3dYMVk0SlpuR2dwN3F2ckJXY3I?oc=5",
-   "source": "PRESS9",
+   "title": "BNK부산은행, 르노코리아 고객 우대적금 출시 … 신차 구매 및 렌터카 계약 고객 대상 최고 연 4.3% 금리 제공 - 워크투데이",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LRUZvSklGbXo3UDlSUDllODVrMXljR3hhTHdSSUJ2bndyeXFaeTJzc1dMTUlKR05ybHhfWEQ3Vk1QN0xFRG96cFZ6ZElZVWFyekhXdGtQS0d1TzFILWkzaFNEZmY2cE15N1JKcg?oc=5",
+   "source": "워크투데이",
    "date": "2026-11-16"
   },
   {
-   "title": "카카오뱅크, '한달적금 with 다이슨' 출시… 폭넓은 혜택 제공 - 뉴스락",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fMzhuWjlZTTBjUGJOVFBwUDJKV1UwVWlNYWRIemNnUWpKTTRPMmJBZTVQNmVTeENldnJwM3IxLTZpMFdTRVA0eUk5SHBHTTlOQ0F0bVByMmVobU9lYy1NeDUxOU1sOE1wRGhMVw?oc=5",
-   "source": "뉴스락",
+   "title": "카카오뱅크, '한달적금 with 다이슨' 출시…납입 회차별 혜택 - FETV",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ySlYtX2lmUDhJLVRpOGRIdlRqRF9ZUWVEQ0xKcnVXLVY3MF9fcW85ajk3RG1rOExPdmEzMjFiQl9BZ180bDB4bkw4T2NDYVQ1Z2JvdGh0Nk5mVzJCSXhEcEppMmJqTXpf?oc=5",
+   "source": "FETV",
    "date": "2026-11-16"
   },
   {
-   "title": "우리銀, 모니모 앱에 입출금·적금·예금 3종 상품 출시 - 경제타임스",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TNk4zU1ZabkNKcmdzSXBmM0sxc1ctT1RrVjV0Y3JaRG9aWndoQi15T1B5REdqMVAxWXpQYXJFRmxwTzJzTmpGdEF4Ymk1eDhqRXFB?oc=5",
-   "source": "경제타임스",
-   "date": "2026-11-12"
+   "title": "[금융 라운지] 카카오뱅크, '한달적금 with 다이슨' 출시…할인 쿠폰·경품 혜택 제공 - 굿모닝경제",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QTEJQa09kdV9pMDBIdnNQaHpTaGJJZy1aTXhMN29GRkRNeHp6TTFja3dQTWFrdW9JVUlOMks4N3l5aVRuR212NFFLN1A1UXRyWnhoVmhtWUtKZDZWdk51MVF1SmJuXzlWRHJyNw?oc=5",
+   "source": "굿모닝경제",
+   "date": "2026-11-16"
   },
   {
-   "title": "충북농협, 농업인의 날 맞아 ‘농심천심’ 예·적금 출시 - 중부매일",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGUF9mWFhnMVN4bWczbTVVbzhMaDVZSjFzb3dNeTZZalh5MnRiMDYwTDhpZ21iWWZyTzhReFExRjdQaENQSVBLekl0NTlFLUoxeGNiTjdaWmlUWkg5c2R1bWg3WFFwaS1DYUHSAW5BVV95cUxPR3NzdVg3X3lfWlhjTUZ3TGlfc0YxQWxZTWJtaURLVnRzTG50TU9nbUVfZ3llellEY1p6MmY5dTJLampITjNudHc1eGRrOTBJSVNZazZEeUFQSnhJRms4cEpFNnZGTkEydGU2WEhqZw?oc=5",
-   "source": "중부매일",
-   "date": "2026-11-11"
+   "title": "카카오뱅크, 할인·경품혜택 담은 '다이슨 한달적금' 출시 - 뉴스드림",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zakFmYnBJOWZLamc3TmxCVEJZZ0hWZ3BTMkVob1I4T2g0VEJrcFVXNEhmeWVzaEh6U25BRF9uU2c0a01UVndwd0szVFVKckktRGdJMllzdzJKYWpaZHg1aUVBc3VuQnpwWmfSAW5BVV95cUxNal9iTTd4ZHY0N0tCZ0NKdUpYczREakdZbXYyVHVmcmUtay15bDBaZ3A2UWNUVUlINnJEVGJ0dGZGVVhZUHZENlJPLVhLWTMtRngwQVRHVU5qdEhYZXZPbTVqeUJMX1dVSnptSjkxZw?oc=5",
+   "source": "뉴스드림",
+   "date": "2026-11-16"
   },
   {
-   "title": "삼성금융·우리은행, 모니모 전용 예·적금·입출금 상품 출시 - 팝콘뉴스",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WeFJrS04xa1VXZWxVSlZQSGNqUzFkLW1fdUhiUTdrTW50bk5ZTUlfeWRkM1oxeTRXWi0zeTNRdC14MVVDY3NHRGRBV0dsamVPam9JdVV5TV9XdGZwakcwTlZuNm9xeEg3ZFBCTW9B0gFyQVVfeXFMUGh2bmpBNllaVTdYSjFZbGZCbGJQTDlJbHZ0OEw3UDJSeFowUUtBUFJVOWFOdk5TM2J0VGY1dVZCR3gtcFRNaFNISmxlZEt3cFYyMzQ3QXlPanh4eXNUOGN2N0FzUm9qOXNUOUZkNG5lcVhR?oc=5",
-   "source": "팝콘뉴스",
-   "date": "2026-11-12"
-  },
-  {
-   "title": "우리은행, 삼성 '모니모' 전용 금융상품 출시…적금 최고 연 8.5% - 핀포인트뉴스",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oVzVhMXRRaEpEQjliSEV3T3BvWFZMcm12Y21BbURIUE80Vk9JQ3JDdTRYeUVRVnJaWHI0Zi1aMDU4ZnRiRThlNWxxcnB1TkxaZzQtbWNQQ19WdjNpbk9WQzRNblByRzJ2VU5GZkw3YlkzcEVVQ0pn0gF3QVVfeXFMTmhXNWExdFFoSkRCOWJIRXdPcG9YVkxybXZjbUFtREhQTzRWT0lDckN1NFh5RVFWclpYcjRmLVowNThmdGJFOGU1bHFycHVOTFpnNC1tY1BDX1Z2M2luT1ZDNE1uUHJHMnZVTkZmTDdiWTNwRVVDSmc?oc=5",
-   "source": "핀포인트뉴스",
-   "date": "2026-11-12"
+   "title": "카카오뱅크, 매일 저금하고 다이슨 할인받는 '한달적금' 출시 - 데일리안",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zTkRlVmpmSktabzlpdnBMZzUyQlRtMXNRSWJLN1dHMzRxZ21TblI4Rk5yUGd1QXRCbk1KdTJmX3RRVDVxd3UxRnNnRERGTW1ZNlhV?oc=5",
+   "source": "데일리안",
+   "date": "2026-11-16"
   }
  ],
  "news_seen": [
-  "636ee763aa16c4d2",
-  "0d94d19d9ef03389",
-  "a110e2bf259fe7a7",
-  "e97773c2e3ed5254",
-  "7ad2ebc95d711335",
-  "305006f38fdacbfe",
-  "56f3ec6fdc5b4933",
-  "6cbf7488de3c0d2d",
-  "14c522e53e6e2757",
-  "0f82747bbcbfabac",
-  "dd691a07a8284211",
-  "a4c5bf4f4f777797",
-  "7c20abe1b77d797b",
-  "70a7fc1d8251409c",
-  "a12838a412418fc3",
-  "6cade398c77e68cb",
-  "54de2dcdde023280",
-  "249a8b3d23373ccb",
-  "d24c90f66c1dea75",
-  "40e8047d0b79840d",
-  "989f72b0ba65d644",
-  "c180288f068f52ec",
-  "6a3aba948938369e",
-  "fd2ce246d054b178",
-  "5bdb2486a92b962d",
   "c01ef229c1b8be54",
   "d39c55f9b795f201",
   "74bea3343150016e",
@@ -5494,7 +5469,32 @@
   "c12208c97d103ec5",
   "cbc633b9aa20b641",
   "05863842c71f54ac",
-  "af483965317f4c5d"
+  "af483965317f4c5d",
+  "f58b33e9931b0f83",
+  "54256b154732d4bb",
+  "f625ee154ab89c9c",
+  "23a9eedfd0f18fa9",
+  "89781741490a6286",
+  "b02775064d8bc073",
+  "314dce0baaa6d39c",
+  "c714b8488cd8fd66",
+  "ab98d6cd42b2c7a7",
+  "06dcf436e8492bcb",
+  "2cb9fcb6b87be9a3",
+  "d597226c6308e2a8",
+  "0b04132f63ba4656",
+  "db0f9acf88b1a35c",
+  "cf0b516492e00645",
+  "11559c695947a221",
+  "ffb4e52288c1a280",
+  "cfe3b2f5f120f70d",
+  "40e7a2de6cf6881c",
+  "f5fdd3afb96f0b3e",
+  "a969b580659e8ca0",
+  "5717c18a00c5e997",
+  "5c65014c6776d0ba",
+  "41420578ee74e388",
+  "34c5c92dfcb62927"
  ],
  "news_seeded": true,
  "news_products": [
@@ -5504,12 +5504,30 @@
    "norm": "다이슨한달적금",
    "rate": null,
    "first_news": "2026-11-16",
-   "count": 1,
+   "count": 5,
    "articles": [
     {
      "title": "카카오뱅크, 할인·경품혜택 담은 '다이슨 한달적금' 출시 - 뉴스드림",
      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yLWZqTm0ydDR2S1lEcTRtUHJRWEZYR29OOUNzOVVhVnllTE5ubVpodTRoS3RMbDJxTlQ2VmJEazByTDE5eWp5SkF3bHdLS2RMX1I5S05DdWp5SUo0WDN6b2YwOXlZU1lvT0Nr0gFuQVVfeXFMTWpfYk03eGR2NDdLQmdDSnVKWHM0RGpHWW12MlR1ZnJlLWsteWwwWmdwNlFjVFVJSDZyRFRidHRmRlVYWVB2RDZSTy1YS1kzLUZ4MEFUR1VOanRIWGV2T201anlCTF9XVUp6bUo5MWc?oc=5",
      "source": "뉴스드림",
+     "date": "2026-11-16"
+    },
+    {
+     "title": "＂매일 저축하고 할인 혜택＂…카뱅, ′다이슨 한달적금′ 출시 - KPI뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBXRHlHU3dRd0pVTzhKZ1cweEFEUVhKd1lKT1lJaVNaZXZSc1BxeTVUbVZDV1p4T3h4YW03R1RtUDNxZVJ5N2lxUjdnbUxfY01lcFJIS1BQa9IBU0FVX3lxTFA3LXJMZ1Zmek9sMlN4MFFzSWR2ajNickZvQTZiWmZZUWFPa1ljcTNoRWZhQm10RlpPZW5ra2RBQTkzVTBYWUZvai1XdmZqb3VxeVhF?oc=5",
+     "source": "KPI뉴스",
+     "date": "2026-11-16"
+    },
+    {
+     "title": "카카오뱅크, 할인·경품혜택 담은 '다이슨 한달적금' 출시 - 뉴스드림",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zakFmYnBJOWZLamc3TmxCVEJZZ0hWZ3BTMkVob1I4T2g0VEJrcFVXNEhmeWVzaEh6U25BRF9uU2c0a01UVndwd0szVFVKckktRGdJMllzdzJKYWpaZHg1aUVBc3VuQnpwWmfSAW5BVV95cUxNal9iTTd4ZHY0N0tCZ0NKdUpYczREakdZbXYyVHVmcmUtay15bDBaZ3A2UWNUVUlINnJEVGJ0dGZGVVhZUHZENlJPLVhLWTMtRngwQVRHVU5qdEhYZXZPbTVqeUJMX1dVSnptSjkxZw?oc=5",
+     "source": "뉴스드림",
+     "date": "2026-11-16"
+    },
+    {
+     "title": "카카오뱅크, 매일 저금하고 다이슨 할인받는 '한달적금' 출시 - 데일리안",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zTkRlVmpmSktabzlpdnBMZzUyQlRtMXNRSWJLN1dHMzRxZ21TblI4Rk5yUGd1QXRCbk1KdTJmX3RRVDVxd3UxRnNnRERGTW1ZNlhV?oc=5",
+     "source": "데일리안",
      "date": "2026-11-16"
     }
    ],
@@ -5521,12 +5539,65 @@
    "norm": "한달적금with다이슨",
    "rate": null,
    "first_news": "2026-11-16",
-   "count": 1,
+   "count": 5,
    "articles": [
     {
      "title": "카카오뱅크, '한달적금 with 다이슨' 출시… 폭넓은 혜택 제공 - 뉴스락",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fMzhuWjlZTTBjUGJOVFBwUDJKV1UwVWlNYWRIemNnUWpKTTRPMmJBZTVQNmVTeENldnJwM3IxLTZpMFdTRVA0eUk5SHBHTTlOQ0F0bVByMmVobU9lYy1NeDUxOU1sOE1wRGhMVw?oc=5",
      "source": "뉴스락",
+     "date": "2026-11-16"
+    },
+    {
+     "title": "카카오뱅크, '한달적금 with 다이슨' 출시…납입 회차별 혜택 - FETV",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ySlYtX2lmUDhJLVRpOGRIdlRqRF9ZUWVEQ0xKcnVXLVY3MF9fcW85ajk3RG1rOExPdmEzMjFiQl9BZ180bDB4bkw4T2NDYVQ1Z2JvdGh0Nk5mVzJCSXhEcEppMmJqTXpf?oc=5",
+     "source": "FETV",
+     "date": "2026-11-16"
+    },
+    {
+     "title": "[금융 라운지] 카카오뱅크, '한달적금 with 다이슨' 출시…할인 쿠폰·경품 혜택 제공 - 굿모닝경제",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QTEJQa09kdV9pMDBIdnNQaHpTaGJJZy1aTXhMN29GRkRNeHp6TTFja3dQTWFrdW9JVUlOMks4N3l5aVRuR212NFFLN1A1UXRyWnhoVmhtWUtKZDZWdk51MVF1SmJuXzlWRHJyNw?oc=5",
+     "source": "굿모닝경제",
+     "date": "2026-11-16"
+    },
+    {
+     "title": "카카오뱅크, '한달적금 with 다이슨' 출시…'할인쿠폰·로봇청소기' 쏜다 - 팝콘뉴스",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGVENtR0IxekhkeEJyM2tGQVZzTF9sallUVHowbEJ4RDR1X2Fra3h2dWN3b19kZWZtX2R4Ynk4TDRoTGoxdjctQUFHTmV0U0xmZWlSNHF0MzVXLVRyYXZwQzJqQ2xqTDN4dElNRnl5Zw?oc=5",
+     "source": "팝콘뉴스",
+     "date": "2026-11-16"
+    }
+   ],
+   "in_disclosure": false
+  },
+  {
+   "bank": "부산은행",
+   "name": "르노코리아 우대적금",
+   "norm": "르노코리아우대적금",
+   "rate": 4.3,
+   "first_news": "2026-11-16",
+   "count": 10,
+   "articles": [
+    {
+     "title": "BNK부산은행, '르노코리아 우대적금' 출시...최고 연 4.3% 금리 - 파이낸셜뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZdEQxZ0gtdjJXRkJzWW9UWXlObmhyQnJsRjcxbi1XZnF6VVVSbENYakpEb3JJQkgyVjNvTHI3Z1o2RXBVY2lsVG1YWU1FSm9oVjJ5YkwwQlZQZw?oc=5",
+     "source": "파이낸셜뉴스",
+     "date": "2026-11-16"
+    },
+    {
+     "title": "부산은행, ‘르노코리아 우대적금’ 출시···최고 연 4.3% - 이뉴스투데이",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfQUFXVHU3Nm16alpRRVpTeDRTdldPTkZfUlZFbHlGdGNYLUlqTThfeXJZeTA0RDB2ZmJ1azJCa282WU14TTU5VVRIUTFpZUVBdFVoR0R3NHRtRDZXUmMxMDIyQ2hmY1lSdFBJa0N0c1LSAXRBVV95cUxObWh3YWltdVVfMzNUa2ZKYS1YM25PUnZUQVdkZUJXazV4eDFqVjBiNUNwZHQxZWJPOWNsdUxPazk0OW9aeXdhclNCSVAzeHNrbnZndnRsR3BLM1BFeXhqSXJEWVM2ZmJNTTJaVmJfZVhPOXpLNA?oc=5",
+     "source": "이뉴스투데이",
+     "date": "2026-11-16"
+    },
+    {
+     "title": "BNK부산은행, 르노코리아 고객 우대적금 출시 … 신차 구매 및 렌터카 계약 고객 대상 최고 연 4.3% 금리 제공 - 워크투데이",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LRUZvSklGbXo3UDlSUDllODVrMXljR3hhTHdSSUJ2bndyeXFaeTJzc1dMTUlKR05ybHhfWEQ3Vk1QN0xFRG96cFZ6ZElZVWFyekhXdGtQS0d1TzFILWkzaFNEZmY2cE15N1JKcg?oc=5",
+     "source": "워크투데이",
+     "date": "2026-11-16"
+    },
+    {
+     "title": "BNK부산은행, '르노코리아 우대적금' 특판 - 메트로신문",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5seEc4MmEtQmJpUl9DeEREbTV6NTFDbDhyVkRpWHpXVnBFU3dtbmw0OTdPb3pNal9jOWZhTm92am1rSURHNUFwNHJ4ZzcxV1pzSk5KNldISnV1T3pjOWRYZQ?oc=5",
+     "source": "메트로신문",
      "date": "2026-11-16"
     }
    ],
@@ -6015,23 +6086,6 @@
      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRelRoMHZCNGRCbjRsR2pHQnhWeEpfWjVuSDdOaWhjNWtwTEtvdHpLcXRJZU5wUEpjcTJBdHpUVG1hZGlMLU5EeFJkVjFHY1BRdGktdExUQmpubHUwU25ZeDZBbUs1NUVUeVNr0gFuQVVfeXFMTWJ5aVhtZlc1bkFFeUV3LU1BWWY3OGRaUExsVk5IU1NtRWQwSGVscjdjOHJkd3BtSnQ2cGJKRGVYOGdwa2RDNWxqNXdic0lQYnVucFZGVmtjSU84T0RMV0hWcmlPRFJPRFlpM2p2ZWc?oc=5",
      "source": "파이낸셜투데이",
      "date": "2026-09-18"
-    }
-   ],
-   "in_disclosure": false
-  },
-  {
-   "bank": "케이뱅크",
-   "name": "쎄봉라마 적금",
-   "norm": "쎄봉라마적금",
-   "rate": null,
-   "first_news": "2026-09-14",
-   "count": 1,
-   "articles": [
-    {
-     "title": "매일 저축하면 그림 한 장씩…케이뱅크, ‘쎄봉라마 적금’ 출시 - 뉴스퀘스트",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YaHA0a0dHcTRMQkljMjFBOWR4U2ZWQUp6RjF6S3dTdVpZZENnaGZ2YnMxTHBKcm9yVVE3aWh3eGVkcDlSSml4dko2d1k4eVBYYzEzLVhjZ1prMkg2eHFtZXZYdk9wZ0F3OGFBUk1Nbw?oc=5",
-     "source": "뉴스퀘스트",
-     "date": "2026-09-14"
     }
    ],
    "in_disclosure": false
