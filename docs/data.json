@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-17 12:38",
+ "updated_at": "2026-11-17 22:01",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -2458,7 +2458,7 @@
    "join_deny": "1",
    "spcl_cnd": "· 만기 해지 시 : 연 2.50% 제공",
    "mtrt_int": "· 만기 후 1개월 이내 : 만기시점 기본금리 X 50% \n· 만기 후 1개월 초과 3개월 이내 : 만기시점 기본금리 X 20% \n· 만기 후 3개월 초과 : 연 0.10%",
-   "max_limit": 300000,
+   "max_limit": 500000,
    "etc_note": "· 1인 1계좌 (단, 이벤트 등으로 토스뱅크가 복수의 계좌개설을 허용하는 경우 추가 개설 가능)\n· 가입금액 : 0원\n· 우대금리는 만기 해지하는 경우에만 제공됨",
    "options": [
     {
@@ -2987,15 +2987,15 @@
      "save_trm": 24,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.02,
-     "intr_rate2": 3.22
+     "intr_rate": 3.05,
+     "intr_rate2": 3.25
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.82,
-     "intr_rate2": 3.02
+     "intr_rate": 2.85,
+     "intr_rate2": 3.05
     }
    ],
    "best_rate": 3.48,
@@ -3023,8 +3023,8 @@
      "save_trm": 1,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.34,
-     "intr_rate2": 2.44
+     "intr_rate": 2.35,
+     "intr_rate2": 2.45
     },
     {
      "save_trm": 3,
@@ -3037,8 +3037,8 @@
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.09,
-     "intr_rate2": 3.19
+     "intr_rate": 3.1,
+     "intr_rate2": 3.2
     },
     {
      "save_trm": 12,
@@ -3051,15 +3051,15 @@
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.92,
-     "intr_rate2": 3.12
+     "intr_rate": 2.95,
+     "intr_rate2": 3.15
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.72,
-     "intr_rate2": 2.92
+     "intr_rate": 2.75,
+     "intr_rate2": 2.95
     }
    ],
    "best_rate": 3.38,
@@ -3652,33 +3652,33 @@
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.5,
-     "intr_rate2": 3.5
+     "intr_rate": 3.51,
+     "intr_rate2": 3.51
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.5,
-     "intr_rate2": 3.5
+     "intr_rate": 3.49,
+     "intr_rate2": 3.49
     },
     {
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.34,
-     "intr_rate2": 3.34
+     "intr_rate": 3.33,
+     "intr_rate2": 3.33
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.26,
-     "intr_rate2": 3.26
+     "intr_rate": 3.25,
+     "intr_rate2": 3.25
     }
    ],
-   "best_rate": 3.5,
-   "best_base_rate": 3.5,
+   "best_rate": 3.51,
+   "best_base_rate": 3.51,
    "best_term": 6,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85%EC%9D%80%ED%96%89%20IBK%EB%8D%94%EA%B5%B4%EB%A6%AC%EA%B8%B0%ED%86%B5%EC%9E%A5%28%EC%8B%A4%EC%84%B8%EA%B8%88%EB%A6%AC%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88%29",
    "first_seen": "2026-07-31",
@@ -3702,8 +3702,8 @@
      "save_trm": 1,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.81,
-     "intr_rate2": 2.81
+     "intr_rate": 2.82,
+     "intr_rate2": 2.82
     },
     {
      "save_trm": 3,
@@ -3716,19 +3716,19 @@
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.55,
-     "intr_rate2": 3.55
+     "intr_rate": 3.56,
+     "intr_rate2": 3.56
     },
     {
      "save_trm": 12,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.6,
-     "intr_rate2": 3.6
+     "intr_rate": 3.59,
+     "intr_rate2": 3.59
     }
    ],
-   "best_rate": 3.6,
-   "best_base_rate": 3.6,
+   "best_rate": 3.59,
+   "best_base_rate": 3.59,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85%EC%9D%80%ED%96%89%20IBK%EA%B5%B4%EB%A6%AC%EA%B8%B0%ED%86%B5%EC%9E%A5%28%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88%29",
    "first_seen": "2026-07-31",
@@ -4622,155 +4622,79 @@
  ],
  "news": [
   {
-   "title": "[포토] 농협상호금융, '농심천심키움적금' 출시 - 이데일리",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdHV6UFE2a3BHUFRMMzFTa3hpTVdPOXlwV25lSy1LMnVGVVg2MENPYnBSbUpja2Y5UzhqdWdBaHVjTnB1SElhdzJVNFFvcEFFQTVIRWZTaEVLaUZ4R3ZQa0VnOFViYzBTS0lwNzNEeDQwaVhINXNuSXViSGJrdlI3Uw?oc=5",
-   "source": "이데일리",
-   "date": "2026-11-16"
+   "title": "하나은행, JYP와 손잡고 최고 연 6% '나눔 적금' 출시 - 오피니언뉴스",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56bVVzb19EZzFRMERwa3ltcU41Mk5SY2RjMmlic0RjTUEwQld2YmFxTkJLdVZzV0U2MHdPTkl4cnVOMGQtYkhvYWpvcEJLNG1iSlc0bWZwQUR1VXcxU0U5SThadU9Yczl0VUJnVGlqelo?oc=5",
+   "source": "오피니언뉴스",
+   "date": "2026-11-17"
   },
   {
-   "title": "농협상호금융, 농업의 가치를 담은 「농심천심키움적금·채움예금」 출시 - 로컬세계",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zUnpsVjBudmx5c09BRXhfa25YMUxXcG5ydHc3ZFZiMXdLWlBVMTlIcS1mZ2U1NG9WRU9jVXdhSzZ2bm43cE5XeXBsTGtIVGg0MnlkbUpEZm4yZi15a1N1WdIBWEFVX3lxTE9Qa1BfNFhiWWd6TzFUbERSeXR3T3ZfWlZYbndEclUtbmNWZ3IxdHhPSmxpX0FyVHhYZ2ZXV1dRWV9aVUV6dmpiVWlwOXZ2eUIxRVh4d0FvRnY?oc=5",
-   "source": "로컬세계",
-   "date": "2026-11-16"
+   "title": "하나은행, JYP 팬덤을 기부금에 연결…‘JYP EDM 나눔 적금’ 출시 - 재외동포신문",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwN19rYld6SmdiMlJBeEhwa1o4T054c1NTUlI2UGgzdnJTRUtNTHlxUDhON3Zydnk5SDUwcTJXdllBbEZ4MXZhXzJLM0VvZXdjU2pMRzYzalhWdEN0UHZycVUxMDZ2ZVRxQUpvbw?oc=5",
+   "source": "재외동포신문",
+   "date": "2026-11-17"
   },
   {
-   "title": "카카오뱅크, '한달적금 with 다이슨' 출시···최대 50% 할인 혜택 - 현대경제신문",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kWDNjaFE5aHU1MXd1MHBKUDZfOVpOdk53SzIwdFRlTjA5RmhXcHRkcGpDTDNMMFJhSk9aeG1WZnhwNkhidUc2cEJkSmM2M19ydE1MZ1Byc2I4MERhZ3IzTWdpREF1b3g00gFrQVVfeXFMT1B0VUpoLXp2SGlYai1vdVJuTlU3eks0QWpVUlRDNUwzbW45cG5VSkQ3czJJZ05hUXFia3RuZXhyZzd6X2Nvakpla2FseVlRTVFKdXByRWVyY1pYeUdWTnVKWmZROWxnbTJ1Wms?oc=5",
-   "source": "현대경제신문",
-   "date": "2026-11-16"
+   "title": "하나은행 ‘JYP EDM 나눔 적금’ 출시 - 천지일보",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PdUZ1RlhYdEtkcTBhWjJhc2duWE5WYUhPeEJRenNYNzBDeDAyMWcwcUFYdXRmLWRoZXJBcmNlVExMUzFZYkVWSTl2cDRkSW1EWC1OVzJTcHZpV0lXQkcxYVV3VTdDZGFfX2c?oc=5",
+   "source": "천지일보",
+   "date": "2026-11-17"
   },
   {
-   "title": "부산銀 ‘르노 우대적금’ 특판 - 국제신문",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQldiYlhUbjRJQlNNc01zRXd0TENncUlOTmJSdTJaZF8zclBnVUdKS0xpcU55XzI5bEdQanc2bHlQR25hSTMzd2JGTUJoVlU2Q19zS2stLWVLNEk4My13dURtUTlSbkJNb05nRUF3ZXQ3WWNIZU1mcGtBMy1iUlFPRERPelBSOGNVWUd4ai1pcC1UWUk?oc=5",
-   "source": "국제신문",
-   "date": "2026-11-16"
+   "title": "하나은행, JYP와 최고 연 6.0% 금리 'EDM 나눔 적금' 출시 - 한국세정신문",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DempSTjRmYm9MX2VwRGN2Mk1SdnpYMkdreVA1MmhPNlpwdWR5dW91ajFLSS1MRlAtbjJsdEhYSkl2VElmb0c2cjJiRjFodlIzT0t4NWVKR0xzRG5IR1U0YnRmTGc?oc=5",
+   "source": "한국세정신문",
+   "date": "2026-11-17"
   },
   {
-   "title": "BNK부산은행, 르노코리아 고객 대상 우대적금 특판 - 파이낸셜투데이",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XZjZLSDNCY1pBUXJ2cmlFWjFfVmtVYkY1dTZjcWw4NklQVTByLVJkSEVaampGLTQxdllzc1hBSnJkVGhNOTFRek9YYXNQUFlvZkxPeHBKcEV3VW1JNUxCOFhUSE9UNzZWanfSAW5BVV95cUxPOE8wUDRTU1FEaHM3c211T3FaXzBKMlV5dTFyOHB2NWtRNlF5Yko1aFlYUmxvZEtOMDRaQ2kzRTR6cXJSSmtTUk9VRFlNY2hxRUdoWGFhU3ZQdHlQRmtnYVlmU0VrVlNpTnNYSWdmdw?oc=5",
-   "source": "파이낸셜투데이",
-   "date": "2026-11-16"
+   "title": "하나은행, JYP와 손잡고 ‘EDM 나눔 적금’ 출시…최고 연 6.0% - BBS불교방송",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MRVVFZlhMN1FDLTI0akdmMzNnc3V6YkgybTFmZk8ydzhIWl9pYnpwR2JweEkyQkZCUUgtZ1I0a0xuZWVBVkZ1UEZxRXpIMGhCTFNiSVo0ZTZJWGJHaTBOYW1yVV9vbF9TdGRn?oc=5",
+   "source": "BBS불교방송",
+   "date": "2026-11-17"
   },
   {
-   "title": "BNK부산은행, 르노코리아 우대적금 '한시 특판' - 투데이 부산",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3Z2dKME9OZDRRUENoaUpGME0tY2V1Q0ZvaVZDMGpWdzRqaUVjNjRJSXRoa21Kbmo1TElwQ0tsSGd6S18wa0VESDI4LU1PODkzajVhV3hVa0xXWWxfZE1MbW9QV0lNdnVWNnJr?oc=5",
-   "source": "투데이 부산",
-   "date": "2026-11-16"
+   "title": "하나은행, JYP와 손잡고 ‘나눔 적금’ 출시…최고 연 6.0% 금리 - 베이비타임즈",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hcmFpalRkbEtYM2ZPY01TS0NXMjJuN1pJcUs2Si04REJQdlJmREN6WUlOWEFkeGRXaWNWZHdaaXh5ZndCQkRvOVhjeW94aEJqSE54QzFGcHByYWZtR1AtdWtydjQ0aHdZZ1lONA?oc=5",
+   "source": "베이비타임즈",
+   "date": "2026-11-17"
   },
   {
-   "title": "“최고 연 4.3%에 5만원 추가”…BNK부산은행, ‘르노코리아 우대적금’ 특판 - 더게이트",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0ycDhvSE03UTg1bW9URFVEM3BpdlNCdWdDWDYwbHFqZG96UTNZdGJDcmszQ2dZTW9Ld2wyMjBLNWxwdmhKdkYwWGpuV3BQRHB6Q3MzcGhnWnhsenFKaUtTVDhKT2dWeUN5YjZ3d9IBbEFVX3lxTE0ycDhvSE03UTg1bW9URFVEM3BpdlNCdWdDWDYwbHFqZG96UTNZdGJDcmszQ2dZTW9Ld2wyMjBLNWxwdmhKdkYwWGpuV3BQRHB6Q3MzcGhnWnhsenFKaUtTVDhKT2dWeUN5YjZ3dw?oc=5",
-   "source": "더게이트",
-   "date": "2026-11-16"
+   "title": "하나은행, JYP엔터테인먼트와 손잡고 'JYP EDM 나눔 적금' 출시 - 연합뉴스",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QN0p4RTNZTDUxdm5QaElqLU9CczRjVW1Fd3lOR3J2c0QwenZpdnZvX29CcmpIeml0X3JQQi1jbUxFVjY5bEtQX3JRZWVVSEhYUlNpemRWemhEcEU?oc=5",
+   "source": "연합뉴스",
+   "date": "2026-11-17"
   },
   {
-   "title": "BNK부산은행, 르노코리아 우대적금 특판…최고 연 4.3% 금리 제공 - 더페어",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9idEJsQnFKQ0wzcmpod1BSVjNyZUxxOFVSemhDSWxsV092eWo3bjNSamRCOEhTUnEzdlFveUNweU5wSmMtVTUwMUJ1Q3RpQmlvcThsckZMY0hGaDhoU29tbncxR2oxWklpMjNJZ2k0azLSAXRBVV95cUxNZU9MZ3B3OVlJQUdzcWs5Y0piN1BwWjNQeTJSUndOcG1mb1JxTkpuNzZ4cGpnRjlvLUpNVmFqbVppb21fbUJlbTJrWEZMTUVMS3Nzc0ttbVAxejBvTVY1cW5oWTAtS3o1Nk1hME1LNTNIY1otUA?oc=5",
-   "source": "더페어",
-   "date": "2026-11-16"
+   "title": "하나은행·JYP 손잡고 연 6% 적금 출시··· 6개월 저축하고 기부까지 - 그린포스트코리아",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pMDlIMHdTb1M3NFRZNUtnRGg1V2trY1BhRkJtNzZvdlRBdlFDU2JUZlpDRnl3UXlZWEprTk5ycVFVR0QwWFdsWlctVnlhd2ZNZGxCUnBYT3BFdW5QN18tUkduajRYS3pIeEFyUmprZE1DQ2JaVmfSAXpBVV95cUxNcXBBOC1MTF8ydjNCaUxOeFN1b1k5ZG8yeDlONVIwSWNpRUhaSjA1dkVCR3A4cUFEejRkTkw4QndrOUdsbm12cUhqekNIbnRwczk4c2pOeHZlc1FNOFp5YmVZOFA5VWtpWmNmRDl2WW0wMlFjMWRETFFPdw?oc=5",
+   "source": "그린포스트코리아",
+   "date": "2026-11-17"
   },
   {
-   "title": "저축하면 다이슨 할인 혜택이 줄줄이…카뱅, 제휴 적금 출시 - 한국경제",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zajdLM2JabjRFVlFWUFBDaGk3YktLRDgzQlljbXlCbkk1YXZQS25kanhCU3RFSE9Kb2FTSXNKZDZVQjFFWFJHd3ViM1dFUE9FemlLbEZHc04tQQ?oc=5",
-   "source": "한국경제",
-   "date": "2026-11-16"
+   "title": "하나은행, JYP와 최고 연 6% 적금 출시…기부금도 함께 조성 - 머니투데이 - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YX3Y5c245Z3A3RjBNNTY1V3JDczJjMXlFR3JFck5IaXpFSU1wSVpscG1xUUZFQ1lRSVBCRWJBVDF2TlBuMUh5RDJjZEVTSk1MTWU0LURRaGtobWQxeVFTaDVXU2dDMkhHUlRiUl8zenrSAXBBVV95cUxNWF92OXNuOWdwN0YwTTU2NVdyQ3MyYzF5RUdyRXJOSGl6RUlNcElabHBtcVFGRUNZUUlQQkViQVQxdk5QbjFIeUQyY2RFU0pNTE1lNC1EUWhraG1kMXlRU2g1V1NnQzJIR1JUYlJfM3p6?oc=5",
+   "source": "머니투데이",
+   "date": "2026-11-17"
   },
   {
-   "title": "BNK부산은행, '르노코리아 우대적금' 출시...최고 연 4.3% 금리 - 파이낸셜뉴스",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZdEQxZ0gtdjJXRkJzWW9UWXlObmhyQnJsRjcxbi1XZnF6VVVSbENYakpEb3JJQkgyVjNvTHI3Z1o2RXBVY2lsVG1YWU1FSm9oVjJ5YkwwQlZQZw?oc=5",
-   "source": "파이낸셜뉴스",
-   "date": "2026-11-16"
+   "title": "카카오뱅크 ‘AI 목표적금’, 출시 한 달 만에 10만좌 돌파… 1분마다 2개씩 가입 - S저널",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tOWdhZ0Vyb0VQWVoxT2ZZVGVJUWRfVzBtRTJQajh4TWlYWXhEUWc1dEVwMEFMQ0lFRHpucFJHNDFOMU9FRHhhZ2tab3JYYWlIZnNfeVB2eTdPUnFsNTFDRkotR3JCeGxDNk1jOG5B?oc=5",
+   "source": "S저널",
+   "date": "2026-11-17"
   },
   {
-   "title": "부산은행, ‘르노코리아 우대적금’ 출시···최고 연 4.3% - 이뉴스투데이",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfQUFXVHU3Nm16alpRRVpTeDRTdldPTkZfUlZFbHlGdGNYLUlqTThfeXJZeTA0RDB2ZmJ1azJCa282WU14TTU5VVRIUTFpZUVBdFVoR0R3NHRtRDZXUmMxMDIyQ2hmY1lSdFBJa0N0c1LSAXRBVV95cUxObWh3YWltdVVfMzNUa2ZKYS1YM25PUnZUQVdkZUJXazV4eDFqVjBiNUNwZHQxZWJPOWNsdUxPazk0OW9aeXdhclNCSVAzeHNrbnZndnRsR3BLM1BFeXhqSXJEWVM2ZmJNTTJaVmJfZVhPOXpLNA?oc=5",
-   "source": "이뉴스투데이",
-   "date": "2026-11-16"
+   "title": "하나은행, JYP엔터와 '나눔 적금' 출시…최고 연 6% 금리 - SBS Biz",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SVmhxVDk3YzBrZzlkemlHMTVHMC02ZUljcWhiMmxjV09FUnJTbEhVby1GZ0E2NHgwUkU5RmhERGdiczNKU2lkTUx6QUoyLTJRYXhGcVdmamPSAVhBVV95cUxPUlZocVQ5N2Mwa2c5ZHppRzE1RzAtNmVJY3FoYjJsY1dPRVJyU2xIVW8tRmdBNjR4MFJFOUZoRERnYnMzSlNpZE1MekFKMi0yUWF4RnFXZmpj?oc=5",
+   "source": "SBS Biz",
+   "date": "2026-11-17"
   },
   {
-   "title": "농협상호금융, 농사게임 연계 적금 출시…우대금리·농산물 혜택 - 푸드투데이",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXTURxRmZuakNqSGxCNFMycnFmSEZodGpOQS1WMEJYVkFfNGtlNUZScHNOamdyR1p0a2RUckhmVE52YVdnLUlaV252WFl6YVVSNzllVGJzOWxVWDRHWkM4aG1meUE3dw?oc=5",
-   "source": "푸드투데이",
-   "date": "2026-11-16"
+   "title": "하나은행, JYP와 '나눔 적금' 출시... 최고 연 6% 금리에 기부까지 - 법률방송뉴스",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oMk5KN2F0WS1DZ01RUnprd3pTOEJnSjdtTlBrNFdaZ0drOExXQnZ6UjZQNVZtVThzeDUwQ2JYTWRUc1BwWE5tYldadjVEYjczZWs2QWtsN2dMRnlic3hjMUp1Nkg?oc=5",
+   "source": "법률방송뉴스",
+   "date": "2026-11-17"
   }
  ],
  "news_seen": [
-  "8ed5ef7cac057ecf",
-  "fdce1ea9109a3033",
-  "725a98c29e1ac455",
-  "53074d468b8f4d3d",
-  "13feca4573f3bc9e",
-  "bf8754c85386adf8",
-  "1ce7925c5049ee48",
-  "9daae6ba314c4860",
-  "20f6027a0f4baf59",
-  "3d958e90ec597cc6",
-  "bdb41133b5772d89",
-  "27d210280b111139",
-  "0c8a09cea396893b",
-  "83e503b27b60c160",
-  "b548616022e3f30a",
-  "0840c7368d35c709",
-  "7902e2535063c845",
-  "b2706818d0fe82b9",
-  "4a0002dc34cc1cbb",
-  "d137243b56e60d59",
-  "9bd4f419ee10df26",
-  "054ad9bd44be8595",
-  "6a09b4edc38c898b",
-  "cc679f0ac3bacba3",
-  "f2a4053ceda4f13b",
-  "e5553815469864aa",
-  "ff29623d57442256",
-  "a1fe1a018e05906c",
-  "a2202bf6e6256a63",
-  "691659a9ddb8c07a",
-  "d82a3e44e3afffc1",
-  "b13709015c528eb1",
-  "a66f1c8a5e1ce6df",
-  "55e938fec1c6623f",
-  "cb20c9901fa94833",
-  "e011e2336af1085b",
-  "9f6c36eeaacce25b",
-  "a3428717af93b463",
-  "ffec4cb52826d3dc",
-  "8d00c2a78711c268",
-  "9b122dcc73c270a9",
-  "c09d69b1bce68b95",
-  "42c1519eaa2483c7",
-  "4bbacbf03c2f923c",
-  "47b4ecbdc85ff7cd",
-  "589e573c00bebffe",
-  "52e4746bf38af820",
-  "b96f960b8433da0c",
-  "2f88fcd8dbf6cef2",
-  "e028dcdde231057e",
-  "b58a7e83cc10335a",
-  "bf04b81a965646a4",
-  "92f92e9ffbfe3252",
-  "256b9d71927b3001",
-  "f5bb723de1cd7e05",
-  "4d8f759d8d31055b",
-  "9275544005e270ea",
-  "c851d1605edd45e0",
-  "d5d278c35f0769b9",
-  "99db82e186fed850",
-  "d30d8844526d5061",
-  "f837b088631d2d34",
-  "c1290b6e9b55db56",
-  "6c8428ccb8b5aa90",
-  "e2eb1715f7e84153",
-  "94ae710f941cf01c",
-  "5309141eb8e52369",
-  "b24aa782ee4f481e",
-  "08281e0564a7bc24",
-  "604567bb40255884",
-  "ca18cc87d54c8727",
-  "36079cfd7b94f21b",
-  "616dbee58e0f77bb",
-  "229f5393875897ba",
-  "1d484c3b7c24f4d2",
-  "1bb7dd796a181a82",
   "4c00ffcf49180aef",
   "873b18a98327698c",
   "4cdc160284e6da74",
@@ -5494,17 +5418,145 @@
   "092f9c2a3d3472f8",
   "40de252f798a73ea",
   "12153cc421fc0073",
-  "0e3ca5d2097e40e0"
+  "0e3ca5d2097e40e0",
+  "80d8f76f911e7168",
+  "37c713c2dc7b15f3",
+  "24869e8627cf5fd8",
+  "553d803b68bffbd6",
+  "3471f715faa99d28",
+  "b20c0d829907b719",
+  "9d470b469f0a7e2a",
+  "1d91dd6cc1721a6e",
+  "f0521298f03ef087",
+  "5d0e5845ea7e28a1",
+  "043f87e9c65ca531",
+  "bb7203e6aa61a3ff",
+  "81b43a5a9ddb092b",
+  "249910c3072ad4fd",
+  "d86b46720c088191",
+  "010db7a26280d01f",
+  "3fe2c7e26dbd3c73",
+  "7c68735d42ce7cf2",
+  "15b6ed53100dabe7",
+  "159fb0704a774b80",
+  "b7a822bd9aa7cb0a",
+  "a3cfbfe936d3a811",
+  "864fff103af1bebf",
+  "179fc082f1a050ad",
+  "072648ab748fba39",
+  "0837d54ecd36744b",
+  "097b45f9dca6d4e0",
+  "c0087ffe0b5f2b09",
+  "6303ce3c87ab7a22",
+  "53baf6c1235c316e",
+  "f1d512907e7d4b37",
+  "8e92d8508af69d5d",
+  "1e2b76e45b9bc830",
+  "e3c3c1da755552b4",
+  "566ebe920fda6cd5",
+  "cbf2288c5d09a9d5",
+  "a041540c66064896",
+  "e22836457138568f",
+  "82adb65849f94eb4",
+  "f3dd4e46a91c5f64",
+  "dcd34c24e16006e4",
+  "e177b63b9aa94caa",
+  "b9a6fa3e963e5225",
+  "008e4af0847918dd",
+  "cbbedf00f38545c5",
+  "1584d120e581388d",
+  "de2ff1d3b903e802",
+  "903aba5f48bda796",
+  "1854c3b7dd85962e",
+  "65669c588553560b",
+  "75ca12335a784e29",
+  "919b73bcf4d497a9",
+  "9f9d4d3cad60f7a1",
+  "2d6b90d6eb8b12ed",
+  "b20ca74f40979013",
+  "6b473291a56ea43e",
+  "70f576d4f721ceee",
+  "72bc51f51b6b03d4",
+  "f96bcef89bd439e5",
+  "78057eb076817d5b",
+  "3988653cfe68a4ba",
+  "bfe5267d62df0d80",
+  "58e88172757f4bb7",
+  "08323bdfc4812846",
+  "41e1f317ba364aec",
+  "428a15cf8dd4a119",
+  "71dd5c66b3a2d7a4",
+  "94b3698e8e6ebdac",
+  "edc1a22840e536cf",
+  "7a53aeb17a3c48bd",
+  "06711db768841c8b",
+  "93687760a36d43a0",
+  "c1fb42df815a6da7",
+  "a2b929bdea79652a",
+  "23822d55a7f38654",
+  "71ef60079351c554"
  ],
  "news_seeded": true,
  "news_products": [
+  {
+   "bank": "하나은행",
+   "name": "나눔 적금",
+   "norm": "나눔적금",
+   "rate": 6.0,
+   "first_news": "2026-11-17",
+   "count": 52,
+   "articles": [
+    {
+     "title": "하나은행, JYP와 손잡고 최고 연 6% '나눔 적금' 출시 - 오피니언뉴스",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56bVVzb19EZzFRMERwa3ltcU41Mk5SY2RjMmlic0RjTUEwQld2YmFxTkJLdVZzV0U2MHdPTkl4cnVOMGQtYkhvYWpvcEJLNG1iSlc0bWZwQUR1VXcxU0U5SThadU9Yczl0VUJnVGlqelo?oc=5",
+     "source": "오피니언뉴스",
+     "date": "2026-11-17"
+    },
+    {
+     "title": "하나은행, JYP 팬덤을 기부금에 연결…‘JYP EDM 나눔 적금’ 출시 - 재외동포신문",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwN19rYld6SmdiMlJBeEhwa1o4T054c1NTUlI2UGgzdnJTRUtNTHlxUDhON3Zydnk5SDUwcTJXdllBbEZ4MXZhXzJLM0VvZXdjU2pMRzYzalhWdEN0UHZycVUxMDZ2ZVRxQUpvbw?oc=5",
+     "source": "재외동포신문",
+     "date": "2026-11-17"
+    },
+    {
+     "title": "하나은행 ‘JYP EDM 나눔 적금’ 출시 - 천지일보",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PdUZ1RlhYdEtkcTBhWjJhc2duWE5WYUhPeEJRenNYNzBDeDAyMWcwcUFYdXRmLWRoZXJBcmNlVExMUzFZYkVWSTl2cDRkSW1EWC1OVzJTcHZpV0lXQkcxYVV3VTdDZGFfX2c?oc=5",
+     "source": "천지일보",
+     "date": "2026-11-17"
+    },
+    {
+     "title": "하나은행, JYP와 최고 연 6.0% 금리 'EDM 나눔 적금' 출시 - 한국세정신문",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DempSTjRmYm9MX2VwRGN2Mk1SdnpYMkdreVA1MmhPNlpwdWR5dW91ajFLSS1MRlAtbjJsdEhYSkl2VElmb0c2cjJiRjFodlIzT0t4NWVKR0xzRG5IR1U0YnRmTGc?oc=5",
+     "source": "한국세정신문",
+     "date": "2026-11-17"
+    }
+   ],
+   "in_disclosure": false
+  },
+  {
+   "bank": "하나은행",
+   "name": "적금 들면 기부도 따라간다",
+   "norm": "적금들면기부도따라간다",
+   "rate": 6.0,
+   "first_news": "2026-11-17",
+   "count": 1,
+   "articles": [
+    {
+     "title": "“적금 들면 기부도 따라간다”…하나은행·JYP, 최고 연 6% ‘나눔 적금’ 출시 - 더게이트",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DbWRvMXlnUGtwbU5ETjBNTEM4eHpnX1otUmhUV3RraHhMMV81QWNLMGZ6eXRsdHBIaGY3Vy13bVROa0FXX1RFTU5fV2NUaEtjY1JiUXhUbzlhd3BOZUxuZVlVUGlQaHlH0gFsQVVfeXFMTkZNVTBjSmNvWndxem5JY0M0QkhyN2F6NnY4ZVhZLVJndTd6RzVINjFZSDN2RWVaN3A4VzBZTjY3WFg0SGZJQkU3MjRTMGVnazZ1QjI2ckctbXc0NUF1ZDBlN1JjemtMVjNGeTQ1?oc=5",
+     "source": "더게이트",
+     "date": "2026-11-17"
+    }
+   ],
+   "in_disclosure": false
+  },
   {
    "bank": "카카오뱅크",
    "name": "다이슨 한달적금",
    "norm": "다이슨한달적금",
    "rate": null,
    "first_news": "2026-11-16",
-   "count": 5,
+   "count": 6,
    "articles": [
     {
      "title": "카카오뱅크, 할인·경품혜택 담은 '다이슨 한달적금' 출시 - 뉴스드림",
@@ -5539,7 +5591,7 @@
    "norm": "한달적금with다이슨",
    "rate": null,
    "first_news": "2026-11-16",
-   "count": 6,
+   "count": 8,
    "articles": [
     {
      "title": "카카오뱅크, '한달적금 with 다이슨' 출시… 폭넓은 혜택 제공 - 뉴스락",
@@ -5817,7 +5869,7 @@
    "norm": "AI목표적금",
    "rate": 5.0,
    "first_news": "2026-10-13",
-   "count": 43,
+   "count": 58,
    "articles": [
     {
      "title": "카카오뱅크, ‘AI 목표적금’ 출시…저축 상황 따라 맞춤형 조언 - 팍스경제TV",
@@ -6034,58 +6086,6 @@
      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BSlJrOGZ5VG04TG4yaUVxQ3NBWlRRbF90eTVNTWFPenF6b3BhOVlnOFJTSzJlTk5FWVp2bnFVYklWdEVtWFExR1Z4RllmZEZsZUhpdWJCNk5sZ0oxOWR2dFZHRTNsZjVnMjFJMXZNYw?oc=5",
      "source": "뉴스퀘스트",
      "date": "2026-09-28"
-    }
-   ],
-   "in_disclosure": false
-  },
-  {
-   "bank": "신한은행",
-   "name": "신한 운동화 적금",
-   "norm": "신한운동화적금",
-   "rate": null,
-   "first_news": "2026-09-22",
-   "count": 1,
-   "articles": [
-    {
-     "title": "신한은행, ‘신한 운동화 적금’ 출시 - metroseoul.co.kr",
-     "link": "https://news.google.com/rss/articles/CBMimwdBVV95cUxOdUxNNFBQMnVWRzNDRTlpXzRkOElYbDBFa291WnQ2UE85ZzZzWTVudFpqSUVFT1VwXzFoaUdWQWc1R1NDcWh0ZWVRN0F4TU5WV2VOdTdwbWVwTFo4bnJtamdLSTMwZFhwcFk3eEI1Q0dPcTVQRXJTc0VLQkxmamVSSlRGUS1LN2JDQk0wQU04dzlPdm9OMk9yNWhxS3RwQzJ0MXlyWmRGOGhiZXVVWUxnYWkzbnNYRzNnajFIbWpHd25DR3JJVWEtOXFGajZHOU8zQTc5akRuVE9GOVJHb3hEaXRCRTU5TWNCb0ZTR2cwZU5KYzBCdTAwMGE0THlHRklwQ2QxdlhkblFQTDlxNTY2SGR5M25pUngwdVVYWjlGbHh2X05reGhYWkpRdzNkMm05WGJacmpzbnpHeHZ4SndXOE9PaEhVdHJWSmk5eFY0UDdhQXREQkkxNldvQTA3d2x5Vk5YdVZrOUVpNTJTbFZSeVNPSTc0ckpYbDVMdGIxakZlQk8xblBGZmZMb2xqUGZhYy1nNTBaM0tWWldyYWh6a3J5TGhTWEZpZGVGS25sQS0wUTdJN3J2bFktQVVKazAwYjF3WFNXTFA4M0RrQ3pNblljVUZNUmhzTjNQZjlWajhBRW5CUlpIanNIUllFUWQ2MXc0MDBsbEhrU0NibVdqNDNPa0tTemMwRkZ2dzNFZnFQRHVjT0paWngtdFVPSVJjN2VvTE9Uc3RwWnlvOUtlMnYyc0dFT3dvcVpWeDZZSW9pQXcyQUNRMEwwRGMzellrR09wbFR3YWMyaWg5c3gtWGprRTV6MjFiQjdxUk5RNWFSOG1jaklRRVZwLVVmQmR6aEY3XzFrMnJGblItNjd1ZkhSYTJoVGo0WTd5NjdmeURtZl9TTXpSX3RQXzkxZUpHVU14UXVxVEVvb0Y0UkQtWDR3c0dYQnpuZS16c1dlY3JiNXVoOVRVVVFxbHhxZkloWm04eVFMM3Y5UHJoSjhhTlh0cDU1YXJwUFkwQ3NUUVFPQnV6a2k1M0h0VC01dkE2Yktnbk5KXzZvazZ5M1kxNHdqQTFiZGtSVVNIUzlzajFIQmxLcDBQUlVOYnRkbTBMUkZTcU0tN0lNRTRxMmFlYzRUbFc2MEhyc1hReFY1Njh2S0wwUF9heGk1aF9ka0QwLTUyaU9oODRjdUh6ZHktVC1tQ0ZGYnB4RkJ4MGtvMWNJZ1RhdUZpRG5pcw?oc=5",
-     "source": "metroseoul.co.kr",
-     "date": "2026-09-22"
-    }
-   ],
-   "in_disclosure": false
-  },
-  {
-   "bank": "하나은행",
-   "name": "연금통장적금",
-   "norm": "연금통장적금",
-   "rate": null,
-   "first_news": "2026-09-18",
-   "count": 4,
-   "articles": [
-    {
-     "title": "하나은행, 공적연금 전용 멤버십 출시…연금통장·적금·대출 한곳에 - 폴리뉴스 Polinews",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sN3l4NUlNWTVESXdPdjFFMllGZERibnUxLTdVbVlzS1U3MDFuS3FKWjQ4b3pzMXFPUE9sVmRydkdkZ2xSN01wemlDUDA4LWhLdFNZdEpRcEJwUGJYcnJBNS14cVNaaGppVThac1930gFyQVVfeXFMTWhPMmxrWXYzMmxXMzdpNnRrejFIUGhSSF9RU29SRUJhOEJqUUVfblliUE5fYVZqZFZIQnJQaC1fYjc1UGFteEF4OVJiU0REYUxnWGdwZ1ljUmNDNnhEeFpuNWZyMm80d2JxSGdhX2RPanln?oc=5",
-     "source": "폴리뉴스 Polinews",
-     "date": "2026-09-18"
-    },
-    {
-     "title": "하나은행, 공적연금 고객 전용 서비스 출시…통장·적금·대출 한곳에 - 비즈니스플러스",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOX3J0amFVOVBMU0VYMXNjSTFKVlRKU215RWFQbmROOTZPM1hXdW1oWXVGRl9XbXU4eHVZYk9xM3AtN3BVSktBbzdTVHRMekJUYl9DNExpcEtoV1huZWVIaUt2ay1OdWk4M3VjVXZNaw?oc=5",
-     "source": "비즈니스플러스",
-     "date": "2026-09-18"
-    },
-    {
-     "title": "하나은행, 공적연금 전용 멤버십 출시…연금통장·적금·대출 한곳에 - 폴리뉴스 Polinews",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oTzJsa1l2MzJsVzM3aTZ0a3oxSFBoUkhfUVNvUkVCYThCalFFX25ZYlBOX2FWamRWSEJyUGgtX2I3NVBhbXhBeDlSYlNERGFMZ1hncGdZY1JjQzZ4RHhabjVmcjJvNHdicUhnYV9kT2p5Z9IBckFVX3lxTE1oTzJsa1l2MzJsVzM3aTZ0a3oxSFBoUkhfUVNvUkVCYThCalFFX25ZYlBOX2FWamRWSEJyUGgtX2I3NVBhbXhBeDlSYlNERGFMZ1hncGdZY1JjQzZ4RHhabjVmcjJvNHdicUhnYV9kT2p5Zw?oc=5",
-     "source": "폴리뉴스 Polinews",
-     "date": "2026-09-18"
-    },
-    {
-     "title": "하나은행, 공적연금 전용 멤버십 출시...통장·적금·대출 한곳에 모았다 - 파이낸셜투데이",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRelRoMHZCNGRCbjRsR2pHQnhWeEpfWjVuSDdOaWhjNWtwTEtvdHpLcXRJZU5wUEpjcTJBdHpUVG1hZGlMLU5EeFJkVjFHY1BRdGktdExUQmpubHUwU25ZeDZBbUs1NUVUeVNr0gFuQVVfeXFMTWJ5aVhtZlc1bkFFeUV3LU1BWWY3OGRaUExsVk5IU1NtRWQwSGVscjdjOHJkd3BtSnQ2cGJKRGVYOGdwa2RDNWxqNXdic0lQYnVucFZGVmtjSU84T0RMV0hWcmlPRFJPRFlpM2p2ZWc?oc=5",
-     "source": "파이낸셜투데이",
-     "date": "2026-09-18"
     }
    ],
    "in_disclosure": false
