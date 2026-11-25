@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25 11:11",
+ "updated_at": "2026-11-25 21:31",
  "baseline": true,
  "baseline_date": "2026-07-10",
  "new_badge_days": 14,
@@ -1705,8 +1705,8 @@
      "save_trm": 12,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "자유적립식",
-     "intr_rate": 3.42,
-     "intr_rate2": 4.22
+     "intr_rate": 3.43,
+     "intr_rate2": 4.23
     },
     {
      "save_trm": 24,
@@ -1723,8 +1723,8 @@
      "intr_rate2": 3.5
     }
    ],
-   "best_rate": 4.22,
-   "best_base_rate": 3.42,
+   "best_rate": 4.23,
+   "best_base_rate": 3.43,
    "best_term": 12,
    "naver_url": "https://search.naver.com/search.naver?query=%EB%86%8D%ED%98%91%EC%9D%80%ED%96%89%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20NH%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%9B%94%EB%B3%B5%EB%A6%AC%EC%A0%81%EA%B8%88",
    "first_seen": "2026-07-10",
@@ -2994,15 +2994,15 @@
      "save_trm": 24,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.01,
-     "intr_rate2": 3.21
+     "intr_rate": 2.98,
+     "intr_rate2": 3.18
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "복리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.8,
-     "intr_rate2": 3.0
+     "intr_rate": 2.76,
+     "intr_rate2": 2.96
     }
    ],
    "best_rate": 3.47,
@@ -3030,22 +3030,22 @@
      "save_trm": 1,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.37,
-     "intr_rate2": 2.47
+     "intr_rate": 2.39,
+     "intr_rate2": 2.49
     },
     {
      "save_trm": 3,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.81,
-     "intr_rate2": 2.91
+     "intr_rate": 2.83,
+     "intr_rate2": 2.93
     },
     {
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.16,
-     "intr_rate2": 3.26
+     "intr_rate": 3.17,
+     "intr_rate2": 3.27
     },
     {
      "save_trm": 12,
@@ -3058,15 +3058,15 @@
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.91,
-     "intr_rate2": 3.11
+     "intr_rate": 2.88,
+     "intr_rate2": 3.08
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 2.7,
-     "intr_rate2": 2.9
+     "intr_rate": 2.66,
+     "intr_rate2": 2.86
     }
    ],
    "best_rate": 3.37,
@@ -3659,8 +3659,8 @@
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.56,
-     "intr_rate2": 3.56
+     "intr_rate": 3.57,
+     "intr_rate2": 3.57
     },
     {
      "save_trm": 12,
@@ -3673,19 +3673,19 @@
      "save_trm": 24,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.25,
-     "intr_rate2": 3.25
+     "intr_rate": 3.26,
+     "intr_rate2": 3.26
     },
     {
      "save_trm": 36,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.12,
-     "intr_rate2": 3.12
+     "intr_rate": 3.13,
+     "intr_rate2": 3.13
     }
    ],
-   "best_rate": 3.56,
-   "best_base_rate": 3.56,
+   "best_rate": 3.57,
+   "best_base_rate": 3.57,
    "best_term": 6,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85%EC%9D%80%ED%96%89%20IBK%EB%8D%94%EA%B5%B4%EB%A6%AC%EA%B8%B0%ED%86%B5%EC%9E%A5%28%EC%8B%A4%EC%84%B8%EA%B8%88%EB%A6%AC%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88%29",
    "first_seen": "2026-07-31",
@@ -3716,15 +3716,15 @@
      "save_trm": 3,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.21,
-     "intr_rate2": 3.21
+     "intr_rate": 3.23,
+     "intr_rate2": 3.23
     },
     {
      "save_trm": 6,
      "intr_rate_type_nm": "단리",
      "rsrv_type_nm": "",
-     "intr_rate": 3.61,
-     "intr_rate2": 3.61
+     "intr_rate": 3.62,
+     "intr_rate2": 3.62
     },
     {
      "save_trm": 12,
@@ -3734,8 +3734,8 @@
      "intr_rate2": 3.58
     }
    ],
-   "best_rate": 3.61,
-   "best_base_rate": 3.61,
+   "best_rate": 3.62,
+   "best_base_rate": 3.62,
    "best_term": 6,
    "naver_url": "https://search.naver.com/search.naver?query=%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85%EC%9D%80%ED%96%89%20IBK%EA%B5%B4%EB%A6%AC%EA%B8%B0%ED%86%B5%EC%9E%A5%28%EC%A0%95%EA%B8%B0%EC%98%88%EA%B8%88%29",
    "first_seen": "2026-07-31",
